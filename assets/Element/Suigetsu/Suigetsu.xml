@@ -139,7 +139,7 @@
             <eventName type="setSound">Audio/Effect/blade_damage.ogg</eventName>
             <frameName>Suigetsu_Skill01_04.png</frameName>
             <eventName type="setAttackBox">ct_hit</eventName>
-            <eventName type="setChargeB">128</eventName>
+            <eventName type="setChargeB">140</eventName>
             <frameName>Suigetsu_Skill01_04.png</frameName>
             <eventName type="setAttackBox">b_hit</eventName>
         </frame>
@@ -147,9 +147,9 @@
     <action value="skill02">
         <date>
             <dateName type="attackType">aAttack</dateName>
-            <dateName type="attackValue">0</dateName>
-            <dateName type="attackRangeX">0</dateName>
-            <dateName type="attackRangeY">0</dateName>
+            <dateName type="attackValue">480</dateName>
+            <dateName type="attackRangeX">128</dateName>
+            <dateName type="attackRangeY">16</dateName>
             <coldName type="coldDown">15</coldName>
         </date>
         <frame>
@@ -166,6 +166,7 @@
             <eventName type="setFlipped">10</eventName>
             <eventName type="setSound">Audio/Suigetsu/suigetsu_skill2.ogg</eventName>
             <frameName>Suigetsu_Skill02_02.png</frameName>
+            <eventName type="setAttackBox">ct_hit</eventName>
             <eventName type="setChargeB">-220</eventName>
             <frameName>Suigetsu_Skill02_03.png</frameName>
             <frameName>Suigetsu_Skill02_04.png</frameName>
@@ -201,8 +202,8 @@
     <action value="skill03">
         <date>
             <dateName type="attackType">aAttack</dateName>
-            <dateName type="attackValue">0</dateName>
-            <dateName type="attackRangeX">0</dateName>
+            <dateName type="attackValue">700</dateName>
+            <dateName type="attackRangeX">128</dateName>
             <dateName type="attackRangeY">25</dateName>
             <coldName type="coldDown">25</coldName>
         </date>
@@ -210,6 +211,7 @@
             <eventName type="setSound">Audio/Suigetsu/suigetsu_skill4.ogg</eventName>
             <eventName type="setFont">stp.png</eventName>
             <frameName>Suigetsu_Skill04_01.png</frameName>
+            <eventName type="setAttackBox">ct_hit</eventName>
             <frameName>Suigetsu_Skill04_02.png</frameName>
             <frameName>Suigetsu_Skill04_03.png</frameName>
             <frameName>Suigetsu_Skill04_04.png</frameName>
@@ -230,12 +232,13 @@
     <action value="skill04">
         <date>
             <dateName type="attackType">aAttack</dateName>
-            <dateName type="attackValue">300</dateName>
+            <dateName type="attackValue">500</dateName>
             <dateName type="attackRangeX">64</dateName>
             <dateName type="attackRangeY">64</dateName>
             <coldName type="coldDown">1</coldName>
         </date>
         <frame>
+            <eventName type="setAttackBox">o2_hit</eventName>
             <eventName type="setCommand">setCounter</eventName>
             <eventName type="setSound">Audio/Suigetsu/suigetsu_skill3_1.ogg</eventName>
             <frameName>Suigetsu_Skill05_07.png</frameName>
@@ -353,8 +356,8 @@
     <action value="skill05">
         <date>
             <dateName type="attackType">aAttack</dateName>
-            <dateName type="attackValue">460</dateName>
-            <dateName type="attackRangeX">64</dateName>
+            <dateName type="attackValue">760</dateName>
+            <dateName type="attackRangeX">128</dateName>
             <dateName type="attackRangeY">48</dateName>
             <coldName type="coldDown">1</coldName>
         </date>
@@ -367,6 +370,7 @@
             <eventName type="setCommand">setInvincible</eventName>
             <eventName type="setCommand">findTarget</eventName>
             <eventName type="setCommand">setTransport</eventName>
+            <eventName type="setAttackBox">ct_hit</eventName>
             <eventName type="setChargeB">-220</eventName>
             <frameName>Suigetsu_Skill05_05.png</frameName>
             <frameName>Suigetsu_Skill05_06.png</frameName>

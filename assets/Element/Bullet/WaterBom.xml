@@ -49,14 +49,15 @@
     <action value="nAttack">
       <date>
 	    <dateName type="attackType">aAttack</dateName>
-        <dateName type="attackValue">660</dateName>
+        <dateName type="attackValue">460</dateName>
         <dateName type="attackRangeX">48</dateName>
         <dateName type="attackRangeY">48</dateName>
         <coldName type="coldDown">0</coldName>
       </date>
       <frame>
         <frameName>WaterBom_Move_01.png</frameName>
-        <eventName type="setAttackBox">c_hit</eventName>
+        <eventName type="setAttackBox">b_hit</eventName>
+        <eventName type="setSound">Audio/Effect/water_effect.ogg</eventName>
         <eventName type="setFont">doka.png</eventName>
         <frameName>WaterBom_Move_02.png</frameName>
         <eventName type="setAttackBox">c_hit</eventName>

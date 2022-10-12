@@ -4,6 +4,19 @@
     <dict>
         <key>frames</key>
         <dict>
+            <key>all_use.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,0},{0,0}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{0,0}}</string>
+                <key>sourceSize</key>
+                <string>{0,0}</string>
+            </dict>
             <key>Bagua.png</key>
             <dict>
                 <key>frame</key>

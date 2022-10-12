@@ -7,7 +7,7 @@
             <key>Neji_AirHurt_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{131,590},{57,53}}</string>
+                <string>{{296,875},{57,53}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -17,10 +17,23 @@
                 <key>sourceSize</key>
                 <string>{57,53}</string>
             </dict>
+            <key>Neji_AirHurt_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{466,483},{41,72}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{41,72}}</string>
+                <key>sourceSize</key>
+                <string>{41,72}</string>
+            </dict>
             <key>Neji_Float_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{69,587},{60,58}}</string>
+                <string>{{358,762},{60,58}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -33,11 +46,11 @@
             <key>Neji_Float_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{833,329},{58,60}}</string>
+                <string>{{236,854},{58,60}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{58,60}}</string>
                 <key>sourceSize</key>
@@ -46,11 +59,11 @@
             <key>Neji_Float_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{510,269},{69,46}}</string>
+                <string>{{464,557},{69,46}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{69,46}}</string>
                 <key>sourceSize</key>
@@ -59,7 +72,7 @@
             <key>Neji_Hurt_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{147,421},{51,71}}</string>
+                <string>{{2,671},{51,71}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -72,7 +85,7 @@
             <key>Neji_Hurt_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{580,346},{50,64}}</string>
+                <string>{{446,92},{50,64}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -85,7 +98,7 @@
             <key>Neji_Idle_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{301,170},{47,75}}</string>
+                <string>{{167,540},{47,75}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -98,7 +111,7 @@
             <key>Neji_Idle_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{224,170},{48,75}}</string>
+                <string>{{387,591},{48,75}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -111,11 +124,11 @@
             <key>Neji_Idle_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{147,229},{49,74}}</string>
+                <string>{{461,688},{49,74}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{49,74}}</string>
                 <key>sourceSize</key>
@@ -124,7 +137,7 @@
             <key>Neji_Idle_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{224,220},{51,74}}</string>
+                <string>{{385,641},{51,74}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -137,7 +150,7 @@
             <key>Neji_KnockDown_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{984,2},{61,38}}</string>
+                <string>{{196,873},{61,38}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -150,7 +163,7 @@
             <key>Neji_KnockDown_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{223,273},{74,30}}</string>
+                <string>{{82,567},{74,30}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -163,7 +176,7 @@
             <key>Neji_KnockDown_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{633,167},{79,28}}</string>
+                <string>{{86,537},{79,28}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -176,7 +189,7 @@
             <key>Neji_KnockDown_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{436,411},{63,42}}</string>
+                <string>{{446,144},{63,42}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -189,11 +202,11 @@
             <key>Neji_KnockDown_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{954,353},{49,53}}</string>
+                <string>{{296,930},{49,53}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{49,53}}</string>
                 <key>sourceSize</key>
@@ -202,7 +215,7 @@
             <key>Neji_NAttack_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{621,197},{51,76}}</string>
+                <string>{{310,455},{51,76}}</string>
                 <key>offset</key>
                 <string>{0,-2}</string>
                 <key>rotated</key>
@@ -215,11 +228,11 @@
             <key>Neji_NAttack_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{973,142},{49,75}}</string>
+                <string>{{310,567},{49,75}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,2},{49,75}}</string>
                 <key>sourceSize</key>
@@ -228,7 +241,7 @@
             <key>Neji_NAttack_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{75,463},{65,70}}</string>
+                <string>{{75,728},{65,70}}</string>
                 <key>offset</key>
                 <string>{0,-2}</string>
                 <key>rotated</key>
@@ -241,7 +254,7 @@
             <key>Neji_NAttack_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{437,251},{65,71}}</string>
+                <string>{{155,661},{65,71}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -254,7 +267,7 @@
             <key>Neji_NAttack_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{512,202},{65,71}}</string>
+                <string>{{231,647},{65,71}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -267,7 +280,7 @@
             <key>Neji_NAttack_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,207},{54,75}}</string>
+                <string>{{387,535},{54,75}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -280,7 +293,7 @@
             <key>Neji_NAttack_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{147,170},{57,75}}</string>
+                <string>{{310,508},{57,75}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -293,7 +306,7 @@
             <key>Neji_NAttack_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{222,305},{70,71}}</string>
+                <string>{{158,589},{70,71}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -306,11 +319,11 @@
             <key>Neji_NAttack_09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{961,219},{61,71}}</string>
+                <string>{{2,608},{61,71}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{61,71}}</string>
                 <key>sourceSize</key>
@@ -319,7 +332,7 @@
             <key>Neji_NAttack_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{295,346},{60,71}}</string>
+                <string>{{75,666},{60,71}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -332,11 +345,11 @@
             <key>Neji_NAttack_11.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{437,199},{50,73}}</string>
+                <string>{{258,446},{50,73}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{50,73}}</string>
                 <key>sourceSize</key>
@@ -345,7 +358,7 @@
             <key>Neji_NAttack_12.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{373,299},{62,69}}</string>
+                <string>{{244,576},{62,69}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -358,7 +371,7 @@
             <key>Neji_NAttack_13.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{644,61},{81,61}}</string>
+                <string>{{310,392},{81,61}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -371,7 +384,7 @@
             <key>Neji_NAttack_14.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,412},{71,65}}</string>
+                <string>{{82,599},{71,65}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -384,7 +397,7 @@
             <key>Neji_NAttack_15.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,479},{65,69}}</string>
+                <string>{{2,759},{65,69}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -397,7 +410,7 @@
             <key>Neji_Skill01_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{699,227},{31,76}}</string>
+                <string>{{388,471},{31,76}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -410,7 +423,7 @@
             <key>Neji_Skill01_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{777,250},{29,76}}</string>
+                <string>{{388,504},{29,76}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -423,11 +436,11 @@
             <key>Neji_Skill01_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{984,65},{32,75}}</string>
+                <string>{{308,618},{32,75}}</string>
                 <key>offset</key>
                 <string>{3,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{20,0},{32,75}}</string>
                 <key>sourceSize</key>
@@ -436,7 +449,7 @@
             <key>Neji_Skill01_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{727,123},{52,80}}</string>
+                <string>{{174,486},{52,80}}</string>
                 <key>offset</key>
                 <string>{2,0}</string>
                 <key>rotated</key>
@@ -449,7 +462,7 @@
             <key>Neji_Skill01_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{325,110},{58,85}}</string>
+                <string>{{186,373},{58,85}}</string>
                 <key>offset</key>
                 <string>{1,0}</string>
                 <key>rotated</key>
@@ -462,7 +475,7 @@
             <key>Neji_Skill01_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{437,2},{66,104}}</string>
+                <string>{{343,2},{66,104}}</string>
                 <key>offset</key>
                 <string>{0,-3}</string>
                 <key>rotated</key>
@@ -472,23 +485,10 @@
                 <key>sourceSize</key>
                 <string>{66,110}</string>
             </dict>
-            <key>Neji_Skill02_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{723,177},{48,78}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{48,78}}</string>
-                <key>sourceSize</key>
-                <string>{48,78}</string>
-            </dict>
             <key>Neji_Skill02_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{581,304},{40,69}}</string>
+                <string>{{147,728},{40,69}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -501,46 +501,46 @@
             <key>Neji_Skill02_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{437,367},{42,68}}</string>
+                <string>{{2,538},{78,68}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,-3}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{42,68}}</string>
+                <string>{{4,6},{78,68}}</string>
                 <key>sourceSize</key>
-                <string>{42,68}</string>
+                <string>{88,74}</string>
             </dict>
             <key>Neji_Skill02_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{299,279},{72,65}}</string>
+                <string>{{116,2},{112,65}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{0,-8}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{72,65}}</string>
+                <string>{{0,16},{112,65}}</string>
                 <key>sourceSize</key>
-                <string>{72,65}</string>
+                <string>{112,81}</string>
             </dict>
             <key>Neji_Skill02_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{882,197},{77,65}}</string>
+                <string>{{2,2},{112,66}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{0,-4}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{77,65}}</string>
+                <string>{{0,8},{112,66}}</string>
                 <key>sourceSize</key>
-                <string>{77,65}</string>
+                <string>{112,74}</string>
             </dict>
             <key>Neji_Skill02_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{641,124},{41,79}}</string>
+                <string>{{86,494},{41,79}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -553,76 +553,50 @@
             <key>Neji_Skill02_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{501,431},{57,59}}</string>
+                <string>{{393,410},{78,59}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{3,-5}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{57,59}}</string>
+                <string>{{12,10},{78,59}}</string>
                 <key>sourceSize</key>
-                <string>{57,59}</string>
+                <string>{96,69}</string>
             </dict>
             <key>Neji_Skill02_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{803,180},{77,68}}</string>
+                <string>{{2,70},{111,84}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{9,-3}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{77,68}}</string>
+                <string>{{19,6},{111,84}}</string>
                 <key>sourceSize</key>
-                <string>{77,68}</string>
+                <string>{131,90}</string>
             </dict>
             <key>Neji_Skill02_09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{437,129},{76,68}}</string>
+                <string>{{2,156},{107,83}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{7,-2}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{76,68}}</string>
+                <string>{{19,4},{107,83}}</string>
                 <key>sourceSize</key>
-                <string>{76,68}</string>
-            </dict>
-            <key>Neji_Skill02_10.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,479},{65,69}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{65,69}}</string>
-                <key>sourceSize</key>
-                <string>{65,69}</string>
-            </dict>
-            <key>Neji_Skill03_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,263},{51,75}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{51,75}}</string>
-                <key>sourceSize</key>
-                <string>{51,75}</string>
+                <string>{131,87}</string>
             </dict>
             <key>Neji_Skill03_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{288,461},{51,62}}</string>
+                <string>{{192,940},{51,62}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{51,62}}</string>
                 <key>sourceSize</key>
@@ -631,7 +605,7 @@
             <key>Neji_Skill03_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{765,332},{60,56}}</string>
+                <string>{{420,764},{60,56}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -644,128 +618,128 @@
             <key>Neji_Skill03_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{727,61},{81,60}}</string>
+                <string>{{411,348},{96,60}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{2,-5}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{81,60}}</string>
+                <string>{{10,10},{96,60}}</string>
                 <key>sourceSize</key>
-                <string>{81,60}</string>
+                <string>{112,70}</string>
             </dict>
             <key>Neji_Skill03_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{220,377},{71,59}}</string>
+                <string>{{2,476},{82,60}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{0,-6}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{71,59}}</string>
+                <string>{{15,12},{82,60}}</string>
                 <key>sourceSize</key>
-                <string>{71,59}</string>
+                <string>{112,72}</string>
             </dict>
             <key>Neji_Skill03_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{147,110},{88,58}}</string>
+                <string>{{200,312},{90,59}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{7,-3}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{88,58}}</string>
+                <string>{{18,6},{90,59}}</string>
                 <key>sourceSize</key>
-                <string>{88,58}</string>
+                <string>{112,65}</string>
             </dict>
             <key>Neji_Skill03_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{437,70},{89,57}}</string>
+                <string>{{213,178},{100,59}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{6,-4}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{89,57}}</string>
+                <string>{{12,8},{100,59}}</string>
                 <key>sourceSize</key>
-                <string>{89,57}</string>
+                <string>{112,67}</string>
             </dict>
             <key>Neji_Skill03_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{810,118},{80,60}}</string>
+                <string>{{449,2},{88,61}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{4,-3}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{80,60}}</string>
+                <string>{{16,6},{88,61}}</string>
                 <key>sourceSize</key>
-                <string>{80,60}</string>
+                <string>{112,67}</string>
             </dict>
             <key>Neji_Skill03_09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{644,2},{85,57}}</string>
+                <string>{{96,373},{88,57}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{9,-4}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{85,57}}</string>
+                <string>{{21,8},{88,57}}</string>
                 <key>sourceSize</key>
-                <string>{85,57}</string>
+                <string>{112,65}</string>
             </dict>
             <key>Neji_Skill03_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{731,2},{84,57}}</string>
+                <string>{{102,312},{96,59}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{5,-3}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{84,57}}</string>
+                <string>{{13,6},{96,59}}</string>
                 <key>sourceSize</key>
-                <string>{84,57}</string>
+                <string>{112,65}</string>
             </dict>
             <key>Neji_Skill03_11.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{543,83},{79,60}}</string>
+                <string>{{2,413},{86,61}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{7,-2}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{79,60}}</string>
+                <string>{{20,4},{86,61}}</string>
                 <key>sourceSize</key>
-                <string>{79,60}</string>
+                <string>{112,65}</string>
             </dict>
             <key>Neji_Skill03_12.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{892,135},{79,60}}</string>
+                <string>{{90,432},{82,60}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{8,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{79,60}}</string>
+                <string>{{23,0},{82,60}}</string>
                 <key>sourceSize</key>
-                <string>{79,60}</string>
+                <string>{112,60}</string>
             </dict>
             <key>Neji_Skill03_13.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{646,374},{50,58}}</string>
+                <string>{{296,823},{50,58}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{50,58}}</string>
                 <key>sourceSize</key>
@@ -774,37 +748,24 @@
             <key>Neji_Skill03_14.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{656,250},{41,62}}</string>
+                <string>{{132,897},{41,62}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{41,62}}</string>
                 <key>sourceSize</key>
                 <string>{41,62}</string>
             </dict>
-            <key>Neji_Skill04_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,263},{51,75}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{51,75}}</string>
-                <key>sourceSize</key>
-                <string>{51,75}</string>
-            </dict>
             <key>Neji_Skill04_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{361,426},{51,62}}</string>
+                <string>{{139,940},{51,62}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{51,62}}</string>
                 <key>sourceSize</key>
@@ -813,7 +774,7 @@
             <key>Neji_Skill04_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{765,332},{60,56}}</string>
+                <string>{{420,764},{60,56}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -826,371 +787,176 @@
             <key>Neji_Skill04_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{855,264},{63,75}}</string>
+                <string>{{111,156},{0,0}}</string>
                 <key>offset</key>
-                <string>{-9,0}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{54,0},{63,75}}</string>
+                <string>{{0,0},{0,0}}</string>
                 <key>sourceSize</key>
-                <string>{189,75}</string>
+                <string>{185,112}</string>
             </dict>
             <key>Neji_Skill04_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{147,280},{73,68}}</string>
+                <string>{{73,795},{47,68}}</string>
                 <key>offset</key>
-                <string>{-6,0}</string>
+                <string>{0,-22}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{52,0},{73,68}}</string>
+                <string>{{69,44},{47,68}}</string>
                 <key>sourceSize</key>
-                <string>{189,68}</string>
+                <string>{185,112}</string>
             </dict>
             <key>Neji_Skill04_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{543,2},{99,79}}</string>
+                <string>{{245,916},{49,60}}</string>
                 <key>offset</key>
-                <string>{-2,0}</string>
+                <string>{0,-26}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{43,0},{99,79}}</string>
+                <string>{{68,52},{49,60}}</string>
                 <key>sourceSize</key>
-                <string>{189,79}</string>
+                <string>{185,112}</string>
             </dict>
             <key>Neji_Skill04_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{298,2},{137,106}}</string>
+                <string>{{70,897},{47,60}}</string>
                 <key>offset</key>
-                <string>{-7,0}</string>
+                <string>{-1,-26}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{68,52},{47,60}}</string>
+                <key>sourceSize</key>
+                <string>{185,112}</string>
+            </dict>
+            <key>Neji_Skill05_001.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{358,822},{51,58}}</string>
+                <key>offset</key>
+                <string>{-2,-29}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{32,59},{51,58}}</string>
+                <key>sourceSize</key>
+                <string>{119,118}</string>
+            </dict>
+            <key>Neji_Skill05_002.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{174,433},{51,82}}</string>
+                <key>offset</key>
+                <string>{5,-7}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{39,25},{51,82}}</string>
+                <key>sourceSize</key>
+                <string>{119,118}</string>
+            </dict>
+            <key>Neji_Skill05_003.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{343,70},{101,96}}</string>
+                <key>offset</key>
+                <string>{-6,7}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{137,106}}</string>
+                <string>{{3,4},{101,96}}</string>
                 <key>sourceSize</key>
-                <string>{151,106}</string>
+                <string>{119,118}</string>
             </dict>
-            <key>Neji_Skill04_08.png</key>
+            <key>Neji_Skill05_004.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,99},{143,106}}</string>
+                <string>{{312,310},{97,80}}</string>
                 <key>offset</key>
-                <string>{-4,0}</string>
+                <string>{0,8}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{143,106}}</string>
+                <string>{{11,11},{97,80}}</string>
                 <key>sourceSize</key>
-                <string>{151,106}</string>
+                <string>{119,118}</string>
             </dict>
-            <key>Neji_Skill04_09.png</key>
+            <key>Neji_Skill05_005.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{149,95}}</string>
+                <string>{{116,69},{111,88}}</string>
                 <key>offset</key>
-                <string>{1,0}</string>
+                <string>{2,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{2,0},{149,95}}</string>
+                <string>{{6,15},{111,88}}</string>
                 <key>sourceSize</key>
-                <string>{151,95}</string>
+                <string>{119,118}</string>
             </dict>
-            <key>Neji_Skill04_10.png</key>
+            <key>Neji_Skill05_006.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{153,2},{143,106}}</string>
+                <string>{{230,2},{111,92}}</string>
                 <key>offset</key>
-                <string>{-2,0}</string>
+                <string>{2,-13}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{2,0},{143,106}}</string>
+                <string>{{6,26},{111,92}}</string>
                 <key>sourceSize</key>
-                <string>{151,106}</string>
+                <string>{119,118}</string>
             </dict>
-            <key>Neji_Skill04_11.png</key>
+            <key>Neji_Skill05_007.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{437,318},{47,68}}</string>
+                <string>{{111,228},{99,82}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{47,68}}</string>
-                <key>sourceSize</key>
-                <string>{47,68}</string>
-            </dict>
-            <key>Neji_Skill04_12.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{425,455},{48,59}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{48,59}}</string>
-                <key>sourceSize</key>
-                <string>{48,59}</string>
-            </dict>
-            <key>Neji_Skill04_13.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{352,479},{47,59}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{47,59}}</string>
-                <key>sourceSize</key>
-                <string>{47,59}</string>
-            </dict>
-            <key>Neji_Skill04_14.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{278,514},{46,59}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{46,59}}</string>
-                <key>sourceSize</key>
-                <string>{46,59}</string>
-            </dict>
-            <key>Neji_Skill05_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{641,124},{41,79}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{41,79}}</string>
-                <key>sourceSize</key>
-                <string>{41,79}</string>
-            </dict>
-            <key>Neji_Skill05_02.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{723,177},{48,78}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{48,78}}</string>
-                <key>sourceSize</key>
-                <string>{48,78}</string>
-            </dict>
-            <key>Neji_Skill05_03.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{288,461},{51,62}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{51,62}}</string>
-                <key>sourceSize</key>
-                <string>{51,62}</string>
-            </dict>
-            <key>Neji_Skill05_04.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{378,170},{57,63}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,-18}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{57,63}}</string>
+                <string>{{9,36},{99,82}}</string>
                 <key>sourceSize</key>
-                <string>{57,63}</string>
+                <string>{119,118}</string>
             </dict>
-            <key>Neji_Skill05_05.png</key>
+            <key>Neji_Skill05_008.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{147,474},{59,65}}</string>
+                <string>{{415,276},{95,70}}</string>
                 <key>offset</key>
-                <string>{-2,0}</string>
+                <string>{-1,-24}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{59,65}}</string>
+                <string>{{11,48},{95,70}}</string>
                 <key>sourceSize</key>
-                <string>{63,65}</string>
-            </dict>
-            <key>Neji_Skill05_06.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{78,342},{48,67}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{48,67}}</string>
-                <key>sourceSize</key>
-                <string>{48,67}</string>
-            </dict>
-            <key>Neji_Skill05_07.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{510,317},{49,68}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{49,68}}</string>
-                <key>sourceSize</key>
-                <string>{49,68}</string>
-            </dict>
-            <key>Neji_Skill05_08.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,316},{42,74}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{42,74}}</string>
-                <key>sourceSize</key>
-                <string>{42,74}</string>
-            </dict>
-            <key>Neji_Skill05_09.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{543,145},{55,76}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{55,76}}</string>
-                <key>sourceSize</key>
-                <string>{55,76}</string>
-            </dict>
-            <key>Neji_Skill05_10.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{900,68},{65,80}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{65,80}}</string>
-                <key>sourceSize</key>
-                <string>{65,80}</string>
-            </dict>
-            <key>Neji_Skill05_11.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{73,530},{55,65}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{55,65}}</string>
-                <key>sourceSize</key>
-                <string>{55,65}</string>
-            </dict>
-            <key>Neji_Skill05_12.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,546},{51,65}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{51,65}}</string>
-                <key>sourceSize</key>
-                <string>{51,65}</string>
+                <string>{119,118}</string>
             </dict>
             <key>Neji_Skill05_13.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{656,250},{41,62}}</string>
+                <string>{{132,897},{41,62}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{41,62}}</string>
                 <key>sourceSize</key>
                 <string>{41,62}</string>
             </dict>
-            <key>Neji_Skill05_14.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{214,490},{49,62}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{49,62}}</string>
-                <key>sourceSize</key>
-                <string>{49,62}</string>
-            </dict>
-            <key>Neji_Skill05_15.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{699,366},{44,60}}</string>
-                <key>offset</key>
-                <string>{0,-1}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,2},{44,60}}</string>
-                <key>sourceSize</key>
-                <string>{44,62}</string>
-            </dict>
-            <key>Neji_Skill05_16.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{377,235},{58,62}}</string>
-                <key>offset</key>
-                <string>{0,-1}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,2},{58,62}}</string>
-                <key>sourceSize</key>
-                <string>{58,64}</string>
-            </dict>
-            <key>Neji_Skill05_17.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{507,368},{63,61}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{63,61}}</string>
-                <key>sourceSize</key>
-                <string>{63,61}</string>
-            </dict>
             <key>Neji_Skill05_18.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{652,314},{45,58}}</string>
+                <string>{{464,628},{45,58}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1203,7 +969,7 @@
             <key>Neji_Skill05_19.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{203,541},{54,57}}</string>
+                <string>{{418,822},{54,57}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1216,284 +982,167 @@
             <key>Neji_Skill05_20.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{237,110},{86,58}}</string>
+                <string>{{111,159},{100,67}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{11,-1}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{86,58}}</string>
+                <string>{{23,2},{100,67}}</string>
                 <key>sourceSize</key>
-                <string>{86,58}</string>
+                <string>{124,69}</string>
             </dict>
             <key>Neji_Skill05_21.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{301,219},{74,58}}</string>
+                <string>{{212,239},{98,71}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{13,-3}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{74,58}}</string>
+                <string>{{26,6},{98,71}}</string>
                 <key>sourceSize</key>
-                <string>{74,58}</string>
+                <string>{124,77}</string>
             </dict>
             <key>Neji_Skill05_22.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{817,2},{82,59}}</string>
+                <string>{{331,168},{100,67}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{11,-2}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{82,59}}</string>
+                <string>{{23,4},{100,67}}</string>
                 <key>sourceSize</key>
-                <string>{82,59}</string>
+                <string>{124,71}</string>
             </dict>
             <key>Neji_Skill05_23.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{932,292},{75,59}}</string>
+                <string>{{315,237},{98,71}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{13,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{75,59}}</string>
+                <string>{{26,0},{98,71}}</string>
                 <key>sourceSize</key>
-                <string>{75,59}</string>
-            </dict>
-            <key>Neji_Skill05_24.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{368,370},{54,66}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{54,66}}</string>
-                <key>sourceSize</key>
-                <string>{54,66}</string>
-            </dict>
-            <key>Neji_Skill05_25.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,360},{50,73}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{50,73}}</string>
-                <key>sourceSize</key>
-                <string>{50,73}</string>
-            </dict>
-            <key>Neji_Skill05_27.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{572,398},{57,59}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{57,59}}</string>
-                <key>sourceSize</key>
-                <string>{57,59}</string>
-            </dict>
-            <key>Neji_Skill05_28.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{140,535},{53,61}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{53,61}}</string>
-                <key>sourceSize</key>
-                <string>{53,61}</string>
-            </dict>
-            <key>Neji_Skill05_29.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,599},{58,60}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{58,60}}</string>
-                <key>sourceSize</key>
-                <string>{58,60}</string>
-            </dict>
-            <key>Neji_Skill05_30.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{699,311},{53,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{53,64}}</string>
-                <key>sourceSize</key>
-                <string>{53,64}</string>
-            </dict>
-            <key>Neji_Skill05_31.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{761,390},{53,57}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{53,57}}</string>
-                <key>sourceSize</key>
-                <string>{53,57}</string>
-            </dict>
-            <key>Neji_Skill05_32.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{827,389},{53,57}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{53,57}}</string>
-                <key>sourceSize</key>
-                <string>{53,57}</string>
-            </dict>
-            <key>Neji_Skill05_33.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{895,353},{53,57}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{53,57}}</string>
-                <key>sourceSize</key>
-                <string>{53,57}</string>
+                <string>{124,71}</string>
             </dict>
             <key>Neji_Skill05_34.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{147,350},{71,69}}</string>
+                <string>{{2,241},{98,87}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,-2}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{71,69}}</string>
+                <string>{{0,4},{98,87}}</string>
                 <key>sourceSize</key>
-                <string>{71,69}</string>
+                <string>{100,91}</string>
             </dict>
             <key>Neji_Skill05_35.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{77,392},{68,69}}</string>
+                <string>{{229,96},{100,80}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{68,69}}</string>
+                <string>{{0,0},{100,80}}</string>
                 <key>sourceSize</key>
-                <string>{68,69}</string>
+                <string>{100,80}</string>
             </dict>
             <key>Neji_Skill05_36.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{901,2},{64,81}}</string>
+                <string>{{2,330},{92,81}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,-2}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,81}}</string>
+                <string>{{3,4},{92,81}}</string>
                 <key>sourceSize</key>
-                <string>{64,81}</string>
+                <string>{100,85}</string>
             </dict>
             <key>Neji_Skill05_37.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{817,63},{53,81}}</string>
+                <string>{{433,188},{86,77}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-2,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{53,81}}</string>
+                <string>{{5,0},{86,77}}</string>
                 <key>sourceSize</key>
-                <string>{53,81}</string>
-            </dict>
-            <key>Neji_Skill05_38.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{585,250},{52,69}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{52,69}}</string>
-                <key>sourceSize</key>
-                <string>{52,69}</string>
-            </dict>
-            <key>Neji_Skill05_39.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{723,177},{48,78}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{48,78}}</string>
-                <key>sourceSize</key>
-                <string>{48,78}</string>
+                <string>{100,77}</string>
             </dict>
             <key>Neji_Skill05_40.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{79,207},{66,66}}</string>
+                <string>{{289,755},{66,67}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{1,-13}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{66,66}}</string>
+                <string>{{41,26},{66,67}}</string>
                 <key>sourceSize</key>
-                <string>{66,66}</string>
+                <string>{146,93}</string>
             </dict>
             <key>Neji_Skill05_41.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{79,275},{65,66}}</string>
+                <string>{{2,826},{66,67}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{1,-16}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{65,66}}</string>
+                <string>{{41,32},{66,67}}</string>
                 <key>sourceSize</key>
-                <string>{65,66}</string>
+                <string>{146,99}</string>
+            </dict>
+            <key>Neji_Skill05_42.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{143,805},{66,66}}</string>
+                <key>offset</key>
+                <string>{1,-17}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{41,34},{66,66}}</string>
+                <key>sourceSize</key>
+                <string>{146,100}</string>
+            </dict>
+            <key>Neji_Skill05_43.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{218,786},{66,66}}</string>
+                <key>offset</key>
+                <string>{1,-20}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{41,40},{66,66}}</string>
+                <key>sourceSize</key>
+                <string>{146,106}</string>
             </dict>
             <key>Neji_Walk_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{766,281},{65,49}}</string>
+                <string>{{53,946},{65,49}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{65,49}}</string>
                 <key>sourceSize</key>
@@ -1502,7 +1151,7 @@
             <key>Neji_Walk_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{293,408},{66,51}}</string>
+                <string>{{71,844},{66,51}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1515,11 +1164,11 @@
             <key>Neji_Walk_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{633,434},{53,52}}</string>
+                <string>{{256,521},{53,52}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{53,52}}</string>
                 <key>sourceSize</key>
@@ -1528,11 +1177,11 @@
             <key>Neji_Walk_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{699,260},{65,49}}</string>
+                <string>{{2,946},{65,49}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{65,49}}</string>
                 <key>sourceSize</key>
@@ -1541,7 +1190,7 @@
             <key>Neji_Walk_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{220,438},{66,50}}</string>
+                <string>{{2,894},{66,50}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1554,7 +1203,7 @@
             <key>Neji_Walk_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{698,412},{54,49}}</string>
+                <string>{{355,875},{54,49}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1567,132 +1216,158 @@
             <key>hsBuff_Effect_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{624,141},{26,7}}</string>
+                <string>{{374,729},{71,31}}</string>
                 <key>offset</key>
-                <string>{0,-15}</string>
+                <string>{0,1}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,30},{26,7}}</string>
+                <string>{{0,1},{71,31}}</string>
                 <key>sourceSize</key>
-                <string>{26,37}</string>
+                <string>{71,35}</string>
             </dict>
             <key>hsBuff_Effect_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{528,70},{28,13}}</string>
+                <string>{{104,946},{65,33}}</string>
                 <key>offset</key>
-                <string>{0,-12}</string>
+                <string>{-3,-1}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,24},{28,13}}</string>
+                <string>{{0,2},{65,33}}</string>
                 <key>sourceSize</key>
-                <string>{28,37}</string>
+                <string>{71,35}</string>
             </dict>
             <key>hsBuff_Effect_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{528,100},{27,11}}</string>
+                <string>{{377,694},{71,33}}</string>
                 <key>offset</key>
-                <string>{0,-13}</string>
+                <string>{0,-1}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,26},{27,11}}</string>
+                <string>{{0,2},{71,33}}</string>
                 <key>sourceSize</key>
-                <string>{27,37}</string>
+                <string>{71,35}</string>
             </dict>
             <key>hsBuff_Effect_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{412,139},{28,19}}</string>
+                <string>{{228,714},{71,33}}</string>
                 <key>offset</key>
-                <string>{0,-9}</string>
+                <string>{0,-1}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,18},{28,19}}</string>
+                <string>{{0,2},{71,33}}</string>
                 <key>sourceSize</key>
-                <string>{28,37}</string>
+                <string>{71,35}</string>
             </dict>
             <key>hsBuff_Effect_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{624,83},{28,15}}</string>
+                <string>{{304,687},{71,33}}</string>
                 <key>offset</key>
-                <string>{0,-11}</string>
+                <string>{0,1}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,22},{28,15}}</string>
+                <string>{{0,0},{71,33}}</string>
                 <key>sourceSize</key>
-                <string>{28,37}</string>
+                <string>{71,35}</string>
             </dict>
             <key>hsBuff_Effect_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{624,113},{26,15}}</string>
+                <string>{{473,410},{71,35}}</string>
                 <key>offset</key>
-                <string>{0,-11}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,22},{26,15}}</string>
+                <string>{{0,0},{71,35}}</string>
                 <key>sourceSize</key>
-                <string>{26,37}</string>
+                <string>{71,35}</string>
             </dict>
             <key>hsBuff_Effect_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{412,110},{27,23}}</string>
+                <string>{{218,749},{69,35}}</string>
                 <key>offset</key>
-                <string>{0,-7}</string>
+                <string>{-1,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,14},{27,23}}</string>
+                <string>{{0,0},{69,35}}</string>
                 <key>sourceSize</key>
-                <string>{27,37}</string>
+                <string>{71,35}</string>
             </dict>
             <key>hsBuff_Effect_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{515,129},{26,19}}</string>
+                <string>{{273,373},{71,35}}</string>
                 <key>offset</key>
-                <string>{0,-2}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,11},{26,19}}</string>
+                <string>{{0,0},{71,35}}</string>
                 <key>sourceSize</key>
-                <string>{26,37}</string>
+                <string>{71,35}</string>
             </dict>
             <key>hsBuff_Effect_09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{714,167},{22,7}}</string>
+                <string>{{147,770},{69,33}}</string>
                 <key>offset</key>
-                <string>{0,10}</string>
+                <string>{1,-1}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,5},{22,7}}</string>
+                <string>{{2,2},{69,33}}</string>
                 <key>sourceSize</key>
-                <string>{22,37}</string>
+                <string>{71,35}</string>
             </dict>
             <key>hsBuff_Effect_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{810,61},{20,5}}</string>
+                <string>{{304,652},{71,33}}</string>
                 <key>offset</key>
-                <string>{0,13}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,3},{20,5}}</string>
+                <string>{{0,1},{71,33}}</string>
                 <key>sourceSize</key>
-                <string>{20,37}</string>
+                <string>{71,35}</string>
+            </dict>
+            <key>hsBuff_Effect_11.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,724},{71,33}}</string>
+                <key>offset</key>
+                <string>{0,1}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{71,33}}</string>
+                <key>sourceSize</key>
+                <string>{71,35}</string>
+            </dict>
+            <key>hsBuff_Effect_12.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{301,722},{71,31}}</string>
+                <key>offset</key>
+                <string>{0,1}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,1},{71,31}}</string>
+                <key>sourceSize</key>
+                <string>{71,35}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -1702,9 +1377,9 @@
             <key>realTextureFileName</key>
             <string>Neji.png</string>
             <key>size</key>
-            <string>{1024,1024}</string>
+            <string>{512,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:6b53f42fe5ffea3fb0c5100bc9a7e259$</string>
+            <string>$TexturePacker:SmartUpdate:c7685e42448acf19014134d431f8c444$</string>
             <key>textureFileName</key>
             <string>Neji.png</string>
         </dict>

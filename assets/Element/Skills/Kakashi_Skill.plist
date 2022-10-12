@@ -121,7 +121,7 @@
                 <key>sourceSize</key>
                 <string>{25,24}</string>
             </dict>
-            <key>Shenwei_Move_01.png</key>
+            <key>Shenwei_Move_001.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{162,32},{74,78}}</string>
@@ -134,7 +134,7 @@
                 <key>sourceSize</key>
                 <string>{94,100}</string>
             </dict>
-            <key>Shenwei_Move_02.png</key>
+            <key>Shenwei_Move_002.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{2,2},{94,100}}</string>
@@ -147,7 +147,7 @@
                 <key>sourceSize</key>
                 <string>{94,100}</string>
             </dict>
-            <key>Shenwei_Move_03.png</key>
+            <key>Shenwei_Move_003.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{2,104},{86,80}}</string>
@@ -160,7 +160,7 @@
                 <key>sourceSize</key>
                 <string>{94,100}</string>
             </dict>
-            <key>Shenwei_Move_04.png</key>
+            <key>Shenwei_Move_004.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{118,2},{34,38}}</string>
@@ -173,7 +173,7 @@
                 <key>sourceSize</key>
                 <string>{94,100}</string>
             </dict>
-            <key>Shenwei_Move_05.png</key>
+            <key>Shenwei_Move_005.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{111,232},{22,22}}</string>
@@ -186,7 +186,7 @@
                 <key>sourceSize</key>
                 <string>{94,100}</string>
             </dict>
-            <key>Shenwei_Move_06.png</key>
+            <key>Shenwei_Move_006.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{31,233},{12,12}}</string>

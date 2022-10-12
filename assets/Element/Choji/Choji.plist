@@ -7,20 +7,124 @@
             <key>Choji_AirHurt_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{642,274},{66,87}}</string>
+                <string>{{666,174},{66,87}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{66,87}}</string>
                 <key>sourceSize</key>
                 <string>{66,87}</string>
             </dict>
+            <key>Choji_AirHurt_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{552,0},{49,84}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{49,84}}</string>
+                <key>sourceSize</key>
+                <string>{49,84}</string>
+            </dict>
+            <key>Choji_Beihua_Zhanche_00.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{453,483},{108,106}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{108,106}}</string>
+                <key>sourceSize</key>
+                <string>{108,106}</string>
+            </dict>
+            <key>Choji_Beihua_Zhanche_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{654,707},{220,130}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{220,130}}</string>
+                <key>sourceSize</key>
+                <string>{220,130}</string>
+            </dict>
+            <key>Choji_Beihua_Zhanche_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,790},{224,130}}</string>
+                <key>offset</key>
+                <string>{-2,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{11,0},{224,130}}</string>
+                <key>sourceSize</key>
+                <string>{250,130}</string>
+            </dict>
+            <key>Choji_Beihua_Zhanche_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{224,815},{228,130}}</string>
+                <key>offset</key>
+                <string>{-3,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{8,0},{228,130}}</string>
+                <key>sourceSize</key>
+                <string>{250,130}</string>
+            </dict>
+            <key>Choji_Beihua_Zhanche_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{452,837},{228,130}}</string>
+                <key>offset</key>
+                <string>{-4,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{7,0},{228,130}}</string>
+                <key>sourceSize</key>
+                <string>{250,130}</string>
+            </dict>
+            <key>Choji_Beihua_Zhanche_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{874,707},{220,130}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{15,0},{220,130}}</string>
+                <key>sourceSize</key>
+                <string>{250,130}</string>
+            </dict>
+            <key>Choji_Beihua_Zhanche_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{530,702},{124,124}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{124,124}}</string>
+                <key>sourceSize</key>
+                <string>{124,124}</string>
+            </dict>
             <key>Choji_Float_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{821,357},{87,66}}</string>
+                <string>{{75,157},{87,66}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -33,7 +137,7 @@
             <key>Choji_Float_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{910,379},{84,49}}</string>
+                <string>{{468,0},{84,49}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -46,7 +150,7 @@
             <key>Choji_Float_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{732,438},{47,84}}</string>
+                <string>{{384,0},{47,84}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -59,7 +163,7 @@
             <key>Choji_Hurt_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{528,764},{61,70}}</string>
+                <string>{{939,52},{61,70}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -72,11 +176,11 @@
             <key>Choji_Hurt_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{970,580},{52,68}}</string>
+                <string>{{930,0},{52,68}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{52,68}}</string>
                 <key>sourceSize</key>
@@ -85,7 +189,7 @@
             <key>Choji_Idle_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{732,562},{65,77}}</string>
+                <string>{{800,111},{65,77}}</string>
                 <key>offset</key>
                 <string>{3,0}</string>
                 <key>rotated</key>
@@ -98,7 +202,7 @@
             <key>Choji_Idle_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{815,549},{65,77}}</string>
+                <string>{{877,113},{65,77}}</string>
                 <key>offset</key>
                 <string>{2,0}</string>
                 <key>rotated</key>
@@ -111,11 +215,11 @@
             <key>Choji_Idle_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{703,654},{65,75}}</string>
+                <string>{{0,157},{65,75}}</string>
                 <key>offset</key>
                 <string>{2,-1}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{5,2},{65,75}}</string>
                 <key>sourceSize</key>
@@ -124,7 +228,7 @@
             <key>Choji_KnockDown_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{732,300},{87,66}}</string>
+                <string>{{272,165},{87,66}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -137,7 +241,7 @@
             <key>Choji_KnockDown_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{818,425},{84,47}}</string>
+                <string>{{300,0},{84,47}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -150,7 +254,7 @@
             <key>Choji_KnockDown_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{289,322},{84,40}}</string>
+                <string>{{0,0},{84,40}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -163,7 +267,7 @@
             <key>Choji_KnockDown_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{414,640},{45,65}}</string>
+                <string>{{235,0},{45,65}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -176,7 +280,7 @@
             <key>Choji_KnockDown_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{811,616},{66,51}}</string>
+                <string>{{636,0},{66,51}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -189,11 +293,11 @@
             <key>Choji_KnockDown_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{677,443},{54,53}}</string>
+                <string>{{82,44},{54,53}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{54,53}}</string>
                 <key>sourceSize</key>
@@ -202,11 +306,11 @@
             <key>Choji_NAttack_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{621,951},{51,71}}</string>
+                <string>{{702,0},{51,71}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{51,71}}</string>
                 <key>sourceSize</key>
@@ -215,11 +319,11 @@
             <key>Choji_NAttack_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{659,732},{75,74}}</string>
+                <string>{{936,247},{75,74}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{75,74}}</string>
                 <key>sourceSize</key>
@@ -228,7 +332,7 @@
             <key>Choji_NAttack_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{894,580},{68,74}}</string>
+                <string>{{830,178},{68,74}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -241,7 +345,7 @@
             <key>Choji_NAttack_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{482,953},{69,73}}</string>
+                <string>{{0,222},{69,73}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -254,7 +358,7 @@
             <key>Choji_NAttack_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{910,221},{88,81}}</string>
+                <string>{{895,321},{88,81}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -267,11 +371,11 @@
             <key>Choji_NAttack_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{559,274},{87,81}}</string>
+                <string>{{0,364},{87,81}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{87,81}}</string>
                 <key>sourceSize</key>
@@ -280,7 +384,7 @@
             <key>Choji_NAttack_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{732,368},{68,84}}</string>
+                <string>{{904,179},{68,84}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -293,7 +397,7 @@
             <key>Choji_NAttack_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{134,322},{44,76}}</string>
+                <string>{{84,0},{44,76}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -306,7 +410,7 @@
             <key>Choji_NAttack_09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{818,474},{83,73}}</string>
+                <string>{{440,235},{83,73}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -319,7 +423,7 @@
             <key>Choji_NAttack_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{732,487},{81,73}}</string>
+                <string>{{523,238},{81,73}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -329,23 +433,10 @@
                 <key>sourceSize</key>
                 <string>{81,73}</string>
             </dict>
-            <key>Choji_Skill01_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{735,731},{62,62}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{62,62}}</string>
-                <key>sourceSize</key>
-                <string>{62,62}</string>
-            </dict>
             <key>Choji_Skill01_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{650,593},{59,77}}</string>
+                <string>{{708,51},{59,77}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -358,89 +449,24 @@
             <key>Choji_Skill01_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{677,363},{53,78}}</string>
+                <string>{{136,44},{53,78}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{53,78}}</string>
                 <key>sourceSize</key>
                 <string>{53,78}</string>
             </dict>
-            <key>Choji_Skill01_04.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{849,213},{59,77}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{59,77}}</string>
-                <key>sourceSize</key>
-                <string>{59,77}</string>
-            </dict>
-            <key>Choji_Skill01_05.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{849,134},{59,77}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{59,77}}</string>
-                <key>sourceSize</key>
-                <string>{59,77}</string>
-            </dict>
-            <key>Choji_Skill02_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{732,562},{65,77}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{65,77}}</string>
-                <key>sourceSize</key>
-                <string>{65,77}</string>
-            </dict>
-            <key>Choji_Skill02_02.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{501,290},{56,71}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{56,71}}</string>
-                <key>sourceSize</key>
-                <string>{56,71}</string>
-            </dict>
-            <key>Choji_Skill02_03.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{674,951},{56,69}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{56,69}}</string>
-                <key>sourceSize</key>
-                <string>{56,69}</string>
-            </dict>
             <key>Choji_Skill02_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{677,443},{54,53}}</string>
+                <string>{{214,45},{54,53}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{54,53}}</string>
                 <key>sourceSize</key>
@@ -449,11 +475,11 @@
             <key>Choji_Skill02_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{610,363},{110,65}}</string>
+                <string>{{162,163},{110,65}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{2,0},{110,65}}</string>
                 <key>sourceSize</key>
@@ -462,11 +488,11 @@
             <key>Choji_Skill02_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{609,479},{112,64}}</string>
+                <string>{{574,109},{112,64}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{1,0},{112,64}}</string>
                 <key>sourceSize</key>
@@ -475,11 +501,11 @@
             <key>Choji_Skill02_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{542,494},{114,65}}</string>
+                <string>{{442,170},{114,65}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{114,65}}</string>
                 <key>sourceSize</key>
@@ -488,11 +514,11 @@
             <key>Choji_Skill02_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{544,363},{114,64}}</string>
+                <string>{{686,110},{114,64}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{114,64}}</string>
                 <key>sourceSize</key>
@@ -501,11 +527,11 @@
             <key>Choji_Skill02_09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{610,363},{110,65}}</string>
+                <string>{{556,173},{110,65}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{2,0},{110,65}}</string>
                 <key>sourceSize</key>
@@ -514,7 +540,7 @@
             <key>Choji_Skill02_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{735,731},{62,62}}</string>
+                <string>{{167,98},{62,62}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -527,11 +553,11 @@
             <key>Choji_Skill03_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{846,292},{63,62}}</string>
+                <string>{{229,101},{63,62}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{63,62}}</string>
                 <key>sourceSize</key>
@@ -540,11 +566,11 @@
             <key>Choji_Skill03_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{675,499},{54,78}}</string>
+                <string>{{268,47},{54,78}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{54,78}}</string>
                 <key>sourceSize</key>
@@ -553,50 +579,89 @@
             <key>Choji_Skill03_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{166,368},{124,156}}</string>
+                <string>{{270,378},{86,109}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{124,156}}</string>
+                <string>{{0,0},{86,109}}</string>
                 <key>sourceSize</key>
-                <string>{124,156}</string>
+                <string>{86,109}</string>
             </dict>
             <key>Choji_Skill03_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{646,146},{108,106}}</string>
+                <string>{{93,296},{75,74}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{9,-8}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{108,106}}</string>
+                <string>{{38,17},{75,74}}</string>
                 <key>sourceSize</key>
-                <string>{108,106}</string>
+                <string>{133,92}</string>
             </dict>
-            <key>Choji_Skill04_01.png</key>
+            <key>Choji_Skill03_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{732,562},{65,77}}</string>
+                <string>{{393,308},{89,76}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{2,-8}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{65,77}}</string>
+                <string>{{24,16},{89,76}}</string>
                 <key>sourceSize</key>
-                <string>{65,77}</string>
+                <string>{133,92}</string>
+            </dict>
+            <key>Choji_Skill03_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{482,311},{101,76}}</string>
+                <key>offset</key>
+                <string>{-3,-8}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{13,16},{101,76}}</string>
+                <key>sourceSize</key>
+                <string>{133,92}</string>
+            </dict>
+            <key>Choji_Skill03_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{770,320},{125,76}}</string>
+                <key>offset</key>
+                <string>{-2,-8}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{2,16},{125,76}}</string>
+                <key>sourceSize</key>
+                <string>{133,92}</string>
+            </dict>
+            <key>Choji_Skill03_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{168,301},{125,74}}</string>
+                <key>offset</key>
+                <string>{0,-8}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{4,17},{125,74}}</string>
+                <key>sourceSize</key>
+                <string>{133,92}</string>
             </dict>
             <key>Choji_Skill04_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{501,290},{56,71}}</string>
+                <string>{{346,47},{56,71}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{56,71}}</string>
                 <key>sourceSize</key>
@@ -605,531 +670,349 @@
             <key>Choji_Skill04_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{910,2},{112,142}}</string>
+                <string>{{671,316},{78,99}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{112,142}}</string>
+                <string>{{0,0},{78,99}}</string>
                 <key>sourceSize</key>
-                <string>{112,142}</string>
+                <string>{78,99}</string>
             </dict>
             <key>Choji_Skill04_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{300,687},{100,146}}</string>
+                <string>{{236,231},{70,102}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{100,146}}</string>
+                <string>{{0,0},{70,102}}</string>
                 <key>sourceSize</key>
-                <string>{100,146}</string>
+                <string>{70,102}</string>
             </dict>
             <key>Choji_Skill04_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{140,546},{124,158}}</string>
+                <string>{{379,387},{86,111}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{124,158}}</string>
+                <string>{{0,0},{86,111}}</string>
                 <key>sourceSize</key>
-                <string>{124,158}</string>
+                <string>{86,111}</string>
             </dict>
             <key>Choji_Skill04_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{300,687},{100,146}}</string>
+                <string>{{338,234},{70,102}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{100,146}}</string>
+                <string>{{0,0},{70,102}}</string>
                 <key>sourceSize</key>
-                <string>{100,146}</string>
+                <string>{70,102}</string>
             </dict>
             <key>Choji_Skill04_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{430,146},{106,142}}</string>
+                <string>{{293,304},{74,100}}</string>
                 <key>offset</key>
-                <string>{-6,0}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{41,0},{106,142}}</string>
+                <string>{{0,0},{74,100}}</string>
                 <key>sourceSize</key>
-                <string>{200,142}</string>
+                <string>{74,100}</string>
             </dict>
             <key>Choji_Skill04_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{538,146},{106,126}}</string>
+                <string>{{583,313},{76,88}}</string>
                 <key>offset</key>
-                <string>{-8,0}</string>
+                <string>{-13,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{39,0},{106,126}}</string>
+                <string>{{0,0},{76,88}}</string>
                 <key>sourceSize</key>
-                <string>{200,126}</string>
+                <string>{102,88}</string>
             </dict>
             <key>Choji_Skill05_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{646,146},{108,106}}</string>
+                <string>{{785,51},{59,77}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{108,106}}</string>
+                <string>{{0,0},{59,77}}</string>
                 <key>sourceSize</key>
-                <string>{108,106}</string>
+                <string>{59,77}</string>
             </dict>
             <key>Choji_Skill05_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,146},{220,130}}</string>
+                <string>{{862,52},{59,77}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{220,130}}</string>
+                <string>{{0,0},{59,77}}</string>
                 <key>sourceSize</key>
-                <string>{220,130}</string>
+                <string>{59,77}</string>
             </dict>
-            <key>Choji_Skill05_03.png</key>
+            <key>Choji_Skill09_001.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{462,2},{224,130}}</string>
+                <string>{{356,702},{174,113}}</string>
                 <key>offset</key>
-                <string>{-2,0}</string>
+                <string>{-28,-10}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{11,0},{224,130}}</string>
+                <string>{{16,21},{174,113}}</string>
                 <key>sourceSize</key>
-                <string>{250,130}</string>
+                <string>{262,135}</string>
             </dict>
-            <key>Choji_Skill05_04.png</key>
+            <key>Choji_Skill09_002.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{232,2},{228,130}}</string>
+                <string>{{0,555},{182,107}}</string>
                 <key>offset</key>
-                <string>{-3,0}</string>
+                <string>{-33,-13}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{8,0},{228,130}}</string>
+                <string>{{7,27},{182,107}}</string>
                 <key>sourceSize</key>
-                <string>{250,130}</string>
+                <string>{262,135}</string>
             </dict>
-            <key>Choji_Skill05_05.png</key>
+            <key>Choji_Skill09_003.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{228,130}}</string>
+                <string>{{0,662},{176,107}}</string>
                 <key>offset</key>
-                <string>{-4,0}</string>
+                <string>{-30,-13}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{7,0},{228,130}}</string>
+                <string>{{13,27},{176,107}}</string>
                 <key>sourceSize</key>
-                <string>{250,130}</string>
+                <string>{262,135}</string>
             </dict>
-            <key>Choji_Skill05_06.png</key>
+            <key>Choji_Skill09_004.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{688,2},{220,130}}</string>
+                <string>{{176,683},{180,107}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-32,-13}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{15,0},{220,130}}</string>
+                <string>{{9,27},{180,107}}</string>
                 <key>sourceSize</key>
-                <string>{250,130}</string>
+                <string>{262,135}</string>
             </dict>
-            <key>Choji_Skill05_07.png</key>
+            <key>Choji_Skill10_001.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{482,827},{124,124}}</string>
+                <string>{{490,389},{94,107}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-9,-16}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{162,33},{94,107}}</string>
+                <key>sourceSize</key>
+                <string>{436,141}</string>
+            </dict>
+            <key>Choji_Skill10_002.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{182,578},{262,105}}</string>
+                <key>offset</key>
+                <string>{75,-17}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{124,124}}</string>
+                <string>{{162,35},{262,105}}</string>
                 <key>sourceSize</key>
-                <string>{124,124}</string>
+                <string>{436,141}</string>
             </dict>
-            <key>Choji_Skill09_01.png</key>
+            <key>Choji_Skill10_003.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{298,146},{130,154}}</string>
+                <string>{{692,602},{252,105}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{69,-17}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{130,154}}</string>
+                <string>{{161,35},{252,105}}</string>
                 <key>sourceSize</key>
-                <string>{130,154}</string>
+                <string>{436,141}</string>
             </dict>
-            <key>Choji_Skill10_01.png</key>
+            <key>Choji_Skill10_004.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{212,322},{44,75}}</string>
+                <string>{{345,473},{108,105}}</string>
+                <key>offset</key>
+                <string>{5,-9}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{169,27},{108,105}}</string>
+                <key>sourceSize</key>
+                <string>{436,141}</string>
+            </dict>
+            <key>Choji_Skill10_005.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{561,490},{134,107}}</string>
+                <key>offset</key>
+                <string>{18,-13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{169,30},{134,107}}</string>
+                <key>sourceSize</key>
+                <string>{436,141}</string>
+            </dict>
+            <key>Choji_Skill10_006.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{211,464},{134,101}}</string>
+                <key>offset</key>
+                <string>{18,-20}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{169,40},{134,101}}</string>
+                <key>sourceSize</key>
+                <string>{436,141}</string>
+            </dict>
+            <key>Choji_Skill10_007.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{695,499},{252,103}}</string>
+                <key>offset</key>
+                <string>{86,-19}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{178,38},{252,103}}</string>
+                <key>sourceSize</key>
+                <string>{436,141}</string>
+            </dict>
+            <key>Choji_Skill10_008.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{444,597},{248,105}}</string>
+                <key>offset</key>
+                <string>{79,-18}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{173,36},{248,105}}</string>
+                <key>sourceSize</key>
+                <string>{436,141}</string>
+            </dict>
+            <key>Choji_Skill11_001.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,456},{99,110}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{44,75}}</string>
+                <string>{{0,0},{99,110}}</string>
                 <key>sourceSize</key>
-                <string>{44,75}</string>
+                <string>{99,110}</string>
             </dict>
-            <key>Choji_Skill10_02.png</key>
+            <key>Choji_Skill11_002.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{904,430},{83,73}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{83,73}}</string>
-                <key>sourceSize</key>
-                <string>{83,73}</string>
-            </dict>
-            <key>Choji_Skill10_03.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{910,304},{88,73}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{88,73}}</string>
-                <key>sourceSize</key>
-                <string>{88,73}</string>
-            </dict>
-            <key>Choji_Skill10_04.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{903,505},{78,73}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{78,73}}</string>
-                <key>sourceSize</key>
-                <string>{78,73}</string>
-            </dict>
-            <key>Choji_Skill10_05.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{754,217},{90,81}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{90,81}}</string>
-                <key>sourceSize</key>
-                <string>{90,81}</string>
-            </dict>
-            <key>Choji_Skill10_06.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{754,134},{93,81}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{93,81}}</string>
-                <key>sourceSize</key>
-                <string>{93,81}</string>
-            </dict>
-            <key>Choji_Skill10_07.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{732,368},{68,84}}</string>
+                <string>{{806,402},{97,105}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{68,84}}</string>
+                <string>{{0,0},{97,105}}</string>
                 <key>sourceSize</key>
-                <string>{68,84}</string>
+                <string>{97,105}</string>
             </dict>
-            <key>Choji_Skill10_08.png</key>
+            <key>Choji_Skill11_003.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{650,654},{51,76}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{51,76}}</string>
-                <key>sourceSize</key>
-                <string>{51,76}</string>
-            </dict>
-            <key>Choji_Skill10_09.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{818,474},{83,73}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{83,73}}</string>
-                <key>sourceSize</key>
-                <string>{83,73}</string>
-            </dict>
-            <key>Choji_Skill10_10.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{910,146},{93,73}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{93,73}}</string>
-                <key>sourceSize</key>
-                <string>{93,73}</string>
-            </dict>
-            <key>Choji_Skill11_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{414,508},{130,126}}</string>
+                <string>{{597,394},{96,105}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{130,126}}</string>
+                <string>{{0,0},{96,105}}</string>
                 <key>sourceSize</key>
-                <string>{130,126}</string>
+                <string>{96,105}</string>
             </dict>
-            <key>Choji_Skill11_02.png</key>
+            <key>Choji_Skill11_004.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{402,687},{138,124}}</string>
+                <string>{{911,402},{97,106}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{138,124}}</string>
+                <string>{{0,0},{97,106}}</string>
                 <key>sourceSize</key>
-                <string>{138,124}</string>
+                <string>{97,106}</string>
             </dict>
-            <key>Choji_Skill11_03.png</key>
+            <key>Choji_Skill11_005.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{528,640},{120,122}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{120,122}}</string>
-                <key>sourceSize</key>
-                <string>{120,122}</string>
-            </dict>
-            <key>Choji_Skill11_04.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{416,364},{128,126}}</string>
+                <string>{{110,456},{99,101}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{128,126}}</string>
+                <string>{{0,0},{99,101}}</string>
                 <key>sourceSize</key>
-                <string>{128,126}</string>
+                <string>{99,101}</string>
             </dict>
-            <key>Choji_Skill11_05.png</key>
+            <key>Choji_Skill11_006.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{292,364},{142,122}}</string>
+                <string>{{702,396},{96,104}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{142,122}}</string>
+                <string>{{0,0},{96,104}}</string>
                 <key>sourceSize</key>
-                <string>{142,122}</string>
-            </dict>
-            <key>Choji_Skill11_06.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{608,827},{114,122}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{114,122}}</string>
-                <key>sourceSize</key>
-                <string>{114,122}</string>
-            </dict>
-            <key>Choji_Skill12_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{378,835},{102,142}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{102,142}}</string>
-                <key>sourceSize</key>
-                <string>{102,142}</string>
-            </dict>
-            <key>Choji_Skill12_02.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{150,706},{150,148}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{150,148}}</string>
-                <key>sourceSize</key>
-                <string>{150,148}</string>
-            </dict>
-            <key>Choji_Skill12_03.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{240,858},{136,148}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{136,148}}</string>
-                <key>sourceSize</key>
-                <string>{136,148}</string>
-            </dict>
-            <key>Choji_Skill12_04.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{150,858},{88,150}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{88,150}}</string>
-                <key>sourceSize</key>
-                <string>{88,150}</string>
-            </dict>
-            <key>Choji_Skill12_05.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,716},{166,146}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{166,146}}</string>
-                <key>sourceSize</key>
-                <string>{166,146}</string>
-            </dict>
-            <key>Choji_Skill12_06.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{266,539},{146,146}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{146,146}}</string>
-                <key>sourceSize</key>
-                <string>{146,146}</string>
-            </dict>
-            <key>Choji_Skill12_07.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,884},{138,146}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{138,146}}</string>
-                <key>sourceSize</key>
-                <string>{138,146}</string>
-            </dict>
-            <key>Choji_Skill12_08.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,368},{176,162}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{176,162}}</string>
-                <key>sourceSize</key>
-                <string>{176,162}</string>
-            </dict>
-            <key>Choji_Skill12_09.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{134,146},{174,162}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{174,162}}</string>
-                <key>sourceSize</key>
-                <string>{174,162}</string>
-            </dict>
-            <key>Choji_Skill12_10.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,546},{136,168}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{136,168}}</string>
-                <key>sourceSize</key>
-                <string>{136,168}</string>
+                <string>{96,104}</string>
             </dict>
             <key>Choji_Walk_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{724,809},{65,63}}</string>
+                <string>{{445,107},{65,63}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{65,63}}</string>
                 <key>sourceSize</key>
@@ -1138,11 +1021,11 @@
             <key>Choji_Walk_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{557,953},{69,62}}</string>
+                <string>{{292,103},{69,62}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{69,62}}</string>
                 <key>sourceSize</key>
@@ -1151,7 +1034,7 @@
             <key>Choji_Walk_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{375,302},{60,61}}</string>
+                <string>{{575,49},{60,61}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1164,11 +1047,11 @@
             <key>Choji_Walk_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{724,876},{64,63}}</string>
+                <string>{{510,107},{64,63}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{64,63}}</string>
                 <key>sourceSize</key>
@@ -1177,11 +1060,11 @@
             <key>Choji_Walk_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{438,290},{71,61}}</string>
+                <string>{{0,92},{71,61}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{71,61}}</string>
                 <key>sourceSize</key>
@@ -1190,157 +1073,291 @@
             <key>Choji_Walk_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{600,764},{57,61}}</string>
+                <string>{{417,49},{57,61}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{57,61}}</string>
                 <key>sourceSize</key>
                 <string>{57,61}</string>
             </dict>
-            <key>pBuff_Effect_01.png</key>
+            <key>Choji_pNAttack_00.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,134},{25,7}}</string>
+                <string>{{160,0},{44,75}}</string>
                 <key>offset</key>
-                <string>{0,-15}</string>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{44,75}}</string>
+                <key>sourceSize</key>
+                <string>{44,75}</string>
+            </dict>
+            <key>Choji_pNAttack_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{604,240},{83,73}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,30},{25,7}}</string>
+                <string>{{0,0},{83,73}}</string>
                 <key>sourceSize</key>
-                <string>{25,37}</string>
+                <string>{83,73}</string>
+            </dict>
+            <key>Choji_pNAttack_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{687,243},{88,73}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{88,73}}</string>
+                <key>sourceSize</key>
+                <string>{88,73}</string>
+            </dict>
+            <key>Choji_pNAttack_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{775,246},{78,73}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{78,73}}</string>
+                <key>sourceSize</key>
+                <string>{78,73}</string>
+            </dict>
+            <key>Choji_pNAttack_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{87,375},{90,81}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{90,81}}</string>
+                <key>sourceSize</key>
+                <string>{90,81}</string>
+            </dict>
+            <key>Choji_pNAttack_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{177,375},{93,81}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{93,81}}</string>
+                <key>sourceSize</key>
+                <string>{93,81}</string>
+            </dict>
+            <key>Choji_pNAttack_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{73,223},{68,84}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{68,84}}</string>
+                <key>sourceSize</key>
+                <string>{68,84}</string>
+            </dict>
+            <key>Choji_pNAttack_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{773,0},{51,76}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{51,76}}</string>
+                <key>sourceSize</key>
+                <string>{51,76}</string>
+            </dict>
+            <key>Choji_pNAttack_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{853,247},{83,73}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{83,73}}</string>
+                <key>sourceSize</key>
+                <string>{83,73}</string>
+            </dict>
+            <key>Choji_pNAttack_09.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,291},{93,73}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{93,73}}</string>
+                <key>sourceSize</key>
+                <string>{93,73}</string>
+            </dict>
+            <key>pBuff_Effect_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{478,49},{58,97}}</string>
+                <key>offset</key>
+                <string>{0,-18}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{7,41},{58,97}}</string>
+                <key>sourceSize</key>
+                <string>{72,143}</string>
             </dict>
             <key>pBuff_Effect_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{224,526},{28,13}}</string>
+                <string>{{71,97},{60,96}}</string>
                 <key>offset</key>
-                <string>{0,-12}</string>
+                <string>{1,-21}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,24},{28,13}}</string>
+                <string>{{5,46},{60,96}}</string>
                 <key>sourceSize</key>
-                <string>{28,37}</string>
+                <string>{68,146}</string>
             </dict>
             <key>pBuff_Effect_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{254,526},{27,11}}</string>
+                <string>{{849,0},{51,81}}</string>
                 <key>offset</key>
-                <string>{0,-13}</string>
+                <string>{-4,-25}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,26},{27,11}}</string>
+                <string>{{4,53},{51,81}}</string>
                 <key>sourceSize</key>
-                <string>{27,37}</string>
+                <string>{67,137}</string>
             </dict>
             <key>pBuff_Effect_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{300,835},{28,19}}</string>
+                <string>{{361,106},{62,84}}</string>
                 <key>offset</key>
-                <string>{0,-9}</string>
+                <string>{-3,-19}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,18},{28,19}}</string>
+                <string>{{4,40},{62,84}}</string>
                 <key>sourceSize</key>
-                <string>{28,37}</string>
+                <string>{76,126}</string>
             </dict>
             <key>pBuff_Effect_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{166,526},{28,15}}</string>
+                <string>{{157,228},{68,79}}</string>
                 <key>offset</key>
-                <string>{0,-11}</string>
+                <string>{-1,-22}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,22},{28,15}}</string>
+                <string>{{3,48},{68,79}}</string>
                 <key>sourceSize</key>
-                <string>{28,37}</string>
+                <string>{76,131}</string>
             </dict>
             <key>pBuff_Effect_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{196,526},{26,15}}</string>
+                <string>{{753,176},{67,77}}</string>
                 <key>offset</key>
-                <string>{0,-11}</string>
+                <string>{-1,-24}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,22},{26,15}}</string>
+                <string>{{3,51},{67,77}}</string>
                 <key>sourceSize</key>
-                <string>{26,37}</string>
+                <string>{75,131}</string>
             </dict>
             <key>pBuff_Effect_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{292,508},{27,23}}</string>
+                <string>{{954,113},{66,70}}</string>
                 <key>offset</key>
-                <string>{0,-7}</string>
+                <string>{0,-25}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,14},{27,23}}</string>
+                <string>{{4,54},{66,70}}</string>
                 <key>sourceSize</key>
-                <string>{27,37}</string>
+                <string>{74,128}</string>
             </dict>
             <key>pBuff_Effect_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{330,835},{26,19}}</string>
+                <string>{{359,168},{66,83}}</string>
                 <key>offset</key>
-                <string>{0,-2}</string>
+                <string>{0,-16}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,11},{26,19}}</string>
+                <string>{{3,35},{66,83}}</string>
                 <key>sourceSize</key>
-                <string>{26,37}</string>
+                <string>{72,121}</string>
             </dict>
             <key>pBuff_Effect_09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{29,134},{22,7}}</string>
+                <string>{{0,40},{52,82}}</string>
                 <key>offset</key>
-                <string>{0,10}</string>
+                <string>{4,-16}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,5},{22,7}}</string>
+                <string>{{12,35},{52,82}}</string>
                 <key>sourceSize</key>
-                <string>{22,37}</string>
+                <string>{68,120}</string>
             </dict>
             <key>pBuff_Effect_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{53,134},{20,5}}</string>
+                <string>{{636,51},{58,72}}</string>
                 <key>offset</key>
-                <string>{0,13}</string>
+                <string>{0,-16}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,3},{20,5}}</string>
+                <string>{{5,36},{58,72}}</string>
                 <key>sourceSize</key>
-                <string>{20,37}</string>
+                <string>{68,112}</string>
             </dict>
         </dict>
         <key>metadata</key>
         <dict>
             <key>format</key>
             <integer>2</integer>
+            <key>pixelFormat</key>
+            <string>BGRA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
             <key>realTextureFileName</key>
             <string>Choji.png</string>
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:a014a4aa6eca8860a81581a60caab049$</string>
+            <string>$TexturePacker:SmartUpdate:7040b8ac9eb5806794f27976fa277a79:4450d3d95ddfb7faa20538fd7ba95fb1:deea358ddb1218338c99d80b6b05bde0$</string>
             <key>textureFileName</key>
             <string>Choji.png</string>
         </dict>

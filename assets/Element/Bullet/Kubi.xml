@@ -49,7 +49,7 @@
     <action value="nAttack">
       <date>
 	    <dateName type="attackType">nAttack</dateName>
-        <dateName type="attackValue">200</dateName>
+        <dateName type="attackValue">90</dateName>
         <dateName type="attackRangeX">32</dateName>
         <dateName type="attackRangeY">0</dateName>
         <coldName type="coldDown">0</coldName>
@@ -57,11 +57,18 @@
       <frame>
           <frameName>Kubi_Move_01.png</frameName>
           <eventName type="setAttackBox">bl_hit</eventName>
+          <eventName type="setCharge">12</eventName>
           <frameName>Kubi_Move_02.png</frameName>
           <eventName type="setAttackBox">bl_hit</eventName>
+          <eventName type="setCharge">12</eventName>
+          <eventName type="setSound">Audio/Effect/SRK2.ogg</eventName>
           <frameName>Kubi_Move_03.png</frameName>
           <eventName type="setAttackBox">bl_hit</eventName>
+          <eventName type="setCharge">12</eventName>
           <frameName>Kubi_Move_04.png</frameName>
+          <eventName type="setAttackBox">bl_hit</eventName>
+          <eventName type="setCharge">12</eventName>
+          <frameName>Kubi_Move_03.png</frameName>
           <eventName type="setAttackBox">bl_hit</eventName>
       </frame>
     </action>

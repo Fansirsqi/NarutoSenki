@@ -4,14 +4,131 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>SuiRyuDan_Move_01.png</key>
+            <key>无01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{224,485},{78,19}}</string>
+                <string>{{0,0},{1,1}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{1,1}}</string>
+                <key>sourceSize</key>
+                <string>{10,10}</string>
+            </dict>
+            <key>FakeTobirama_Move_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{463,2},{33,34}}</string>
+                <key>offset</key>
+                <string>{0,1}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{19,20},{33,34}}</string>
+                <key>sourceSize</key>
+                <string>{71,76}</string>
+            </dict>
+            <key>FakeTobirama_Move_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{208,802},{59,76}}</string>
+                <key>offset</key>
+                <string>{-1,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{5,0},{59,76}}</string>
+                <key>sourceSize</key>
+                <string>{71,76}</string>
+            </dict>
+            <key>FakeTobirama_Move_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,763},{71,76}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{71,76}}</string>
+                <key>sourceSize</key>
+                <string>{71,76}</string>
+            </dict>
+            <key>FakeTobirama_Move_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{130,753},{74,76}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{74,76}}</string>
+                <key>sourceSize</key>
+                <string>{74,76}</string>
+            </dict>
+            <key>FakeTobirama_Move_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{359,736},{69,76}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{69,76}}</string>
+                <key>sourceSize</key>
+                <string>{69,76}</string>
+            </dict>
+            <key>FakeTobirama_Move_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{286,802},{59,68}}</string>
+                <key>offset</key>
+                <string>{-1,-4}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{5,8},{59,68}}</string>
+                <key>sourceSize</key>
+                <string>{71,76}</string>
+            </dict>
+            <key>FakeTobirama_Move_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{437,736},{71,70}}</string>
+                <key>offset</key>
+                <string>{0,-3}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,6},{71,70}}</string>
+                <key>sourceSize</key>
+                <string>{71,76}</string>
+            </dict>
+            <key>FakeTobirama_Move_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{453,312},{53,68}}</string>
+                <key>offset</key>
+                <string>{0,-4}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{9,8},{53,68}}</string>
+                <key>sourceSize</key>
+                <string>{71,76}</string>
+            </dict>
+            <key>SuiRyuDan_Move_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{463,37},{78,19}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{78,19}}</string>
                 <key>sourceSize</key>
@@ -20,11 +137,11 @@
             <key>SuiRyuDan_Move_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,392},{113,74}}</string>
+                <string>{{393,600},{113,74}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{113,74}}</string>
                 <key>sourceSize</key>
@@ -33,11 +150,11 @@
             <key>SuiRyuDan_Move_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,134},{127,92}}</string>
+                <string>{{264,532},{127,92}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{127,92}}</string>
                 <key>sourceSize</key>
@@ -46,11 +163,11 @@
             <key>SuiRyuDan_Move_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{73,263},{126,90}}</string>
+                <string>{{2,671},{126,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{126,90}}</string>
                 <key>sourceSize</key>
@@ -59,7 +176,7 @@
             <key>SuiRyuDan_Move_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{96,131},{124,100}}</string>
+                <string>{{410,382},{124,100}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -72,11 +189,11 @@
             <key>SuiRyuDan_Move_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{78,2},{127,88}}</string>
+                <string>{{134,598},{127,88}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{127,88}}</string>
                 <key>sourceSize</key>
@@ -85,11 +202,11 @@
             <key>SuiRyuDan_Move_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{168,2},{123,78}}</string>
+                <string>{{263,626},{123,78}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{123,78}}</string>
                 <key>sourceSize</key>
@@ -98,11 +215,11 @@
             <key>SuiRyuDan_Move_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,263},{127,69}}</string>
+                <string>{{2,600},{127,69}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{127,69}}</string>
                 <key>sourceSize</key>
@@ -111,11 +228,11 @@
             <key>SuiRyuDan_Move_09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{198,127},{121,63}}</string>
+                <string>{{130,688},{121,63}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{121,63}}</string>
                 <key>sourceSize</key>
@@ -124,262 +241,158 @@
             <key>SuiRyuDan_Move_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{165,257},{122,58}}</string>
+                <string>{{388,676},{122,58}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{122,58}}</string>
                 <key>sourceSize</key>
                 <string>{122,58}</string>
             </dict>
-            <key>Suijin_Move_001.png</key>
+            <key>Suiji_Move_001.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{225,250},{100,70}}</string>
+                <string>{{410,508},{96,90}}</string>
                 <key>offset</key>
-                <string>{-8,-41}</string>
+                <string>{-19,-40}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{8,60},{96,90}}</string>
+                <key>sourceSize</key>
+                <string>{150,150}</string>
+            </dict>
+            <key>Suiji_Move_002.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{134,532},{128,64}}</string>
+                <key>offset</key>
+                <string>{0,-51}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{11,84},{128,64}}</string>
+                <key>sourceSize</key>
+                <string>{150,150}</string>
+            </dict>
+            <key>Suiji_Move_003.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,532},{130,66}}</string>
+                <key>offset</key>
+                <string>{9,-52}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{19,84},{130,66}}</string>
+                <key>sourceSize</key>
+                <string>{150,150}</string>
+            </dict>
+            <key>Suiji_Move_004.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{453,192},{118,56}}</string>
+                <key>offset</key>
+                <string>{15,-57}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{1,82},{100,70}}</string>
+                <string>{{31,94},{118,56}}</string>
                 <key>sourceSize</key>
-                <string>{118,152}</string>
+                <string>{150,150}</string>
             </dict>
-            <key>Suijin_Move_002.png</key>
+            <key>Suijin_Move_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{224,381},{102,70}}</string>
+                <string>{{253,706},{104,94}}</string>
                 <key>offset</key>
-                <string>{-7,-39}</string>
+                <string>{-1,-13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{42,26},{104,94}}</string>
+                <key>sourceSize</key>
+                <string>{190,120}</string>
+            </dict>
+            <key>Suijin_Move_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{221,382},{148,187}}</string>
+                <key>offset</key>
+                <string>{-2,-6}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{1,80},{102,70}}</string>
+                <string>{{19,12},{148,187}}</string>
                 <key>sourceSize</key>
-                <string>{118,152}</string>
+                <string>{190,199}</string>
             </dict>
-            <key>Suijin_Move_003.png</key>
+            <key>Suijin_Move_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{398,2},{98,68}}</string>
+                <string>{{2,192},{150,224}}</string>
                 <key>offset</key>
-                <string>{-4,-37}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{6,79},{98,68}}</string>
-                <key>sourceSize</key>
-                <string>{118,152}</string>
-            </dict>
-            <key>Suijin_Move_004.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{263,166},{92,62}}</string>
-                <key>offset</key>
-                <string>{-9,-34}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{4,79},{92,62}}</string>
-                <key>sourceSize</key>
-                <string>{118,152}</string>
-            </dict>
-            <key>Suijin_Move_005.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{304,454},{92,56}}</string>
-                <key>offset</key>
-                <string>{-7,-39}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{6,87},{92,56}}</string>
-                <key>sourceSize</key>
-                <string>{118,152}</string>
-            </dict>
-            <key>Suijin_Move_006.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{398,124},{92,52}}</string>
-                <key>offset</key>
-                <string>{-7,-39}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{6,89},{92,52}}</string>
-                <key>sourceSize</key>
-                <string>{118,152}</string>
-            </dict>
-            <key>Suijin_Move_007.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{297,230},{92,50}}</string>
-                <key>offset</key>
-                <string>{-6,-38}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{7,89},{92,50}}</string>
-                <key>sourceSize</key>
-                <string>{118,152}</string>
-            </dict>
-            <key>Suijin_Move_008.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{398,230},{92,50}}</string>
-                <key>offset</key>
-                <string>{-5,-38}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{8,89},{92,50}}</string>
-                <key>sourceSize</key>
-                <string>{118,152}</string>
-            </dict>
-            <key>Suijin_Move_009.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{296,352},{100,50}}</string>
-                <key>offset</key>
-                <string>{-4,-38}</string>
+                <string>{-5,-1}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{5,89},{100,50}}</string>
+                <string>{{15,2},{150,224}}</string>
                 <key>sourceSize</key>
-                <string>{118,152}</string>
+                <string>{190,226}</string>
             </dict>
-            <key>Suijin_Move_010.png</key>
+            <key>Suijin_Move_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{398,72},{98,50}}</string>
+                <string>{{236,2},{188,225}}</string>
                 <key>offset</key>
-                <string>{-4,-38}</string>
+                <string>{0,-2}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{6,89},{98,50}}</string>
+                <string>{{1,4},{188,225}}</string>
                 <key>sourceSize</key>
-                <string>{118,152}</string>
+                <string>{190,229}</string>
             </dict>
-            <key>Suijin_Move_011.png</key>
+            <key>Suijin_Move_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{398,178},{92,50}}</string>
+                <string>{{2,344},{186,217}}</string>
                 <key>offset</key>
-                <string>{-4,-38}</string>
+                <string>{2,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{9,89},{92,50}}</string>
+                <string>{{4,0},{186,217}}</string>
                 <key>sourceSize</key>
-                <string>{118,152}</string>
+                <string>{190,217}</string>
             </dict>
-            <key>Suijin_Move_012.png</key>
+            <key>Suijin_Move_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{297,110},{94,54}}</string>
+                <string>{{2,2},{188,232}}</string>
                 <key>offset</key>
-                <string>{-4,-39}</string>
+                <string>{0,-3}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{8,88},{94,54}}</string>
+                <string>{{1,6},{188,232}}</string>
                 <key>sourceSize</key>
-                <string>{118,152}</string>
+                <string>{190,238}</string>
             </dict>
-            <key>Suijin_Move_013.png</key>
+            <key>Suijin_Move_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{297,282},{86,54}}</string>
+                <string>{{228,192},{188,223}}</string>
                 <key>offset</key>
-                <string>{-3,-38}</string>
+                <string>{-1,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{13,87},{86,54}}</string>
+                <string>{{0,0},{188,223}}</string>
                 <key>sourceSize</key>
-                <string>{118,152}</string>
-            </dict>
-            <key>Suijin_Move_014.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{312,2},{84,56}}</string>
-                <key>offset</key>
-                <string>{-3,-38}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{14,86},{84,56}}</string>
-                <key>sourceSize</key>
-                <string>{118,152}</string>
-            </dict>
-            <key>Suijin_Move_015.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{78,391},{84,112}}</string>
-                <key>offset</key>
-                <string>{5,-16}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{22,36},{84,112}}</string>
-                <key>sourceSize</key>
-                <string>{118,152}</string>
-            </dict>
-            <key>Suijin_Move_016.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,2},{74,130}}</string>
-                <key>offset</key>
-                <string>{7,-9}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{29,20},{74,130}}</string>
-                <key>sourceSize</key>
-                <string>{118,152}</string>
-            </dict>
-            <key>Suijin_Move_017.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{164,391},{58,112}}</string>
-                <key>offset</key>
-                <string>{-3,-16}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{27,36},{58,112}}</string>
-                <key>sourceSize</key>
-                <string>{118,152}</string>
-            </dict>
-            <key>Suijin_Move_018.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{248,2},{62,106}}</string>
-                <key>offset</key>
-                <string>{2,-20}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{30,43},{62,106}}</string>
-                <key>sourceSize</key>
-                <string>{118,152}</string>
-            </dict>
-            <key>Suijin_Move_019.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{348,60},{46,40}}</string>
-                <key>offset</key>
-                <string>{10,-51}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{46,107},{46,40}}</string>
-                <key>sourceSize</key>
-                <string>{118,152}</string>
+                <string>{190,223}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -389,9 +402,9 @@
             <key>realTextureFileName</key>
             <string>Tobirama_Skill.png</string>
             <key>size</key>
-            <string>{512,512}</string>
+            <string>{512,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:82a31323a4dcd21e67d661e762d31466$</string>
+            <string>$TexturePacker:SmartUpdate:2067f3ed64e50e9790430720547c965c$</string>
             <key>textureFileName</key>
             <string>Tobirama_Skill.png</string>
         </dict>
