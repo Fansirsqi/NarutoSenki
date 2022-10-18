@@ -2007,7 +2007,7 @@ Name: assets/Element/Han/Han.png
 SHA1-Digest: dIHTgGnUoU+043j0WOApRFXZXkM=
 
 Name: assets/Element/Han/Han.xml
-SHA1-Digest: DBSdqitb+A0ovDXokSd1rWRrpPA=
+SHA1-Digest: EE3nxgfuH/ioGm5QaFJhElRbeOg=
 
 Name: assets/Element/Hidan/Hidan.plist
 SHA1-Digest: H2kAGqEjQqxuyiYJkGZZfg+rI/M=
@@ -2357,6 +2357,9 @@ SHA1-Digest: WW33NIO5ty+AqlT1sE+/Bsr2Oqs=
 Name: assets/Element/Monster/Yominuma.xml
 SHA1-Digest: Brhp81M+no+71OIrJ8ZZvp5b0z0=
 
+Name: assets/Element/Monster/ts.xml
+SHA1-Digest: wyQwzmSlUnFGsrD3lvavm2Ihb2U=
+
 Name: assets/Element/Nagato/Nagato.plist
 SHA1-Digest: e7oT941sCbcDkdwyS6gUCWxdq9c=
 
@@ -2382,7 +2385,7 @@ Name: assets/Element/Neji/Neji.png
 SHA1-Digest: 2NB6sBFPO8MZP3YXFhFNFUAasgU=
 
 Name: assets/Element/Neji/Neji.xml
-SHA1-Digest: iQjD5G/6jD1ScYsJ+EEXIc3tnV4=
+SHA1-Digest: 7CzWg4oNsnBUE9f3IR12paNa6Qw=
 
 Name: assets/Element/Orochimaru/Orochimaru.plist
 SHA1-Digest: Cfg9wkIpkmNWzciN6tPrbdZqKhI=
@@ -2409,7 +2412,7 @@ Name: assets/Element/Roshi/Roshi.png
 SHA1-Digest: jvwSDpYi1XZlAXIT/JhAMfT1FP4=
 
 Name: assets/Element/Roshi/Roshi.xml
-SHA1-Digest: flal95NK0+ssj9g7LH9+MudA8Vc=
+SHA1-Digest: JwtKUONVFaph6A41Do+SLsdZKTo=
 
 Name: assets/Element/SageJiraiya/SageJiraiya.plist
 SHA1-Digest: FTsORp+qesJIvBC3M9VFI54g1fk=
@@ -2718,28 +2721,28 @@ Name: assets/Element/Tobirama/Tobirama.xml
 SHA1-Digest: W+KnitMAS6bSVFU4IHQjeIdyck0=
 
 Name: assets/Element/Tower/CenterDate.xml
-SHA1-Digest: pa6QwVccnk8eQnJQwg5JNsQFO2o=
+SHA1-Digest: DFDR4wv1saeVD/HCMsqmL3dI6Q0=
 
 Name: assets/Element/Tower/Tower.plist
-SHA1-Digest: bXYYE5CaVYGFy0tGd3vpLqIuOTY=
+SHA1-Digest: AnOgrDlqHjs/5goSlcRJHcanY2M=
 
 Name: assets/Element/Tower/Tower.png
 SHA1-Digest: xCDlox0gQSXlmtcEhyR+DgLwVw8=
 
 Name: assets/Element/Tower/Tower2.plist
-SHA1-Digest: wVTs2rjieIEfSU00xibFLfTiKkE=
+SHA1-Digest: WQzKeNo62XCd8eLqZddAnpi5+nQ=
 
 Name: assets/Element/Tower/Tower2.png
 SHA1-Digest: C1yfslaMlTnTSGatwwRizU3vPkU=
 
 Name: assets/Element/Tower/Tower3.plist
-SHA1-Digest: vrsASHBJM42QPgXpBuP9iHQcmiE=
+SHA1-Digest: hO5Ui/SQ1e6CC3KdXra2cfTqOsc=
 
 Name: assets/Element/Tower/Tower3.png
 SHA1-Digest: NWEzPH45uOE7Al4ANmzxwzYmAmY=
 
 Name: assets/Element/Tower/TowerDate.xml
-SHA1-Digest: O9TCLnMn/RGXGUStHtmrnfT2Rbs=
+SHA1-Digest: HuPhksE90/ZeB3V/Ndu9UHQpwAc=
 
 Name: assets/Element/Tsunade/Tsunade.plist
 SHA1-Digest: qDHdkYEryx0wYhgOfKOsS5Ev4AE=
@@ -2856,19 +2859,19 @@ Name: assets/Select2.png
 SHA1-Digest: eno/qDjlmtS+gwpR7W+5aycj0Rg=
 
 Name: assets/Tiles/1.tmx
-SHA1-Digest: WgOTJIvhM0qeCrRiCgktuvoxuAk=
+SHA1-Digest: Gz/DXrA/PMc/VhDqNcr1Eove7V4=
 
 Name: assets/Tiles/2.tmx
-SHA1-Digest: eOfL1o1KgTX8CP6YM5AstQLQK6c=
+SHA1-Digest: tuyXZtz+wpokk/DDCPeLjtDN6JM=
 
 Name: assets/Tiles/3.tmx
 SHA1-Digest: IYKNn3XMA6TE9rdMVqvrwTGoeJU=
 
 Name: assets/Tiles/map_bg1.png
-SHA1-Digest: hqq3vHg5SW2E+SEgiHV83fI1KDE=
+SHA1-Digest: LGavRvM69DeAMOwP8TcsVyHv2lQ=
 
 Name: assets/Tiles/map_bg2.png
-SHA1-Digest: ZwUhUmvudZWVKZ03/8TnEJJ9/lg=
+SHA1-Digest: ERXW2ivWbsow4LIkxxsyZOfyM/Q=
 
 Name: assets/Tiles/map_bg3.png
 SHA1-Digest: Dehx8x0xAq6QYCE91pW7ljmV8g8=

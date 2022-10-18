@@ -125,11 +125,11 @@
    </action>
     <action value="skill02">
         <date>
-          <dateName type="attackType">cAttack</dateName>
-          <dateName type="attackValue">800</dateName>
+          <dateName type="attackType">hBuff</dateName>
+          <dateName type="attackValue">1800</dateName>
           <dateName type="attackRangeX">32</dateName>
           <dateName type="attackRangeY">48</dateName>
-          <coldName type="coldDown">10</coldName>
+          <coldName type="coldDown">5</coldName>
         </date>
         <frame>
           <frameName>Han_Skill02_001.png</frameName>
@@ -145,6 +145,7 @@
           <eventName type="setDelay">10</eventName>
           <eventName type="setAttackBox">b_hit</eventName>
           <eventName type="setDelay">10</eventName>
+          <eventName type="setBuff">100000</eventName>
         </frame>
     </action>
     <action value="skill03">
@@ -153,9 +154,10 @@
           <dateName type="attackValue">660</dateName>
           <dateName type="attackRangeX">32</dateName>
           <dateName type="attackRangeY">48</dateName>
-          <coldName type="coldDown">10</coldName>
+          <coldName type="coldDown">60</coldName>
         </date>
-      <frame> </frame>
+      <frame> 
+      </frame>
     </action>
    <action value="skill04">
      <date>

@@ -112,7 +112,7 @@
             <dateName type="attackValue">0</dateName>
             <dateName type="attackRangeX">0</dateName>
             <dateName type="attackRangeY">10</dateName>
-            <coldName type="coldDown">10</coldName>
+            <coldName type="coldDown">18</coldName>
         </date>
         <frame>
             <frameName>Neji_Skill01_01.png</frameName>
@@ -128,7 +128,7 @@
     <action value="skill02">
         <date>
             <dateName type="attackType">aAttack</dateName>
-            <dateName type="attackValue">750</dateName>
+            <dateName type="attackValue">350</dateName>
             <dateName type="attackRangeX">0</dateName>
             <dateName type="attackRangeY">48</dateName>
             <coldName type="coldDown">8</coldName>
@@ -155,7 +155,7 @@
     <action value="skill03">
         <date>
             <dateName type="attackType">aAttack</dateName>
-            <dateName type="attackValue">100</dateName>
+            <dateName type="attackValue">40</dateName>
             <dateName type="attackRangeX">64</dateName>
             <dateName type="attackRangeY">48</dateName>
             <coldName type="coldDown">15</coldName>
@@ -232,7 +232,7 @@
     <action value="skill04">
         <date>
             <dateName type="attackType">aAttack</dateName>
-            <dateName type="attackValue">710</dateName>
+            <dateName type="attackValue">360</dateName>
             <dateName type="attackRangeX">0</dateName>
             <dateName type="attackRangeY">48</dateName>
             <coldName type="coldDown">1</coldName>
@@ -314,7 +314,7 @@
     <action value="skill05">
         <date>
             <dateName type="attackType">aAttack</dateName>
-            <dateName type="attackValue">1200</dateName>
+            <dateName type="attackValue">300</dateName>
             <dateName type="attackRangeX">16</dateName>
             <dateName type="attackRangeY">48</dateName>
             <coldName type="coldDown">1</coldName>
