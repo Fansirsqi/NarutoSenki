@@ -10,9 +10,9 @@
         <coldName type="coldDown">0</coldName>
       </date>
       <frame>
-        <frameName>SpcKunai_Move_01.png</frameName>
-          <frameName>SpcKunai_Move_02.png</frameName>
-          <frameName>SpcKunai_Move_03.png</frameName>
+        <frameName>HiraishinKunai_Move_01.png</frameName>
+          <frameName>HiraishinKunai_Move_02.png</frameName>
+          <frameName>HiraishinKunai_Move_03.png</frameName>
       </frame>
     </action>
    
@@ -51,15 +51,15 @@
     <action value="nAttack">
       <date>
 	    <dateName type="attackType">nAttack</dateName>
-        <dateName type="attackValue">240</dateName>
+        <dateName type="attackValue">580</dateName>
         <dateName type="attackRangeX">32</dateName>
         <dateName type="attackRangeY">0</dateName>
         <coldName type="coldDown">0</coldName>
       </date>
       <frame>
-          <frameName>SpcKunai_Move_03.png</frameName>
+          <frameName>HiraishinKunai_Move_03.png</frameName>
           <eventName type="setAttackBox">bl_hit</eventName>
-          <frameName>SpcKunai_Move_04.png</frameName>
+          <frameName>HiraishinKunai_Move_04.png</frameName>
           <eventName type="setAttackBox">bl_hit</eventName>
       </frame>
     </action>

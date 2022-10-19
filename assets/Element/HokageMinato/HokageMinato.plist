@@ -7,7 +7,7 @@
             <key>HokageMinato_AirHurt_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{644,382},{41,71}}</string>
+                <string>{{86,759},{41,71}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -20,11 +20,11 @@
             <key>HokageMinato_Float_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{816,410},{58,45}}</string>
+                <string>{{378,915},{58,45}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{58,45}}</string>
                 <key>sourceSize</key>
@@ -33,7 +33,7 @@
             <key>HokageMinato_Float_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{80,505},{57,74}}</string>
+                <string>{{153,966},{57,74}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -46,7 +46,7 @@
             <key>HokageMinato_Float_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{158,449},{74,57}}</string>
+                <string>{{78,966},{74,57}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -59,7 +59,7 @@
             <key>HokageMinato_Hurt_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{75,564},{54,71}}</string>
+                <string>{{693,854},{54,71}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -72,11 +72,11 @@
             <key>HokageMinato_Hurt_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{982,595},{40,73}}</string>
+                <string>{{542,871},{40,73}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{40,73}}</string>
                 <key>sourceSize</key>
@@ -85,11 +85,11 @@
             <key>HokageMinato_Idle_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{547,465},{34,83}}</string>
+                <string>{{444,474},{34,83}}</string>
                 <key>offset</key>
                 <string>{3,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{18,0},{34,83}}</string>
                 <key>sourceSize</key>
@@ -98,7 +98,7 @@
             <key>HokageMinato_Idle_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{772,405},{42,83}}</string>
+                <string>{{85,831},{42,83}}</string>
                 <key>offset</key>
                 <string>{6,0}</string>
                 <key>rotated</key>
@@ -111,7 +111,7 @@
             <key>HokageMinato_Idle_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{687,405},{50,83}}</string>
+                <string>{{85,915},{50,83}}</string>
                 <key>offset</key>
                 <string>{5,0}</string>
                 <key>rotated</key>
@@ -124,7 +124,7 @@
             <key>HokageMinato_Idle_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{462,446},{54,83}}</string>
+                <string>{{891,496},{54,83}}</string>
                 <key>offset</key>
                 <string>{5,0}</string>
                 <key>rotated</key>
@@ -137,11 +137,11 @@
             <key>HokageMinato_KnockDown_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{644,455},{71,41}}</string>
+                <string>{{386,872},{71,41}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{71,41}}</string>
                 <key>sourceSize</key>
@@ -150,7 +150,7 @@
             <key>HokageMinato_KnockDown_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{158,449},{74,57}}</string>
+                <string>{{78,966},{74,57}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -163,7 +163,7 @@
             <key>HokageMinato_KnockDown_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{841,193},{77,24}}</string>
+                <string>{{292,837},{77,24}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -176,7 +176,7 @@
             <key>HokageMinato_KnockDown_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{521,594},{54,54}}</string>
+                <string>{{778,937},{54,54}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -189,11 +189,11 @@
             <key>HokageMinato_KnockDown_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{816,281},{48,56}}</string>
+                <string>{{251,915},{48,56}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{48,56}}</string>
                 <key>sourceSize</key>
@@ -202,7 +202,7 @@
             <key>HokageMinato_NAttack_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{73,620},{42,68}}</string>
+                <string>{{317,872},{42,68}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -215,7 +215,7 @@
             <key>HokageMinato_NAttack_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{687,560},{50,81}}</string>
+                <string>{{169,915},{50,81}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -228,11 +228,11 @@
             <key>HokageMinato_NAttack_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{900,507},{81,79}}</string>
+                <string>{{363,724},{81,79}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{81,79}}</string>
                 <key>sourceSize</key>
@@ -241,7 +241,7 @@
             <key>HokageMinato_NAttack_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{897,658},{77,79}}</string>
+                <string>{{212,837},{77,79}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -254,11 +254,11 @@
             <key>HokageMinato_NAttack_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{770,569},{44,81}}</string>
+                <string>{{437,914},{44,81}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{44,81}}</string>
                 <key>sourceSize</key>
@@ -267,7 +267,7 @@
             <key>HokageMinato_NAttack_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{463,363},{83,81}}</string>
+                <string>{{1,823},{83,81}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -280,11 +280,11 @@
             <key>HokageMinato_NAttack_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{899,588},{81,68}}</string>
+                <string>{{550,706},{81,68}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{81,68}}</string>
                 <key>sourceSize</key>
@@ -293,11 +293,11 @@
             <key>HokageMinato_NAttack_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{312,486},{38,76}}</string>
+                <string>{{639,782},{38,76}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{38,76}}</string>
                 <key>sourceSize</key>
@@ -306,11 +306,11 @@
             <key>HokageMinato_NAttack_09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{772,490},{42,77}}</string>
+                <string>{{128,872},{42,77}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{42,77}}</string>
                 <key>sourceSize</key>
@@ -319,11 +319,11 @@
             <key>HokageMinato_NAttack_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{148,573},{56,68}}</string>
+                <string>{{721,955},{56,68}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{56,68}}</string>
                 <key>sourceSize</key>
@@ -332,7 +332,7 @@
             <key>HokageMinato_NAttack_11.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{162,255},{65,77}}</string>
+                <string>{{357,806},{65,77}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -345,11 +345,11 @@
             <key>HokageMinato_NAttack_12.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{632,528},{53,76}}</string>
+                <string>{{778,597},{53,76}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{53,76}}</string>
                 <key>sourceSize</key>
@@ -358,7 +358,7 @@
             <key>HokageMinato_Skill01_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{312,440},{44,76}}</string>
+                <string>{{616,866},{44,76}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -371,11 +371,11 @@
             <key>HokageMinato_Skill01_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{863,437},{31,83}}</string>
+                <string>{{859,384},{31,83}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{31,83}}</string>
                 <key>sourceSize</key>
@@ -384,11 +384,11 @@
             <key>HokageMinato_Skill01_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{463,303},{84,58}}</string>
+                <string>{{384,555},{84,58}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{84,58}}</string>
                 <key>sourceSize</key>
@@ -397,59 +397,59 @@
             <key>HokageMinato_Skill01_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{458,565},{61,55}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{61,55}}</string>
-                <key>sourceSize</key>
-                <string>{61,55}</string>
-            </dict>
-            <key>HokageMinato_Skill02_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{770,569},{44,81}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{44,81}}</string>
-                <key>sourceSize</key>
-                <string>{44,81}</string>
-            </dict>
-            <key>HokageMinato_Skill02_02.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{899,588},{81,68}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{81,68}}</string>
-                <key>sourceSize</key>
-                <string>{81,68}</string>
-            </dict>
-            <key>HokageMinato_Skill02_03.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{312,486},{38,76}}</string>
+                <string>{{722,597},{61,55}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
+                <string>{{0,0},{61,55}}</string>
+                <key>sourceSize</key>
+                <string>{61,55}</string>
+            </dict>
+            <key>HokageMinato_Skill02_00.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{437,914},{44,81}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{44,81}}</string>
+                <key>sourceSize</key>
+                <string>{44,81}</string>
+            </dict>
+            <key>HokageMinato_Skill02_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{550,706},{81,68}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{81,68}}</string>
+                <key>sourceSize</key>
+                <string>{81,68}</string>
+            </dict>
+            <key>HokageMinato_Skill02_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{639,782},{38,76}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
                 <string>{{0,0},{38,76}}</string>
                 <key>sourceSize</key>
                 <string>{38,76}</string>
             </dict>
-            <key>HokageMinato_Skill02_04.png</key>
+            <key>HokageMinato_Skill02_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{312,394},{44,76}}</string>
+                <string>{{597,912},{44,76}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -459,10 +459,36 @@
                 <key>sourceSize</key>
                 <string>{44,76}</string>
             </dict>
+            <key>HokageMinato_Skill02_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{746,731},{71,67}}</string>
+                <key>offset</key>
+                <string>{2,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{4,0},{71,67}}</string>
+                <key>sourceSize</key>
+                <string>{75,67}</string>
+            </dict>
             <key>HokageMinato_Skill02_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{244,242},{73,67}}</string>
+                <string>{{722,659},{71,67}}</string>
+                <key>offset</key>
+                <string>{2,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{4,0},{71,67}}</string>
+                <key>sourceSize</key>
+                <string>{75,67}</string>
+            </dict>
+            <key>HokageMinato_Skill02_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{678,780},{73,67}}</string>
                 <key>offset</key>
                 <string>{1,0}</string>
                 <key>rotated</key>
@@ -472,140 +498,101 @@
                 <key>sourceSize</key>
                 <string>{75,67}</string>
             </dict>
-            <key>HokageMinato_Skill02_06.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{244,165},{75,67}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{75,67}}</string>
-                <key>sourceSize</key>
-                <string>{75,67}</string>
-            </dict>
             <key>HokageMinato_Skill02_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,509},{71,67}}</string>
+                <string>{{443,558},{34,34}}</string>
                 <key>offset</key>
-                <string>{2,0}</string>
+                <string>{-7,35}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{4,0},{71,67}}</string>
+                <string>{{38,21},{34,34}}</string>
                 <key>sourceSize</key>
-                <string>{75,67}</string>
+                <string>{124,146}</string>
             </dict>
             <key>HokageMinato_Skill02_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{229,513},{68,67}}</string>
+                <string>{{604,478},{66,74}}</string>
                 <key>offset</key>
-                <string>{2,0}</string>
+                <string>{-5,36}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{4,0},{68,67}}</string>
+                <string>{{24,0},{66,74}}</string>
                 <key>sourceSize</key>
-                <string>{72,67}</string>
+                <string>{124,146}</string>
             </dict>
             <key>HokageMinato_Skill02_09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{428,342},{33,33}}</string>
+                <string>{{147,521},{84,136}}</string>
                 <key>offset</key>
-                <string>{0,47}</string>
+                <string>{-2,-2}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{33,33}}</string>
+                <string>{{18,4},{84,136}}</string>
                 <key>sourceSize</key>
-                <string>{33,127}</string>
+                <string>{124,140}</string>
             </dict>
             <key>HokageMinato_Skill02_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,374},{66,76}}</string>
-                <key>offset</key>
-                <string>{-15,37}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{14,0},{66,76}}</string>
-                <key>sourceSize</key>
-                <string>{124,150}</string>
-            </dict>
-            <key>HokageMinato_Skill02_11.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{697,193},{86,142}}</string>
-                <key>offset</key>
-                <string>{-7,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{12,0},{86,142}}</string>
-                <key>sourceSize</key>
-                <string>{124,142}</string>
-            </dict>
-            <key>HokageMinato_Skill02_12.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{710,91},{100,156}}</string>
-                <key>offset</key>
-                <string>{-4,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{8,0},{100,156}}</string>
-                <key>sourceSize</key>
-                <string>{124,156}</string>
-            </dict>
-            <key>HokageMinato_Skill02_13.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{313,95},{124,148}}</string>
+                <string>{{237,410},{100,146}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{124,148}}</string>
+                <string>{{12,0},{100,146}}</string>
                 <key>sourceSize</key>
-                <string>{124,148}</string>
+                <string>{124,146}</string>
             </dict>
-            <key>HokageMinato_Skill02_14.png</key>
+            <key>HokageMinato_Skill02_11.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{888,74},{116,128}}</string>
+                <string>{{1,465},{124,145}}</string>
                 <key>offset</key>
-                <string>{-1,-14}</string>
+                <string>{0,-5}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{3,28},{116,128}}</string>
+                <string>{{0,10},{124,145}}</string>
                 <key>sourceSize</key>
-                <string>{124,156}</string>
+                <string>{124,155}</string>
             </dict>
-            <key>HokageMinato_Skill02_15.png</key>
+            <key>HokageMinato_Skill02_12.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{687,281},{122,127}}</string>
+                <string>{{902,172},{116,132}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{4,0},{116,132}}</string>
+                <key>sourceSize</key>
+                <string>{124,132}</string>
+            </dict>
+            <key>HokageMinato_Skill02_13.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{891,305},{122,132}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{122,127}}</string>
+                <string>{{0,0},{122,132}}</string>
                 <key>sourceSize</key>
-                <string>{124,127}</string>
+                <string>{124,132}</string>
             </dict>
-            <key>HokageMinato_Skill02_16.png</key>
+            <key>HokageMinato_Skill02_14.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{80,446},{76,57}}</string>
+                <string>{{1,966},{76,57}}</string>
                 <key>offset</key>
                 <string>{-13,20}</string>
                 <key>rotated</key>
@@ -615,36 +602,36 @@
                 <key>sourceSize</key>
                 <string>{124,127}</string>
             </dict>
-            <key>HokageMinato_Skill02_17.png</key>
+            <key>HokageMinato_Skill02_15.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{390,524},{66,63}}</string>
+                <string>{{814,723},{66,63}}</string>
                 <key>offset</key>
                 <string>{-12,20}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{17,12},{66,63}}</string>
                 <key>sourceSize</key>
                 <string>{124,127}</string>
             </dict>
-            <key>HokageMinato_Skill02_18.png</key>
+            <key>HokageMinato_Skill02_16.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,702},{62,59}}</string>
+                <string>{{384,492},{62,59}}</string>
                 <key>offset</key>
                 <string>{-10,20}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{21,14},{62,59}}</string>
                 <key>sourceSize</key>
                 <string>{124,127}</string>
             </dict>
-            <key>HokageMinato_Skill02_19.png</key>
+            <key>HokageMinato_Skill02_17.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{948,437},{34,34}}</string>
+                <string>{{975,496},{34,34}}</string>
                 <key>offset</key>
                 <string>{0,2}</string>
                 <key>rotated</key>
@@ -654,205 +641,348 @@
                 <key>sourceSize</key>
                 <string>{34,86}</string>
             </dict>
+            <key>HokageMinato_Skill02_18.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1,905},{60,83}}</string>
+                <key>offset</key>
+                <string>{6,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{17,0},{60,83}}</string>
+                <key>sourceSize</key>
+                <string>{82,83}</string>
+            </dict>
+            <key>HokageMinato_Skill02_19.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{128,792},{70,83}}</string>
+                <key>offset</key>
+                <string>{6,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{12,0},{70,83}}</string>
+                <key>sourceSize</key>
+                <string>{82,83}</string>
+            </dict>
             <key>HokageMinato_Skill02_20.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{463,241},{60,84}}</string>
+                <string>{{370,640},{72,83}}</string>
                 <key>offset</key>
-                <string>{0,-1}</string>
+                <string>{5,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,2},{60,84}}</string>
+                <string>{{10,0},{72,83}}</string>
                 <key>sourceSize</key>
-                <string>{60,86}</string>
+                <string>{82,83}</string>
             </dict>
-            <key>HokageMinato_Skill02_21.png</key>
+            <key>HokageMinato_Skill03_00.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{463,169},{70,84}}</string>
+                <string>{{859,468},{31,82}}</string>
                 <key>offset</key>
-                <string>{0,-1}</string>
+                <string>{-6,-70}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,2},{70,84}}</string>
+                <string>{{181,140},{31,82}}</string>
                 <key>sourceSize</key>
-                <string>{70,86}</string>
-            </dict>
-            <key>HokageMinato_Skill02_22.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{463,95},{72,84}}</string>
-                <key>offset</key>
-                <string>{0,-1}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,2},{72,84}}</string>
-                <key>sourceSize</key>
-                <string>{72,86}</string>
+                <string>{405,222}</string>
             </dict>
             <key>HokageMinato_Skill03_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{312,440},{44,76}}</string>
+                <string>{{510,706},{39,82}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-4,-70}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{44,76}}</string>
+                <string>{{179,140},{39,82}}</string>
                 <key>sourceSize</key>
-                <string>{44,76}</string>
+                <string>{405,222}</string>
             </dict>
             <key>HokageMinato_Skill03_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{985,347},{35,83}}</string>
+                <string>{{229,785},{51,98}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{1,-62}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{35,83}}</string>
+                <string>{{178,124},{51,98}}</string>
                 <key>sourceSize</key>
-                <string>{35,83}</string>
+                <string>{405,222}</string>
             </dict>
             <key>HokageMinato_Skill03_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{547,501},{31,83}}</string>
+                <string>{{479,478},{45,124}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-1,-49}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{31,83}}</string>
+                <string>{{179,98},{45,124}}</string>
                 <key>sourceSize</key>
-                <string>{31,83}</string>
+                <string>{405,222}</string>
             </dict>
             <key>HokageMinato_Skill03_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{123,165},{88,119}}</string>
+                <string>{{232,575},{55,138}}</string>
                 <key>offset</key>
-                <string>{6,0}</string>
+                <string>{1,-42}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{12,0},{88,119}}</string>
+                <string>{{176,84},{55,138}}</string>
                 <key>sourceSize</key>
-                <string>{100,119}</string>
+                <string>{405,222}</string>
             </dict>
             <key>HokageMinato_Skill03_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,165},{88,119}}</string>
+                <string>{{855,551},{61,168}}</string>
                 <key>offset</key>
-                <string>{6,0}</string>
+                <string>{-4,-27}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{12,0},{88,119}}</string>
+                <string>{{168,54},{61,168}}</string>
                 <key>sourceSize</key>
-                <string>{100,119}</string>
+                <string>{405,222}</string>
             </dict>
             <key>HokageMinato_Skill03_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{864,347},{88,119}}</string>
+                <string>{{680,384},{87,178}}</string>
                 <key>offset</key>
-                <string>{6,0}</string>
+                <string>{-4,-22}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{12,0},{88,119}}</string>
+                <string>{{155,44},{87,178}}</string>
                 <key>sourceSize</key>
-                <string>{100,119}</string>
+                <string>{405,222}</string>
             </dict>
             <key>HokageMinato_Skill03_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{867,271},{128,74}}</string>
+                <string>{{237,312},{97,206}}</string>
                 <key>offset</key>
-                <string>{34,0}</string>
+                <string>{-4,-8}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{255,0},{128,74}}</string>
+                <string>{{150,16},{97,206}}</string>
                 <key>sourceSize</key>
-                <string>{570,74}</string>
+                <string>{405,222}</string>
             </dict>
             <key>HokageMinato_Skill03_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{548,382},{94,81}}</string>
+                <string>{{479,376},{101,200}}</string>
                 <key>offset</key>
-                <string>{31,0}</string>
+                <string>{-1,-11}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{269,0},{94,81}}</string>
+                <string>{{151,22},{101,200}}</string>
                 <key>sourceSize</key>
-                <string>{570,81}</string>
+                <string>{405,222}</string>
             </dict>
             <key>HokageMinato_Skill03_09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,83},{204,80}}</string>
+                <string>{{237,224},{87,208}}</string>
                 <key>offset</key>
-                <string>{77,0}</string>
+                <string>{-4,-7}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{260,0},{204,80}}</string>
+                <string>{{155,14},{87,208}}</string>
                 <key>sourceSize</key>
-                <string>{570,80}</string>
+                <string>{405,222}</string>
             </dict>
             <key>HokageMinato_Skill03_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{310,79}}</string>
+                <string>{{686,286},{97,204}}</string>
                 <key>offset</key>
-                <string>{130,0}</string>
+                <string>{-7,-9}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{147,18},{97,204}}</string>
+                <key>sourceSize</key>
+                <string>{405,222}</string>
+            </dict>
+            <key>HokageMinato_Skill03_11.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{479,272},{103,206}}</string>
+                <key>offset</key>
+                <string>{-16,-8}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{135,16},{103,206}}</string>
+                <key>sourceSize</key>
+                <string>{405,222}</string>
+            </dict>
+            <key>HokageMinato_Skill03_12.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1,1},{239,200}}</string>
+                <key>offset</key>
+                <string>{82,-11}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{260,0},{310,79}}</string>
+                <string>{{165,22},{239,200}}</string>
                 <key>sourceSize</key>
-                <string>{570,79}</string>
+                <string>{405,222}</string>
             </dict>
-            <key>HokageMinato_Skill04_001.png</key>
+            <key>HokageMinato_Skill03_13.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{772,490},{42,77}}</string>
+                <string>{{241,1},{237,222}}</string>
+                <key>offset</key>
+                <string>{71,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{155,0},{237,222}}</string>
+                <key>sourceSize</key>
+                <string>{405,222}</string>
+            </dict>
+            <key>HokageMinato_Skill03_14.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1,202},{235,186}}</string>
+                <key>offset</key>
+                <string>{84,-18}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{169,36},{235,186}}</string>
+                <key>sourceSize</key>
+                <string>{405,222}</string>
+            </dict>
+            <key>HokageMinato_Skill03_15.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{479,93},{215,178}}</string>
+                <key>offset</key>
+                <string>{82,-22}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{177,44},{215,178}}</string>
+                <key>sourceSize</key>
+                <string>{405,222}</string>
+            </dict>
+            <key>HokageMinato_Skill03_16.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{714,1},{219,170}}</string>
+                <key>offset</key>
+                <string>{84,-26}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{177,52},{219,170}}</string>
+                <key>sourceSize</key>
+                <string>{405,222}</string>
+            </dict>
+            <key>HokageMinato_Skill03_17.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{891,428},{67,128}}</string>
+                <key>offset</key>
+                <string>{6,-47}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{175,94},{67,128}}</string>
+                <key>sourceSize</key>
+                <string>{405,222}</string>
+            </dict>
+            <key>HokageMinato_Skill03_18.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{128,722},{69,100}}</string>
+                <key>offset</key>
+                <string>{6,-61}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{174,122},{69,100}}</string>
+                <key>sourceSize</key>
+                <string>{405,222}</string>
+            </dict>
+            <key>HokageMinato_Skill03_19.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1,759},{63,84}}</string>
+                <key>offset</key>
+                <string>{11,-69}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{182,138},{63,84}}</string>
+                <key>sourceSize</key>
+                <string>{405,222}</string>
+            </dict>
+            <key>HokageMinato_Skill03_20.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{144,658},{63,84}}</string>
+                <key>offset</key>
+                <string>{15,-69}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{186,138},{63,84}}</string>
+                <key>sourceSize</key>
+                <string>{405,222}</string>
+            </dict>
+            <key>HokageMinato_Skill04_00.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{128,872},{42,77}}</string>
                 <key>offset</key>
                 <string>{-7,-32}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{188,64},{42,77}}</string>
                 <key>sourceSize</key>
                 <string>{432,141}</string>
             </dict>
-            <key>HokageMinato_Skill04_002.png</key>
+            <key>HokageMinato_Skill04_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,578},{56,69}}</string>
+                <string>{{665,625},{56,69}}</string>
                 <key>offset</key>
                 <string>{14,-36}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{202,72},{56,69}}</string>
                 <key>sourceSize</key>
                 <string>{432,141}</string>
             </dict>
-            <key>HokageMinato_Skill04_003.png</key>
+            <key>HokageMinato_Skill04_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{83,255},{66,77}}</string>
+                <string>{{643,957},{66,77}}</string>
                 <key>offset</key>
                 <string>{42,-32}</string>
                 <key>rotated</key>
@@ -862,23 +992,23 @@
                 <key>sourceSize</key>
                 <string>{432,141}</string>
             </dict>
-            <key>HokageMinato_Skill04_004.png</key>
+            <key>HokageMinato_Skill04_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{83,323},{54,77}}</string>
+                <string>{{584,788},{54,77}}</string>
                 <key>offset</key>
                 <string>{37,-32}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{226,64},{54,77}}</string>
                 <key>sourceSize</key>
                 <string>{432,141}</string>
             </dict>
-            <key>HokageMinato_Skill04_005.png</key>
+            <key>HokageMinato_Skill04_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{80,446},{76,57}}</string>
+                <string>{{1,966},{76,57}}</string>
                 <key>offset</key>
                 <string>{45,-37}</string>
                 <key>rotated</key>
@@ -888,10 +1018,10 @@
                 <key>sourceSize</key>
                 <string>{432,141}</string>
             </dict>
-            <key>HokageMinato_Skill04_006.png</key>
+            <key>HokageMinato_Skill04_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{208,83},{80,103}}</string>
+                <string>{{229,704},{80,103}}</string>
                 <key>offset</key>
                 <string>{51,-17}</string>
                 <key>rotated</key>
@@ -901,10 +1031,10 @@
                 <key>sourceSize</key>
                 <string>{432,141}</string>
             </dict>
-            <key>HokageMinato_Skill04_007.png</key>
+            <key>HokageMinato_Skill04_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{313,292},{100,113}}</string>
+                <string>{{478,605},{100,113}}</string>
                 <key>offset</key>
                 <string>{66,-10}</string>
                 <key>rotated</key>
@@ -914,10 +1044,10 @@
                 <key>sourceSize</key>
                 <string>{432,141}</string>
             </dict>
-            <key>HokageMinato_Skill04_008.png</key>
+            <key>HokageMinato_Skill04_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{80,446},{76,57}}</string>
+                <string>{{1,966},{76,57}}</string>
                 <key>offset</key>
                 <string>{74,13}</string>
                 <key>rotated</key>
@@ -927,10 +1057,10 @@
                 <key>sourceSize</key>
                 <string>{432,141}</string>
             </dict>
-            <key>HokageMinato_Skill04_009.png</key>
+            <key>HokageMinato_Skill04_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{549,168},{146,63}}</string>
+                <string>{{237,511},{146,63}}</string>
                 <key>offset</key>
                 <string>{114,13}</string>
                 <key>rotated</key>
@@ -940,10 +1070,10 @@
                 <key>sourceSize</key>
                 <string>{432,141}</string>
             </dict>
-            <key>HokageMinato_Skill04_010.png</key>
+            <key>HokageMinato_Skill04_09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{550,91},{158,75}}</string>
+                <string>{{1,389},{158,75}}</string>
                 <key>offset</key>
                 <string>{125,12}</string>
                 <key>rotated</key>
@@ -953,10 +1083,10 @@
                 <key>sourceSize</key>
                 <string>{432,141}</string>
             </dict>
-            <key>HokageMinato_Skill04_011.png</key>
+            <key>HokageMinato_Skill04_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{80,446},{76,57}}</string>
+                <string>{{1,966},{76,57}}</string>
                 <key>offset</key>
                 <string>{178,9}</string>
                 <key>rotated</key>
@@ -966,10 +1096,10 @@
                 <key>sourceSize</key>
                 <string>{432,141}</string>
             </dict>
-            <key>HokageMinato_Skill04_012.png</key>
+            <key>HokageMinato_Skill04_11.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{314,2},{234,91}}</string>
+                <string>{{479,1},{234,91}}</string>
                 <key>offset</key>
                 <string>{95,-5}</string>
                 <key>rotated</key>
@@ -979,10 +1109,10 @@
                 <key>sourceSize</key>
                 <string>{432,141}</string>
             </dict>
-            <key>HokageMinato_Skill04_013.png</key>
+            <key>HokageMinato_Skill04_12.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{158,382},{76,65}}</string>
+                <string>{{435,806},{76,65}}</string>
                 <key>offset</key>
                 <string>{-5,-38}</string>
                 <key>rotated</key>
@@ -992,101 +1122,114 @@
                 <key>sourceSize</key>
                 <string>{432,141}</string>
             </dict>
-            <key>HokageMinato_Skill04_014.png</key>
+            <key>HokageMinato_Skill04_13.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{549,314},{108,66}}</string>
+                <string>{{1,684},{126,74}}</string>
                 <key>offset</key>
-                <string>{9,0}</string>
+                <string>{14,-3}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{67,0},{108,66}}</string>
+                <string>{{30,6},{126,74}}</string>
                 <key>sourceSize</key>
-                <string>{224,66}</string>
+                <string>{158,80}</string>
             </dict>
-            <key>HokageMinato_Skill04_015.png</key>
+            <key>HokageMinato_Skill04_14.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{888,2},{134,70}}</string>
+                <string>{{232,631},{137,72}}</string>
                 <key>offset</key>
-                <string>{6,-1}</string>
+                <string>{7,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{51,2},{134,70}}</string>
+                <string>{{25,0},{137,72}}</string>
                 <key>sourceSize</key>
-                <string>{224,72}</string>
+                <string>{173,72}</string>
             </dict>
-            <key>HokageMinato_Skill04_016.png</key>
+            <key>HokageMinato_Skill04_15.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{313,221},{118,69}}</string>
+                <string>{{479,524},{122,80}}</string>
                 <key>offset</key>
-                <string>{14,-2}</string>
+                <string>{22,-1}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{67,4},{118,69}}</string>
+                <string>{{110,2},{122,80}}</string>
                 <key>sourceSize</key>
-                <string>{224,73}</string>
+                <string>{298,82}</string>
             </dict>
-            <key>HokageMinato_Skill04_017.png</key>
+            <key>HokageMinato_Skill04_16.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{868,192},{152,77}}</string>
+                <string>{{934,1},{170,88}}</string>
                 <key>offset</key>
-                <string>{15,-1}</string>
+                <string>{30,-2}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{51,2},{152,77}}</string>
+                <string>{{94,4},{170,88}}</string>
                 <key>sourceSize</key>
-                <string>{224,79}</string>
+                <string>{298,92}</string>
             </dict>
-            <key>HokageMinato_Skill04_018.png</key>
+            <key>HokageMinato_Skill04_17.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{549,233},{136,79}}</string>
+                <string>{{1,590},{142,93}}</string>
                 <key>offset</key>
-                <string>{23,0}</string>
+                <string>{34,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{67,0},{136,79}}</string>
+                <string>{{112,0},{142,93}}</string>
                 <key>sourceSize</key>
-                <string>{224,79}</string>
+                <string>{298,93}</string>
             </dict>
-            <key>HokageMinato_Skill04_019.png</key>
+            <key>HokageMinato_Skill04_18.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{550,2},{174,87}}</string>
+                <string>{{695,172},{206,113}}</string>
                 <key>offset</key>
-                <string>{25,0}</string>
+                <string>{46,-5}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{50,0},{174,87}}</string>
+                <string>{{92,10},{206,113}}</string>
                 <key>sourceSize</key>
-                <string>{224,87}</string>
+                <string>{298,123}</string>
             </dict>
-            <key>HokageMinato_Skill04_020.png</key>
+            <key>HokageMinato_Skill04_19.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{726,2},{160,87}}</string>
+                <string>{{680,472},{174,124}}</string>
                 <key>offset</key>
-                <string>{32,0}</string>
+                <string>{46,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{64,0},{160,87}}</string>
+                <string>{{108,0},{174,124}}</string>
                 <key>sourceSize</key>
-                <string>{224,87}</string>
+                <string>{298,124}</string>
+            </dict>
+            <key>HokageMinato_Skill04_20.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{680,472},{174,124}}</string>
+                <key>offset</key>
+                <string>{46,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{108,0},{174,124}}</string>
+                <key>sourceSize</key>
+                <string>{298,124}</string>
             </dict>
             <key>HokageMinato_Skill05_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{985,432},{34,83}}</string>
+                <string>{{444,390},{34,83}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1099,11 +1242,11 @@
             <key>HokageMinato_Skill05_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{978,670},{44,77}}</string>
+                <string>{{519,913},{44,77}}</string>
                 <key>offset</key>
                 <string>{-1,-3}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,6},{44,77}}</string>
                 <key>sourceSize</key>
@@ -1112,7 +1255,7 @@
             <key>HokageMinato_Skill05_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,329},{43,77}}</string>
+                <string>{{674,911},{43,77}}</string>
                 <key>offset</key>
                 <string>{-2,-3}</string>
                 <key>rotated</key>
@@ -1125,11 +1268,11 @@
             <key>HokageMinato_Skill05_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{816,470},{29,83}}</string>
+                <string>{{333,704},{29,83}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{7,0},{29,83}}</string>
                 <key>sourceSize</key>
@@ -1138,7 +1281,7 @@
             <key>HokageMinato_Skill05_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{433,221},{28,83}}</string>
+                <string>{{328,788},{28,83}}</string>
                 <key>offset</key>
                 <string>{3,0}</string>
                 <key>rotated</key>
@@ -1151,11 +1294,11 @@
             <key>HokageMinato_Skill05_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{816,501},{32,82}}</string>
+                <string>{{443,661},{32,82}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{32,82}}</string>
                 <key>sourceSize</key>
@@ -1164,11 +1307,11 @@
             <key>HokageMinato_Skill05_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{901,473},{32,82}}</string>
+                <string>{{446,307},{32,82}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{32,82}}</string>
                 <key>sourceSize</key>
@@ -1177,7 +1320,7 @@
             <key>HokageMinato_Skill05_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{428,377},{32,82}}</string>
+                <string>{{446,224},{32,82}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1190,7 +1333,7 @@
             <key>HokageMinato_Skill05_09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{687,457},{40,83}}</string>
+                <string>{{458,872},{40,83}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1203,37 +1346,24 @@
             <key>HokageMinato_Skill05_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{547,465},{34,83}}</string>
+                <string>{{444,474},{34,83}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{34,83}}</string>
                 <key>sourceSize</key>
                 <string>{34,83}</string>
             </dict>
-            <key>HokageMinato_Skill10_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{462,502},{67,61}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{67,61}}</string>
-                <key>sourceSize</key>
-                <string>{67,61}</string>
-            </dict>
             <key>HokageMinato_Skill10_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{236,448},{74,63}}</string>
+                <string>{{658,705},{74,63}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{74,63}}</string>
                 <key>sourceSize</key>
@@ -1242,7 +1372,7 @@
             <key>HokageMinato_Skill10_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,442},{76,65}}</string>
+                <string>{{160,455},{76,65}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1255,11 +1385,11 @@
             <key>HokageMinato_Skill10_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{143,631},{65,56}}</string>
+                <string>{{586,958},{65,56}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{65,56}}</string>
                 <key>sourceSize</key>
@@ -1268,11 +1398,11 @@
             <key>HokageMinato_Skill10_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{531,534},{62,58}}</string>
+                <string>{{765,874},{62,58}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{62,58}}</string>
                 <key>sourceSize</key>
@@ -1281,11 +1411,11 @@
             <key>HokageMinato_Skill10_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{547,465},{34,83}}</string>
+                <string>{{444,474},{34,83}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{34,83}}</string>
                 <key>sourceSize</key>
@@ -1294,11 +1424,11 @@
             <key>HokageMinato_Skill12_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{816,608},{77,79}}</string>
+                <string>{{602,545},{77,79}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{77,79}}</string>
                 <key>sourceSize</key>
@@ -1307,7 +1437,7 @@
             <key>HokageMinato_Skill12_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{428,342},{33,33}}</string>
+                <string>{{443,627},{33,33}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1320,11 +1450,11 @@
             <key>HokageMinato_Skill12_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{687,499},{59,81}}</string>
+                <string>{{384,410},{59,81}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{59,81}}</string>
                 <key>sourceSize</key>
@@ -1333,11 +1463,11 @@
             <key>HokageMinato_Skill12_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{816,535},{71,81}}</string>
+                <string>{{512,789},{71,81}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{71,81}}</string>
                 <key>sourceSize</key>
@@ -1346,7 +1476,7 @@
             <key>HokageMinato_Skill12_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{983,517},{38,76}}</string>
+                <string>{{619,705},{38,76}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1359,11 +1489,11 @@
             <key>HokageMinato_Skill12_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{428,306},{34,33}}</string>
+                <string>{{443,593},{34,33}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{11,23},{34,33}}</string>
                 <key>sourceSize</key>
@@ -1372,7 +1502,7 @@
             <key>HokageMinato_Skill12_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{162,322},{58,77}}</string>
+                <string>{{294,964},{58,77}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
@@ -1385,11 +1515,11 @@
             <key>HokageMinato_Skill12_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,255},{72,79}}</string>
+                <string>{{592,625},{72,79}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{72,79}}</string>
                 <key>sourceSize</key>
@@ -1398,11 +1528,11 @@
             <key>HokageMinato_Skill12_09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{71,664},{53,63}}</string>
+                <string>{{854,651},{53,63}}</string>
                 <key>offset</key>
                 <string>{0,1}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{1,7},{53,63}}</string>
                 <key>sourceSize</key>
@@ -1411,7 +1541,7 @@
             <key>HokageMinato_Skill12_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{390,461},{70,61}}</string>
+                <string>{{372,962},{70,61}}</string>
                 <key>offset</key>
                 <string>{0,7}</string>
                 <key>rotated</key>
@@ -1424,11 +1554,11 @@
             <key>HokageMinato_Skill12_11.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{816,339},{46,69}}</string>
+                <string>{{308,915},{46,69}}</string>
                 <key>offset</key>
                 <string>{3,4}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{8,1},{46,69}}</string>
                 <key>sourceSize</key>
@@ -1437,7 +1567,7 @@
             <key>HokageMinato_Skill12_12.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{218,582},{65,57}}</string>
+                <string>{{228,966},{65,57}}</string>
                 <key>offset</key>
                 <string>{0,-11}</string>
                 <key>rotated</key>
@@ -1450,7 +1580,7 @@
             <key>HokageMinato_Walk_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{236,382},{74,64}}</string>
+                <string>{{443,959},{74,64}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1463,11 +1593,11 @@
             <key>HokageMinato_Walk_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{156,508},{71,63}}</string>
+                <string>{{790,651},{71,63}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{71,63}}</string>
                 <key>sourceSize</key>
@@ -1476,7 +1606,7 @@
             <key>HokageMinato_Walk_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{299,526},{61,66}}</string>
+                <string>{{443,744},{61,66}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1489,11 +1619,11 @@
             <key>HokageMinato_Walk_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{241,317},{70,63}}</string>
+                <string>{{765,803},{70,63}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{70,63}}</string>
                 <key>sourceSize</key>
@@ -1502,7 +1632,7 @@
             <key>HokageMinato_Walk_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{80,379},{76,65}}</string>
+                <string>{{160,389},{76,65}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1515,7 +1645,7 @@
             <key>HokageMinato_Walk_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,636},{64,67}}</string>
+                <string>{{518,959},{64,67}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1535,7 +1665,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:91f5a655727dc8e2e8dc062d60663fb7$</string>
+            <string>$TexturePacker:SmartUpdate:07954e53dba7f8c192936d2346fa9451$</string>
             <key>textureFileName</key>
             <string>HokageMinato.png</string>
         </dict>

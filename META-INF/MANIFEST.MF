@@ -464,6 +464,9 @@ SHA1-Digest: hoO3vaDwqlk8nPndNXJzCFNeawU=
 Name: assets/Audio/HokageMinato/HokageMinato_skill1_1.ogg
 SHA1-Digest: zsgax0PAPeDqvLywNYMOKgTvXyI=
 
+Name: assets/Audio/HokageMinato/HokageMinato_skill1_r.ogg
+SHA1-Digest: uhoDbG1Z6BI51QnHgxIt1ZWNgBE=
+
 Name: assets/Audio/HokageMinato/HokageMinato_skill2.ogg
 SHA1-Digest: Iu6tKzzYDmVVbs+92rT5JhS5IQc=
 
@@ -475,6 +478,9 @@ SHA1-Digest: OLS1tBC7TuDVg544XvZgeCyfdmA=
 
 Name: assets/Audio/HokageMinato/HokageMinato_skill4.ogg
 SHA1-Digest: 4JrE3ovFOPbdlEgIatRjPe5sA9s=
+
+Name: assets/Audio/HokageMinato/HokageMinato_skill5.ogg
+SHA1-Digest: y+irQck0YuJUMPZ9xMS4dC+rOM0=
 
 Name: assets/Audio/ImmortalSasuke/ImmortalSasuke_skill1_1.ogg
 SHA1-Digest: bp3NiL+0CiW/trWLeKBUNGDtvB0=
@@ -1881,7 +1887,7 @@ Name: assets/Element/Bullet/Shintenshin.xml
 SHA1-Digest: Gmkl2DAUnyBjqD9Rloz63wZatXo=
 
 Name: assets/Element/Bullet/SpcKunai.xml
-SHA1-Digest: +P8o7EqYOgKvi0N1jZJxlCLhi3w=
+SHA1-Digest: Q4lu8jweFc0FfjWVgzBV7SCY2lo=
 
 Name: assets/Element/Bullet/SuiRyuDan.xml
 SHA1-Digest: aV/hCjUpNCa4oDpVvg2P3lYbksg=
@@ -2037,13 +2043,13 @@ Name: assets/Element/Hiruzen/Hiruzen.xml
 SHA1-Digest: xSlowhkj4x05zoPyUiCZlRgCdb4=
 
 Name: assets/Element/HokageMinato/HokageMinato.plist
-SHA1-Digest: w14OjBXVCNa6vpxgdlNz0JEv1Oc=
+SHA1-Digest: oA0KPWh+QcB7GhRwUgWJvR4t8JE=
 
 Name: assets/Element/HokageMinato/HokageMinato.png
-SHA1-Digest: mr+FzalkeXzXPNppem3xlPy5QLE=
+SHA1-Digest: iJhYglO/6Nl6yCowpuRsTJCX3uU=
 
 Name: assets/Element/HokageMinato/HokageMinato.xml
-SHA1-Digest: GnZNB6oKa2MoJ7B7iFzpHWS1VnM=
+SHA1-Digest: RNzOZMjPIuov2wlIx70YVEH2bH0=
 
 Name: assets/Element/Img_md5.xml
 SHA1-Digest: 1TAe7ioHV5nLCXQPH4LRDOGK8dg=
@@ -2184,7 +2190,7 @@ Name: assets/Element/Minato/Minato.png
 SHA1-Digest: 3ZKfQbllvibDfxMBpQbSvFkEqSE=
 
 Name: assets/Element/Minato/Minato.xml
-SHA1-Digest: ekJny5Uu+R3D+SUR94VBwe9SJKE=
+SHA1-Digest: BfOrPkBpZTjJgrIcp2sDhGyov2U=
 
 Name: assets/Element/Monster/Bug.xml
 SHA1-Digest: dEf3uvWihoGUAFuOBPXJENCwC/c=
@@ -2218,6 +2224,9 @@ SHA1-Digest: SDLptGhOPjgrtmoyWLIFHx/0cIA=
 
 Name: assets/Element/Monster/FakeKisame.xml
 SHA1-Digest: IKlvWxhaIgCDCFxjtatyVnHcJmg=
+
+Name: assets/Element/Monster/FakeMinato.xml
+SHA1-Digest: mzPGT1JZl44rG1d/Rut/L/RUEDU=
 
 Name: assets/Element/Monster/FakeShino.xml
 SHA1-Digest: 3TaAd7UXfnbkcRWUO7k9ocrnkk8=
@@ -2385,7 +2394,7 @@ Name: assets/Element/Neji/Neji.png
 SHA1-Digest: 2NB6sBFPO8MZP3YXFhFNFUAasgU=
 
 Name: assets/Element/Neji/Neji.xml
-SHA1-Digest: 7CzWg4oNsnBUE9f3IR12paNa6Qw=
+SHA1-Digest: UmClqDsfyf9teLDOytSFcheNVrI=
 
 Name: assets/Element/Orochimaru/Orochimaru.plist
 SHA1-Digest: Cfg9wkIpkmNWzciN6tPrbdZqKhI=
@@ -2586,10 +2595,10 @@ Name: assets/Element/Skills/Konan_Skill.png
 SHA1-Digest: ASa4BIKbxUVpZ7pEHDkAfs0w7TE=
 
 Name: assets/Element/Skills/Minato_Skill.plist
-SHA1-Digest: S7afQ5zjZAD1r2XsZMNLayLcMS8=
+SHA1-Digest: soZ+IWYIylzE30NejRFdCn1L94M=
 
 Name: assets/Element/Skills/Minato_Skill.png
-SHA1-Digest: jBwr6PezK0f2d+tNOPcjIaZy6Fo=
+SHA1-Digest: zTvLQeGrHDm0ApOjTk2eIoaO0ro=
 
 Name: assets/Element/Skills/Naruto_Skill.plist
 SHA1-Digest: iZxzfLYedcvjfLvcy/mKUnUfWPY=
@@ -2721,28 +2730,28 @@ Name: assets/Element/Tobirama/Tobirama.xml
 SHA1-Digest: W+KnitMAS6bSVFU4IHQjeIdyck0=
 
 Name: assets/Element/Tower/CenterDate.xml
-SHA1-Digest: DFDR4wv1saeVD/HCMsqmL3dI6Q0=
+SHA1-Digest: pa6QwVccnk8eQnJQwg5JNsQFO2o=
 
 Name: assets/Element/Tower/Tower.plist
-SHA1-Digest: AnOgrDlqHjs/5goSlcRJHcanY2M=
+SHA1-Digest: bXYYE5CaVYGFy0tGd3vpLqIuOTY=
 
 Name: assets/Element/Tower/Tower.png
 SHA1-Digest: xCDlox0gQSXlmtcEhyR+DgLwVw8=
 
 Name: assets/Element/Tower/Tower2.plist
-SHA1-Digest: WQzKeNo62XCd8eLqZddAnpi5+nQ=
+SHA1-Digest: wVTs2rjieIEfSU00xibFLfTiKkE=
 
 Name: assets/Element/Tower/Tower2.png
 SHA1-Digest: C1yfslaMlTnTSGatwwRizU3vPkU=
 
 Name: assets/Element/Tower/Tower3.plist
-SHA1-Digest: hO5Ui/SQ1e6CC3KdXra2cfTqOsc=
+SHA1-Digest: vrsASHBJM42QPgXpBuP9iHQcmiE=
 
 Name: assets/Element/Tower/Tower3.png
 SHA1-Digest: NWEzPH45uOE7Al4ANmzxwzYmAmY=
 
 Name: assets/Element/Tower/TowerDate.xml
-SHA1-Digest: HuPhksE90/ZeB3V/Ndu9UHQpwAc=
+SHA1-Digest: O9TCLnMn/RGXGUStHtmrnfT2Rbs=
 
 Name: assets/Element/Tsunade/Tsunade.plist
 SHA1-Digest: qDHdkYEryx0wYhgOfKOsS5Ev4AE=
@@ -2859,10 +2868,10 @@ Name: assets/Select2.png
 SHA1-Digest: eno/qDjlmtS+gwpR7W+5aycj0Rg=
 
 Name: assets/Tiles/1.tmx
-SHA1-Digest: Gz/DXrA/PMc/VhDqNcr1Eove7V4=
+SHA1-Digest: WgOTJIvhM0qeCrRiCgktuvoxuAk=
 
 Name: assets/Tiles/2.tmx
-SHA1-Digest: tuyXZtz+wpokk/DDCPeLjtDN6JM=
+SHA1-Digest: eOfL1o1KgTX8CP6YM5AstQLQK6c=
 
 Name: assets/Tiles/3.tmx
 SHA1-Digest: IYKNn3XMA6TE9rdMVqvrwTGoeJU=
