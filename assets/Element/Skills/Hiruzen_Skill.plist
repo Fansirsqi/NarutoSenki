@@ -1,308 +1,1246 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-        <key>frames</key>
-        <dict>
-            <key>HugeSRK_Move_001.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{420,247},{89,89}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{89,89}}</string>
-                <key>sourceSize</key>
-                <string>{89,89}</string>
-            </dict>
-            <key>HugeSRK_Move_002.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{223,220},{99,39}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{99,39}}</string>
-                <key>sourceSize</key>
-                <string>{99,39}</string>
-            </dict>
-            <key>HugeSRK_Move_003.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{122,220},{99,39}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{99,39}}</string>
-                <key>sourceSize</key>
-                <string>{99,39}</string>
-            </dict>
-            <key>Monkey_Idle_001.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{419,338},{78,61}}</string>
-                <key>offset</key>
-                <string>{-12,-3}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{11,6},{78,61}}</string>
-                <key>sourceSize</key>
-                <string>{124,67}</string>
-            </dict>
-            <key>Monkey_Idle_002.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{264,254},{88,61}}</string>
-                <key>offset</key>
-                <string>{-17,-3}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{1,6},{88,61}}</string>
-                <key>sourceSize</key>
-                <string>{124,67}</string>
-            </dict>
-            <key>Monkey_Idle_003.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{122,261},{88,61}}</string>
-                <key>offset</key>
-                <string>{-17,-3}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{1,6},{88,61}}</string>
-                <key>sourceSize</key>
-                <string>{124,67}</string>
-            </dict>
-            <key>Monkey_Idle_004.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{420,184},{90,61}}</string>
-                <key>offset</key>
-                <string>{-17,-3}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,6},{90,61}}</string>
-                <key>sourceSize</key>
-                <string>{124,67}</string>
-            </dict>
-            <key>Monkey_Move_001.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{430,2},{80,75}}</string>
-                <key>offset</key>
-                <string>{0,10}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{80,75}}</string>
-                <key>sourceSize</key>
-                <string>{80,95}</string>
-            </dict>
-            <key>Monkey_Move_002.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{430,2},{80,75}}</string>
-                <key>offset</key>
-                <string>{0,5}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{80,75}}</string>
-                <key>sourceSize</key>
-                <string>{80,85}</string>
-            </dict>
-            <key>Monkey_Move_003.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{428,79},{80,71}}</string>
-                <key>offset</key>
-                <string>{0,3}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,4},{80,71}}</string>
-                <key>sourceSize</key>
-                <string>{80,85}</string>
-            </dict>
-            <key>Monkey_Walk_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{264,317},{85,74}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{85,74}}</string>
-                <key>sourceSize</key>
-                <string>{85,74}</string>
-            </dict>
-            <key>Monkey_Walk_02.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{354,284},{85,63}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{85,63}}</string>
-                <key>sourceSize</key>
-                <string>{85,63}</string>
-            </dict>
-            <key>Monkey_Walk_03.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{264,182},{102,70}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{102,70}}</string>
-                <key>sourceSize</key>
-                <string>{102,70}</string>
-            </dict>
-            <key>TodonPillar_Move_001.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{428,152},{80,30}}</string>
-                <key>offset</key>
-                <string>{0,-40}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{31,80},{80,30}}</string>
-                <key>sourceSize</key>
-                <string>{142,110}</string>
-            </dict>
-            <key>TodonPillar_Move_002.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{368,182},{100,50}}</string>
-                <key>offset</key>
-                <string>{-1,-30}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{20,60},{100,50}}</string>
-                <key>sourceSize</key>
-                <string>{142,110}</string>
-            </dict>
-            <key>TodonPillar_Move_003.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{304,2},{124,72}}</string>
-                <key>offset</key>
-                <string>{1,-19}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{10,38},{124,72}}</string>
-                <key>sourceSize</key>
-                <string>{142,110}</string>
-            </dict>
-            <key>TodonPillar_Move_004.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,93},{138,102}}</string>
-                <key>offset</key>
-                <string>{0,-4}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{2,8},{138,102}}</string>
-                <key>sourceSize</key>
-                <string>{142,110}</string>
-            </dict>
-            <key>TodonPillar_Move_005.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{304,76},{122,104}}</string>
-                <key>offset</key>
-                <string>{0,-3}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{10,6},{122,104}}</string>
-                <key>sourceSize</key>
-                <string>{142,110}</string>
-            </dict>
-            <key>Tuji2_Move_001.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{142,111},{120,107}}</string>
-                <key>offset</key>
-                <string>{0,-1}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,2},{120,107}}</string>
-                <key>sourceSize</key>
-                <string>{120,109}</string>
-            </dict>
-            <key>Tuji2_Move_002.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{159,2},{143,107}}</string>
-                <key>offset</key>
-                <string>{0,-1}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,2},{143,107}}</string>
-                <key>sourceSize</key>
-                <string>{143,109}</string>
-            </dict>
-            <key>Tuji2_Move_003.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,2},{155,89}}</string>
-                <key>offset</key>
-                <string>{0,-10}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,20},{155,89}}</string>
-                <key>sourceSize</key>
-                <string>{155,109}</string>
-            </dict>
-            <key>Tuji2_Move_004.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,197},{118,83}}</string>
-                <key>offset</key>
-                <string>{0,-2}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,15},{118,83}}</string>
-                <key>sourceSize</key>
-                <string>{118,109}</string>
-            </dict>
-        </dict>
-        <key>metadata</key>
-        <dict>
-            <key>format</key>
-            <integer>2</integer>
-            <key>realTextureFileName</key>
-            <string>Hiruzen_Skill.png</string>
-            <key>size</key>
-            <string>{512,512}</string>
-            <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:959c124f7ed35c13a555715d527f31ce$</string>
-            <key>textureFileName</key>
-            <string>Hiruzen_Skill.png</string>
-        </dict>
-    </dict>
+<dict>
+<key>frames</key>
+<dict>
+<key>Hiru_Skill04_018.png</key>
+<dict>
+<key>frame</key>
+<string>{{0,0},{803,324}}</string>
+<key>offset</key>
+<string>{-131,-73}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{803,324}}</string>
+<key>sourceSize</key>
+<string>{803,324}</string>
+</dict>
+<key>Hiru_Skill04_019.png</key>
+<dict>
+<key>frame</key>
+<string>{{803,0},{803,324}}</string>
+<key>offset</key>
+<string>{-131,-73}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{803,324}}</string>
+<key>sourceSize</key>
+<string>{803,324}</string>
+</dict>
+<key>Hiru_Skill05_013.png</key>
+<dict>
+<key>frame</key>
+<string>{{1606,0},{657,481}}</string>
+<key>offset</key>
+<string>{25,-78}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{657,481}}</string>
+<key>sourceSize</key>
+<string>{657,481}</string>
+</dict>
+<key>Hiru_Skill05_014.png</key>
+<dict>
+<key>frame</key>
+<string>{{0,324},{657,481}}</string>
+<key>offset</key>
+<string>{25,-78}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{657,481}}</string>
+<key>sourceSize</key>
+<string>{657,481}</string>
+</dict>
+<key>Hiru_Skill05_015.png</key>
+<dict>
+<key>frame</key>
+<string>{{657,324},{657,481}}</string>
+<key>offset</key>
+<string>{25,-78}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{657,481}}</string>
+<key>sourceSize</key>
+<string>{657,481}</string>
+</dict>
+<key>Hiru_Skill01_025.png</key>
+<dict>
+<key>frame</key>
+<string>{{1314,324},{450,248}}</string>
+<key>offset</key>
+<string>{93.5,-59}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{450,248}}</string>
+<key>sourceSize</key>
+<string>{450,248}</string>
+</dict>
+<key>Hiru_Skill05_016.png</key>
+<dict>
+<key>frame</key>
+<string>{{2263,0},{657,481}}</string>
+<key>offset</key>
+<string>{25,-78}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{657,481}}</string>
+<key>sourceSize</key>
+<string>{657,481}</string>
+</dict>
+<key>Hiru_Skill05_017.png</key>
+<dict>
+<key>frame</key>
+<string>{{2920,0},{657,481}}</string>
+<key>offset</key>
+<string>{25,-78}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{657,481}}</string>
+<key>sourceSize</key>
+<string>{657,481}</string>
+</dict>
+<key>Hiru_Skill05_018.png</key>
+<dict>
+<key>frame</key>
+<string>{{3577,0},{657,481}}</string>
+<key>offset</key>
+<string>{25,-78}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{657,481}}</string>
+<key>sourceSize</key>
+<string>{657,481}</string>
+</dict>
+<key>Hiru_Skill05_019.png</key>
+<dict>
+<key>frame</key>
+<string>{{1562,481},{657,481}}</string>
+<key>offset</key>
+<string>{25,-78}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{657,481}}</string>
+<key>sourceSize</key>
+<string>{657,481}</string>
+</dict>
+<key>Hiru_Skill01_026.png</key>
+<dict>
+<key>frame</key>
+<string>{{1314,774},{450,248}}</string>
+<key>offset</key>
+<string>{93.5,-59}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{450,248}}</string>
+<key>sourceSize</key>
+<string>{450,248}</string>
+</dict>
+<key>Hiru_Skill05_020.png</key>
+<dict>
+<key>frame</key>
+<string>{{0,805},{657,481}}</string>
+<key>offset</key>
+<string>{25,-78}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{657,481}}</string>
+<key>sourceSize</key>
+<string>{657,481}</string>
+</dict>
+<key>Hiru_Skill05_021.png</key>
+<dict>
+<key>frame</key>
+<string>{{657,805},{657,481}}</string>
+<key>offset</key>
+<string>{25,-78}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{657,481}}</string>
+<key>sourceSize</key>
+<string>{657,481}</string>
+</dict>
+<key>Hiru_Skill05_022.png</key>
+<dict>
+<key>frame</key>
+<string>{{2219,481},{657,481}}</string>
+<key>offset</key>
+<string>{25,-78}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{657,481}}</string>
+<key>sourceSize</key>
+<string>{657,481}</string>
+</dict>
+<key>Hiru_Skill05_023.png</key>
+<dict>
+<key>frame</key>
+<string>{{2876,481},{657,481}}</string>
+<key>offset</key>
+<string>{25,-78}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{657,481}}</string>
+<key>sourceSize</key>
+<string>{657,481}</string>
+</dict>
+<key>Hiru_Skill03_020.png</key>
+<dict>
+<key>frame</key>
+<string>{{3533,657},{523,390}}</string>
+<key>offset</key>
+<string>{103.5,-140}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{523,390}}</string>
+<key>sourceSize</key>
+<string>{523,390}</string>
+</dict>
+<key>Hiru_Skill05_024.png</key>
+<dict>
+<key>frame</key>
+<string>{{1562,962},{657,481}}</string>
+<key>offset</key>
+<string>{25,-78}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{657,481}}</string>
+<key>sourceSize</key>
+<string>{657,481}</string>
+</dict>
+<key>Hiru_Skill01_027.png</key>
+<dict>
+<key>frame</key>
+<string>{{1314,1224},{450,248}}</string>
+<key>offset</key>
+<string>{93.5,-59}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{450,248}}</string>
+<key>sourceSize</key>
+<string>{450,248}</string>
+</dict>
+<key>Hiru_Skill05_025.png</key>
+<dict>
+<key>frame</key>
+<string>{{0,1286},{657,481}}</string>
+<key>offset</key>
+<string>{25,-78}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{657,481}}</string>
+<key>sourceSize</key>
+<string>{657,481}</string>
+</dict>
+<key>Hiru_Skill05_026.png</key>
+<dict>
+<key>frame</key>
+<string>{{657,1286},{657,481}}</string>
+<key>offset</key>
+<string>{25,-78}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{657,481}}</string>
+<key>sourceSize</key>
+<string>{657,481}</string>
+</dict>
+<key>Hiru_Skill05_027.png</key>
+<dict>
+<key>frame</key>
+<string>{{2219,962},{657,481}}</string>
+<key>offset</key>
+<string>{25,-78}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{657,481}}</string>
+<key>sourceSize</key>
+<string>{657,481}</string>
+</dict>
+<key>Hiru_Skill05_028.png</key>
+<dict>
+<key>frame</key>
+<string>{{2876,962},{657,481}}</string>
+<key>offset</key>
+<string>{25,-78}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{657,481}}</string>
+<key>sourceSize</key>
+<string>{657,481}</string>
+</dict>
+<key>Hiru_Skill03_021.png</key>
+<dict>
+<key>frame</key>
+<string>{{3533,1047},{523,390}}</string>
+<key>offset</key>
+<string>{103.5,-140}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{523,390}}</string>
+<key>sourceSize</key>
+<string>{523,390}</string>
+</dict>
+<key>Hiru_Skill03_022.png</key>
+<dict>
+<key>frame</key>
+<string>{{3533,1437},{523,390}}</string>
+<key>offset</key>
+<string>{103.5,-140}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{523,390}}</string>
+<key>sourceSize</key>
+<string>{523,390}</string>
+</dict>
+<key>Hiru_Skill05_029.png</key>
+<dict>
+<key>frame</key>
+<string>{{1562,1443},{657,481}}</string>
+<key>offset</key>
+<string>{25,-78}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{657,481}}</string>
+<key>sourceSize</key>
+<string>{657,481}</string>
+</dict>
+<key>Hiru_Skill01_028.png</key>
+<dict>
+<key>frame</key>
+<string>{{1314,1674},{450,248}}</string>
+<key>offset</key>
+<string>{93.5,-59}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{450,248}}</string>
+<key>sourceSize</key>
+<string>{450,248}</string>
+</dict>
+<key>Hiru_Skill03_023.png</key>
+<dict>
+<key>frame</key>
+<string>{{0,1767},{523,390}}</string>
+<key>offset</key>
+<string>{103.5,-140}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{523,390}}</string>
+<key>sourceSize</key>
+<string>{523,390}</string>
+</dict>
+<key>Hiru_Skill03_024.png</key>
+<dict>
+<key>frame</key>
+<string>{{523,1767},{523,390}}</string>
+<key>offset</key>
+<string>{103.5,-140}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{523,390}}</string>
+<key>sourceSize</key>
+<string>{523,390}</string>
+</dict>
+<key>Hiru_Skill01_029.png</key>
+<dict>
+<key>frame</key>
+<string>{{1046,1767},{450,248}}</string>
+<key>offset</key>
+<string>{93.5,-59}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{450,248}}</string>
+<key>sourceSize</key>
+<string>{450,248}</string>
+</dict>
+<key>Hiru_Skill03_025.png</key>
+<dict>
+<key>frame</key>
+<string>{{0,2157},{523,390}}</string>
+<key>offset</key>
+<string>{103.5,-140}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{523,390}}</string>
+<key>sourceSize</key>
+<string>{523,390}</string>
+</dict>
+<key>Hiru_Skill03_026.png</key>
+<dict>
+<key>frame</key>
+<string>{{523,2157},{523,390}}</string>
+<key>offset</key>
+<string>{103.5,-140}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{523,390}}</string>
+<key>sourceSize</key>
+<string>{523,390}</string>
+</dict>
+<key>Hiru_Skill03_027.png</key>
+<dict>
+<key>frame</key>
+<string>{{2219,1443},{523,390}}</string>
+<key>offset</key>
+<string>{103.5,-140}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{523,390}}</string>
+<key>sourceSize</key>
+<string>{523,390}</string>
+</dict>
+<key>Hiru_Skill03_028.png</key>
+<dict>
+<key>frame</key>
+<string>{{2742,1443},{523,390}}</string>
+<key>offset</key>
+<string>{103.5,-140}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{523,390}}</string>
+<key>sourceSize</key>
+<string>{523,390}</string>
+</dict>
+<key>Hiru_Skill01_030.png</key>
+<dict>
+<key>frame</key>
+<string>{{3265,1443},{450,248}}</string>
+<key>offset</key>
+<string>{93.5,-59}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{450,248}}</string>
+<key>sourceSize</key>
+<string>{450,248}</string>
+</dict>
+<key>Hiru_Skill03_029.png</key>
+<dict>
+<key>frame</key>
+<string>{{3513,1827},{523,390}}</string>
+<key>offset</key>
+<string>{103.5,-140}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{523,390}}</string>
+<key>sourceSize</key>
+<string>{523,390}</string>
+</dict>
+<key>Hiru_Skill03_030.png</key>
+<dict>
+<key>frame</key>
+<string>{{3513,2217},{523,390}}</string>
+<key>offset</key>
+<string>{103.5,-140}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{523,390}}</string>
+<key>sourceSize</key>
+<string>{523,390}</string>
+</dict>
+<key>Hiru_Skill03_031.png</key>
+<dict>
+<key>frame</key>
+<string>{{2219,1833},{523,390}}</string>
+<key>offset</key>
+<string>{103.5,-140}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{523,390}}</string>
+<key>sourceSize</key>
+<string>{523,390}</string>
+</dict>
+<key>Hiru_Skill03_032.png</key>
+<dict>
+<key>frame</key>
+<string>{{2742,1833},{523,390}}</string>
+<key>offset</key>
+<string>{103.5,-140}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{523,390}}</string>
+<key>sourceSize</key>
+<string>{523,390}</string>
+</dict>
+<key>Hiru_Skill01_031.png</key>
+<dict>
+<key>frame</key>
+<string>{{3265,1893},{450,248}}</string>
+<key>offset</key>
+<string>{93.5,-59}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{450,248}}</string>
+<key>sourceSize</key>
+<string>{450,248}</string>
+</dict>
+<key>Hiru_Skill01_032.png</key>
+<dict>
+<key>frame</key>
+<string>{{1562,1924},{450,248}}</string>
+<key>offset</key>
+<string>{93.5,-59}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{450,248}}</string>
+<key>sourceSize</key>
+<string>{450,248}</string>
+</dict>
+<key>Hiru_Skill01_033.png</key>
+<dict>
+<key>frame</key>
+<string>{{1294,2124},{450,248}}</string>
+<key>offset</key>
+<string>{93.5,-59}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{450,248}}</string>
+<key>sourceSize</key>
+<string>{450,248}</string>
+</dict>
+<key>Hiru_Skill01_034.png</key>
+<dict>
+<key>frame</key>
+<string>{{1046,2217},{450,248}}</string>
+<key>offset</key>
+<string>{93.5,-59}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{450,248}}</string>
+<key>sourceSize</key>
+<string>{450,248}</string>
+</dict>
+<key>Hiru_Skill01_035.png</key>
+<dict>
+<key>frame</key>
+<string>{{1542,2172},{450,248}}</string>
+<key>offset</key>
+<string>{93.5,-59}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{450,248}}</string>
+<key>sourceSize</key>
+<string>{450,248}</string>
+</dict>
+<key>Hiru_Skill03_013.png</key>
+<dict>
+<key>frame</key>
+<string>{{1992,2172},{416,215}}</string>
+<key>offset</key>
+<string>{91,-39}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{416,215}}</string>
+<key>sourceSize</key>
+<string>{416,215}</string>
+</dict>
+<key>Hiru_Skill01_036.png</key>
+<dict>
+<key>frame</key>
+<string>{{1542,2420},{450,248}}</string>
+<key>offset</key>
+<string>{93.5,-59}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{450,248}}</string>
+<key>sourceSize</key>
+<string>{450,248}</string>
+</dict>
+<key>Hiru_Skill01_037.png</key>
+<dict>
+<key>frame</key>
+<string>{{1294,2607},{450,248}}</string>
+<key>offset</key>
+<string>{93.5,-59}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{450,248}}</string>
+<key>sourceSize</key>
+<string>{450,248}</string>
+</dict>
+<key>Hiru_Skill03_001.png</key>
+<dict>
+<key>frame</key>
+<string>{{0,3057},{443,304}}</string>
+<key>offset</key>
+<string>{111.5,-81}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{443,304}}</string>
+<key>sourceSize</key>
+<string>{443,304}</string>
+</dict>
+<key>Hiru_Skill03_002.png</key>
+<dict>
+<key>frame</key>
+<string>{{0,2547},{443,304}}</string>
+<key>offset</key>
+<string>{111.5,-81}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{443,304}}</string>
+<key>sourceSize</key>
+<string>{443,304}</string>
+</dict>
+<key>Hiru_Skill03_003.png</key>
+<dict>
+<key>frame</key>
+<string>{{0,3500},{443,304}}</string>
+<key>offset</key>
+<string>{111.5,-81}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{443,304}}</string>
+<key>sourceSize</key>
+<string>{443,304}</string>
+</dict>
+<key>Hiru_Skill03_004.png</key>
+<dict>
+<key>frame</key>
+<string>{{304,2547},{443,304}}</string>
+<key>offset</key>
+<string>{111.5,-81}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{443,304}}</string>
+<key>sourceSize</key>
+<string>{443,304}</string>
+</dict>
+<key>Hiru_Skill01_003.png</key>
+<dict>
+<key>frame</key>
+<string>{{747,2547},{406,248}}</string>
+<key>offset</key>
+<string>{71.5,-59}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{406,248}}</string>
+<key>sourceSize</key>
+<string>{406,248}</string>
+</dict>
+<key>Hiru_Skill03_005.png</key>
+<dict>
+<key>frame</key>
+<string>{{304,2851},{443,304}}</string>
+<key>offset</key>
+<string>{111.5,-81}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{443,304}}</string>
+<key>sourceSize</key>
+<string>{443,304}</string>
+</dict>
+<key>Hiru_Skill01_004.png</key>
+<dict>
+<key>frame</key>
+<string>{{995,2667},{406,248}}</string>
+<key>offset</key>
+<string>{71.5,-59}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{406,248}}</string>
+<key>sourceSize</key>
+<string>{406,248}</string>
+</dict>
+<key>Hiru_Skill01_005.png</key>
+<dict>
+<key>frame</key>
+<string>{{747,2953},{406,248}}</string>
+<key>offset</key>
+<string>{71.5,-59}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{406,248}}</string>
+<key>sourceSize</key>
+<string>{406,248}</string>
+</dict>
+<key>Hiru_Skill03_006.png</key>
+<dict>
+<key>frame</key>
+<string>{{304,3155},{443,304}}</string>
+<key>offset</key>
+<string>{111.5,-81}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{443,304}}</string>
+<key>sourceSize</key>
+<string>{443,304}</string>
+</dict>
+<key>Hiru_Skill03_007.png</key>
+<dict>
+<key>frame</key>
+<string>{{304,3459},{443,304}}</string>
+<key>offset</key>
+<string>{111.5,-81}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{443,304}}</string>
+<key>sourceSize</key>
+<string>{443,304}</string>
+</dict>
+<key>Hiru_Skill03_008.png</key>
+<dict>
+<key>frame</key>
+<string>{{608,3459},{443,304}}</string>
+<key>offset</key>
+<string>{111.5,-81}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{443,304}}</string>
+<key>sourceSize</key>
+<string>{443,304}</string>
+</dict>
+<key>Hiru_Skill03_009.png</key>
+<dict>
+<key>frame</key>
+<string>{{912,3359},{443,304}}</string>
+<key>offset</key>
+<string>{111.5,-81}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{443,304}}</string>
+<key>sourceSize</key>
+<string>{443,304}</string>
+</dict>
+<key>Hiru_Skill01_006.png</key>
+<dict>
+<key>frame</key>
+<string>{{995,3073},{406,248}}</string>
+<key>offset</key>
+<string>{71.5,-59}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{406,248}}</string>
+<key>sourceSize</key>
+<string>{406,248}</string>
+</dict>
+<key>Hiru_Skill01_007.png</key>
+<dict>
+<key>frame</key>
+<string>{{912,3802},{406,248}}</string>
+<key>offset</key>
+<string>{71.5,-59}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{406,248}}</string>
+<key>sourceSize</key>
+<string>{406,248}</string>
+</dict>
+<key>Hiru_Skill03_010.png</key>
+<dict>
+<key>frame</key>
+<string>{{1216,3321},{443,304}}</string>
+<key>offset</key>
+<string>{111.5,-81}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{443,304}}</string>
+<key>sourceSize</key>
+<string>{443,304}</string>
+</dict>
+<key>Hiru_Skill01_008.png</key>
+<dict>
+<key>frame</key>
+<string>{{1401,3057},{406,248}}</string>
+<key>offset</key>
+<string>{71.5,-59}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{406,248}}</string>
+<key>sourceSize</key>
+<string>{406,248}</string>
+</dict>
+<key>Hiru_Skill01_009.png</key>
+<dict>
+<key>frame</key>
+<string>{{1318,3764},{406,248}}</string>
+<key>offset</key>
+<string>{71.5,-59}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{406,248}}</string>
+<key>sourceSize</key>
+<string>{406,248}</string>
+</dict>
+<key>Hiru_Skill02_001.png</key>
+<dict>
+<key>frame</key>
+<string>{{1520,3305},{440,234}}</string>
+<key>offset</key>
+<string>{164.5,-66}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{440,234}}</string>
+<key>sourceSize</key>
+<string>{440,234}</string>
+</dict>
+<key>Hiru_Skill01_010.png</key>
+<dict>
+<key>frame</key>
+<string>{{1724,3745},{406,248}}</string>
+<key>offset</key>
+<string>{71.5,-59}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{406,248}}</string>
+<key>sourceSize</key>
+<string>{406,248}</string>
+</dict>
+<key>Hiru_Skill02_002.png</key>
+<dict>
+<key>frame</key>
+<string>{{1754,3305},{440,234}}</string>
+<key>offset</key>
+<string>{164.5,-66}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{440,234}}</string>
+<key>sourceSize</key>
+<string>{440,234}</string>
+</dict>
+<key>Hiru_Skill01_011.png</key>
+<dict>
+<key>frame</key>
+<string>{{1542,2668},{406,248}}</string>
+<key>offset</key>
+<string>{71.5,-59}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{406,248}}</string>
+<key>sourceSize</key>
+<string>{406,248}</string>
+</dict>
+<key>Hiru_Skill01_012.png</key>
+<dict>
+<key>frame</key>
+<string>{{1807,2916},{406,248}}</string>
+<key>offset</key>
+<string>{71.5,-59}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{406,248}}</string>
+<key>sourceSize</key>
+<string>{406,248}</string>
+</dict>
+<key>Hiru_Skill01_013.png</key>
+<dict>
+<key>frame</key>
+<string>{{1948,2668},{406,248}}</string>
+<key>offset</key>
+<string>{71.5,-59}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{406,248}}</string>
+<key>sourceSize</key>
+<string>{406,248}</string>
+</dict>
+<key>Hiru_Skill02_003.png</key>
+<dict>
+<key>frame</key>
+<string>{{2207,2223},{440,234}}</string>
+<key>offset</key>
+<string>{164.5,-66}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{440,234}}</string>
+<key>sourceSize</key>
+<string>{440,234}</string>
+</dict>
+<key>Hiru_Skill02_004.png</key>
+<dict>
+<key>frame</key>
+<string>{{2441,2223},{440,234}}</string>
+<key>offset</key>
+<string>{164.5,-66}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{440,234}}</string>
+<key>sourceSize</key>
+<string>{440,234}</string>
+</dict>
+<key>Hiru_Skill02_005.png</key>
+<dict>
+<key>frame</key>
+<string>{{1988,3164},{440,234}}</string>
+<key>offset</key>
+<string>{164.5,-66}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{440,234}}</string>
+<key>sourceSize</key>
+<string>{440,234}</string>
+</dict>
+<key>Hiru_Skill01_014.png</key>
+<dict>
+<key>frame</key>
+<string>{{2213,2916},{406,248}}</string>
+<key>offset</key>
+<string>{71.5,-59}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{406,248}}</string>
+<key>sourceSize</key>
+<string>{406,248}</string>
+</dict>
+<key>Hiru_Skill01_015.png</key>
+<dict>
+<key>frame</key>
+<string>{{2354,2663},{406,248}}</string>
+<key>offset</key>
+<string>{71.5,-59}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{406,248}}</string>
+<key>sourceSize</key>
+<string>{406,248}</string>
+</dict>
+<key>Hiru_Skill02_006.png</key>
+<dict>
+<key>frame</key>
+<string>{{2675,2223},{440,234}}</string>
+<key>offset</key>
+<string>{164.5,-66}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{440,234}}</string>
+<key>sourceSize</key>
+<string>{440,234}</string>
+</dict>
+<key>Hiru_Skill02_007.png</key>
+<dict>
+<key>frame</key>
+<string>{{2130,3604},{440,234}}</string>
+<key>offset</key>
+<string>{164.5,-66}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{440,234}}</string>
+<key>sourceSize</key>
+<string>{440,234}</string>
+</dict>
+<key>Hiru_Skill02_008.png</key>
+<dict>
+<key>frame</key>
+<string>{{2222,3164},{440,234}}</string>
+<key>offset</key>
+<string>{164.5,-66}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{440,234}}</string>
+<key>sourceSize</key>
+<string>{440,234}</string>
+</dict>
+<key>Hiru_Skill02_009.png</key>
+<dict>
+<key>frame</key>
+<string>{{2364,3604},{440,234}}</string>
+<key>offset</key>
+<string>{164.5,-66}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{440,234}}</string>
+<key>sourceSize</key>
+<string>{440,234}</string>
+</dict>
+<key>Hiru_Skill02_010.png</key>
+<dict>
+<key>frame</key>
+<string>{{2456,3164},{440,234}}</string>
+<key>offset</key>
+<string>{164.5,-66}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{440,234}}</string>
+<key>sourceSize</key>
+<string>{440,234}</string>
+</dict>
+<key>Hiru_Skill01_016.png</key>
+<dict>
+<key>frame</key>
+<string>{{2619,2911},{406,248}}</string>
+<key>offset</key>
+<string>{71.5,-59}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{406,248}}</string>
+<key>sourceSize</key>
+<string>{406,248}</string>
+</dict>
+<key>Hiru_Skill01_017.png</key>
+<dict>
+<key>frame</key>
+<string>{{2760,2663},{406,248}}</string>
+<key>offset</key>
+<string>{71.5,-59}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{406,248}}</string>
+<key>sourceSize</key>
+<string>{406,248}</string>
+</dict>
+<key>Hiru_Skill02_011.png</key>
+<dict>
+<key>frame</key>
+<string>{{2909,2223},{440,234}}</string>
+<key>offset</key>
+<string>{164.5,-66}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{440,234}}</string>
+<key>sourceSize</key>
+<string>{440,234}</string>
+</dict>
+<key>Hiru_Skill02_012.png</key>
+<dict>
+<key>frame</key>
+<string>{{2598,3604},{440,234}}</string>
+<key>offset</key>
+<string>{164.5,-66}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{440,234}}</string>
+<key>sourceSize</key>
+<string>{440,234}</string>
+</dict>
+<key>Hiru_Skill02_013.png</key>
+<dict>
+<key>frame</key>
+<string>{{2690,3159},{440,234}}</string>
+<key>offset</key>
+<string>{164.5,-66}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{440,234}}</string>
+<key>sourceSize</key>
+<string>{440,234}</string>
+</dict>
+<key>Hiru_Skill03_014.png</key>
+<dict>
+<key>frame</key>
+<string>{{2832,3599},{416,215}}</string>
+<key>offset</key>
+<string>{91,-39}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{416,215}}</string>
+<key>sourceSize</key>
+<string>{416,215}</string>
+</dict>
+<key>Hiru_Skill03_015.png</key>
+<dict>
+<key>frame</key>
+<string>{{2924,3159},{416,215}}</string>
+<key>offset</key>
+<string>{91,-39}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{416,215}}</string>
+<key>sourceSize</key>
+<string>{416,215}</string>
+</dict>
+<key>Hiru_Skill01_018.png</key>
+<dict>
+<key>frame</key>
+<string>{{3025,2911},{406,248}}</string>
+<key>offset</key>
+<string>{71.5,-59}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{406,248}}</string>
+<key>sourceSize</key>
+<string>{406,248}</string>
+</dict>
+<key>Hiru_Skill01_019.png</key>
+<dict>
+<key>frame</key>
+<string>{{3166,2607},{406,248}}</string>
+<key>offset</key>
+<string>{71.5,-59}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{406,248}}</string>
+<key>sourceSize</key>
+<string>{406,248}</string>
+</dict>
+<key>Hiru_Skill03_016.png</key>
+<dict>
+<key>frame</key>
+<string>{{3047,3575},{416,215}}</string>
+<key>offset</key>
+<string>{91,-39}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{416,215}}</string>
+<key>sourceSize</key>
+<string>{416,215}</string>
+</dict>
+<key>Hiru_Skill03_017.png</key>
+<dict>
+<key>frame</key>
+<string>{{3139,3159},{416,215}}</string>
+<key>offset</key>
+<string>{91,-39}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{416,215}}</string>
+<key>sourceSize</key>
+<string>{416,215}</string>
+</dict>
+<key>Hiru_Skill03_018.png</key>
+<dict>
+<key>frame</key>
+<string>{{3262,3575},{416,215}}</string>
+<key>offset</key>
+<string>{91,-39}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{416,215}}</string>
+<key>sourceSize</key>
+<string>{416,215}</string>
+</dict>
+<key>Hiru_Skill01_020.png</key>
+<dict>
+<key>frame</key>
+<string>{{3354,3159},{406,248}}</string>
+<key>offset</key>
+<string>{71.5,-59}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{406,248}}</string>
+<key>sourceSize</key>
+<string>{406,248}</string>
+</dict>
+<key>Hiru_Skill01_021.png</key>
+<dict>
+<key>frame</key>
+<string>{{3431,2855},{406,248}}</string>
+<key>offset</key>
+<string>{71.5,-59}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{406,248}}</string>
+<key>sourceSize</key>
+<string>{406,248}</string>
+</dict>
+<key>Hiru_Skill03_019.png</key>
+<dict>
+<key>frame</key>
+<string>{{3262,3575},{416,215}}</string>
+<key>offset</key>
+<string>{91,-39}</string>
+<key>rotated</key>
+<true/>
+<key>sourceColorRect</key>
+<string>{{0,0},{416,215}}</string>
+<key>sourceSize</key>
+<string>{416,215}</string>
+</dict>
+</dict>
+<key>metadata</key>
+<dict>
+<key>format</key>
+<integer>2</integer>
+<key>realTextureFileName</key>
+<string>HiruzenArchiv_Skill「Anzdrpa」×「ArayArt」.png</string>
+<key>size</key>
+<string>{4096,4096}</string>
+<key>smartupdate</key>
+<string>
+$TexturePacker:SmartUpdate:e1a10c5003e28e82cb8604df7ae7f833$
+</string>
+<key>textureFileName</key>
+<string>HiruzenArchiv_Skill「Anzdrpa」×「ArayArt」.png</string>
+</dict>
+</dict>
 </plist>

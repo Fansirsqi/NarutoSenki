@@ -7,7 +7,7 @@
             <key>Jugo_AirHurt_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,565},{74,62}}</string>
+                <string>{{915,74},{74,62}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -17,10 +17,23 @@
                 <key>sourceSize</key>
                 <string>{74,62}</string>
             </dict>
+            <key>Jugo_AirHurt_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{693,973},{48,74}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{48,74}}</string>
+                <key>sourceSize</key>
+                <string>{48,74}</string>
+            </dict>
             <key>Jugo_Float_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,629},{62,74}}</string>
+                <string>{{915,138},{62,74}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -33,11 +46,11 @@
             <key>Jugo_Float_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{81,489},{77,69}}</string>
+                <string>{{736,753},{77,69}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{77,69}}</string>
                 <key>sourceSize</key>
@@ -46,11 +59,11 @@
             <key>Jugo_Float_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,494},{69,77}}</string>
+                <string>{{738,578},{69,77}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{69,77}}</string>
                 <key>sourceSize</key>
@@ -59,7 +72,7 @@
             <key>Jugo_Hurt_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,743},{67,67}}</string>
+                <string>{{915,202},{67,67}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -72,11 +85,11 @@
             <key>Jugo_Hurt_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{957,261},{69,65}}</string>
+                <string>{{841,83},{69,65}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{69,65}}</string>
                 <key>sourceSize</key>
@@ -85,7 +98,7 @@
             <key>Jugo_Idle_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{148,692},{63,61}}</string>
+                <string>{{915,335},{63,61}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -98,11 +111,11 @@
             <key>Jugo_Idle_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{412,327},{65,62}}</string>
+                <string>{{779,399},{65,62}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{65,62}}</string>
                 <key>sourceSize</key>
@@ -111,7 +124,7 @@
             <key>Jugo_Idle_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{412,262},{66,63}}</string>
+                <string>{{841,260},{66,63}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -124,11 +137,11 @@
             <key>Jugo_Idle_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{412,327},{65,62}}</string>
+                <string>{{779,399},{65,62}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{65,62}}</string>
                 <key>sourceSize</key>
@@ -137,11 +150,11 @@
             <key>Jugo_KnockDown_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{262,480},{81,50}}</string>
+                <string>{{715,306},{81,50}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{81,50}}</string>
                 <key>sourceSize</key>
@@ -150,11 +163,11 @@
             <key>Jugo_KnockDown_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{208,85},{74,54}}</string>
+                <string>{{388,638},{74,54}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{74,54}}</string>
                 <key>sourceSize</key>
@@ -163,11 +176,11 @@
             <key>Jugo_KnockDown_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{731,85},{88,26}}</string>
+                <string>{{418,345},{88,26}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{88,26}}</string>
                 <key>sourceSize</key>
@@ -176,11 +189,11 @@
             <key>Jugo_KnockDown_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{78,632},{73,52}}</string>
+                <string>{{601,759},{73,52}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{73,52}}</string>
                 <key>sourceSize</key>
@@ -189,7 +202,7 @@
             <key>Jugo_KnockDown_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{71,750},{58,62}}</string>
+                <string>{{708,833},{58,62}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -202,7 +215,7 @@
             <key>Jugo_KnockDown_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{651,363},{75,63}}</string>
+                <string>{{829,890},{75,63}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -215,11 +228,11 @@
             <key>Jugo_NAttack_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{648,440},{62,63}}</string>
+                <string>{{833,332},{62,63}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{62,63}}</string>
                 <key>sourceSize</key>
@@ -228,7 +241,7 @@
             <key>Jugo_NAttack_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{116,410},{63,77}}</string>
+                <string>{{764,893},{63,77}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -241,11 +254,11 @@
             <key>Jugo_NAttack_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{263,401},{86,77}}</string>
+                <string>{{705,2},{86,77}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{86,77}}</string>
                 <key>sourceSize</key>
@@ -254,11 +267,11 @@
             <key>Jugo_NAttack_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{181,434},{79,77}}</string>
+                <string>{{614,895},{79,77}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{79,77}}</string>
                 <key>sourceSize</key>
@@ -267,7 +280,7 @@
             <key>Jugo_NAttack_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{305,625},{56,67}}</string>
+                <string>{{772,832},{56,67}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -280,11 +293,11 @@
             <key>Jugo_NAttack_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{182,211},{55,80}}</string>
+                <string>{{730,183},{55,80}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{55,80}}</string>
                 <key>sourceSize</key>
@@ -293,11 +306,11 @@
             <key>Jugo_NAttack_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{797,451},{71,79}}</string>
+                <string>{{734,672},{71,79}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{71,79}}</string>
                 <key>sourceSize</key>
@@ -306,11 +319,11 @@
             <key>Jugo_NAttack_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{760,2},{112,71}}</string>
+                <string>{{418,231},{112,71}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{112,71}}</string>
                 <key>sourceSize</key>
@@ -319,11 +332,11 @@
             <key>Jugo_NAttack_09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{760,75},{107,71}}</string>
+                <string>{{487,2},{107,71}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{107,71}}</string>
                 <key>sourceSize</key>
@@ -332,7 +345,7 @@
             <key>Jugo_NAttack_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{305,625},{56,67}}</string>
+                <string>{{772,832},{56,67}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -345,11 +358,11 @@
             <key>Jugo_NAttack_11.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{648,440},{62,63}}</string>
+                <string>{{833,332},{62,63}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{62,63}}</string>
                 <key>sourceSize</key>
@@ -358,11 +371,11 @@
             <key>Jugo_NAttack_12.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{120,273},{60,74}}</string>
+                <string>{{485,834},{60,74}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{60,74}}</string>
                 <key>sourceSize</key>
@@ -371,11 +384,11 @@
             <key>Jugo_NAttack_13.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{264,167},{148,71}}</string>
+                <string>{{411,488},{148,71}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{148,71}}</string>
                 <key>sourceSize</key>
@@ -384,11 +397,11 @@
             <key>Jugo_NAttack_14.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{896,412},{87,68}}</string>
+                <string>{{671,94},{87,68}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{87,68}}</string>
                 <key>sourceSize</key>
@@ -397,11 +410,11 @@
             <key>Jugo_NAttack_15.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{716,507},{77,71}}</string>
+                <string>{{708,499},{77,71}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{77,71}}</string>
                 <key>sourceSize</key>
@@ -410,89 +423,102 @@
             <key>Jugo_Run_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{182,354},{78,79}}</string>
+                <string>{{590,110},{104,79}}</string>
                 <key>offset</key>
-                <string>{3,0}</string>
+                <string>{-19,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{6,0},{78,79}}</string>
+                <string>{{29,0},{104,79}}</string>
                 <key>sourceSize</key>
-                <string>{84,79}</string>
+                <string>{200,79}</string>
             </dict>
             <key>Jugo_Run_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{182,268},{84,79}}</string>
+                <string>{{144,896},{118,79}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-26,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{84,79}}</string>
+                <string>{{15,0},{118,79}}</string>
                 <key>sourceSize</key>
-                <string>{84,79}</string>
+                <string>{200,79}</string>
+            </dict>
+            <key>Jugo_Run_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{406,2},{128,79}}</string>
+                <key>offset</key>
+                <string>{-31,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{5,0},{128,79}}</string>
+                <key>sourceSize</key>
+                <string>{200,79}</string>
             </dict>
             <key>Jugo_Skill01_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{648,440},{62,63}}</string>
+                <string>{{767,332},{65,64}}</string>
+                <key>offset</key>
+                <string>{7,-8}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{14,16},{65,64}}</string>
+                <key>sourceSize</key>
+                <string>{79,80}</string>
+            </dict>
+            <key>Jugo_Skill01_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{627,509},{79,80}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{79,80}}</string>
+                <key>sourceSize</key>
+                <string>{79,80}</string>
+            </dict>
+            <key>Jugo_Skill01_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{463,896},{114,69}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{62,63}}</string>
+                <string>{{0,0},{114,69}}</string>
                 <key>sourceSize</key>
-                <string>{62,63}</string>
-            </dict>
-            <key>Jugo_Skill01_02.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{120,273},{60,74}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{60,74}}</string>
-                <key>sourceSize</key>
-                <string>{60,74}</string>
-            </dict>
-            <key>Jugo_Skill01_03.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{264,240},{146,71}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{146,71}}</string>
-                <key>sourceSize</key>
-                <string>{146,71}</string>
+                <string>{114,69}</string>
             </dict>
             <key>Jugo_Skill01_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{874,2},{110,72}}</string>
+                <string>{{458,373},{108,71}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{110,72}}</string>
+                <string>{{0,0},{108,71}}</string>
                 <key>sourceSize</key>
-                <string>{110,72}</string>
+                <string>{108,71}</string>
             </dict>
             <key>Jugo_Skill02_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{476,456},{81,75}}</string>
+                <string>{{702,416},{81,75}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{81,75}}</string>
                 <key>sourceSize</key>
@@ -501,11 +527,11 @@
             <key>Jugo_Skill02_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{516,85},{106,63}}</string>
+                <string>{{484,483},{106,63}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{106,63}}</string>
                 <key>sourceSize</key>
@@ -514,11 +540,11 @@
             <key>Jugo_Skill02_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{869,76},{107,63}}</string>
+                <string>{{525,111},{107,63}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{107,63}}</string>
                 <key>sourceSize</key>
@@ -527,37 +553,24 @@
             <key>Jugo_Skill02_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{869,141},{106,63}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{106,63}}</string>
-                <key>sourceSize</key>
-                <string>{106,63}</string>
-            </dict>
-            <key>Jugo_Skill02_05.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{157,563},{70,73}}</string>
+                <string>{{560,2},{106,63}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{70,73}}</string>
+                <string>{{0,0},{106,63}}</string>
                 <key>sourceSize</key>
-                <string>{70,73}</string>
+                <string>{106,63}</string>
             </dict>
             <key>Jugo_Skill02_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{351,313},{59,75}}</string>
+                <string>{{524,773},{59,75}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{59,75}}</string>
                 <key>sourceSize</key>
@@ -566,89 +579,102 @@
             <key>Jugo_Skill02_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{730,221},{97,58}}</string>
+                <string>{{406,132},{97,58}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{97,58}}</string>
                 <key>sourceSize</key>
                 <string>{97,58}</string>
             </dict>
+            <key>Jugo_Skill02_07_boom_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{461,694},{138,61}}</string>
+                <key>offset</key>
+                <string>{44.5,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{138,61}}</string>
+                <key>sourceSize</key>
+                <string>{150,61}</string>
+            </dict>
+            <key>Jugo_Skill02_07_boom_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{398,694},{148,61}}</string>
+                <key>offset</key>
+                <string>{47,-1}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{3,0},{148,61}}</string>
+                <key>sourceSize</key>
+                <string>{150,61}</string>
+            </dict>
+            <key>Jugo_Skill02_07_boom_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{346,234},{150,70}}</string>
+                <key>offset</key>
+                <string>{48,-12}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{5,0},{150,70}}</string>
+                <key>sourceSize</key>
+                <string>{150,74}</string>
+            </dict>
+            <key>Jugo_Skill02_07_boom_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{336,488},{148,73}}</string>
+                <key>offset</key>
+                <string>{49,-13}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{6,0},{148,73}}</string>
+                <key>sourceSize</key>
+                <string>{150,73}</string>
+            </dict>
             <key>Jugo_Skill02_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{620,228},{96,57}}</string>
+                <string>{{466,132},{96,57}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{96,57}}</string>
                 <key>sourceSize</key>
                 <string>{96,57}</string>
             </dict>
-            <key>Jugo_Skill02_09.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{858,206},{97,58}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{97,58}}</string>
-                <key>sourceSize</key>
-                <string>{97,58}</string>
-            </dict>
             <key>Jugo_Skill02_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,423},{77,69}}</string>
+                <string>{{693,894},{77,69}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{77,69}}</string>
                 <key>sourceSize</key>
                 <string>{77,69}</string>
             </dict>
-            <key>Jugo_Skill02_11.png</key>
+            <key>Jugo_Skill03_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{387,577},{56,67}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{56,67}}</string>
-                <key>sourceSize</key>
-                <string>{56,67}</string>
-            </dict>
-            <key>Jugo_Skill03_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{414,167},{64,93}}</string>
+                <string>{{781,265},{56,65}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{64,93}}</string>
-                <key>sourceSize</key>
-                <string>{64,93}</string>
-            </dict>
-            <key>Jugo_Skill03_02.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{411,391},{56,65}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{56,65}}</string>
                 <key>sourceSize</key>
@@ -657,7 +683,7 @@
             <key>Jugo_Skill03_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{351,478},{58,81}}</string>
+                <string>{{598,676},{58,81}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -670,33 +696,33 @@
             <key>Jugo_Skill03_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{351,390},{58,86}}</string>
+                <string>{{375,896},{86,116}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-14,-4}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{58,86}}</string>
+                <string>{{3,8},{86,116}}</string>
                 <key>sourceSize</key>
-                <string>{58,86}</string>
+                <string>{120,124}</string>
             </dict>
             <key>Jugo_Skill03_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{564,435},{57,82}}</string>
+                <string>{{491,230},{90,110}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-15,-7}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{57,82}}</string>
+                <string>{{0,14},{90,110}}</string>
                 <key>sourceSize</key>
-                <string>{57,82}</string>
+                <string>{120,124}</string>
             </dict>
             <key>Jugo_Skill04_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{153,635},{55,69}}</string>
+                <string>{{841,150},{55,69}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -709,7 +735,7 @@
             <key>Jugo_Skill04_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{640,504},{79,74}}</string>
+                <string>{{658,676},{79,74}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -722,11 +748,11 @@
             <key>Jugo_Skill04_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,343},{78,112}}</string>
+                <string>{{534,896},{78,112}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{78,112}}</string>
                 <key>sourceSize</key>
@@ -735,11 +761,11 @@
             <key>Jugo_Skill04_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{624,85},{55,105}}</string>
+                <string>{{531,342},{55,105}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{55,105}}</string>
                 <key>sourceSize</key>
@@ -748,7 +774,7 @@
             <key>Jugo_Skill04_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{411,449},{63,62}}</string>
+                <string>{{915,271},{63,62}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -761,111 +787,33 @@
             <key>Jugo_Skill04_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{81,560},{70,74}}</string>
+                <string>{{915,2},{70,74}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{0,5}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{70,74}}</string>
                 <key>sourceSize</key>
-                <string>{70,74}</string>
-            </dict>
-            <key>Jugo_Skill04_07.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{263,313},{86,86}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{86,86}}</string>
-                <key>sourceSize</key>
-                <string>{86,86}</string>
-            </dict>
-            <key>Jugo_Skill04_08.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{456,607},{57,52}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{57,52}}</string>
-                <key>sourceSize</key>
-                <string>{57,52}</string>
-            </dict>
-            <key>Jugo_Skill04_09.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{232,589},{61,71}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{61,71}}</string>
-                <key>sourceSize</key>
-                <string>{61,71}</string>
-            </dict>
-            <key>Jugo_Skill04_10.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{571,287},{89,72}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{89,72}}</string>
-                <key>sourceSize</key>
-                <string>{89,72}</string>
-            </dict>
-            <key>Jugo_Skill04_11.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{516,150},{102,93}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{102,93}}</string>
-                <key>sourceSize</key>
-                <string>{102,93}</string>
+                <string>{70,84}</string>
             </dict>
             <key>Jugo_Skill04_12.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{806,390},{59,88}}</string>
+                <string>{{669,216},{59,88}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{59,88}}</string>
                 <key>sourceSize</key>
                 <string>{59,88}</string>
             </dict>
-            <key>Jugo_Skill04_13.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{977,164},{45,95}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{45,95}}</string>
-                <key>sourceSize</key>
-                <string>{45,95}</string>
-            </dict>
             <key>Jugo_Skill04_14.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{238,532},{55,74}}</string>
+                <string>{{839,967},{55,74}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -878,7 +826,7 @@
             <key>Jugo_Skill04_15.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{160,513},{48,76}}</string>
+                <string>{{549,541},{48,76}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -891,7 +839,7 @@
             <key>Jugo_Skill04_16.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{116,349},{64,59}}</string>
+                <string>{{561,834},{64,59}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -901,10 +849,49 @@
                 <key>sourceSize</key>
                 <string>{64,59}</string>
             </dict>
+            <key>Jugo_Skill04_16_boom_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{225,896},{148,117}}</string>
+                <key>offset</key>
+                <string>{6,-29}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{14,0},{148,117}}</string>
+                <key>sourceSize</key>
+                <string>{164,117}</string>
+            </dict>
+            <key>Jugo_Skill04_16_boom_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{214,396},{149,90}}</string>
+                <key>offset</key>
+                <string>{7,-29}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{15,0},{149,90}}</string>
+                <key>sourceSize</key>
+                <string>{165,90}</string>
+            </dict>
+            <key>Jugo_Skill04_16_boom_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{365,386},{100,91}}</string>
+                <key>offset</key>
+                <string>{13,-29}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{37,0},{100,91}}</string>
+                <key>sourceSize</key>
+                <string>{148,91}</string>
+            </dict>
             <key>Jugo_Skill04_17.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{224,652},{67,51}}</string>
+                <string>{{841,207},{67,51}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -917,7 +904,7 @@
             <key>Jugo_Skill04_18.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,693},{48,68}}</string>
+                <string>{{769,972},{48,68}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -930,11 +917,11 @@
             <key>Jugo_Skill05_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{208,161},{54,48}}</string>
+                <string>{{464,638},{54,48}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{54,48}}</string>
                 <key>sourceSize</key>
@@ -943,7 +930,7 @@
             <key>Jugo_Skill05_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{651,363},{75,63}}</string>
+                <string>{{829,890},{75,63}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -956,11 +943,11 @@
             <key>Jugo_Skill05_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{926,332},{90,78}}</string>
+                <string>{{625,2},{90,78}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{90,78}}</string>
                 <key>sourceSize</key>
@@ -969,11 +956,11 @@
             <key>Jugo_Skill05_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{716,349},{88,77}}</string>
+                <string>{{636,326},{88,77}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{88,77}}</string>
                 <key>sourceSize</key>
@@ -982,11 +969,11 @@
             <key>Jugo_Skill05_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{829,266},{95,74}}</string>
+                <string>{{514,591},{95,74}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{95,74}}</string>
                 <key>sourceSize</key>
@@ -995,11 +982,11 @@
             <key>Jugo_Skill05_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{624,142},{104,84}}</string>
+                <string>{{583,220},{104,84}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{104,84}}</string>
                 <key>sourceSize</key>
@@ -1008,98 +995,85 @@
             <key>Jugo_Skill05_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{759,148},{97,71}}</string>
+                <string>{{200,694},{200,196}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{38,-2}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{97,71}}</string>
+                <string>{{95,4},{200,196}}</string>
                 <key>sourceSize</key>
-                <string>{97,71}</string>
+                <string>{314,200}</string>
             </dict>
             <key>Jugo_Skill05_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,178},{178,93}}</string>
+                <string>{{2,694},{196,200}}</string>
                 <key>offset</key>
-                <string>{32,0}</string>
+                <string>{38,-7}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{100,0},{178,93}}</string>
+                <string>{{97,14},{196,200}}</string>
                 <key>sourceSize</key>
-                <string>{314,93}</string>
+                <string>{314,214}</string>
             </dict>
             <key>Jugo_Skill05_09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,85},{204,91}}</string>
+                <string>{{2,488},{200,204}}</string>
                 <key>offset</key>
-                <string>{32,0}</string>
+                <string>{35,-6}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{87,0},{204,91}}</string>
+                <string>{{92,12},{200,204}}</string>
                 <key>sourceSize</key>
-                <string>{314,91}</string>
+                <string>{314,216}</string>
             </dict>
             <key>Jugo_Skill05_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{264,84},{214,81}}</string>
+                <string>{{2,2},{200,250}}</string>
                 <key>offset</key>
-                <string>{32,-5}</string>
+                <string>{35,-11}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{82,10},{214,81}}</string>
+                <string>{{92,22},{200,250}}</string>
                 <key>sourceSize</key>
-                <string>{314,91}</string>
+                <string>{314,272}</string>
             </dict>
             <key>Jugo_Skill05_11.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{264,2},{250,80}}</string>
+                <string>{{204,2},{200,230}}</string>
                 <key>offset</key>
-                <string>{32,0}</string>
+                <string>{35,-10}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{64,0},{250,80}}</string>
+                <string>{{92,20},{200,230}}</string>
                 <key>sourceSize</key>
-                <string>{314,80}</string>
+                <string>{314,250}</string>
             </dict>
             <key>Jugo_Skill05_12.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{260,81}}</string>
+                <string>{{2,254},{210,232}}</string>
                 <key>offset</key>
-                <string>{21,0}</string>
+                <string>{30,-6}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{48,0},{260,81}}</string>
+                <string>{{82,12},{210,232}}</string>
                 <key>sourceSize</key>
-                <string>{314,81}</string>
+                <string>{314,244}</string>
             </dict>
             <key>Jugo_Skill05_13.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{516,2},{242,81}}</string>
-                <key>offset</key>
-                <string>{27,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{63,0},{242,81}}</string>
-                <key>sourceSize</key>
-                <string>{314,81}</string>
-            </dict>
-            <key>Jugo_Skill05_14.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{662,287},{52,74}}</string>
+                <string>{{787,171},{52,74}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1109,101 +1083,75 @@
                 <key>sourceSize</key>
                 <string>{52,74}</string>
             </dict>
-            <key>Jugo_Skill05_15.png</key>
+            <key>Jugo_Skill05_14.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{718,281},{66,90}}</string>
+                <string>{{549,449},{66,90}}</string>
                 <key>offset</key>
                 <string>{17,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{34,0},{66,90}}</string>
+                <key>sourceSize</key>
+                <string>{100,90}</string>
+            </dict>
+            <key>Jugo_Skill05_15.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{588,326},{46,90}}</string>
+                <key>offset</key>
+                <string>{7,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{34,0},{46,90}}</string>
                 <key>sourceSize</key>
                 <string>{100,90}</string>
             </dict>
             <key>Jugo_Skill05_16.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{810,342},{46,90}}</string>
+                <string>{{204,652},{36,90}}</string>
                 <key>offset</key>
-                <string>{7,0}</string>
+                <string>{5,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{34,0},{46,90}}</string>
+                <string>{{37,0},{36,90}}</string>
                 <key>sourceSize</key>
                 <string>{100,90}</string>
             </dict>
             <key>Jugo_Skill05_17.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{986,2},{36,90}}</string>
-                <key>offset</key>
-                <string>{5,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{37,0},{36,90}}</string>
-                <key>sourceSize</key>
-                <string>{100,90}</string>
-            </dict>
-            <key>Jugo_Skill05_18.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{480,84},{34,90}}</string>
+                <string>{{296,652},{34,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{33,0},{34,90}}</string>
                 <key>sourceSize</key>
                 <string>{100,90}</string>
             </dict>
-            <key>Jugo_Skill05_19.png</key>
+            <key>Jugo_Skill10_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{314,561},{71,62}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{71,62}}</string>
-                <key>sourceSize</key>
-                <string>{71,62}</string>
-            </dict>
-            <key>Jugo_Skill05_20.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{978,94},{68,43}}</string>
+                <string>{{627,834},{58,79}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{68,43}}</string>
+                <string>{{0,0},{58,79}}</string>
                 <key>sourceSize</key>
-                <string>{68,43}</string>
-            </dict>
-            <key>Jugo_Skill11_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{411,513},{62,63}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{62,63}}</string>
-                <key>sourceSize</key>
-                <string>{62,63}</string>
+                <string>{58,79}</string>
             </dict>
             <key>Jugo_Skill11_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{479,330},{50,85}}</string>
+                <string>{{398,844},{50,85}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1216,11 +1164,11 @@
             <key>Jugo_Skill11_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{480,245},{83,89}}</string>
+                <string>{{617,418},{83,89}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{83,89}}</string>
                 <key>sourceSize</key>
@@ -1229,37 +1177,50 @@
             <key>Jugo_Skill11_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,273},{116,68}}</string>
+                <string>{{214,234},{160,130}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{38,-1}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{116,68}}</string>
+                <string>{{78,2},{160,130}}</string>
                 <key>sourceSize</key>
-                <string>{116,68}</string>
+                <string>{240,132}</string>
             </dict>
             <key>Jugo_Skill11_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{78,686},{62,68}}</string>
+                <string>{{204,488},{162,130}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{39,-1}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{62,68}}</string>
+                <string>{{78,2},{162,130}}</string>
                 <key>sourceSize</key>
-                <string>{62,68}</string>
+                <string>{240,132}</string>
+            </dict>
+            <key>Jugo_Skill11_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,896},{140,124}}</string>
+                <key>offset</key>
+                <string>{28,-4}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{78,8},{140,124}}</string>
+                <key>sourceSize</key>
+                <string>{240,132}</string>
             </dict>
             <key>Jugo_Walk_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{559,494},{77,79}}</string>
+                <string>{{784,2},{77,79}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{77,79}}</string>
                 <key>sourceSize</key>
@@ -1268,11 +1229,11 @@
             <key>Jugo_Walk_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{479,382},{72,83}}</string>
+                <string>{{590,591},{72,83}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{72,83}}</string>
                 <key>sourceSize</key>
@@ -1281,11 +1242,11 @@
             <key>Jugo_Walk_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{557,573},{72,79}}</string>
+                <string>{{664,591},{72,79}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{72,79}}</string>
                 <key>sourceSize</key>
@@ -1294,11 +1255,11 @@
             <key>Jugo_Walk_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{716,428},{77,79}}</string>
+                <string>{{741,90},{77,79}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{77,79}}</string>
                 <key>sourceSize</key>
@@ -1307,11 +1268,11 @@
             <key>Jugo_Walk_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{566,361},{72,83}}</string>
+                <string>{{524,688},{72,83}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{72,83}}</string>
                 <key>sourceSize</key>
@@ -1320,7 +1281,7 @@
             <key>Jugo_Walk_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{476,533},{72,79}}</string>
+                <string>{{655,759},{72,79}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -1340,7 +1301,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:7cb903aaf08b06e55135ce248b14787d$</string>
+            <string>$TexturePacker:SmartUpdate:abb93848d4a9794a681b8cb5be6c9571$</string>
             <key>textureFileName</key>
             <string>Jugo.png</string>
         </dict>

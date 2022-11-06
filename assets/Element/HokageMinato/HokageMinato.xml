@@ -113,7 +113,7 @@
             <dateName type="attackValue">150</dateName>
             <dateName type="attackRangeX">0</dateName>
             <dateName type="attackRangeY">15</dateName>
-            <coldName type="coldDown">5</coldName>
+            <coldName type="coldDown">8</coldName>
         </date>
         <frame>
             <frameName>HokageMinato_Skill01_01.png</frameName>
@@ -132,7 +132,7 @@
             <dateName type="attackValue">860</dateName>
             <dateName type="attackRangeX">32</dateName>
             <dateName type="attackRangeY">64</dateName>
-            <coldName type="coldDown">12</coldName>
+            <coldName type="coldDown">14</coldName>
         </date>
         <frame>
             <eventName type="setCommand">setInvincible</eventName>

@@ -7,20 +7,7 @@
             <key>Sakura_AirHurt_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{81,340},{51,55}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{51,55}}</string>
-                <key>sourceSize</key>
-                <string>{51,55}</string>
-            </dict>
-            <key>Sakura_Float_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{211,394},{55,44}}</string>
+                <string>{{2102,1720},{55,44}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -30,14 +17,27 @@
                 <key>sourceSize</key>
                 <string>{55,44}</string>
             </dict>
-            <key>Sakura_Float_02.png</key>
+            <key>Sakura_Float_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,550},{67,59}}</string>
+                <string>{{2424,699},{30,70}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{30,70}}</string>
+                <key>sourceSize</key>
+                <string>{30,70}</string>
+            </dict>
+            <key>Sakura_Float_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1878,1712},{67,59}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{67,59}}</string>
                 <key>sourceSize</key>
@@ -46,11 +46,11 @@
             <key>Sakura_Float_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{208,498},{59,47}}</string>
+                <string>{{2591,1783},{59,47}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{59,47}}</string>
                 <key>sourceSize</key>
@@ -59,7 +59,7 @@
             <key>Sakura_Hurt_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{72,443},{51,64}}</string>
+                <string>{{2515,772},{51,64}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -72,167 +72,180 @@
             <key>Sakura_Hurt_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{322,635},{42,60}}</string>
+                <string>{{2142,1671},{42,60}}</string>
                 <key>offset</key>
-                <string>{0,-2}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,4},{42,60}}</string>
+                <string>{{0,0},{42,60}}</string>
                 <key>sourceSize</key>
-                <string>{42,64}</string>
+                <string>{42,60}</string>
+            </dict>
+            <key>Sakura_Hurt_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2142,1671},{42,60}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{42,60}}</string>
+                <key>sourceSize</key>
+                <string>{42,60}</string>
             </dict>
             <key>Sakura_Idle_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,611},{51,67}}</string>
+                <string>{{981,1944},{39,70}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{51,67}}</string>
+                <string>{{0,0},{39,70}}</string>
                 <key>sourceSize</key>
-                <string>{51,67}</string>
+                <string>{39,70}</string>
             </dict>
             <key>Sakura_Idle_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,664},{51,65}}</string>
+                <string>{{1941,1648},{39,69}}</string>
                 <key>offset</key>
-                <string>{0,-1}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,2},{51,65}}</string>
+                <string>{{0,0},{39,69}}</string>
                 <key>sourceSize</key>
-                <string>{51,67}</string>
+                <string>{39,69}</string>
             </dict>
             <key>Sakura_Idle_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,611},{51,67}}</string>
+                <string>{{2503,1510},{39,69}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{51,67}}</string>
+                <string>{{0,0},{39,69}}</string>
                 <key>sourceSize</key>
-                <string>{51,67}</string>
+                <string>{39,69}</string>
             </dict>
             <key>Sakura_Idle_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{138,550},{51,67}}</string>
+                <string>{{1941,1648},{39,69}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{51,67}}</string>
+                <string>{{0,0},{39,69}}</string>
                 <key>sourceSize</key>
-                <string>{51,67}</string>
+                <string>{39,69}</string>
             </dict>
             <key>Sakura_KnockDown_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,760},{63,32}}</string>
+                <string>{{2587,732},{63,34}}</string>
                 <key>offset</key>
-                <string>{0,-9}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,23},{63,32}}</string>
+                <string>{{0,0},{63,34}}</string>
                 <key>sourceSize</key>
-                <string>{63,60}</string>
+                <string>{63,34}</string>
             </dict>
             <key>Sakura_KnockDown_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{221,181},{70,34}}</string>
+                <string>{{2424,769},{70,30}}</string>
                 <key>offset</key>
-                <string>{0,-8}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,21},{70,34}}</string>
+                <string>{{0,0},{70,30}}</string>
                 <key>sourceSize</key>
-                <string>{70,60}</string>
+                <string>{70,30}</string>
             </dict>
             <key>Sakura_KnockDown_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{483,397},{72,26}}</string>
+                <string>{{2565,1026},{72,26}}</string>
                 <key>offset</key>
-                <string>{0,-17}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,34},{72,26}}</string>
+                <string>{{0,0},{72,26}}</string>
                 <key>sourceSize</key>
-                <string>{72,60}</string>
+                <string>{72,26}</string>
             </dict>
             <key>Sakura_KnockDown_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{257,654},{59,34}}</string>
+                <string>{{2869,1802},{59,33}}</string>
                 <key>offset</key>
-                <string>{0,-7}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,20},{59,34}}</string>
+                <string>{{0,0},{59,33}}</string>
                 <key>sourceSize</key>
-                <string>{59,60}</string>
+                <string>{59,33}</string>
             </dict>
             <key>Sakura_KnockDown_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{82,214},{56,42}}</string>
+                <string>{{2827,834},{56,41}}</string>
                 <key>offset</key>
-                <string>{0,-4}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,13},{56,42}}</string>
+                <string>{{0,0},{56,41}}</string>
                 <key>sourceSize</key>
-                <string>{56,60}</string>
+                <string>{56,41}</string>
             </dict>
             <key>Sakura_KnockDown_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{257,690},{37,48}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,6},{37,48}}</string>
-                <key>sourceSize</key>
-                <string>{37,60}</string>
-            </dict>
-            <key>Sakura_KnockDown_07.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{82,302},{36,56}}</string>
-                <key>offset</key>
-                <string>{0,2}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{36,56}}</string>
-                <key>sourceSize</key>
-                <string>{36,60}</string>
-            </dict>
-            <key>Sakura_NAttack_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{471,544},{38,67}}</string>
+                <string>{{2195,1718},{34,47}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{34,47}}</string>
+                <key>sourceSize</key>
+                <string>{34,47}</string>
+            </dict>
+            <key>Sakura_KnockDown_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2880,930},{36,55}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{36,55}}</string>
+                <key>sourceSize</key>
+                <string>{36,55}</string>
+            </dict>
+            <key>Sakura_NAttack_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2454,732},{38,67}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{38,67}}</string>
                 <key>sourceSize</key>
@@ -241,1459 +254,1632 @@
             <key>Sakura_NAttack_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{71,593},{63,65}}</string>
+                <string>{{1878,1648},{63,64}}</string>
                 <key>offset</key>
-                <string>{0,-1}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,2},{63,65}}</string>
+                <string>{{0,0},{63,64}}</string>
                 <key>sourceSize</key>
-                <string>{63,67}</string>
+                <string>{63,64}</string>
             </dict>
             <key>Sakura_NAttack_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{138,603},{61,65}}</string>
+                <string>{{2454,770},{61,64}}</string>
                 <key>offset</key>
-                <string>{0,-1}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,2},{61,65}}</string>
+                <string>{{0,0},{61,64}}</string>
                 <key>sourceSize</key>
-                <string>{61,67}</string>
+                <string>{61,64}</string>
             </dict>
             <key>Sakura_NAttack_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{394,567},{41,65}}</string>
-                <key>offset</key>
-                <string>{0,-1}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,2},{41,65}}</string>
-                <key>sourceSize</key>
-                <string>{41,67}</string>
-            </dict>
-            <key>Sakura_NAttack_05.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{257,508},{40,67}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{40,67}}</string>
-                <key>sourceSize</key>
-                <string>{40,67}</string>
-            </dict>
-            <key>Sakura_NAttack_06.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{257,302},{74,59}}</string>
-                <key>offset</key>
-                <string>{0,-4}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,8},{74,59}}</string>
-                <key>sourceSize</key>
-                <string>{74,67}</string>
-            </dict>
-            <key>Sakura_NAttack_07.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{257,363},{73,59}}</string>
-                <key>offset</key>
-                <string>{0,-4}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,8},{73,59}}</string>
-                <key>sourceSize</key>
-                <string>{73,67}</string>
-            </dict>
-            <key>Sakura_NAttack_08.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{207,559},{48,65}}</string>
-                <key>offset</key>
-                <string>{0,-1}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,2},{48,65}}</string>
-                <key>sourceSize</key>
-                <string>{48,67}</string>
-            </dict>
-            <key>Sakura_NAttack_09.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{69,713},{48,63}}</string>
-                <key>offset</key>
-                <string>{0,-2}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,4},{48,63}}</string>
-                <key>sourceSize</key>
-                <string>{48,67}</string>
-            </dict>
-            <key>Sakura_NAttack_10.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{434,53},{76,59}}</string>
-                <key>offset</key>
-                <string>{0,-4}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,8},{76,59}}</string>
-                <key>sourceSize</key>
-                <string>{76,67}</string>
-            </dict>
-            <key>Sakura_NAttack_11.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{71,658},{65,53}}</string>
-                <key>offset</key>
-                <string>{0,-7}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,14},{65,53}}</string>
-                <key>sourceSize</key>
-                <string>{65,67}</string>
-            </dict>
-            <key>Sakura_NAttack_12.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{82,159},{57,53}}</string>
-                <key>offset</key>
-                <string>{0,-7}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,14},{57,53}}</string>
-                <key>sourceSize</key>
-                <string>{57,67}</string>
-            </dict>
-            <key>Sakura_NAttack_13.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{390,610},{62,59}}</string>
-                <key>offset</key>
-                <string>{0,-4}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,8},{62,59}}</string>
-                <key>sourceSize</key>
-                <string>{62,67}</string>
-            </dict>
-            <key>Sakura_Skill01_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{138,507},{41,68}}</string>
-                <key>offset</key>
-                <string>{0,-5}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,10},{41,68}}</string>
-                <key>sourceSize</key>
-                <string>{41,78}</string>
-            </dict>
-            <key>Sakura_Skill01_02.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,419},{43,68}}</string>
-                <key>offset</key>
-                <string>{0,-5}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,10},{43,68}}</string>
-                <key>sourceSize</key>
-                <string>{43,78}</string>
-            </dict>
-            <key>Sakura_Skill01_03.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{402,475},{45,70}}</string>
-                <key>offset</key>
-                <string>{0,-4}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,8},{45,70}}</string>
-                <key>sourceSize</key>
-                <string>{45,78}</string>
-            </dict>
-            <key>Sakura_Skill01_04.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{257,459},{47,70}}</string>
-                <key>offset</key>
-                <string>{0,-4}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,8},{47,70}}</string>
-                <key>sourceSize</key>
-                <string>{47,78}</string>
-            </dict>
-            <key>Sakura_Skill01_05.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{333,326},{42,74}}</string>
-                <key>offset</key>
-                <string>{0,-2}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,4},{42,74}}</string>
-                <key>sourceSize</key>
-                <string>{42,78}</string>
-            </dict>
-            <key>Sakura_Skill01_06.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{140,248},{41,78}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{41,78}}</string>
-                <key>sourceSize</key>
-                <string>{41,78}</string>
-            </dict>
-            <key>Sakura_Skill01_07.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,242},{41,78}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{41,78}}</string>
-                <key>sourceSize</key>
-                <string>{41,78}</string>
-            </dict>
-            <key>Sakura_Skill01_08.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{141,161},{42,78}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{42,78}}</string>
-                <key>sourceSize</key>
-                <string>{42,78}</string>
-            </dict>
-            <key>Sakura_Skill01_09.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{141,205},{41,78}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{41,78}}</string>
-                <key>sourceSize</key>
-                <string>{41,78}</string>
-            </dict>
-            <key>Sakura_Skill01_10.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,198},{42,78}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{42,78}}</string>
-                <key>sourceSize</key>
-                <string>{42,78}</string>
-            </dict>
-            <key>Sakura_Skill01_11.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{412,324},{42,74}}</string>
-                <key>offset</key>
-                <string>{0,-2}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,4},{42,74}}</string>
-                <key>sourceSize</key>
-                <string>{42,78}</string>
-            </dict>
-            <key>Sakura_Skill02_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{72,546},{45,64}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{45,64}}</string>
-                <key>sourceSize</key>
-                <string>{45,64}</string>
-            </dict>
-            <key>Sakura_Skill02_02.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{257,115},{80,49}}</string>
+                <string>{{2386,1955},{41,65}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
-                <key>sourceColorRect</key>
-                <string>{{29,0},{80,49}}</string>
-                <key>sourceSize</key>
-                <string>{138,49}</string>
-            </dict>
-            <key>Sakura_Skill02_03.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{406,2},{100,49}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{19,0},{100,49}}</string>
-                <key>sourceSize</key>
-                <string>{138,49}</string>
-            </dict>
-            <key>Sakura_Skill02_04.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{280,2},{124,49}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{7,0},{124,49}}</string>
-                <key>sourceSize</key>
-                <string>{138,49}</string>
-            </dict>
-            <key>Sakura_Skill02_05.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{142,2},{136,49}}</string>
-                <key>offset</key>
-                <string>{-1,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{136,49}}</string>
-                <key>sourceSize</key>
-                <string>{138,49}</string>
-            </dict>
-            <key>Sakura_Skill02_06.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,45},{130,49}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{4,0},{130,49}}</string>
-                <key>sourceSize</key>
-                <string>{138,49}</string>
-            </dict>
-            <key>Sakura_Skill02_07.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{203,670},{42,52}}</string>
-                <key>offset</key>
-                <string>{0,-2}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,4},{42,52}}</string>
-                <key>sourceSize</key>
-                <string>{42,56}</string>
-            </dict>
-            <key>Sakura_Skill02_08.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,717},{41,63}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{41,63}}</string>
-                <key>sourceSize</key>
-                <string>{41,63}</string>
-            </dict>
-            <key>Sakura_Skill03_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,507},{41,68}}</string>
-                <key>offset</key>
-                <string>{0,-5}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,10},{41,68}}</string>
-                <key>sourceSize</key>
-                <string>{41,78}</string>
-            </dict>
-            <key>Sakura_Skill03_02.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{401,522},{43,68}}</string>
-                <key>offset</key>
-                <string>{0,-5}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,10},{43,68}}</string>
-                <key>sourceSize</key>
-                <string>{43,78}</string>
-            </dict>
-            <key>Sakura_Skill03_04.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{330,435},{47,70}}</string>
-                <key>offset</key>
-                <string>{0,-4}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,8},{47,70}}</string>
-                <key>sourceSize</key>
-                <string>{47,78}</string>
-            </dict>
-            <key>Sakura_Skill03_05.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{415,228},{33,76}}</string>
-                <key>offset</key>
-                <string>{0,-1}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,2},{33,76}}</string>
-                <key>sourceSize</key>
-                <string>{33,78}</string>
-            </dict>
-            <key>Sakura_Skill03_06.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{409,368},{51,72}}</string>
-                <key>offset</key>
-                <string>{0,-3}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,6},{51,72}}</string>
-                <key>sourceSize</key>
-                <string>{51,78}</string>
-            </dict>
-            <key>Sakura_Skill03_07.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{337,221},{52,76}}</string>
-                <key>offset</key>
-                <string>{0,-1}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,2},{52,76}}</string>
-                <key>sourceSize</key>
-                <string>{52,78}</string>
-            </dict>
-            <key>Sakura_Skill03_08.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{257,166},{52,78}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{52,78}}</string>
-                <key>sourceSize</key>
-                <string>{52,78}</string>
-            </dict>
-            <key>Sakura_Skill03_09.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{420,175},{51,78}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{51,78}}</string>
-                <key>sourceSize</key>
-                <string>{51,78}</string>
-            </dict>
-            <key>Sakura_Skill03_10.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,148},{48,78}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{48,78}}</string>
-                <key>sourceSize</key>
-                <string>{48,78}</string>
-            </dict>
-            <key>Sakura_Skill03_11.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{257,255},{45,76}}</string>
-                <key>offset</key>
-                <string>{0,-1}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,2},{45,76}}</string>
-                <key>sourceSize</key>
-                <string>{45,78}</string>
-            </dict>
-            <key>Sakura_Skill03_12.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{329,484},{43,70}}</string>
-                <key>offset</key>
-                <string>{0,-4}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,8},{43,70}}</string>
-                <key>sourceSize</key>
-                <string>{43,78}</string>
-            </dict>
-            <key>Sakura_Skill04_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{223,101},{32,78}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{32,78}}</string>
-                <key>sourceSize</key>
-                <string>{32,78}</string>
-            </dict>
-            <key>Sakura_Skill04_02.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{332,370},{31,72}}</string>
-                <key>offset</key>
-                <string>{0,-3}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,6},{31,72}}</string>
-                <key>sourceSize</key>
-                <string>{31,78}</string>
-            </dict>
-            <key>Sakura_Skill04_03.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{332,403},{30,72}}</string>
-                <key>offset</key>
-                <string>{0,-3}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,6},{30,72}}</string>
-                <key>sourceSize</key>
-                <string>{30,78}</string>
-            </dict>
-            <key>Sakura_Skill04_04.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{207,559},{48,65}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{48,65}}</string>
-                <key>sourceSize</key>
-                <string>{48,65}</string>
-            </dict>
-            <key>Sakura_Skill04_05.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{325,580},{53,63}}</string>
-                <key>offset</key>
-                <string>{0,-1}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,2},{53,63}}</string>
-                <key>sourceSize</key>
-                <string>{53,65}</string>
-            </dict>
-            <key>Sakura_Skill04_06.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{427,114},{80,59}}</string>
-                <key>offset</key>
-                <string>{0,-3}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,6},{80,59}}</string>
-                <key>sourceSize</key>
-                <string>{80,65}</string>
-            </dict>
-            <key>Sakura_Skill04_07.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{415,263},{75,59}}</string>
-                <key>offset</key>
-                <string>{0,-3}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,6},{75,59}}</string>
-                <key>sourceSize</key>
-                <string>{75,65}</string>
-            </dict>
-            <key>Sakura_Skill04_08.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{394,567},{41,65}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{41,65}}</string>
                 <key>sourceSize</key>
                 <string>{41,65}</string>
             </dict>
-            <key>Sakura_Skill04_09.png</key>
+            <key>Sakura_NAttack_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{82,258},{42,56}}</string>
+                <string>{{2521,732},{40,66}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{42,56}}</string>
+                <string>{{0,0},{40,66}}</string>
                 <key>sourceSize</key>
-                <string>{42,56}</string>
+                <string>{40,66}</string>
             </dict>
-            <key>Sakura_Skill04_10.png</key>
+            <key>Sakura_NAttack_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{140,323},{46,77}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{46,77}}</string>
-                <key>sourceSize</key>
-                <string>{46,77}</string>
-            </dict>
-            <key>Sakura_Skill04_11.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{257,53},{30,87}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{30,87}}</string>
-                <key>sourceSize</key>
-                <string>{30,87}</string>
-            </dict>
-            <key>Sakura_Skill04_12.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{344,91},{29,81}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{29,81}}</string>
-                <key>sourceSize</key>
-                <string>{29,81}</string>
-            </dict>
-            <key>Sakura_Skill04_13.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{205,626},{42,50}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{42,50}}</string>
-                <key>sourceSize</key>
-                <string>{42,50}</string>
-            </dict>
-            <key>Sakura_Skill04_14.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{81,393},{55,48}}</string>
+                <string>{{2883,450},{74,59}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,1},{55,48}}</string>
+                <string>{{0,0},{74,59}}</string>
                 <key>sourceSize</key>
-                <string>{55,50}</string>
+                <string>{74,59}</string>
             </dict>
-            <key>Sakura_Skill04_15.png</key>
+            <key>Sakura_NAttack_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{211,451},{45,44}}</string>
+                <string>{{2427,1955},{73,59}}</string>
                 <key>offset</key>
-                <string>{0,-2}</string>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{73,59}}</string>
+                <key>sourceSize</key>
+                <string>{73,59}</string>
+            </dict>
+            <key>Sakura_NAttack_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2386,1955},{41,65}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{41,65}}</string>
+                <key>sourceSize</key>
+                <string>{41,65}</string>
+            </dict>
+            <key>Sakura_NAttack_09.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{614,1944},{58,77}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,5},{45,44}}</string>
+                <string>{{0,0},{58,77}}</string>
                 <key>sourceSize</key>
-                <string>{45,50}</string>
+                <string>{58,77}</string>
+            </dict>
+            <key>Sakura_NAttack_10.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2827,949},{47,77}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{47,77}}</string>
+                <key>sourceSize</key>
+                <string>{47,77}</string>
+            </dict>
+            <key>Sakura_NAttack_11.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2060,1720},{42,60}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{42,60}}</string>
+                <key>sourceSize</key>
+                <string>{42,60}</string>
+            </dict>
+            <key>Sakura_NAttack_12.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2971,1994},{26,69}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{26,69}}</string>
+                <key>sourceSize</key>
+                <string>{26,69}</string>
+            </dict>
+            <key>Sakura_NAttack_13.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2869,1664},{83,69}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{83,69}}</string>
+                <key>sourceSize</key>
+                <string>{83,69}</string>
+            </dict>
+            <key>Sakura_NAttack_14.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2869,1733},{83,69}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{83,69}}</string>
+                <key>sourceSize</key>
+                <string>{83,69}</string>
+            </dict>
+            <key>Sakura_NAttack_15.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1941,1687},{35,69}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{35,69}}</string>
+                <key>sourceSize</key>
+                <string>{35,69}</string>
+            </dict>
+            <key>Sakura_Skill01_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1544,1826},{190,172}}</string>
+                <key>offset</key>
+                <string>{9,-31}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{190,172}}</string>
+                <key>sourceSize</key>
+                <string>{190,172}</string>
+            </dict>
+            <key>Sakura_Skill01_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1716,1825},{190,172}}</string>
+                <key>offset</key>
+                <string>{9,-31}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{190,172}}</string>
+                <key>sourceSize</key>
+                <string>{190,172}</string>
+            </dict>
+            <key>Sakura_Skill01_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2800,1474},{190,172}}</string>
+                <key>offset</key>
+                <string>{9,-31}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{190,172}}</string>
+                <key>sourceSize</key>
+                <string>{190,172}</string>
+            </dict>
+            <key>Sakura_Skill01_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2972,1614},{190,172}}</string>
+                <key>offset</key>
+                <string>{9,-31}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{190,172}}</string>
+                <key>sourceSize</key>
+                <string>{190,172}</string>
+            </dict>
+            <key>Sakura_Skill01_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2401,1783},{190,172}}</string>
+                <key>offset</key>
+                <string>{9,-31}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{190,172}}</string>
+                <key>sourceSize</key>
+                <string>{190,172}</string>
+            </dict>
+            <key>Sakura_Skill01_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2591,1835},{190,172}}</string>
+                <key>offset</key>
+                <string>{9,-31}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{190,172}}</string>
+                <key>sourceSize</key>
+                <string>{190,172}</string>
+            </dict>
+            <key>Sakura_Skill01_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2781,1835},{190,172}}</string>
+                <key>offset</key>
+                <string>{9,-31}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{190,172}}</string>
+                <key>sourceSize</key>
+                <string>{190,172}</string>
+            </dict>
+            <key>Sakura_Skill01_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2971,1804},{190,172}}</string>
+                <key>offset</key>
+                <string>{9,-31}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{190,172}}</string>
+                <key>sourceSize</key>
+                <string>{190,172}</string>
+            </dict>
+            <key>Sakura_Skill01_09.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2935,930},{36,52}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{36,52}}</string>
+                <key>sourceSize</key>
+                <string>{36,52}</string>
+            </dict>
+            <key>Sakura_Skill01_10.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2431,1510},{41,72}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{41,72}}</string>
+                <key>sourceSize</key>
+                <string>{41,72}</string>
+            </dict>
+            <key>Sakura_Skill01_11.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2980,930},{171,170}}</string>
+                <key>offset</key>
+                <string>{-6.5,-49}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{171,170}}</string>
+                <key>sourceSize</key>
+                <string>{171,170}</string>
+            </dict>
+            <key>Sakura_Skill01_12.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2980,1101},{171,170}}</string>
+                <key>offset</key>
+                <string>{-6.5,-49}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{171,170}}</string>
+                <key>sourceSize</key>
+                <string>{171,170}</string>
+            </dict>
+            <key>Sakura_Skill01_13.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2980,1272},{171,170}}</string>
+                <key>offset</key>
+                <string>{-6.5,-49}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{171,170}}</string>
+                <key>sourceSize</key>
+                <string>{171,170}</string>
+            </dict>
+            <key>Sakura_Skill01_14.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2980,1443},{171,170}}</string>
+                <key>offset</key>
+                <string>{-6.5,-49}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{171,170}}</string>
+                <key>sourceSize</key>
+                <string>{171,170}</string>
+            </dict>
+            <key>Sakura_Skill01_15.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2980,930},{171,170}}</string>
+                <key>offset</key>
+                <string>{-6.5,-49}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{171,170}}</string>
+                <key>sourceSize</key>
+                <string>{171,170}</string>
+            </dict>
+            <key>Sakura_Skill01_16.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2980,1101},{171,170}}</string>
+                <key>offset</key>
+                <string>{-6.5,-49}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{171,170}}</string>
+                <key>sourceSize</key>
+                <string>{171,170}</string>
+            </dict>
+            <key>Sakura_Skill01_17.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2980,1272},{171,170}}</string>
+                <key>offset</key>
+                <string>{-6.5,-49}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{171,170}}</string>
+                <key>sourceSize</key>
+                <string>{171,170}</string>
+            </dict>
+            <key>Sakura_Skill01_18.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{691,1944},{57,71}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{57,71}}</string>
+                <key>sourceSize</key>
+                <string>{57,71}</string>
+            </dict>
+            <key>Sakura_Skill01_19.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2500,1955},{57,71}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{57,71}}</string>
+                <key>sourceSize</key>
+                <string>{57,71}</string>
+            </dict>
+            <key>Sakura_Skill01_20.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{762,1944},{57,71}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{57,71}}</string>
+                <key>sourceSize</key>
+                <string>{57,71}</string>
+            </dict>
+            <key>Sakura_Skill02_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2883,509},{36,69}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{36,69}}</string>
+                <key>sourceSize</key>
+                <string>{36,69}</string>
+            </dict>
+            <key>Sakura_Skill02_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2621,450},{262,192}}</string>
+                <key>offset</key>
+                <string>{-2,-36}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{262,192}}</string>
+                <key>sourceSize</key>
+                <string>{262,192}</string>
+            </dict>
+            <key>Sakura_Skill02_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2015,1147},{262,192}}</string>
+                <key>offset</key>
+                <string>{-2,-36}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{262,192}}</string>
+                <key>sourceSize</key>
+                <string>{262,192}</string>
+            </dict>
+            <key>Sakura_Skill02_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2010,1409},{262,192}}</string>
+                <key>offset</key>
+                <string>{-2,-36}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{262,192}}</string>
+                <key>sourceSize</key>
+                <string>{262,192}</string>
+            </dict>
+            <key>Sakura_Skill02_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1020,1826},{262,192}}</string>
+                <key>offset</key>
+                <string>{-2,-36}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{262,192}}</string>
+                <key>sourceSize</key>
+                <string>{262,192}</string>
+            </dict>
+            <key>Sakura_Skill02_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1282,1826},{262,192}}</string>
+                <key>offset</key>
+                <string>{-2,-36}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{262,192}}</string>
+                <key>sourceSize</key>
+                <string>{262,192}</string>
+            </dict>
+            <key>Sakura_Skill02_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2957,284},{262,192}}</string>
+                <key>offset</key>
+                <string>{-2,-36}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{262,192}}</string>
+                <key>sourceSize</key>
+                <string>{262,192}</string>
+            </dict>
+            <key>Sakura_Skill02_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2181,864},{262,192}}</string>
+                <key>offset</key>
+                <string>{-2,-36}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{262,192}}</string>
+                <key>sourceSize</key>
+                <string>{262,192}</string>
+            </dict>
+            <key>Sakura_Skill02_09.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2207,1126},{262,192}}</string>
+                <key>offset</key>
+                <string>{-2,-36}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{262,192}}</string>
+                <key>sourceSize</key>
+                <string>{262,192}</string>
+            </dict>
+            <key>Sakura_Skill02_10.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2621,642},{262,192}}</string>
+                <key>offset</key>
+                <string>{-2,-36}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{262,192}}</string>
+                <key>sourceSize</key>
+                <string>{262,192}</string>
+            </dict>
+            <key>Sakura_Skill02_11.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2883,546},{262,192}}</string>
+                <key>offset</key>
+                <string>{-2,-36}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{262,192}}</string>
+                <key>sourceSize</key>
+                <string>{262,192}</string>
+            </dict>
+            <key>Sakura_Skill02_12.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2883,738},{262,192}}</string>
+                <key>offset</key>
+                <string>{-2,-36}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{262,192}}</string>
+                <key>sourceSize</key>
+                <string>{262,192}</string>
+            </dict>
+            <key>Sakura_Skill02_13.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2373,864},{262,192}}</string>
+                <key>offset</key>
+                <string>{-2,-36}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{262,192}}</string>
+                <key>sourceSize</key>
+                <string>{262,192}</string>
+            </dict>
+            <key>Sakura_Skill02_14.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2399,1126},{262,192}}</string>
+                <key>offset</key>
+                <string>{-2,-36}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{262,192}}</string>
+                <key>sourceSize</key>
+                <string>{262,192}</string>
+            </dict>
+            <key>Sakura_Skill02_15.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2565,834},{262,192}}</string>
+                <key>offset</key>
+                <string>{-2,-36}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{262,192}}</string>
+                <key>sourceSize</key>
+                <string>{262,192}</string>
+            </dict>
+            <key>Sakura_Skill02_16.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2591,1026},{262,192}}</string>
+                <key>offset</key>
+                <string>{-2,-36}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{262,192}}</string>
+                <key>sourceSize</key>
+                <string>{262,192}</string>
+            </dict>
+            <key>Sakura_Skill02_21.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2650,1618},{40,72}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{40,72}}</string>
+                <key>sourceSize</key>
+                <string>{40,72}</string>
+            </dict>
+            <key>Sakura_Skill03_00.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2200,699},{165,224}}</string>
+                <key>offset</key>
+                <string>{0.5,-45}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{165,224}}</string>
+                <key>sourceSize</key>
+                <string>{165,224}</string>
+            </dict>
+            <key>Sakura_Skill03_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2591,1288},{165,224}}</string>
+                <key>offset</key>
+                <string>{0.5,-45}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{165,224}}</string>
+                <key>sourceSize</key>
+                <string>{165,224}</string>
+            </dict>
+            <key>Sakura_Skill03_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1654,1660},{165,224}}</string>
+                <key>offset</key>
+                <string>{0.5,-45}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{165,224}}</string>
+                <key>sourceSize</key>
+                <string>{165,224}</string>
+            </dict>
+            <key>Sakura_Skill03_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2783,1026},{165,224}}</string>
+                <key>offset</key>
+                <string>{0.5,-45}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{165,224}}</string>
+                <key>sourceSize</key>
+                <string>{165,224}</string>
+            </dict>
+            <key>Sakura_Skill03_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2815,1250},{165,224}}</string>
+                <key>offset</key>
+                <string>{0.5,-45}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{165,224}}</string>
+                <key>sourceSize</key>
+                <string>{165,224}</string>
+            </dict>
+            <key>Sakura_Skill03_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2207,1388},{165,224}}</string>
+                <key>offset</key>
+                <string>{0.5,-45}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{165,224}}</string>
+                <key>sourceSize</key>
+                <string>{165,224}</string>
+            </dict>
+            <key>Sakura_Skill03_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2202,1553},{165,224}}</string>
+                <key>offset</key>
+                <string>{0.5,-45}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{165,224}}</string>
+                <key>sourceSize</key>
+                <string>{165,224}</string>
+            </dict>
+            <key>Sakura_Skill03_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2576,1453},{165,224}}</string>
+                <key>offset</key>
+                <string>{0.5,-45}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{165,224}}</string>
+                <key>sourceSize</key>
+                <string>{165,224}</string>
+            </dict>
+            <key>Sakura_Skill03_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2426,1618},{165,224}}</string>
+                <key>offset</key>
+                <string>{0.5,-45}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{165,224}}</string>
+                <key>sourceSize</key>
+                <string>{165,224}</string>
+            </dict>
+            <key>Sakura_Skill05_001.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2827,875},{53,74}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{53,74}}</string>
+                <key>sourceSize</key>
+                <string>{53,74}</string>
+            </dict>
+            <key>Sakura_Skill05_002.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{833,1944},{53,74}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{53,74}}</string>
+                <key>sourceSize</key>
+                <string>{53,74}</string>
+            </dict>
+            <key>Sakura_Skill05_003.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{907,1944},{53,74}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{53,74}}</string>
+                <key>sourceSize</key>
+                <string>{53,74}</string>
+            </dict>
+            <key>Sakura_Skill05_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2722,1618},{41,67}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{41,67}}</string>
+                <key>sourceSize</key>
+                <string>{41,67}</string>
+            </dict>
+            <key>Sakura_Skill05_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,1660},{255,284}}</string>
+                <key>offset</key>
+                <string>{10,-52}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{255,284}}</string>
+                <key>sourceSize</key>
+                <string>{255,284}</string>
             </dict>
             <key>Sakura_Skill05_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,507},{41,68}}</string>
+                <string>{{1760,830},{255,284}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{10,-52}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{41,68}}</string>
+                <string>{{0,0},{255,284}}</string>
                 <key>sourceSize</key>
-                <string>{41,68}</string>
+                <string>{255,284}</string>
             </dict>
             <key>Sakura_Skill05_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{138,464},{41,68}}</string>
+                <string>{{2200,415},{255,284}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{10,-52}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{41,68}}</string>
+                <string>{{0,0},{255,284}}</string>
                 <key>sourceSize</key>
-                <string>{41,68}</string>
+                <string>{255,284}</string>
             </dict>
             <key>Sakura_Skill05_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,464},{41,68}}</string>
+                <string>{{2640,0},{255,284}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{10,-52}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{41,68}}</string>
+                <string>{{0,0},{255,284}}</string>
                 <key>sourceSize</key>
-                <string>{41,68}</string>
+                <string>{255,284}</string>
             </dict>
             <key>Sakura_Skill05_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{72,496},{48,64}}</string>
+                <string>{{2895,0},{255,284}}</string>
                 <key>offset</key>
-                <string>{0,-2}</string>
+                <string>{10,-52}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,4},{48,64}}</string>
+                <string>{{0,0},{255,284}}</string>
                 <key>sourceSize</key>
-                <string>{48,68}</string>
+                <string>{255,284}</string>
             </dict>
             <key>Sakura_Skill05_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{454,648},{53,62}}</string>
+                <string>{{255,1660},{255,284}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{10,-52}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{53,62}}</string>
+                <string>{{0,0},{255,284}}</string>
                 <key>sourceSize</key>
-                <string>{53,62}</string>
+                <string>{255,284}</string>
             </dict>
             <key>Sakura_Skill05_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{141,101},{80,58}}</string>
+                <string>{{1760,1114},{255,284}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{10,-52}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{80,58}}</string>
+                <string>{{0,0},{255,284}}</string>
                 <key>sourceSize</key>
-                <string>{80,58}</string>
+                <string>{255,284}</string>
             </dict>
             <key>Sakura_Skill05_09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{339,161},{79,58}}</string>
+                <string>{{510,1660},{255,284}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{10,-52}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{79,58}}</string>
+                <string>{{0,0},{255,284}}</string>
                 <key>sourceSize</key>
-                <string>{79,58}</string>
+                <string>{255,284}</string>
             </dict>
             <key>Sakura_Skill05_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,327},{77,58}}</string>
+                <string>{{765,1660},{255,284}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{10,-52}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{77,58}}</string>
+                <string>{{0,0},{255,284}}</string>
                 <key>sourceSize</key>
-                <string>{77,58}</string>
+                <string>{255,284}</string>
             </dict>
             <key>Sakura_Skill05_11.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{335,275},{75,49}}</string>
+                <string>{{2230,1937},{78,83}}</string>
                 <key>offset</key>
-                <string>{0,-4}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{1,8},{75,49}}</string>
+                <string>{{0,0},{78,83}}</string>
                 <key>sourceSize</key>
-                <string>{77,57}</string>
+                <string>{78,83}</string>
             </dict>
             <key>Sakura_Skill05_12.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,96},{108,50}}</string>
+                <string>{{2308,1937},{78,83}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{108,50}}</string>
+                <string>{{0,0},{78,83}}</string>
                 <key>sourceSize</key>
-                <string>{108,50}</string>
+                <string>{78,83}</string>
             </dict>
             <key>Sakura_Skill05_13.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{141,53},{114,46}}</string>
+                <string>{{2015,830},{317,166}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{122,-43}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{1,0},{114,46}}</string>
+                <string>{{0,0},{317,166}}</string>
                 <key>sourceSize</key>
-                <string>{116,46}</string>
+                <string>{317,166}</string>
             </dict>
             <key>Sakura_Skill05_14.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{138,41}}</string>
+                <string>{{1020,1660},{317,166}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{122,-43}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{138,41}}</string>
+                <string>{{0,0},{317,166}}</string>
                 <key>sourceSize</key>
-                <string>{138,41}</string>
+                <string>{317,166}</string>
             </dict>
             <key>Sakura_Skill05_15.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{138,371},{71,52}}</string>
+                <string>{{1337,1660},{317,166}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{122,-43}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{71,52}}</string>
+                <string>{{0,0},{317,166}}</string>
                 <key>sourceSize</key>
-                <string>{71,52}</string>
+                <string>{317,166}</string>
             </dict>
             <key>Sakura_Skill05_16.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{406,421},{71,52}}</string>
+                <string>{{2455,415},{317,166}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{122,-43}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{71,52}}</string>
+                <string>{{0,0},{317,166}}</string>
                 <key>sourceSize</key>
-                <string>{71,52}</string>
+                <string>{317,166}</string>
             </dict>
             <key>Sakura_Skill05_17.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{346,53},{36,86}}</string>
+                <string>{{2640,284},{317,166}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{122,-43}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{36,86}}</string>
+                <string>{{0,0},{317,166}}</string>
                 <key>sourceSize</key>
-                <string>{36,86}</string>
+                <string>{317,166}</string>
             </dict>
             <key>Sakura_Skill05_18.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{257,85},{28,85}}</string>
+                <string>{{0,1944},{145,61}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-36.5,-2}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{1,0},{28,85}}</string>
+                <string>{{0,0},{145,61}}</string>
                 <key>sourceSize</key>
-                <string>{30,85}</string>
+                <string>{145,61}</string>
             </dict>
             <key>Sakura_Skill05_19.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{339,122},{37,80}}</string>
+                <string>{{2431,1388},{145,61}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-36.5,-2}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{37,80}}</string>
+                <string>{{0,0},{145,61}}</string>
                 <key>sourceSize</key>
-                <string>{37,80}</string>
+                <string>{145,61}</string>
             </dict>
             <key>Sakura_Skill05_20.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{219,326},{36,66}}</string>
+                <string>{{145,1944},{145,61}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-36.5,-2}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{36,66}}</string>
+                <string>{{0,0},{145,61}}</string>
                 <key>sourceSize</key>
-                <string>{36,66}</string>
+                <string>{145,61}</string>
             </dict>
             <key>Sakura_Skill05_21.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{384,671},{36,51}}</string>
+                <string>{{2431,1449},{145,61}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-36.5,-2}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{36,51}}</string>
+                <string>{{0,0},{145,61}}</string>
                 <key>sourceSize</key>
-                <string>{36,51}</string>
+                <string>{145,61}</string>
             </dict>
             <key>Sakura_Skill05_22.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{454,613},{33,55}}</string>
+                <string>{{2650,1664},{219,171}}</string>
                 <key>offset</key>
-                <string>{1,0}</string>
+                <string>{74.5,-30}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{2,0},{33,55}}</string>
+                <string>{{0,0},{219,171}}</string>
                 <key>sourceSize</key>
-                <string>{35,55}</string>
+                <string>{219,171}</string>
             </dict>
             <key>Sakura_Skill05_23.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{257,220},{33,78}}</string>
+                <string>{{1888,1783},{219,171}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{74.5,-30}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{33,78}}</string>
+                <string>{{0,0},{219,171}}</string>
                 <key>sourceSize</key>
-                <string>{33,78}</string>
+                <string>{219,171}</string>
             </dict>
             <key>Sakura_Skill05_24.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{257,424},{33,71}}</string>
+                <string>{{2059,1783},{219,171}}</string>
                 <key>offset</key>
-                <string>{0,2}</string>
+                <string>{74.5,-30}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,1},{33,71}}</string>
+                <string>{{0,0},{219,171}}</string>
                 <key>sourceSize</key>
-                <string>{33,77}</string>
+                <string>{219,171}</string>
             </dict>
             <key>Sakura_Skill05_25.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,387},{30,77}}</string>
+                <string>{{2230,1718},{219,171}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{74.5,-30}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{30,77}}</string>
+                <string>{{0,0},{219,171}}</string>
                 <key>sourceSize</key>
-                <string>{30,77}</string>
+                <string>{219,171}</string>
             </dict>
             <key>Sakura_Skill05_26.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{140,291},{30,78}}</string>
+                <string>{{0,0},{440,415}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{1,-102}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{30,78}}</string>
+                <string>{{0,0},{440,415}}</string>
                 <key>sourceSize</key>
-                <string>{30,78}</string>
+                <string>{440,415}</string>
             </dict>
             <key>Sakura_Skill05_27.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,285},{40,78}}</string>
+                <string>{{0,415},{440,415}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{1,-102}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{40,78}}</string>
+                <string>{{0,0},{440,415}}</string>
                 <key>sourceSize</key>
-                <string>{40,78}</string>
+                <string>{440,415}</string>
             </dict>
             <key>Sakura_Skill05_28.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{138,425},{37,71}}</string>
+                <string>{{440,0},{440,415}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{1,-102}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{37,71}}</string>
+                <string>{{0,0},{440,415}}</string>
                 <key>sourceSize</key>
-                <string>{37,71}</string>
+                <string>{440,415}</string>
             </dict>
             <key>Sakura_Skill05_29.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{220,253},{35,71}}</string>
+                <string>{{0,830},{440,415}}</string>
                 <key>offset</key>
-                <string>{-1,0}</string>
+                <string>{1,-102}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{35,71}}</string>
+                <string>{{0,0},{440,415}}</string>
                 <key>sourceSize</key>
-                <string>{37,71}</string>
+                <string>{440,415}</string>
             </dict>
             <key>Sakura_Skill05_30.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{479,471},{31,71}}</string>
+                <string>{{440,415},{440,415}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{1,-102}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{31,71}}</string>
+                <string>{{0,0},{440,415}}</string>
                 <key>sourceSize</key>
-                <string>{31,71}</string>
+                <string>{440,415}</string>
+            </dict>
+            <key>Sakura_Skill05_31.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{880,0},{440,415}}</string>
+                <key>offset</key>
+                <string>{1,-102}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{440,415}}</string>
+                <key>sourceSize</key>
+                <string>{440,415}</string>
+            </dict>
+            <key>Sakura_Skill05_32.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,1245},{440,415}}</string>
+                <key>offset</key>
+                <string>{1,-102}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{440,415}}</string>
+                <key>sourceSize</key>
+                <string>{440,415}</string>
+            </dict>
+            <key>Sakura_Skill05_33.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{440,830},{440,415}}</string>
+                <key>offset</key>
+                <string>{1,-102}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{440,415}}</string>
+                <key>sourceSize</key>
+                <string>{440,415}</string>
+            </dict>
+            <key>Sakura_Skill05_34.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{880,415},{440,415}}</string>
+                <key>offset</key>
+                <string>{1,-102}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{440,415}}</string>
+                <key>sourceSize</key>
+                <string>{440,415}</string>
+            </dict>
+            <key>Sakura_Skill05_35.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1320,0},{440,415}}</string>
+                <key>offset</key>
+                <string>{1,-102}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{440,415}}</string>
+                <key>sourceSize</key>
+                <string>{440,415}</string>
+            </dict>
+            <key>Sakura_Skill05_36.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{440,1245},{440,415}}</string>
+                <key>offset</key>
+                <string>{1,-102}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{440,415}}</string>
+                <key>sourceSize</key>
+                <string>{440,415}</string>
+            </dict>
+            <key>Sakura_Skill05_37.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{880,830},{440,415}}</string>
+                <key>offset</key>
+                <string>{1,-102}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{440,415}}</string>
+                <key>sourceSize</key>
+                <string>{440,415}</string>
+            </dict>
+            <key>Sakura_Skill05_38.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1320,415},{440,415}}</string>
+                <key>offset</key>
+                <string>{1,-102}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{440,415}}</string>
+                <key>sourceSize</key>
+                <string>{440,415}</string>
+            </dict>
+            <key>Sakura_Skill05_39.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1760,0},{440,415}}</string>
+                <key>offset</key>
+                <string>{1,-102}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{440,415}}</string>
+                <key>sourceSize</key>
+                <string>{440,415}</string>
+            </dict>
+            <key>Sakura_Skill05_40.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{880,1245},{440,415}}</string>
+                <key>offset</key>
+                <string>{1,-102}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{440,415}}</string>
+                <key>sourceSize</key>
+                <string>{440,415}</string>
+            </dict>
+            <key>Sakura_Skill05_41.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1320,830},{440,415}}</string>
+                <key>offset</key>
+                <string>{1,-102}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{440,415}}</string>
+                <key>sourceSize</key>
+                <string>{440,415}</string>
+            </dict>
+            <key>Sakura_Skill05_42.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1760,415},{440,415}}</string>
+                <key>offset</key>
+                <string>{1,-102}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{440,415}}</string>
+                <key>sourceSize</key>
+                <string>{440,415}</string>
+            </dict>
+            <key>Sakura_Skill05_43.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2200,0},{440,415}}</string>
+                <key>offset</key>
+                <string>{1,-102}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{440,415}}</string>
+                <key>sourceSize</key>
+                <string>{440,415}</string>
+            </dict>
+            <key>Sakura_Skill05_44.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1320,1245},{440,415}}</string>
+                <key>offset</key>
+                <string>{1,-102}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{440,415}}</string>
+                <key>sourceSize</key>
+                <string>{440,415}</string>
             </dict>
             <key>Sakura_Walk_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{257,550},{66,49}}</string>
+                <string>{{2010,1671},{66,49}}</string>
                 <key>offset</key>
-                <string>{0,1}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{66,49}}</string>
                 <key>sourceSize</key>
-                <string>{66,51}</string>
+                <string>{66,49}</string>
             </dict>
             <key>Sakura_Walk_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{138,666},{63,51}}</string>
+                <string>{{1937,1722},{63,50}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{63,51}}</string>
+                <string>{{0,0},{63,50}}</string>
                 <key>sourceSize</key>
-                <string>{63,51}</string>
+                <string>{63,50}</string>
             </dict>
             <key>Sakura_Walk_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{318,679},{49,47}}</string>
+                <string>{{2146,1713},{49,47}}</string>
                 <key>offset</key>
-                <string>{0,-2}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,4},{49,47}}</string>
+                <string>{{0,0},{49,47}}</string>
                 <key>sourceSize</key>
-                <string>{49,51}</string>
+                <string>{49,47}</string>
             </dict>
             <key>Sakura_Walk_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{326,529},{66,49}}</string>
+                <string>{{2076,1671},{66,49}}</string>
                 <key>offset</key>
-                <string>{0,1}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{66,49}}</string>
                 <key>sourceSize</key>
-                <string>{66,51}</string>
+                <string>{66,49}</string>
             </dict>
             <key>Sakura_Walk_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{257,601},{63,51}}</string>
+                <string>{{2010,1720},{63,50}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{63,50}}</string>
+                <key>sourceSize</key>
+                <string>{63,50}</string>
+            </dict>
+            <key>Sakura_Walk_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2874,966},{49,47}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{63,51}}</string>
+                <string>{{0,0},{49,47}}</string>
                 <key>sourceSize</key>
-                <string>{63,51}</string>
-            </dict>
-            <key>Sakura_Walk_06.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{452,712},{49,47}}</string>
-                <key>offset</key>
-                <string>{0,-2}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,4},{49,47}}</string>
-                <key>sourceSize</key>
-                <string>{49,51}</string>
+                <string>{49,47}</string>
             </dict>
             <key>hBuff_Effect_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{500,202},{25,7}}</string>
+                <string>{{290,1944},{68,81}}</string>
                 <key>offset</key>
-                <string>{0,-15}</string>
+                <string>{5,-5}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,30},{25,7}}</string>
+                <string>{{0,0},{68,81}}</string>
                 <key>sourceSize</key>
-                <string>{25,37}</string>
+                <string>{68,81}</string>
             </dict>
             <key>hBuff_Effect_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{437,701},{28,13}}</string>
+                <string>{{371,1944},{68,81}}</string>
                 <key>offset</key>
-                <string>{0,-12}</string>
+                <string>{5,-5}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,24},{28,13}}</string>
+                <string>{{0,0},{68,81}}</string>
                 <key>sourceSize</key>
-                <string>{28,37}</string>
+                <string>{68,81}</string>
             </dict>
             <key>hBuff_Effect_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{483,384},{27,11}}</string>
+                <string>{{452,1944},{68,81}}</string>
                 <key>offset</key>
-                <string>{0,-13}</string>
+                <string>{5,-5}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,26},{27,11}}</string>
+                <string>{{0,0},{68,81}}</string>
                 <key>sourceSize</key>
-                <string>{27,37}</string>
+                <string>{68,81}</string>
             </dict>
             <key>hBuff_Effect_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{203,714},{28,19}}</string>
+                <string>{{290,1944},{68,81}}</string>
                 <key>offset</key>
-                <string>{0,-9}</string>
+                <string>{5,-5}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,18},{28,19}}</string>
+                <string>{{0,0},{68,81}}</string>
                 <key>sourceSize</key>
-                <string>{28,37}</string>
+                <string>{68,81}</string>
             </dict>
             <key>hBuff_Effect_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{493,259},{28,15}}</string>
+                <string>{{371,1944},{68,81}}</string>
                 <key>offset</key>
-                <string>{0,-11}</string>
+                <string>{5,-5}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,22},{28,15}}</string>
+                <string>{{0,0},{68,81}}</string>
                 <key>sourceSize</key>
-                <string>{28,37}</string>
+                <string>{68,81}</string>
             </dict>
             <key>hBuff_Effect_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{492,317},{26,15}}</string>
+                <string>{{452,1944},{68,81}}</string>
                 <key>offset</key>
-                <string>{0,-11}</string>
+                <string>{5,-5}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,22},{26,15}}</string>
+                <string>{{0,0},{68,81}}</string>
                 <key>sourceSize</key>
-                <string>{26,37}</string>
+                <string>{68,81}</string>
             </dict>
             <key>hBuff_Effect_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{112,121},{27,23}}</string>
+                <string>{{290,1944},{68,81}}</string>
                 <key>offset</key>
-                <string>{0,-7}</string>
+                <string>{5,-5}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,14},{27,23}}</string>
+                <string>{{0,0},{68,81}}</string>
                 <key>sourceSize</key>
-                <string>{27,37}</string>
+                <string>{68,81}</string>
             </dict>
             <key>hBuff_Effect_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{369,709},{26,19}}</string>
+                <string>{{371,1944},{68,81}}</string>
                 <key>offset</key>
-                <string>{0,-2}</string>
+                <string>{5,-5}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,11},{26,19}}</string>
+                <string>{{0,0},{68,81}}</string>
                 <key>sourceSize</key>
-                <string>{26,37}</string>
+                <string>{68,81}</string>
             </dict>
             <key>hBuff_Effect_09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{488,345},{22,7}}</string>
+                <string>{{452,1944},{68,81}}</string>
                 <key>offset</key>
-                <string>{0,10}</string>
+                <string>{5,-5}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,5},{22,7}}</string>
+                <string>{{0,0},{68,81}}</string>
                 <key>sourceSize</key>
-                <string>{22,37}</string>
+                <string>{68,81}</string>
             </dict>
             <key>hBuff_Effect_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{134,67},{20,5}}</string>
+                <string>{{533,1944},{68,81}}</string>
                 <key>offset</key>
-                <string>{0,13}</string>
+                <string>{5,-5}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,3},{20,5}}</string>
+                <string>{{0,0},{68,81}}</string>
                 <key>sourceSize</key>
-                <string>{20,37}</string>
+                <string>{68,81}</string>
             </dict>
-            <key>pBuff_Effect_01.png</key>
+            <key>zanuars.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{500,175},{25,7}}</string>
+                <string>{{1760,1398},{250,250}}</string>
                 <key>offset</key>
-                <string>{0,-15}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,30},{25,7}}</string>
-                <key>sourceSize</key>
-                <string>{25,37}</string>
-            </dict>
-            <key>pBuff_Effect_02.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{437,671},{28,13}}</string>
-                <key>offset</key>
-                <string>{0,-12}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,24},{28,13}}</string>
-                <key>sourceSize</key>
-                <string>{28,37}</string>
-            </dict>
-            <key>pBuff_Effect_03.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{112,146},{27,11}}</string>
-                <key>offset</key>
-                <string>{0,-13}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,26},{27,11}}</string>
+                <string>{{0,0},{250,250}}</string>
                 <key>sourceSize</key>
-                <string>{27,37}</string>
-            </dict>
-            <key>pBuff_Effect_04.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{488,354},{28,19}}</string>
-                <key>offset</key>
-                <string>{0,-9}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,18},{28,19}}</string>
-                <key>sourceSize</key>
-                <string>{28,37}</string>
-            </dict>
-            <key>pBuff_Effect_05.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{493,229},{28,15}}</string>
-                <key>offset</key>
-                <string>{0,-11}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,22},{28,15}}</string>
-                <key>sourceSize</key>
-                <string>{28,37}</string>
-            </dict>
-            <key>pBuff_Effect_06.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{492,289},{26,15}}</string>
-                <key>offset</key>
-                <string>{0,-11}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,22},{26,15}}</string>
-                <key>sourceSize</key>
-                <string>{26,37}</string>
-            </dict>
-            <key>pBuff_Effect_07.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{112,96},{27,23}}</string>
-                <key>offset</key>
-                <string>{0,-7}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,14},{27,23}}</string>
-                <key>sourceSize</key>
-                <string>{27,37}</string>
-            </dict>
-            <key>pBuff_Effect_08.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{233,714},{26,19}}</string>
-                <key>offset</key>
-                <string>{0,-2}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,11},{26,19}}</string>
-                <key>sourceSize</key>
-                <string>{26,37}</string>
-            </dict>
-            <key>pBuff_Effect_09.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{82,148},{22,7}}</string>
-                <key>offset</key>
-                <string>{0,10}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,5},{22,7}}</string>
-                <key>sourceSize</key>
-                <string>{22,37}</string>
-            </dict>
-            <key>pBuff_Effect_10.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{134,45},{20,5}}</string>
-                <key>offset</key>
-                <string>{0,13}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,3},{20,5}}</string>
-                <key>sourceSize</key>
-                <string>{20,37}</string>
+                <string>{250,250}</string>
             </dict>
         </dict>
         <key>metadata</key>
         <dict>
             <key>format</key>
             <integer>2</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
             <key>realTextureFileName</key>
-            <string>Sakura.png</string>
+            <string>Sakura War.png</string>
             <key>size</key>
-            <string>{512,1024}</string>
+            <string>{3150,2020}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:c18ecbe633248a0bca374149c049ece4$</string>
+            <string>$TexturePacker:SmartUpdate:8e5b7f681bd686ffd4453c1746b0704f:9e0c2d3de3e80fea69695fcd0b7223e0:e86473f9cb9fc931b2a673518385d41d$</string>
             <key>textureFileName</key>
-            <string>Sakura.png</string>
+            <string>Sakura War.png</string>
         </dict>
     </dict>
 </plist>

@@ -76,7 +76,7 @@
     <action value="nAttack">
       <date>
 	    <dateName type="attackType">nAttack</dateName>
-        <dateName type="attackValue">60</dateName>
+        <dateName type="attackValue">760</dateName>
         <dateName type="attackRangeX">0</dateName>
         <dateName type="attackRangeY">16</dateName>
         <coldName type="coldDown">0</coldName>
@@ -104,7 +104,7 @@
    <action value="skill01">
      <date>
 	   <dateName type="attackType">cAttack</dateName>
-       <dateName type="attackValue">460</dateName>
+       <dateName type="attackValue">1460</dateName>
        <dateName type="attackRangeX">64</dateName>
        <dateName type="attackRangeY">32</dateName>
        <coldName type="coldDown">10</coldName>
@@ -119,6 +119,7 @@
       <frameName>Kimimaro_Skill01_06.png</frameName>
       <eventName type="setBullet">BoneBullet</eventName>
       <eventName type="setDelay">40</eventName>
+      <eventName type="setTransform">40</eventName>
      </frame>
    </action>
 
@@ -137,13 +138,14 @@
           <frameName>Kimimaro_Skill02_02.png</frameName>
           <eventName type="setBullet">Bone</eventName>
           <eventName type="setDelay">10</eventName>
+          <eventName type="setTransform">40</eventName>
         </frame>
     </action>
 
     <action value="skill03">
         <date>
 			<dateName type="attackType">aAttack</dateName>
-            <dateName type="attackValue">560</dateName>
+            <dateName type="attackValue">3560</dateName>
             <dateName type="attackRangeX">0</dateName>
             <dateName type="attackRangeY">32</dateName>
             <coldName type="coldDown">25</coldName>
@@ -179,13 +181,14 @@
         <eventName type="setSound">Audio/Effect/blade_damage2.ogg</eventName>
         <frameName>Kimimaro_Skill03_12.png</frameName>
         <frameName>Kimimaro_Skill03_13.png</frameName>
+        <eventName type="setTransform">40</eventName>
         </frame>
     </action>
 
    <action value="skill04">
      <date>
        <dateName type="attackType">aAttack</dateName>
-       <dateName type="attackValue">860</dateName>
+       <dateName type="attackValue">7860</dateName>
        <dateName type="attackRangeX">0</dateName>
        <dateName type="attackRangeY">32</dateName>
        <coldName type="coldDown">1</coldName>
@@ -225,12 +228,13 @@
         <frameName>Kimimaro_Skill04_002.png</frameName>
         <frameName>Kimimaro_Skill04_001.png</frameName>
         <frameName>Kimimaro_Skill04_01.png</frameName>
+        <eventName type="setTransform">40</eventName>
      </frame>
    </action>
        <action value="skill05">
         <date>
             <dateName type="attackType">aAttack</dateName>
-            <dateName type="attackValue">2200</dateName>
+            <dateName type="attackValue">72200</dateName>
             <dateName type="attackRangeX">0</dateName>
             <dateName type="attackRangeY">48</dateName>
             <coldName type="coldDown">1</coldName>
@@ -264,7 +268,6 @@
           <frameName>Jugo_Skill05_16.png</frameName>
           <frameName>Jugo_Skill05_17.png</frameName>
             <eventName type="setSound">Audio/Jugo/Jugo_skill11.ogg</eventName>
-          <frameName>Jugo_Skill05_18.png</frameName>
           <eventName type="setDelay">20</eventName>   
           <frameName>Jugo_Skill05_14.png</frameName>
           <eventName type="setTransform">40</eventName>
