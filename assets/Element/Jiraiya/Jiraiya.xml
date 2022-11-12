@@ -168,8 +168,8 @@
     <action value="skill03">
         <date>
 			<dateName type="attackType">Summon</dateName>
-            <dateName type="attackValue">300</dateName>
-            <dateName type="attackRangeX">32</dateName>
+            <dateName type="attackValue">1600</dateName>
+            <dateName type="attackRangeX">320</dateName>
             <dateName type="attackRangeY">48</dateName>
             <coldName type="coldDown">25</coldName>
         </date>
@@ -181,8 +181,9 @@
             <eventName type="setDelay">10</eventName>
             <frameName>Jiraiya_Skill03_03.png</frameName>
             <eventName type="setDelay">10</eventName>
-            <frameName>Jiraiya_Skill03_04.png</frameName>
-             <eventName type="setMon">Yataikuzu</eventName>
+            <frameName>Jiraiya_Skill03_04.png</frameName>   
+            <eventName type="setAttackBox">b_hit</eventName>
+            <!-- <eventName type="setMon">Yataikuzu</eventName>-->
             <eventName type="setDelay">30</eventName>
 
         </frame>

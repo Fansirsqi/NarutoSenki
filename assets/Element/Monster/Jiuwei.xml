@@ -3,20 +3,28 @@
    
     <action value="Idle">
 	 <date>
-	    <dateName type="attackType">Jiuwei</dateName>
+	    <dateName type="attackType">Kisame</dateName>
         <dateName type="attackValue">0</dateName>
         <dateName type="attackRangeX">51</dateName>
         <dateName type="attackRangeY">11</dateName>
         <coldName type="coldDown">224</coldName>
       </date>
       <frame>
-        <frameName>Jiuwei_01.png</frameName>
+        <frameName>Naruto_Idle_01.png</frameName>
+        <frameName>Naruto_Idle_02.png</frameName>
+        <frameName>Naruto_Idle_03.png</frameName>
+        <frameName>Naruto_Idle_04.png</frameName>
       </frame>
     </action>
    
     <action value="Walk">
       <frame>
-          <frameName>Jiuwei_01.png</frameName>
+        <frameName>Naruto_Walk_01.png</frameName>
+        <frameName>Naruto_Walk_02.png</frameName>
+        <frameName>Naruto_Walk_03.png</frameName>
+        <frameName>Naruto_Walk_04.png</frameName>
+        <frameName>Naruto_Walk_05.png</frameName>
+        <frameName>Naruto_Walk_06.png</frameName>
       </frame>
     </action>
    
@@ -43,29 +51,81 @@
    
     <action value="Dead">
       <frame>
-          <frameName>Jiuwei_01.png</frameName>
       </frame>
     </action>
    
     <action value="nAttack">
       <date>
 	    <dateName type="attackType">aAttack</dateName>
-        <dateName type="attackValue">660</dateName>
-        <dateName type="attackRangeX">32</dateName>
-        <dateName type="attackRangeY">32</dateName>
+        <dateName type="attackValue">300</dateName>
+        <dateName type="attackRangeX">128</dateName>
+        <dateName type="attackRangeY">64</dateName>
         <coldName type="coldDown">0</coldName>
       </date>
       <frame>
-          <frameName>Jiuwei_01.png</frameName>
-          <eventName type="setSound">Audio/Effect/weishoupao.ogg</eventName>
-          <eventName type="setAttackBox">c_hit</eventName>
-          <eventName type="setDelay">10</eventName>
-          <eventName type="setAttackBox">c_hit</eventName>
-          <eventName type="setDelay">10</eventName>
-          <eventName type="setAttackBox">c_hit</eventName>
-          <eventName type="setDelay">10</eventName>
-          <eventName type="setAttackBox">b_hit</eventName>
-          <eventName type="setDetonation">0</eventName>
+        <frameName>all_use.png</frameName>
+        <eventName type="setChargeB">500</eventName>
+        <frameName>all_use.png</frameName>
+        <frameName>all_use.png</frameName>
+        <frameName>all_use.png</frameName>
+        <frameName>NarutoSkll2Left_01.png</frameName>
+        <eventName type="setSound">Audio/Naruto/poof.ogg</eventName>
+        <frameName>NarutoSkll2Left_02.png</frameName>
+        <frameName>NarutoSkll2Left_03.png</frameName>
+        <frameName>NarutoSkll2Left_04.png</frameName>
+        <frameName>NarutoSkll2Left_05.png</frameName>
+        <eventName type="setFlipped">1</eventName>
+        <frameName>NarutoHabdSeal_01.png</frameName>
+        <frameName>NarutoHabdSeal_02.png</frameName>
+        <frameName>NarutoHabdSeal_03.png</frameName>
+        <frameName>NarutoHabdSeal_04.png</frameName>
+        <frameName>NarutoIncomingBunshen_01.png</frameName>
+        <frameName>NarutoIncomingBunshen_02.png</frameName>
+        <frameName>NarutoIncomingBunshen_03.png</frameName>
+        <frameName>NarutoIncomingBunshen_04.png</frameName>
+        <frameName>NarutoIncomingBunshen_05.png</frameName>
+        <frameName>NarutoIncomingBunshen_06.png</frameName>
+        <frameName>NarutoIncomingRassengan_00.png</frameName>
+        <eventName type="setAttackBox">l_hit</eventName>
+        <eventName type="setSound">Audio/Naruto/Naruto_s4_sfx_01.ogg</eventName>
+        <frameName>NarutoIncomingRassengan_01.png</frameName>
+        <eventName type="setAttackBox">l_hit</eventName>
+        <frameName>NarutoIncomingRassengan_02.png</frameName>
+        <eventName type="setAttackBox">l_hit</eventName>
+        <frameName>NarutoIncomingRassengan_03.png</frameName>
+        <frameName>NarutoIncomingRassengan_04.png</frameName>
+        <frameName>NarutoIncomingRassengan_05.png</frameName>
+        <frameName>NarutoIncomingRassengan_06.png</frameName>
+        <frameName>NarutoRassengan_01.png</frameName>
+        <eventName type="setCharge">25</eventName> 
+        <eventName type="setSound">Audio/Naruto/naruto_skill1.ogg</eventName>
+        <frameName>NarutoRassengan_02.png</frameName>
+        <eventName type="setCharge">20</eventName> 
+        <eventName type="setAttackBox">o_hit</eventName>
+        <frameName>NarutoRassengan_03.png</frameName>
+        <eventName type="setCharge">15</eventName> 
+        <eventName type="setAttackBox">b_hit</eventName>
+        <frameName>NarutoRassengan_04.png</frameName>
+        <eventName type="setCharge">10</eventName> 
+        <eventName type="setAttackBox">a_hit</eventName>
+        <frameName>NarutoRassengan_05.png</frameName>
+        <eventName type="setCharge">5</eventName> 
+        <eventName type="setAttackBox">a_hit</eventName>
+        <frameName>NarutoRassenganExplosion_01.png</frameName>
+        <eventName type="setAttackBox">b_hit</eventName>
+        <frameName>NarutoRassenganExplosion_02.png</frameName>
+        <eventName type="setAttackBox">a_hit</eventName>
+        <frameName>NarutoRassenganExplosion_03.png</frameName>
+        <frameName>NarutoRassenganExplosion_04.png</frameName>
+        <frameName>NarutoRassenganExplosion_05.png</frameName>
+        <frameName>Naruto_Idle_01.png</frameName>
+        <frameName>NarutoSkll2Left_01.png</frameName>
+        <eventName type="setSound">Audio/Naruto/poof.ogg</eventName>
+        <frameName>NarutoSkll2Left_02.png</frameName>
+        <frameName>NarutoSkll2Left_03.png</frameName>
+        <frameName>NarutoSkll2Left_04.png</frameName>
+        <frameName>NarutoSkll2Left_05.png</frameName>
+        <eventName type="setDetonation">0</eventName>
       </frame>
     </action>
 

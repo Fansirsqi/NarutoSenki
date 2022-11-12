@@ -1,113 +1,148 @@
 <?xml version="1.0" encoding="utf-8"?>
- <animation>
-   
+<animation>
     <action value="Idle">
-	 <date>
-	    <dateName type="attackType">FudonSRK</dateName>
-        <dateName type="attackValue">0</dateName>
-        <dateName type="attackRangeX">57</dateName>
-        <dateName type="attackRangeY">48</dateName>
-        <coldName type="coldDown">0</coldName>
-      </date>
-      <frame>
-        <frameName>FudonSRK_Move_01.png</frameName>
-      </frame>
+        <date>
+            <dateName type="attackType">FudonSRK</dateName>
+            <dateName type="attackValue">120</dateName>
+            <dateName type="attackRangeX">57</dateName>
+            <dateName type="attackRangeY">48</dateName>
+            <coldName type="coldDown">336</coldName>
+        </date>
+        <frame>
+            <frameName>Fudon_RansenSRK_Move01.png</frameName>
+        </frame>
     </action>
-   
     <action value="Walk">
-       <frame>
-        <frameName>FudonSRK_Move_01.png</frameName>
-      </frame>
+        <frame>
+            <frameName>Fudon_RansenSRK_Move01.png</frameName>
+        </frame>
     </action>
-   
     <action value="Hurt">
-      <frame>
-      </frame>
+        <frame></frame>
     </action>
-   
-   <action value="AirHurt">
-     <frame>
-
-     </frame>
-   </action>
-   
-   <action value="KnockDown">
-      <frame>
-      </frame>
+    <action value="AirHurt">
+        <frame></frame>
     </action>
-   
+    <action value="KnockDown">
+        <frame></frame>
+    </action>
     <action value="Float">
-      <frame>
-      </frame>
+        <frame></frame>
     </action>
-   
     <action value="Dead">
-      <frame>
-          <frameName>FudonSRK_Dead_01.png</frameName>
-          <frameName>FudonSRK_Dead_02.png</frameName>
-          <eventName type="setAttackBox">ab_hit</eventName>
-          <frameName>FudonSRK_Dead_03.png</frameName>
-          <frameName>FudonSRK_Dead_04.png</frameName>
+        <frame>
+            <frameName>Fudon_RansenSRK_Boom01.png</frameName>
             <eventName type="setAttackBox">ab_hit</eventName>
-          <frameName>FudonSRK_Dead_05.png</frameName>
-          <frameName>FudonSRK_Dead_03.png</frameName>
+            <frameName>Fudon_RansenSRK_Boom02.png</frameName>
+            <eventName type="setSound">Audio/SageNaruto/RK_Naruto_s4_sfx_02.ogg</eventName>
+            <frameName>Fudon_RansenSRK_Boom03.png</frameName>
+            <frameName>Fudon_RansenSRK_Boom04.png</frameName>
+            <eventName type="setAttackBox">s_hit</eventName>
+            <frameName>Fudon_RansenSRK_Boom05.png</frameName>
+            <eventName type="setAttackBox">s_hit</eventName>
+            <frameName>Fudon_RansenSRK_Boom06.png</frameName>
             <eventName type="setAttackBox">ab_hit</eventName>
-          <frameName>FudonSRK_Dead_04.png</frameName>
-          <frameName>FudonSRK_Dead_05.png</frameName>
+            <frameName>Fudon_RansenSRK_Boom07.png</frameName>
             <eventName type="setAttackBox">ab_hit</eventName>
-          <frameName>FudonSRK_Dead_03.png</frameName>
-          <frameName>FudonSRK_Dead_04.png</frameName>
+            <frameName>Fudon_RansenSRK_Boom08.png</frameName>
+            <eventName type="setAttackBox">s_hit</eventName>
+            <frameName>Fudon_RansenSRK_Boom09.png</frameName>
+            <eventName type="setAttackBox">s_hit</eventName>
+            <frameName>Fudon_RansenSRK_Boom10.png</frameName>
             <eventName type="setAttackBox">ab_hit</eventName>
-          <frameName>FudonSRK_Dead_05.png</frameName>
-          <frameName>FudonSRK_Dead_06.png</frameName>
-            <eventName type="setAttackBox">ab_hit</eventName>
-          <frameName>FudonSRK_Dead_07.png</frameName>
-          <frameName>FudonSRK_Dead_08.png</frameName>
-      </frame>
+            <frameName>Fudon_RansenSRK_Boom10.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Fudon_RansenSRK_Boom11.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Fudon_RansenSRK_Boom12.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Fudon_RansenSRK_Boom13.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Fudon_RansenSRK_Boom14.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Fudon_RansenSRK_Boom15.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Fudon_RansenSRK_Boom16.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Fudon_RansenSRK_Boom17.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Fudon_RansenSRK_Boom18.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Fudon_RansenSRK_Boom19.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Fudon_RansenSRK_Boom20.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Fudon_RansenSRK_Boom21.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Fudon_RansenSRK_Boom22.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Fudon_RansenSRK_Boom23.png</frameName>
+            <eventName type="setAttackBox">s_hit</eventName>
+            <frameName>Fudon_RansenSRK_Boom24.png</frameName>
+            <eventName type="setAttackBox">s_hit</eventName>
+            <frameName>Fudon_RansenSRK_Boom25.png</frameName>
+            <eventName type="setAttackBox">s_hit</eventName>
+            <frameName>Fudon_RansenSRK_Boom26.png</frameName>
+            <eventName type="setAttackBox">s_hit</eventName>
+            <frameName>Fudon_RansenSRK_Boom27.png</frameName>
+            <eventName type="setAttackBox">s_hit</eventName>
+            <frameName>Fudon_RansenSRK_Boom28.png</frameName>
+            <eventName type="setAttackBox">s_hit</eventName>
+            <frameName>Fudon_RansenSRK_Boom29.png</frameName>
+            <eventName type="setAttackBox">o_hit</eventName>
+            <frameName>Fudon_RansenSRK_Boom30.png</frameName>
+            <eventName type="setAttackBox">o_hit</eventName>
+            <frameName>Fudon_RansenSRK_Boom31.png</frameName>
+            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setDetonation">0</eventName>
+        </frame>
     </action>
-   
     <action value="nAttack">
-      <date>
-	    <dateName type="attackType">aAttack</dateName>
-        <dateName type="attackValue">560</dateName>
-        <dateName type="attackRangeX">48</dateName>
-        <dateName type="attackRangeY">48</dateName>
-        <coldName type="coldDown">0</coldName>
-      </date>
-      <frame>
-        <frameName>FudonSRK_Move_01.png</frameName>
-        <eventName type="setAttackBox">o_hit</eventName>
-        <frameName>FudonSRK_Move_02.png</frameName>
-        <frameName>FudonSRK_Move_03.png</frameName>
-        <eventName type="setAttackBox">o_hit</eventName>
-        <frameName>FudonSRK_Move_04.png</frameName>
-        <frameName>FudonSRK_Move_05.png</frameName>
-        <eventName type="setAttackBox">o_hit</eventName>
-        <frameName>FudonSRK_Move_01.png</frameName>
-        <eventName type="setAttackBox">o_hit</eventName>
-        <frameName>FudonSRK_Move_02.png</frameName>
-        <frameName>FudonSRK_Move_03.png</frameName>
-        <eventName type="setAttackBox">o_hit</eventName>
-        <frameName>FudonSRK_Move_04.png</frameName>
-        <frameName>FudonSRK_Move_05.png</frameName>
-        <eventName type="setAttackBox">o_hit</eventName>
-         <frameName>FudonSRK_Move_01.png</frameName>
-        <eventName type="setAttackBox">o_hit</eventName>
-        <frameName>FudonSRK_Move_02.png</frameName>
-        <frameName>FudonSRK_Move_03.png</frameName>
-        <eventName type="setAttackBox">o_hit</eventName>
-        <frameName>FudonSRK_Move_04.png</frameName>
-        <frameName>FudonSRK_Move_05.png</frameName>
-        <eventName type="setAttackBox">o_hit</eventName>
-        <frameName>FudonSRK_Move_01.png</frameName>
-        <eventName type="setAttackBox">o_hit</eventName>
-        <frameName>FudonSRK_Move_02.png</frameName>
-        <frameName>FudonSRK_Move_03.png</frameName>
-        <eventName type="setAttackBox">o_hit</eventName>
-        <frameName>FudonSRK_Move_04.png</frameName>
-        <frameName>FudonSRK_Move_05.png</frameName>
-        <eventName type="setAttackBox">o_hit</eventName>
-    </frame>
+        <date>
+            <dateName type="attackType">aAttack</dateName>
+            <dateName type="attackValue">70</dateName>
+            <dateName type="attackRangeX">0</dateName>
+            <dateName type="attackRangeY">48</dateName>
+            <coldName type="coldDown">0</coldName>
+        </date>
+        <frame>
+            <frameName>Fudon_RansenSRK_Move01.png</frameName>
+            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setMove">12</eventName>
+            <frameName>Fudon_RansenSRK_Move02.png</frameName>
+            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setMove">12</eventName>
+            <frameName>Fudon_RansenSRK_Move03.png</frameName>
+            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setMove">12</eventName>
+            <frameName>Fudon_RansenSRK_Move04.png</frameName>
+            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setMove">12</eventName>
+            <frameName>Fudon_RansenSRK_Move05.png</frameName>
+            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setMove">12</eventName>
+            <frameName>Fudon_RansenSRK_Move06.png</frameName>
+            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setMove">12</eventName>
+            <frameName>Fudon_RansenSRK_Move01.png</frameName>
+            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setMove">12</eventName>
+            <frameName>Fudon_RansenSRK_Move02.png</frameName>
+            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setMove">12</eventName>
+            <frameName>Fudon_RansenSRK_Move03.png</frameName>
+            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setMove">12</eventName>
+            <frameName>Fudon_RansenSRK_Move04.png</frameName>
+            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setMove">12</eventName>
+            <frameName>Fudon_RansenSRK_Move05.png</frameName>
+            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setMove">12</eventName>
+            <frameName>Fudon_RansenSRK_Move06.png</frameName>
+            <eventName type="setAttackBox">ab_hit</eventName>
+            <eventName type="setMove">18</eventName>
+            <eventName type="setDetonation">0</eventName>
+        </frame>
     </action>
-
 </animation>

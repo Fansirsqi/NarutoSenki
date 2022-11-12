@@ -218,7 +218,9 @@
         <frame>
             <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
             <frameName>Hinata_Skill04_01.png</frameName>
+            <eventName type="setSkillEffect">Bagua</eventName>
             <eventName type="setAttackBox">f_hit</eventName>
+            
             <frameName>Hinata_Skill04_02.png</frameName>
             <eventName type="setAttackBox">fb_hit</eventName>
             <frameName>Hinata_Skill04_03.png</frameName>
@@ -226,6 +228,7 @@
             <eventName type="setCommand">setInvincible</eventName>
             <frameName>Hinata_Skill04_04.png</frameName>
             <eventName type="setJump">true</eventName>
+            <eventName type="setFont">bltw.png</eventName>
             <frameName>Hinata_Skill04_001.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>Hinata_Skill04_002.png</frameName>

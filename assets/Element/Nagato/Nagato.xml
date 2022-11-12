@@ -219,7 +219,7 @@
       <eventName type="setSound">Audio/Nagato/Nagato_skill4.ogg</eventName>
       <frameName>Nagato_Skill04_03.png</frameName>
       <frameName>Nagato_Skill04_04.png</frameName>
-      <eventName type="setMon">JibakuEX</eventName>
+      <eventName type="setMon">Jibaku</eventName>
       <frameName>Nagato_Skill04_05.png</frameName>
       <frameName>Nagato_Skill04_06.png</frameName>
      </frame>

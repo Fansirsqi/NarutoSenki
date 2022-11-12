@@ -56,6 +56,46 @@
         <coldName type="coldDown">0</coldName>
       </date>
       <frame>
+          <frameName>Pain_Jibaku_Move_01.png</frameName>
+          <eventName type="setAttackBox">ab_hit</eventName>
+          <eventName type="setDelay">10</eventName>
+          <eventName type="setAttackBox">ab_hit</eventName>
+          <eventName type="setDelay">10</eventName>
+          <frameName>Pain_Jibaku_Move_02.png</frameName>
+          <eventName type="setAttackBox">ab_hit</eventName>
+          <eventName type="setDelay">10</eventName>
+          <eventName type="setAttackBox">ab_hit</eventName>
+          <eventName type="setDelay">10</eventName>
+          <frameName>Pain_Jibaku_Move_03.png</frameName>
+          <eventName type="setAttackBox">ab_hit</eventName>
+          <eventName type="setDelay">10</eventName>
+          <eventName type="setAttackBox">ab_hit</eventName>
+          <eventName type="setDelay">10</eventName>
+          <frameName>Pain_Jibaku_Move_04.png</frameName>
+          <eventName type="setAttackBox">ab_hit</eventName>
+          <eventName type="setDelay">10</eventName>
+          <eventName type="setAttackBox">ab_hit</eventName>
+          <eventName type="setDelay">10</eventName>
+          <frameName>Pain_Jibaku_Move_05.png</frameName>
+          <eventName type="setAttackBox">ab_hit</eventName>
+          <eventName type="setDelay">10</eventName>
+          <eventName type="setAttackBox">ab_hit</eventName>
+          <eventName type="setDelay">10</eventName>
+          <frameName>Pain_Jibaku_Move_06.png</frameName>
+          <eventName type="setSound">Audio/Effect/bom.ogg</eventName>
+          <eventName type="setAttackBox">c_hit</eventName>
+          <frameName>Pain_Jibaku_Move_07.png</frameName>
+          <eventName type="setAttackBox">c_hit</eventName>
+          <frameName>Pain_Jibaku_Move_08.png</frameName>
+          <eventName type="setAttackBox">c_hit</eventName>
+          <frameName>Pain_Jibaku_Move_09.png</frameName>
+          <eventName type="setAttackBox">c_hit</eventName>
+          <frameName>Pain_Jibaku_Move_10.png</frameName>
+          <eventName type="setAttackBox">c_hit</eventName>
+          <frameName>Pain_Jibaku_Move_11.png</frameName>
+          <eventName type="setAttackBox">c_hit</eventName>
+          <frameName>Pain_Jibaku_Move_12.png</frameName>
+          <eventName type="setAttackBox">c_hit</eventName>
             <frameName>JibakuEX_Move_001.png</frameName>
             <eventName type="setAttackBox">ab_hit</eventName>
             <frameName>JibakuEX_Move_002.png</frameName>

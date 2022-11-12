@@ -7,11 +7,11 @@
             <key>Naruto_AirHurt_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{130,323},{49,50}}</string>
+                <string>{{3973,587},{49,50}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{49,50}}</string>
                 <key>sourceSize</key>
@@ -20,154 +20,154 @@
             <key>Naruto_Float_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{130,272},{50,49}}</string>
+                <string>{{4022,587},{50,50}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{50,49}}</string>
+                <string>{{0,0},{50,50}}</string>
                 <key>sourceSize</key>
-                <string>{50,49}</string>
+                <string>{50,50}</string>
             </dict>
             <key>Naruto_Float_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{307,609},{65,58}}</string>
+                <string>{{3872,657},{65,59}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{65,58}}</string>
+                <string>{{0,0},{65,59}}</string>
                 <key>sourceSize</key>
-                <string>{65,58}</string>
+                <string>{65,59}</string>
             </dict>
             <key>Naruto_Float_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,802},{58,56}}</string>
+                <string>{{3937,651},{58,57}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{58,56}}</string>
+                <string>{{0,0},{58,57}}</string>
                 <key>sourceSize</key>
-                <string>{58,56}</string>
+                <string>{58,57}</string>
             </dict>
             <key>Naruto_Hurt_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{776,600},{53,69}}</string>
+                <string>{{3872,587},{53,70}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{53,69}}</string>
+                <string>{{0,0},{53,70}}</string>
                 <key>sourceSize</key>
-                <string>{53,69}</string>
+                <string>{53,70}</string>
             </dict>
             <key>Naruto_Hurt_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{974,176},{48,63}}</string>
+                <string>{{3925,587},{48,64}}</string>
                 <key>offset</key>
                 <string>{0,-3}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,6},{48,63}}</string>
+                <string>{{0,6},{48,64}}</string>
                 <key>sourceSize</key>
-                <string>{48,69}</string>
+                <string>{48,64}</string>
             </dict>
             <key>Naruto_Idle_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{142,736},{61,63}}</string>
+                <string>{{0,0},{64,66}}</string>
                 <key>offset</key>
-                <string>{-1,-1}</string>
+                <string>{-0.5,-1}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,2},{61,63}}</string>
+                <string>{{0,0},{64,66}}</string>
                 <key>sourceSize</key>
-                <string>{63,65}</string>
+                <string>{64,66}</string>
             </dict>
             <key>Naruto_Idle_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{641,628},{61,65}}</string>
+                <string>{{64,0},{64,66}}</string>
                 <key>offset</key>
-                <string>{-1,0}</string>
+                <string>{-0.5,-1}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{61,65}}</string>
+                <string>{{0,0},{64,66}}</string>
                 <key>sourceSize</key>
-                <string>{63,65}</string>
+                <string>{64,66}</string>
             </dict>
             <key>Naruto_Idle_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{240,609},{63,65}}</string>
+                <string>{{128,0},{64,66}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-0.5,-1}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{63,65}}</string>
+                <string>{{0,0},{64,66}}</string>
                 <key>sourceSize</key>
-                <string>{63,65}</string>
+                <string>{64,66}</string>
             </dict>
             <key>Naruto_Idle_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{224,674},{63,61}}</string>
+                <string>{{192,0},{64,66}}</string>
                 <key>offset</key>
-                <string>{0,-2}</string>
+                <string>{-0.5,-1}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,4},{63,61}}</string>
+                <string>{{0,0},{64,66}}</string>
                 <key>sourceSize</key>
-                <string>{63,65}</string>
+                <string>{64,66}</string>
             </dict>
             <key>Naruto_KnockDown_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{979,719},{58,41}}</string>
+                <string>{{740,0},{58,42}}</string>
                 <key>offset</key>
                 <string>{0,-7}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,21},{58,41}}</string>
+                <string>{{0,21},{58,42}}</string>
                 <key>sourceSize</key>
-                <string>{58,69}</string>
+                <string>{58,42}</string>
             </dict>
             <key>Naruto_KnockDown_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{902,327},{68,35}}</string>
+                <string>{{798,0},{68,36}}</string>
                 <key>offset</key>
                 <string>{0,-17}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,34},{68,35}}</string>
+                <string>{{0,34},{68,36}}</string>
                 <key>sourceSize</key>
-                <string>{68,69}</string>
+                <string>{68,36}</string>
             </dict>
             <key>Naruto_KnockDown_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{900,448},{75,29}}</string>
+                <string>{{866,0},{75,29}}</string>
                 <key>offset</key>
                 <string>{0,-19}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,39},{75,29}}</string>
                 <key>sourceSize</key>
@@ -176,7 +176,7 @@
             <key>Naruto_KnockDown_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{900,397},{37,49}}</string>
+                <string>{{941,0},{37,49}}</string>
                 <key>offset</key>
                 <string>{0,-6}</string>
                 <key>rotated</key>
@@ -189,399 +189,334 @@
             <key>Naruto_KnockDown_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{68,791},{62,51}}</string>
+                <string>{{978,0},{62,52}}</string>
                 <key>offset</key>
                 <string>{0,-2}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,11},{62,51}}</string>
+                <string>{{0,11},{62,52}}</string>
                 <key>sourceSize</key>
-                <string>{62,69}</string>
+                <string>{62,52}</string>
             </dict>
             <key>Naruto_KnockDown_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{529,619},{42,59}}</string>
+                <string>{{1040,0},{45,59}}</string>
                 <key>offset</key>
                 <string>{0,5}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{42,59}}</string>
+                <string>{{0,0},{45,59}}</string>
                 <key>sourceSize</key>
-                <string>{42,69}</string>
+                <string>{45,59}</string>
             </dict>
             <key>Naruto_NAttack_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{132,208},{48,62}}</string>
+                <string>{{628,-26},{112,91}}</string>
                 <key>offset</key>
-                <string>{-3,0}</string>
+                <string>{4,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{48,62}}</string>
+                <string>{{0,0},{112,91}}</string>
                 <key>sourceSize</key>
-                <string>{54,62}</string>
+                <string>{112,91}</string>
             </dict>
             <key>Naruto_NAttack_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,616},{78,60}}</string>
+                <string>{{876,225},{112,91}}</string>
                 <key>offset</key>
-                <string>{-3,-1}</string>
+                <string>{4,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,2},{78,60}}</string>
+                <string>{{0,0},{112,91}}</string>
                 <key>sourceSize</key>
-                <string>{84,62}</string>
+                <string>{112,91}</string>
             </dict>
             <key>Naruto_NAttack_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{726,352},{76,60}}</string>
+                <string>{{988,225},{112,91}}</string>
                 <key>offset</key>
-                <string>{0,-1}</string>
+                <string>{4,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,2},{76,60}}</string>
+                <string>{{0,0},{112,91}}</string>
                 <key>sourceSize</key>
-                <string>{76,62}</string>
+                <string>{112,91}</string>
             </dict>
             <key>Naruto_NAttack_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{930,615},{47,68}}</string>
+                <string>{{1100,225},{112,91}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{4,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{47,68}}</string>
+                <string>{{0,0},{112,91}}</string>
                 <key>sourceSize</key>
-                <string>{47,68}</string>
+                <string>{112,91}</string>
             </dict>
             <key>Naruto_NAttack_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{307,669},{53,64}}</string>
+                <string>{{1212,225},{112,91}}</string>
                 <key>offset</key>
-                <string>{-3,0}</string>
+                <string>{4,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{53,64}}</string>
+                <string>{{0,0},{112,91}}</string>
                 <key>sourceSize</key>
-                <string>{59,64}</string>
+                <string>{112,91}</string>
             </dict>
             <key>Naruto_NAttack_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{939,426},{81,60}}</string>
+                <string>{{1876,225},{138,105}}</string>
                 <key>offset</key>
-                <string>{-3,-2}</string>
+                <string>{-2,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,4},{81,60}}</string>
+                <string>{{0,0},{138,105}}</string>
                 <key>sourceSize</key>
-                <string>{87,64}</string>
+                <string>{138,105}</string>
             </dict>
             <key>Naruto_NAttack_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{84,597},{78,60}}</string>
+                <string>{{1324,225},{138,105}}</string>
                 <key>offset</key>
-                <string>{-3,-2}</string>
+                <string>{-2,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,4},{78,60}}</string>
+                <string>{{0,0},{138,105}}</string>
                 <key>sourceSize</key>
-                <string>{84,64}</string>
+                <string>{138,105}</string>
             </dict>
             <key>Naruto_NAttack_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{931,567},{46,70}}</string>
+                <string>{{1462,225},{138,105}}</string>
                 <key>offset</key>
-                <string>{-3,0}</string>
+                <string>{-2,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{46,70}}</string>
+                <string>{{0,0},{138,105}}</string>
                 <key>sourceSize</key>
-                <string>{52,70}</string>
+                <string>{138,105}</string>
             </dict>
             <key>Naruto_NAttack_09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{974,110},{48,64}}</string>
+                <string>{{1600,225},{138,105}}</string>
                 <key>offset</key>
-                <string>{-2,-3}</string>
+                <string>{-2,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,6},{48,64}}</string>
+                <string>{{0,0},{138,105}}</string>
                 <key>sourceSize</key>
-                <string>{52,70}</string>
+                <string>{138,105}</string>
             </dict>
             <key>Naruto_NAttack_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{869,595},{59,68}}</string>
+                <string>{{1738,225},{138,105}}</string>
                 <key>offset</key>
-                <string>{-3,1}</string>
+                <string>{-2,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{59,68}}</string>
+                <string>{{0,0},{138,105}}</string>
                 <key>sourceSize</key>
-                <string>{65,70}</string>
+                <string>{138,105}</string>
             </dict>
             <key>Naruto_NAttack_11.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{704,568},{57,70}}</string>
+                <string>{{2014,225},{138,105}}</string>
                 <key>offset</key>
                 <string>{-2,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{57,70}}</string>
+                <string>{{0,0},{138,105}}</string>
                 <key>sourceSize</key>
-                <string>{61,70}</string>
+                <string>{138,105}</string>
             </dict>
-            <key>Naruto_Skill01_01.png</key>
+            <key>Naruto_NAttack_12.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{574,560},{72,66}}</string>
+                <string>{{2152,243},{150,109}}</string>
                 <key>offset</key>
-                <string>{-1,0}</string>
+                <string>{46.5,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{72,66}}</string>
+                <string>{{0,0},{150,107}}</string>
                 <key>sourceSize</key>
-                <string>{74,66}</string>
+                <string>{150,107}</string>
             </dict>
-            <key>Naruto_Skill01_02.png</key>
+            <key>Naruto_NAttack_13.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{164,602},{74,66}}</string>
+                <string>{{2302,243},{150,109}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{46.5,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{74,66}}</string>
+                <string>{{0,0},{150,107}}</string>
                 <key>sourceSize</key>
-                <string>{74,66}</string>
+                <string>{150,107}</string>
             </dict>
-            <key>Naruto_Skill01_03.png</key>
+            <key>Naruto_NAttack_14.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{106,529},{74,66}}</string>
+                <string>{{2452,243},{150,109}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{46.5,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{74,66}}</string>
+                <string>{{0,0},{150,107}}</string>
                 <key>sourceSize</key>
-                <string>{74,66}</string>
+                <string>{150,107}</string>
             </dict>
-            <key>Naruto_Skill01_04.png</key>
+            <key>Naruto_NAttack_15.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{728,284},{74,66}}</string>
+                <string>{{2602,243},{150,109}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{46.5,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{74,66}}</string>
+                <string>{{0,0},{150,107}}</string>
                 <key>sourceSize</key>
-                <string>{74,66}</string>
+                <string>{150,107}</string>
             </dict>
-            <key>Naruto_Skill01_05.png</key>
+            <key>Naruto_NAttack_16.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{869,534},{60,59}}</string>
+                <string>{{2752,243},{150,109}}</string>
                 <key>offset</key>
-                <string>{0,-1}</string>
+                <string>{46.5,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,2},{60,59}}</string>
+                <string>{{0,0},{150,107}}</string>
                 <key>sourceSize</key>
-                <string>{60,61}</string>
+                <string>{150,107}</string>
             </dict>
-            <key>Naruto_Skill01_06.png</key>
+            <key>Naruto_NAttack_17.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{704,627},{68,61}}</string>
+                <string>{{2902,243},{150,109}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{46.5,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{68,61}}</string>
+                <string>{{0,0},{150,107}}</string>
                 <key>sourceSize</key>
-                <string>{68,61}</string>
+                <string>{150,107}</string>
             </dict>
-            <key>Naruto_Skill01_07.png</key>
+            <key>Naruto_NAttack_18.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{182,421},{104,61}}</string>
+                <string>{{3052,243},{150,109}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{46.5,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{104,61}}</string>
+                <string>{{0,0},{150,107}}</string>
                 <key>sourceSize</key>
-                <string>{104,61}</string>
+                <string>{150,107}</string>
             </dict>
-            <key>Naruto_Skill01_08.png</key>
+            <key>Naruto_NAttack_19.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,415},{113,61}}</string>
+                <string>{{3202,243},{150,109}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{46.5,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{113,61}}</string>
+                <string>{{0,0},{150,107}}</string>
                 <key>sourceSize</key>
-                <string>{113,61}</string>
+                <string>{150,107}</string>
             </dict>
-            <key>Naruto_Skill01_09.png</key>
+            <key>NarutoHabdSeal_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{804,264},{111,61}}</string>
+                <string>{{0,66},{63,66}}</string>
                 <key>offset</key>
-                <string>{-1,0}</string>
+                <string>{1.5,-1}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{111,61}}</string>
-                <key>sourceSize</key>
-                <string>{113,61}</string>
-            </dict>
-            <key>Naruto_Skill02_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{76,726},{63,64}}</string>
-                <key>offset</key>
-                <string>{0,-1}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,2},{63,64}}</string>
+                <string>{{0,0},{63,66}}</string>
                 <key>sourceSize</key>
                 <string>{63,66}</string>
             </dict>
-            <key>Naruto_Skill02_02.png</key>
+            <key>NarutoHabdSeal_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{908,779},{53,66}}</string>
+                <string>{{63,66},{63,66}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{53,66}}</string>
-                <key>sourceSize</key>
-                <string>{53,66}</string>
-            </dict>
-            <key>Naruto_Skill02_03.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{840,731},{53,66}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{53,66}}</string>
-                <key>sourceSize</key>
-                <string>{53,66}</string>
-            </dict>
-            <key>Naruto_Skill02_04.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{772,710},{53,66}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{53,66}}</string>
-                <key>sourceSize</key>
-                <string>{53,66}</string>
-            </dict>
-            <key>Naruto_Skill03_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{804,327},{96,67}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
+                <string>{1.5,-1}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{96,67}}</string>
+                <string>{{0,0},{63,66}}</string>
                 <key>sourceSize</key>
-                <string>{96,67}</string>
+                <string>{63,66}</string>
             </dict>
-            <key>Naruto_Skill03_02.png</key>
+            <key>NarutoHabdSeal_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{804,465},{94,67}}</string>
+                <string>{{123,66},{63,66}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{1.5,-1}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{94,67}}</string>
+                <string>{{0,0},{63,66}}</string>
                 <key>sourceSize</key>
-                <string>{94,67}</string>
+                <string>{63,66}</string>
             </dict>
-            <key>Naruto_Skill03_03.png</key>
+            <key>NarutoHabdSeal_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{614,399},{94,67}}</string>
+                <string>{{189,66},{63,66}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{1.5,-1}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{94,67}}</string>
+                <string>{{0,0},{63,66}}</string>
                 <key>sourceSize</key>
-                <string>{94,67}</string>
+                <string>{63,66}</string>
             </dict>
-            <key>Naruto_Skill03_04.png</key>
+            <key>NarutoIncomingBunshen_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{804,396},{94,67}}</string>
+                <string>{{252,66},{88,78}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{94,67}}</string>
-                <key>sourceSize</key>
-                <string>{94,67}</string>
-            </dict>
-            <key>Naruto_Skill03_05.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{288,481},{88,78}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-10.5,-5}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
@@ -589,811 +524,2371 @@
                 <key>sourceSize</key>
                 <string>{88,78}</string>
             </dict>
-            <key>Naruto_Skill03_06.png</key>
+            <key>NarutoIncomingBunshen_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{309,297},{88,98}}</string>
+                <string>{{340,66},{88,78}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{88,98}}</string>
-                <key>sourceSize</key>
-                <string>{88,98}</string>
-            </dict>
-            <key>Naruto_Skill03_07.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{82,659},{74,65}}</string>
-                <key>offset</key>
-                <string>{0,-2}</string>
+                <string>{-10.5,-5}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,4},{74,65}}</string>
+                <string>{{0,0},{88,78}}</string>
                 <key>sourceSize</key>
-                <string>{74,69}</string>
+                <string>{88,78}</string>
             </dict>
-            <key>Naruto_Skill03_08.png</key>
+            <key>NarutoIncomingBunshen_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{182,539},{79,61}}</string>
+                <string>{{428,66},{88,78}}</string>
                 <key>offset</key>
-                <string>{0,-4}</string>
+                <string>{-10.5,-5}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,8},{79,61}}</string>
+                <string>{{0,0},{88,78}}</string>
                 <key>sourceSize</key>
-                <string>{79,69}</string>
+                <string>{88,78}</string>
             </dict>
-            <key>Naruto_Skill03_09.png</key>
+            <key>NarutoIncomingBunshen_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{306,387},{92,96}}</string>
+                <string>{{516,66},{88,78}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{92,96}}</string>
-                <key>sourceSize</key>
-                <string>{92,96}</string>
-            </dict>
-            <key>Naruto_Skill03_10.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{710,414},{92,84}}</string>
-                <key>offset</key>
-                <string>{0,-6}</string>
+                <string>{-10.5,-5}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,12},{92,84}}</string>
+                <string>{{0,0},{88,78}}</string>
                 <key>sourceSize</key>
-                <string>{92,96}</string>
+                <string>{88,78}</string>
             </dict>
-            <key>Naruto_Skill03_11.png</key>
+            <key>NarutoIncomingBunshen_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{613,468},{90,90}}</string>
+                <string>{{604,66},{88,78}}</string>
                 <key>offset</key>
-                <string>{0,-3}</string>
+                <string>{-10.5,-5}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,6},{90,90}}</string>
+                <string>{{0,0},{88,78}}</string>
                 <key>sourceSize</key>
-                <string>{90,96}</string>
+                <string>{88,78}</string>
             </dict>
-            <key>Naruto_Skill03_12.png</key>
+            <key>NarutoIncomingBunshen_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{536,330},{92,76}}</string>
+                <string>{{692,66},{88,78}}</string>
                 <key>offset</key>
-                <string>{0,-10}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,20},{92,76}}</string>
-                <key>sourceSize</key>
-                <string>{92,96}</string>
-            </dict>
-            <key>Naruto_Skill03_13.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{939,335},{89,82}}</string>
-                <key>offset</key>
-                <string>{0,-7}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,14},{89,82}}</string>
-                <key>sourceSize</key>
-                <string>{89,96}</string>
-            </dict>
-            <key>Naruto_Skill03_14.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{940,241},{92,82}}</string>
-                <key>offset</key>
-                <string>{0,-7}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,14},{92,82}}</string>
-                <key>sourceSize</key>
-                <string>{92,96}</string>
-            </dict>
-            <key>Naruto_Skill03_15.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{404,465},{89,84}}</string>
-                <key>offset</key>
-                <string>{0,-6}</string>
+                <string>{-10.5,-5}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,12},{89,84}}</string>
+                <string>{{0,0},{88,78}}</string>
                 <key>sourceSize</key>
-                <string>{89,96}</string>
+                <string>{88,78}</string>
             </dict>
-            <key>Naruto_Skill03_16.png</key>
+            <key>NarutoIncomingRassengan_00.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{519,424},{92,80}}</string>
+                <string>{{1932,66},{192,159}}</string>
                 <key>offset</key>
-                <string>{0,-8}</string>
+                <string>{-24.5,-46}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,16},{92,80}}</string>
+                <string>{{0,0},{192,159}}</string>
                 <key>sourceSize</key>
-                <string>{92,96}</string>
+                <string>{192,159}</string>
             </dict>
-            <key>Naruto_Skill04_01.png</key>
+            <key>NarutoIncomingRassengan_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{911,719},{66,58}}</string>
+                <string>{{780,66},{192,159}}</string>
                 <key>offset</key>
-                <string>{0,-1}</string>
+                <string>{-24.5,-46}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,2},{66,58}}</string>
+                <string>{{0,0},{192,159}}</string>
                 <key>sourceSize</key>
-                <string>{66,60}</string>
+                <string>{192,159}</string>
             </dict>
-            <key>Naruto_Skill04_02.png</key>
+            <key>NarutoIncomingRassengan_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{117,449},{78,63}}</string>
+                <string>{{972,66},{192,159}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{78,63}}</string>
-                <key>sourceSize</key>
-                <string>{78,63}</string>
-            </dict>
-            <key>Naruto_Skill04_03.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{378,551},{77,61}}</string>
-                <key>offset</key>
-                <string>{0,-1}</string>
+                <string>{-24.5,-46}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,2},{77,61}}</string>
+                <string>{{0,0},{192,159}}</string>
                 <key>sourceSize</key>
-                <string>{77,63}</string>
+                <string>{192,159}</string>
             </dict>
-            <key>Naruto_Skill04_04.png</key>
+            <key>NarutoIncomingRassengan_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,208},{128,61}}</string>
+                <string>{{1164,66},{192,159}}</string>
                 <key>offset</key>
-                <string>{0,-1}</string>
+                <string>{-24.5,-46}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,2},{128,61}}</string>
+                <string>{{0,0},{192,159}}</string>
                 <key>sourceSize</key>
-                <string>{128,63}</string>
+                <string>{192,159}</string>
             </dict>
-            <key>Naruto_Skill04_05.png</key>
+            <key>NarutoIncomingRassengan_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{182,202},{128,61}}</string>
+                <string>{{1356,66},{192,159}}</string>
                 <key>offset</key>
-                <string>{0,-1}</string>
+                <string>{-24.5,-46}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,2},{128,61}}</string>
+                <string>{{0,0},{192,159}}</string>
                 <key>sourceSize</key>
-                <string>{128,63}</string>
+                <string>{192,159}</string>
             </dict>
-            <key>Naruto_Skill04_06.png</key>
+            <key>NarutoIncomingRassengan_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{182,484},{88,53}}</string>
+                <string>{{1548,66},{192,159}}</string>
                 <key>offset</key>
-                <string>{0,1}</string>
+                <string>{-24.5,-46}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,9},{88,53}}</string>
+                <string>{{0,0},{192,159}}</string>
                 <key>sourceSize</key>
-                <string>{88,73}</string>
+                <string>{192,159}</string>
             </dict>
-            <key>Naruto_Skill04_07.png</key>
+            <key>NarutoIncomingRassengan_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{529,570},{47,43}}</string>
+                <string>{{1740,66},{192,159}}</string>
                 <key>offset</key>
-                <string>{0,-4}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,19},{47,43}}</string>
-                <key>sourceSize</key>
-                <string>{47,73}</string>
-            </dict>
-            <key>Naruto_Skill04_08.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{129,374},{51,73}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-24.5,-46}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{51,73}}</string>
+                <string>{{0,0},{192,159}}</string>
                 <key>sourceSize</key>
-                <string>{51,73}</string>
+                <string>{192,159}</string>
             </dict>
-            <key>Naruto_Skill04_09.png</key>
+            <key>NarutoRassengan_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{931,488},{91,77}}</string>
+                <string>{{2124,66},{266,177}}</string>
                 <key>offset</key>
-                <string>{0,-7}</string>
+                <string>{48.5,-34}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,15},{91,77}}</string>
+                <string>{{0,0},{266,177}}</string>
                 <key>sourceSize</key>
-                <string>{91,93}</string>
+                <string>{266,177}</string>
             </dict>
-            <key>Naruto_Skill04_10.png</key>
+            <key>NarutoRassengan_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{614,304},{110,93}}</string>
+                <string>{{2390,66},{266,177}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{48.5,-34}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{110,93}}</string>
+                <string>{{0,0},{266,177}}</string>
                 <key>sourceSize</key>
-                <string>{110,93}</string>
+                <string>{266,177}</string>
             </dict>
-            <key>Naruto_Skill04_11.png</key>
+            <key>NarutoRassengan_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{312,202},{98,93}}</string>
+                <string>{{2656,66},{266,177}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{48.5,-34}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{98,93}}</string>
+                <string>{{0,0},{266,177}}</string>
                 <key>sourceSize</key>
-                <string>{98,93}</string>
+                <string>{266,177}</string>
             </dict>
-            <key>Naruto_Skill04_12.png</key>
+            <key>NarutoRassengan_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{409,376},{108,87}}</string>
+                <string>{{2922,66},{266,177}}</string>
                 <key>offset</key>
-                <string>{0,-3}</string>
+                <string>{48.5,-34}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,6},{108,87}}</string>
+                <string>{{0,0},{266,177}}</string>
                 <key>sourceSize</key>
-                <string>{108,93}</string>
+                <string>{266,177}</string>
             </dict>
-            <key>Naruto_Skill04_13.png</key>
+            <key>NarutoRassengan_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{182,265},{125,86}}</string>
+                <string>{{3188,66},{266,177}}</string>
+                <key>offset</key>
+                <string>{48.5,-34}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{266,177}}</string>
+                <key>sourceSize</key>
+                <string>{266,177}</string>
+            </dict>
+            <key>NarutoRassenganExplosion_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3454,66},{292,180}}</string>
+                <key>offset</key>
+                <string>{61.5,-37}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{292,180}}</string>
+                <key>sourceSize</key>
+                <string>{292,180}</string>
+            </dict>
+            <key>NarutoRassenganExplosion_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3746,66},{292,180}}</string>
+                <key>offset</key>
+                <string>{61.5,-37}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{292,180}}</string>
+                <key>sourceSize</key>
+                <string>{292,180}</string>
+            </dict>
+            <key>NarutoRassenganExplosion_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,144},{292,180}}</string>
+                <key>offset</key>
+                <string>{61.5,-37}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{292,180}}</string>
+                <key>sourceSize</key>
+                <string>{292,180}</string>
+            </dict>
+            <key>NarutoRassenganExplosion_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{292,144},{292,180}}</string>
+                <key>offset</key>
+                <string>{61.5,-37}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{292,180}}</string>
+                <key>sourceSize</key>
+                <string>{292,180}</string>
+            </dict>
+            <key>NarutoRassenganExplosion_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{584,225},{292,180}}</string>
+                <key>offset</key>
+                <string>{61.5,-37}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{292,180}}</string>
+                <key>sourceSize</key>
+                <string>{292,180}</string>
+            </dict>
+            <key>Smkk_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,324},{108,95}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{125,86}}</string>
+                <string>{{0,0},{108,95}}</string>
                 <key>sourceSize</key>
-                <string>{125,86}</string>
+                <string>{108,95}</string>
             </dict>
-            <key>Naruto_Skill04_14.png</key>
+            <key>Smkk_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,337},{125,76}}</string>
+                <string>{{108,324},{108,95}}</string>
                 <key>offset</key>
-                <string>{0,-5}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,10},{125,76}}</string>
+                <string>{{0,0},{108,95}}</string>
                 <key>sourceSize</key>
-                <string>{125,86}</string>
+                <string>{108,95}</string>
             </dict>
-            <key>Naruto_Skill04_15.png</key>
+            <key>Smkk_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{495,506},{77,62}}</string>
+                <string>{{216,324},{108,95}}</string>
                 <key>offset</key>
-                <string>{0,-11}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,23},{77,62}}</string>
+                <string>{{0,0},{108,95}}</string>
                 <key>sourceSize</key>
-                <string>{77,86}</string>
+                <string>{108,95}</string>
             </dict>
-            <key>Naruto_Skill05_001.png</key>
+            <key>Smkk_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{158,670},{64,64}}</string>
+                <string>{{324,324},{108,95}}</string>
                 <key>offset</key>
-                <string>{-6,-25}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{140,50},{64,64}}</string>
+                <string>{{0,0},{108,95}}</string>
                 <key>sourceSize</key>
-                <string>{356,114}</string>
+                <string>{108,95}</string>
             </dict>
-            <key>Naruto_Skill05_002.png</key>
+            <key>Smkk_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{648,560},{54,66}}</string>
+                <string>{{432,324},{108,95}}</string>
                 <key>offset</key>
-                <string>{-8,-24}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{143,48},{54,66}}</string>
+                <string>{{0,0},{108,95}}</string>
                 <key>sourceSize</key>
-                <string>{356,114}</string>
+                <string>{108,95}</string>
             </dict>
-            <key>Naruto_Skill05_003.png</key>
+            <key>NarutoSkll2Left_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{374,614},{54,64}}</string>
+                <string>{{0,419},{110,87}}</string>
                 <key>offset</key>
-                <string>{-8,-25}</string>
+                <string>{8.5,-13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{110,87}}</string>
+                <key>sourceSize</key>
+                <string>{110,87}</string>
+            </dict>
+            <key>NarutoSkll2Left_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{110,419},{110,87}}</string>
+                <key>offset</key>
+                <string>{8.5,-13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{110,87}}</string>
+                <key>sourceSize</key>
+                <string>{110,87}</string>
+            </dict>
+            <key>NarutoSkll2Left_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{220,419},{110,87}}</string>
+                <key>offset</key>
+                <string>{8.5,-13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{110,87}}</string>
+                <key>sourceSize</key>
+                <string>{110,87}</string>
+            </dict>
+            <key>NarutoSkll2Left_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{330,419},{110,87}}</string>
+                <key>offset</key>
+                <string>{8.5,-13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{110,87}}</string>
+                <key>sourceSize</key>
+                <string>{110,87}</string>
+            </dict>
+            <key>NarutoSkll2Left_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{440,419},{110,87}}</string>
+                <key>offset</key>
+                <string>{8.5,-13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{110,87}}</string>
+                <key>sourceSize</key>
+                <string>{110,87}</string>
+            </dict>
+            <key>Naruto2Bunshen_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{550,405},{122,87}}</string>
+                <key>offset</key>
+                <string>{-23.5,-10}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{122,87}}</string>
+                <key>sourceSize</key>
+                <string>{122,87}</string>
+            </dict>
+            <key>Naruto2Bunshen_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{672,405},{122,87}}</string>
+                <key>offset</key>
+                <string>{-23.5,-10}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{122,87}}</string>
+                <key>sourceSize</key>
+                <string>{122,87}</string>
+            </dict>
+            <key>Naruto2Bunshen_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{794,405},{122,87}}</string>
+                <key>offset</key>
+                <string>{-23.5,-10}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{122,87}}</string>
+                <key>sourceSize</key>
+                <string>{122,87}</string>
+            </dict>
+            <key>Naruto2Bunshen_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{916,316},{122,87}}</string>
+                <key>offset</key>
+                <string>{-23.5,-10}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{122,87}}</string>
+                <key>sourceSize</key>
+                <string>{122,87}</string>
+            </dict>
+            <key>Naruto2Bunshen_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1038,316},{122,87}}</string>
+                <key>offset</key>
+                <string>{-23.5,-10}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{122,87}}</string>
+                <key>sourceSize</key>
+                <string>{122,87}</string>
+            </dict>
+            <key>Naruto2Bunshen_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1160,316},{122,87}}</string>
+                <key>offset</key>
+                <string>{-23.5,-10}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{122,87}}</string>
+                <key>sourceSize</key>
+                <string>{122,87}</string>
+            </dict>
+            <key>NarutoRasenShurikenIsComing_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3352,246},{232,101}}</string>
+                <key>offset</key>
+                <string>{-11.5,-20}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{232,101}}</string>
+                <key>sourceSize</key>
+                <string>{232,101}</string>
+            </dict>
+            <key>NarutoRasenShurikenIsComing_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3584,246},{232,101}}</string>
+                <key>offset</key>
+                <string>{-11.5,-20}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{232,101}}</string>
+                <key>sourceSize</key>
+                <string>{232,101}</string>
+            </dict>
+            <key>NarutoRasenShurikenIsComing_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3816,246},{232,101}}</string>
+                <key>offset</key>
+                <string>{-11.5,-20}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{232,101}}</string>
+                <key>sourceSize</key>
+                <string>{232,101}</string>
+            </dict>
+            <key>NarutoRasenShurikenIsComing_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1282,330},{232,101}}</string>
+                <key>offset</key>
+                <string>{-11.5,-20}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{232,101}}</string>
+                <key>sourceSize</key>
+                <string>{232,101}</string>
+            </dict>
+            <key>NarutoRasenShurikenIsComing_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1514,330},{232,101}}</string>
+                <key>offset</key>
+                <string>{-11.5,-20}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{232,101}}</string>
+                <key>sourceSize</key>
+                <string>{232,101}</string>
+            </dict>
+            <key>NarutoRasenShurikenIsComing_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1746,330},{232,101}}</string>
+                <key>offset</key>
+                <string>{-11.5,-20}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{232,101}}</string>
+                <key>sourceSize</key>
+                <string>{232,101}</string>
+            </dict>
+            <key>NarutoRasenShurikenIsComing_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1978,352},{232,101}}</string>
+                <key>offset</key>
+                <string>{-11.5,-20}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{232,101}}</string>
+                <key>sourceSize</key>
+                <string>{232,101}</string>
+            </dict>
+            <key>NarutoRasenShurikenIsComing_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2210,352},{232,101}}</string>
+                <key>offset</key>
+                <string>{-11.5,-20}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{232,101}}</string>
+                <key>sourceSize</key>
+                <string>{232,101}</string>
+            </dict>
+            <key>NarutoRasenShurikenIsComing_09.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2442,352},{232,101}}</string>
+                <key>offset</key>
+                <string>{-11.5,-20}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{232,101}}</string>
+                <key>sourceSize</key>
+                <string>{232,101}</string>
+            </dict>
+            <key>NarutoRasenShurikenIsComing_10.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2674,352},{232,101}}</string>
+                <key>offset</key>
+                <string>{-11.5,-20}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{232,101}}</string>
+                <key>sourceSize</key>
+                <string>{232,101}</string>
+            </dict>
+            <key>NarutoRasenShurikenIsComing_11.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2906,352},{232,101}}</string>
+                <key>offset</key>
+                <string>{-11.5,-20}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{232,101}}</string>
+                <key>sourceSize</key>
+                <string>{232,101}</string>
+            </dict>
+            <key>NarutoRasenShurikenIsComing_12.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3138,352},{287,79}}</string>
+                <key>offset</key>
+                <string>{-14,-13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{287,79}}</string>
+                <key>sourceSize</key>
+                <string>{287,79}</string>
+            </dict>
+            <key>NarutoRasenShurikenIsComing_13.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3425,352},{287,79}}</string>
+                <key>offset</key>
+                <string>{-14,-13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{287,79}}</string>
+                <key>sourceSize</key>
+                <string>{287,79}</string>
+            </dict>
+            <key>NarutoRasenShurikenIsComing_14.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3712,352},{287,79}}</string>
+                <key>offset</key>
+                <string>{-14,-13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{287,79}}</string>
+                <key>sourceSize</key>
+                <string>{287,79}</string>
+            </dict>
+            <key>NarutoRasenShuriken_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{916,431},{301,134}}</string>
+                <key>offset</key>
+                <string>{-16,-26}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{301,134}}</string>
+                <key>sourceSize</key>
+                <string>{301,134}</string>
+            </dict>
+            <key>NarutoRasenShuriken_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1217,431},{301,134}}</string>
+                <key>offset</key>
+                <string>{-16,-26}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{301,134}}</string>
+                <key>sourceSize</key>
+                <string>{301,134}</string>
+            </dict>
+            <key>NarutoRasenShuriken_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1518,431},{301,134}}</string>
+                <key>offset</key>
+                <string>{-16,-26}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{301,134}}</string>
+                <key>sourceSize</key>
+                <string>{301,134}</string>
+            </dict>
+            <key>NarutoRasenShuriken_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1819,453},{301,134}}</string>
+                <key>offset</key>
+                <string>{-16,-26}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{301,134}}</string>
+                <key>sourceSize</key>
+                <string>{301,134}</string>
+            </dict>
+            <key>NarutoRasenShuriken_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2120,453},{301,134}}</string>
+                <key>offset</key>
+                <string>{-16,-26}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{301,134}}</string>
+                <key>sourceSize</key>
+                <string>{301,134}</string>
+            </dict>
+            <key>NarutoRasenShuriken_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2421,453},{301,134}}</string>
+                <key>offset</key>
+                <string>{-16,-26}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{301,134}}</string>
+                <key>sourceSize</key>
+                <string>{301,134}</string>
+            </dict>
+            <key>NarutoRasenShuriken_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2722,453},{301,134}}</string>
+                <key>offset</key>
+                <string>{-16,-26}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{301,134}}</string>
+                <key>sourceSize</key>
+                <string>{301,134}</string>
+            </dict>
+            <key>NarutoRasenShuriken_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3023,453},{301,134}}</string>
+                <key>offset</key>
+                <string>{-16,-26}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{301,134}}</string>
+                <key>sourceSize</key>
+                <string>{301,134}</string>
+            </dict>
+            <key>NarutoRasenShuriken_09.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3324,453},{301,134}}</string>
+                <key>offset</key>
+                <string>{-16,-26}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{301,134}}</string>
+                <key>sourceSize</key>
+                <string>{301,134}</string>
+            </dict>
+            <key>NarutoRasenShuriken_10.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3625,453},{301,134}}</string>
+                <key>offset</key>
+                <string>{-16,-26}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{301,134}}</string>
+                <key>sourceSize</key>
+                <string>{301,134}</string>
+            </dict>
+            <key>NarutoRasenShurikenSpening_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,506},{294,145}}</string>
+                <key>offset</key>
+                <string>{-10.5,-18}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{294,145}}</string>
+                <key>sourceSize</key>
+                <string>{294,145}</string>
+            </dict>
+            <key>NarutoRasenShurikenSpening_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{294,506},{294,145}}</string>
+                <key>offset</key>
+                <string>{-10.5,-18}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{294,145}}</string>
+                <key>sourceSize</key>
+                <string>{294,145}</string>
+            </dict>
+            <key>NarutoRasenShurikenSpening_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{588,506},{294,145}}</string>
+                <key>offset</key>
+                <string>{-10.5,-18}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{294,145}}</string>
+                <key>sourceSize</key>
+                <string>{294,145}</string>
+            </dict>
+            <key>NarutoRasenShurikenSpening_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{882,565},{294,145}}</string>
+                <key>offset</key>
+                <string>{-10.5,-18}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{294,145}}</string>
+                <key>sourceSize</key>
+                <string>{294,145}</string>
+            </dict>
+            <key>NarutoRasenShurikenBurts_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1176,565},{337,289}}</string>
+                <key>offset</key>
+                <string>{-48,-102}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{337,289}}</string>
+                <key>sourceSize</key>
+                <string>{337,289}</string>
+            </dict>
+            <key>NarutoRasenShurikenBurts_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1513,587},{337,289}}</string>
+                <key>offset</key>
+                <string>{-48,-102}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{337,289}}</string>
+                <key>sourceSize</key>
+                <string>{337,289}</string>
+            </dict>
+            <key>NarutoRasenShurikenBurts_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1850,587},{337,289}}</string>
+                <key>offset</key>
+                <string>{-48,-102}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{337,289}}</string>
+                <key>sourceSize</key>
+                <string>{337,289}</string>
+            </dict>
+            <key>NarutoRasenShurikenBurts_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2187,587},{337,289}}</string>
+                <key>offset</key>
+                <string>{-48,-102}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{337,289}}</string>
+                <key>sourceSize</key>
+                <string>{337,289}</string>
+            </dict>
+            <key>NarutoRasenShurikenBurts_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2524,587},{337,289}}</string>
+                <key>offset</key>
+                <string>{-48,-102}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{337,289}}</string>
+                <key>sourceSize</key>
+                <string>{337,289}</string>
+            </dict>
+            <key>NarutoRasenShurikenBurts_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2861,587},{337,289}}</string>
+                <key>offset</key>
+                <string>{-48,-102}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{337,289}}</string>
+                <key>sourceSize</key>
+                <string>{337,289}</string>
+            </dict>
+            <key>NarutoRasenShurikenBurts_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3198,587},{337,289}}</string>
+                <key>offset</key>
+                <string>{-48,-102}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{337,289}}</string>
+                <key>sourceSize</key>
+                <string>{337,289}</string>
+            </dict>
+            <key>NarutoRasenShurikenBurts_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3535,587},{337,289}}</string>
+                <key>offset</key>
+                <string>{-48,-102}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{337,289}}</string>
+                <key>sourceSize</key>
+                <string>{337,289}</string>
+            </dict>
+            <key>NarutoRasenShurikenExp_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,651},{291,274}}</string>
+                <key>offset</key>
+                <string>{71,-94}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{291,274}}</string>
+                <key>sourceSize</key>
+                <string>{291,274}</string>
+            </dict>
+            <key>NarutoRasenShurikenExp_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{291,651},{291,274}}</string>
+                <key>offset</key>
+                <string>{71,-94}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{291,274}}</string>
+                <key>sourceSize</key>
+                <string>{291,274}</string>
+            </dict>
+            <key>NarutoRasenShurikenExp_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{582,651},{291,274}}</string>
+                <key>offset</key>
+                <string>{71,-94}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{291,274}}</string>
+                <key>sourceSize</key>
+                <string>{291,274}</string>
+            </dict>
+            <key>NarutoRasenShurikenExp_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{873,710},{291,274}}</string>
+                <key>offset</key>
+                <string>{71,-94}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{291,274}}</string>
+                <key>sourceSize</key>
+                <string>{291,274}</string>
+            </dict>
+            <key>NarutoRasenShurikenExp_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1164,854},{291,274}}</string>
+                <key>offset</key>
+                <string>{71,-94}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{291,274}}</string>
+                <key>sourceSize</key>
+                <string>{291,274}</string>
+            </dict>
+            <key>NarutoRasenShurikenExp_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1455,876},{291,274}}</string>
+                <key>offset</key>
+                <string>{71,-94}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{291,274}}</string>
+                <key>sourceSize</key>
+                <string>{291,274}</string>
+            </dict>
+            <key>NarutoRasenShurikenExp_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1746,876},{291,274}}</string>
+                <key>offset</key>
+                <string>{71,-94}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{291,274}}</string>
+                <key>sourceSize</key>
+                <string>{291,274}</string>
+            </dict>
+            <key>NarutoRasenShurikenExp_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2037,876},{291,274}}</string>
+                <key>offset</key>
+                <string>{71,-94}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{291,274}}</string>
+                <key>sourceSize</key>
+                <string>{291,274}</string>
+            </dict>
+            <key>NarutoGettingKyubi_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2328,876},{193,190}}</string>
+                <key>offset</key>
+                <string>{10,-25}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{193,190}}</string>
+                <key>sourceSize</key>
+                <string>{193,190}</string>
+            </dict>
+            <key>NarutoGettingKyubi_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2521,876},{193,190}}</string>
+                <key>offset</key>
+                <string>{10,-25}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{193,190}}</string>
+                <key>sourceSize</key>
+                <string>{193,190}</string>
+            </dict>
+            <key>NarutoGettingKyubi_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2714,876},{193,190}}</string>
+                <key>offset</key>
+                <string>{10,-25}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{193,190}}</string>
+                <key>sourceSize</key>
+                <string>{193,190}</string>
+            </dict>
+            <key>NarutoGettingKyubi_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2907,876},{193,190}}</string>
+                <key>offset</key>
+                <string>{10,-25}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{193,190}}</string>
+                <key>sourceSize</key>
+                <string>{193,190}</string>
+            </dict>
+            <key>NarutoGettingKyubi_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3100,876},{193,190}}</string>
+                <key>offset</key>
+                <string>{10,-25}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{193,190}}</string>
+                <key>sourceSize</key>
+                <string>{193,190}</string>
+            </dict>
+            <key>NarutoGettingKyubi_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3293,876},{193,190}}</string>
+                <key>offset</key>
+                <string>{10,-25}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{193,190}}</string>
+                <key>sourceSize</key>
+                <string>{193,190}</string>
+            </dict>
+            <key>NarutoGettingKyubi_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3486,876},{193,190}}</string>
+                <key>offset</key>
+                <string>{10,-25}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{193,190}}</string>
+                <key>sourceSize</key>
+                <string>{193,190}</string>
+            </dict>
+            <key>NarutoKyubiDash_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,942},{138,85}}</string>
+                <key>offset</key>
+                <string>{26,-5}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{138,85}}</string>
+                <key>sourceSize</key>
+                <string>{138,85}</string>
+            </dict>
+            <key>NarutoKyubiChakraAttack_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3679,876},{370,328}}</string>
+                <key>offset</key>
+                <string>{52,-89}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{370,328}}</string>
+                <key>sourceSize</key>
+                <string>{370,328}</string>
+            </dict>
+            <key>NarutoKyubiChakraAttack_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{138,942},{370,328}}</string>
+                <key>offset</key>
+                <string>{52,-89}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{370,328}}</string>
+                <key>sourceSize</key>
+                <string>{370,328}</string>
+            </dict>
+            <key>NarutoKyubiChakraAttack_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{508,942},{370,328}}</string>
+                <key>offset</key>
+                <string>{52,-89}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{370,328}}</string>
+                <key>sourceSize</key>
+                <string>{370,328}</string>
+            </dict>
+            <key>NarutoKyubiChakraAttack_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{878,1128},{370,328}}</string>
+                <key>offset</key>
+                <string>{52,-89}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{370,328}}</string>
+                <key>sourceSize</key>
+                <string>{370,328}</string>
+            </dict>
+            <key>NarutoKyubiChakraAttack_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1248,1150},{370,328}}</string>
+                <key>offset</key>
+                <string>{52,-89}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{370,328}}</string>
+                <key>sourceSize</key>
+                <string>{370,328}</string>
+            </dict>
+            <key>NarutoKyubiChakraAttack_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1618,1150},{370,328}}</string>
+                <key>offset</key>
+                <string>{52,-89}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{370,328}}</string>
+                <key>sourceSize</key>
+                <string>{370,328}</string>
+            </dict>
+            <key>NarutoKyubiChakraAttack_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1988,1150},{370,328}}</string>
+                <key>offset</key>
+                <string>{52,-89}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{370,328}}</string>
+                <key>sourceSize</key>
+                <string>{370,328}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDamaIsComing_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2358,1066},{204,191}}</string>
+                <key>offset</key>
+                <string>{15.5,-36}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{204,191}}</string>
+                <key>sourceSize</key>
+                <string>{204,191}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDamaIsComing_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2562,1066},{204,191}}</string>
+                <key>offset</key>
+                <string>{15.5,-36}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{204,191}}</string>
+                <key>sourceSize</key>
+                <string>{204,191}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDamaIsComing_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2766,1066},{204,191}}</string>
+                <key>offset</key>
+                <string>{15.5,-36}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{204,191}}</string>
+                <key>sourceSize</key>
+                <string>{204,191}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDamaIsComing_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2970,1066},{204,191}}</string>
+                <key>offset</key>
+                <string>{15.5,-36}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{204,191}}</string>
+                <key>sourceSize</key>
+                <string>{204,191}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDamaIsComing_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3174,1066},{204,191}}</string>
+                <key>offset</key>
+                <string>{15.5,-36}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{204,191}}</string>
+                <key>sourceSize</key>
+                <string>{204,191}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDamaIsComing_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3378,1066},{204,191}}</string>
+                <key>offset</key>
+                <string>{15.5,-36}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{204,191}}</string>
+                <key>sourceSize</key>
+                <string>{204,191}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDama_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3582,1204},{356,174}}</string>
+                <key>offset</key>
+                <string>{88,-44}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{356,174}}</string>
+                <key>sourceSize</key>
+                <string>{356,174}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDama_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,1270},{356,174}}</string>
+                <key>offset</key>
+                <string>{88,-44}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{356,174}}</string>
+                <key>sourceSize</key>
+                <string>{356,174}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDama_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{356,1270},{356,174}}</string>
+                <key>offset</key>
+                <string>{88,-44}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{356,174}}</string>
+                <key>sourceSize</key>
+                <string>{356,174}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDama_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2358,1257},{356,174}}</string>
+                <key>offset</key>
+                <string>{88,-44}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{356,174}}</string>
+                <key>sourceSize</key>
+                <string>{356,174}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDama_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2714,1257},{356,174}}</string>
+                <key>offset</key>
+                <string>{88,-44}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{356,174}}</string>
+                <key>sourceSize</key>
+                <string>{356,174}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDama_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3070,1257},{356,174}}</string>
+                <key>offset</key>
+                <string>{88,-44}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{356,174}}</string>
+                <key>sourceSize</key>
+                <string>{356,174}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDamaComingToExp_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,1444},{361,183}}</string>
+                <key>offset</key>
+                <string>{82,-37}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{361,183}}</string>
+                <key>sourceSize</key>
+                <string>{361,183}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDamaComingToExp_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{361,1444},{361,183}}</string>
+                <key>offset</key>
+                <string>{82,-37}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{361,183}}</string>
+                <key>sourceSize</key>
+                <string>{361,183}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDamaComingToExp_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{722,1456},{361,183}}</string>
+                <key>offset</key>
+                <string>{82,-37}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{361,183}}</string>
+                <key>sourceSize</key>
+                <string>{361,183}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDamaComingToExp_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1083,1478},{361,183}}</string>
+                <key>offset</key>
+                <string>{82,-37}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{361,183}}</string>
+                <key>sourceSize</key>
+                <string>{361,183}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDamaExp1to2_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1444,1478},{516,322}}</string>
+                <key>offset</key>
+                <string>{165.5,-93}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{516,322}}</string>
+                <key>sourceSize</key>
+                <string>{516,322}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDamaExp1to2_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1960,1478},{516,322}}</string>
+                <key>offset</key>
+                <string>{165.5,-93}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{516,322}}</string>
+                <key>sourceSize</key>
+                <string>{516,322}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDamaExp3to13_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2476,1444},{501,372}}</string>
+                <key>offset</key>
+                <string>{172,-98}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{501,372}}</string>
+                <key>sourceSize</key>
+                <string>{501,372}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDamaExp3to13_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2977,1444},{501,372}}</string>
+                <key>offset</key>
+                <string>{172,-98}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{501,372}}</string>
+                <key>sourceSize</key>
+                <string>{501,372}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDamaExp3to13_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3478,1444},{501,372}}</string>
+                <key>offset</key>
+                <string>{172,-98}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{501,372}}</string>
+                <key>sourceSize</key>
+                <string>{501,372}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDamaExp3to13_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,1627},{501,372}}</string>
+                <key>offset</key>
+                <string>{172,-98}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{501,372}}</string>
+                <key>sourceSize</key>
+                <string>{501,372}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDamaExp3to13_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{501,1639},{501,372}}</string>
+                <key>offset</key>
+                <string>{172,-98}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{501,372}}</string>
+                <key>sourceSize</key>
+                <string>{501,372}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDamaExp3to13_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1002,1800},{501,372}}</string>
+                <key>offset</key>
+                <string>{172,-98}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{501,372}}</string>
+                <key>sourceSize</key>
+                <string>{501,372}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDamaExp3to13_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1503,1800},{501,372}}</string>
+                <key>offset</key>
+                <string>{172,-98}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{501,372}}</string>
+                <key>sourceSize</key>
+                <string>{501,372}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDamaExp3to13_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2004,1800},{501,372}}</string>
+                <key>offset</key>
+                <string>{172,-98}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{501,372}}</string>
+                <key>sourceSize</key>
+                <string>{501,372}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDamaExp3to13_09.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2505,1800},{501,372}}</string>
+                <key>offset</key>
+                <string>{172,-98}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{501,372}}</string>
+                <key>sourceSize</key>
+                <string>{501,372}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDamaExp3to13_10.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3006,1800},{501,372}}</string>
+                <key>offset</key>
+                <string>{172,-98}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{501,372}}</string>
+                <key>sourceSize</key>
+                <string>{501,372}</string>
+            </dict>
+            <key>NarutoKyubiSmallBijuDamaExp3to13_11.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3507,1800},{501,372}}</string>
+                <key>offset</key>
+                <string>{172,-98}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{501,372}}</string>
+                <key>sourceSize</key>
+                <string>{501,372}</string>
+            </dict>
+            <key>NarutoFiveBunshin_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1002,1661},{263,157}}</string>
+                <key>offset</key>
+                <string>{105,-21}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{263,157}}</string>
+                <key>sourceSize</key>
+                <string>{263,157}</string>
+            </dict>
+            <key>NarutoFiveBunshin_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,1999},{263,157}}</string>
+                <key>offset</key>
+                <string>{105,-21}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{263,157}}</string>
+                <key>sourceSize</key>
+                <string>{263,157}</string>
+            </dict>
+            <key>NarutoFiveBunshin_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{263,1999},{263,157}}</string>
+                <key>offset</key>
+                <string>{105,-21}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{263,157}}</string>
+                <key>sourceSize</key>
+                <string>{263,157}</string>
+            </dict>
+            <key>NarutoFiveBunshin_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{526,2011},{263,157}}</string>
+                <key>offset</key>
+                <string>{105,-21}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{263,157}}</string>
+                <key>sourceSize</key>
+                <string>{263,157}</string>
+            </dict>
+            <key>NarutoFiveBunshin_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{789,2172},{263,157}}</string>
+                <key>offset</key>
+                <string>{105,-21}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{263,157}}</string>
+                <key>sourceSize</key>
+                <string>{263,157}</string>
+            </dict>
+            <key>NarutoFiveBunshin_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,2156},{263,157}}</string>
+                <key>offset</key>
+                <string>{105,-21}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{263,157}}</string>
+                <key>sourceSize</key>
+                <string>{263,157}</string>
+            </dict>
+            <key>NarutoFiveBunshin_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{263,2156},{263,157}}</string>
+                <key>offset</key>
+                <string>{105,-21}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{263,157}}</string>
+                <key>sourceSize</key>
+                <string>{263,157}</string>
+            </dict>
+            <key>NarutoFiveBunshin_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{526,2168},{263,157}}</string>
+                <key>offset</key>
+                <string>{105,-21}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{263,157}}</string>
+                <key>sourceSize</key>
+                <string>{263,157}</string>
+            </dict>
+            <key>NarutoFiveBunshin_09.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1052,2172},{263,157}}</string>
+                <key>offset</key>
+                <string>{105,-21}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{263,157}}</string>
+                <key>sourceSize</key>
+                <string>{263,157}</string>
+            </dict>
+            <key>NarutoFiveBunshin_10.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1315,2172},{263,157}}</string>
+                <key>offset</key>
+                <string>{105,-21}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{263,157}}</string>
+                <key>sourceSize</key>
+                <string>{263,157}</string>
+            </dict>
+            <key>NarutoFiveBunshin_11.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1578,2172},{263,157}}</string>
+                <key>offset</key>
+                <string>{105,-21}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{263,157}}</string>
+                <key>sourceSize</key>
+                <string>{263,157}</string>
+            </dict>
+            <key>NarutoFiveBunshin_12.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1841,2172},{263,157}}</string>
+                <key>offset</key>
+                <string>{105,-21}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{263,157}}</string>
+                <key>sourceSize</key>
+                <string>{263,157}</string>
+            </dict>
+            <key>NarutoFiveBunshin_13.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2104,2172},{263,157}}</string>
+                <key>offset</key>
+                <string>{105,-21}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{263,157}}</string>
+                <key>sourceSize</key>
+                <string>{263,157}</string>
+            </dict>
+            <key>NarutoFiveBunshin_14.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2367,2172},{263,157}}</string>
+                <key>offset</key>
+                <string>{105,-21}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{263,157}}</string>
+                <key>sourceSize</key>
+                <string>{263,157}</string>
+            </dict>
+            <key>NarutoFiveBunshin_15.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2630,2172},{263,157}}</string>
+                <key>offset</key>
+                <string>{105,-21}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{263,157}}</string>
+                <key>sourceSize</key>
+                <string>{263,157}</string>
+            </dict>
+            <key>NarutoFiveBunshin_16.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2893,2172},{263,157}}</string>
+                <key>offset</key>
+                <string>{105,-21}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{263,157}}</string>
+                <key>sourceSize</key>
+                <string>{263,157}</string>
+            </dict>
+            <key>NarutoFiveBunshin_17.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3156,2172},{263,157}}</string>
+                <key>offset</key>
+                <string>{105,-21}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{263,157}}</string>
+                <key>sourceSize</key>
+                <string>{263,157}</string>
+            </dict>
+            <key>NarutoFiveBunshin_18.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3419,2172},{263,157}}</string>
+                <key>offset</key>
+                <string>{105,-21}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{263,157}}</string>
+                <key>sourceSize</key>
+                <string>{263,157}</string>
+            </dict>
+            <key>NarutoFiveBunshinPlusOne_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3682,2172},{279,152}}</string>
+                <key>offset</key>
+                <string>{78,-16}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{279,152}}</string>
+                <key>sourceSize</key>
+                <string>{279,152}</string>
+            </dict>
+            <key>NarutoFiveBunshinPlusOne_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,2313},{279,152}}</string>
+                <key>offset</key>
+                <string>{78,-16}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{279,152}}</string>
+                <key>sourceSize</key>
+                <string>{279,152}</string>
+            </dict>
+            <key>NarutoFiveBunshinPlusOne_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{279,2325},{279,152}}</string>
+                <key>offset</key>
+                <string>{78,-16}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{279,152}}</string>
+                <key>sourceSize</key>
+                <string>{279,152}</string>
+            </dict>
+            <key>NarutoFiveBunshinPlusOne_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{558,2325},{279,152}}</string>
+                <key>offset</key>
+                <string>{78,-16}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{279,152}}</string>
+                <key>sourceSize</key>
+                <string>{279,152}</string>
+            </dict>
+            <key>NarutoFiveBunshinPlusOne_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{837,2325},{279,152}}</string>
+                <key>offset</key>
+                <string>{78,-16}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{279,152}}</string>
+                <key>sourceSize</key>
+                <string>{279,152}</string>
+            </dict>
+            <key>NarutoFiveBunshinPlusOne_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1116,2325},{79,152}}</string>
+                <key>offset</key>
+                <string>{-10,-16}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{79,152}}</string>
+                <key>sourceSize</key>
+                <string>{79,152}</string>
+            </dict>
+            <key>NarutoOdamaRasengan_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1195,2325},{186,183}}</string>
+                <key>offset</key>
+                <string>{-15.5,-58}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{186,183}}</string>
+                <key>sourceSize</key>
+                <string>{186,183}</string>
+            </dict>
+            <key>NarutoOdamaRasengan_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1381,2325},{186,183}}</string>
+                <key>offset</key>
+                <string>{-15.5,-58}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{186,183}}</string>
+                <key>sourceSize</key>
+                <string>{186,183}</string>
+            </dict>
+            <key>NarutoOdamaRasengan_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1567,2325},{186,183}}</string>
+                <key>offset</key>
+                <string>{-15.5,-58}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{186,183}}</string>
+                <key>sourceSize</key>
+                <string>{186,183}</string>
+            </dict>
+            <key>NarutoOdamaRasengan_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1753,2325},{186,183}}</string>
+                <key>offset</key>
+                <string>{-15.5,-58}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{186,183}}</string>
+                <key>sourceSize</key>
+                <string>{186,183}</string>
+            </dict>
+            <key>NarutoOdamaRasengan_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1939,2325},{186,183}}</string>
+                <key>offset</key>
+                <string>{-15.5,-58}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{186,183}}</string>
+                <key>sourceSize</key>
+                <string>{186,183}</string>
+            </dict>
+            <key>NarutoOdamaRasengan_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2125,2325},{186,183}}</string>
+                <key>offset</key>
+                <string>{-15.5,-58}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{186,183}}</string>
+                <key>sourceSize</key>
+                <string>{186,183}</string>
+            </dict>
+            <key>NarutoOdamaRasengan_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2311,2325},{186,183}}</string>
+                <key>offset</key>
+                <string>{-15.5,-58}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{186,183}}</string>
+                <key>sourceSize</key>
+                <string>{186,183}</string>
+            </dict>
+            <key>NarutoOdamaRasengan_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2497,2325},{186,183}}</string>
+                <key>offset</key>
+                <string>{-15.5,-58}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{186,183}}</string>
+                <key>sourceSize</key>
+                <string>{186,183}</string>
+            </dict>
+            <key>NarutoOdamaRasengan_09.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2683,2325},{186,183}}</string>
+                <key>offset</key>
+                <string>{-15.5,-58}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{186,183}}</string>
+                <key>sourceSize</key>
+                <string>{186,183}</string>
+            </dict>
+            <key>NarutoOdamaRasengan_10.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2869,2325},{186,183}}</string>
+                <key>offset</key>
+                <string>{-15.5,-58}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{186,183}}</string>
+                <key>sourceSize</key>
+                <string>{186,183}</string>
+            </dict>
+            <key>NarutoOdamaRasengan_11.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3055,2325},{186,183}}</string>
+                <key>offset</key>
+                <string>{-15.5,-58}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{186,183}}</string>
+                <key>sourceSize</key>
+                <string>{186,183}</string>
+            </dict>
+            <key>NarutoOdamaRasenganAttack_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3241,2325},{370,331}}</string>
+                <key>offset</key>
+                <string>{14.5,-124}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{370,331}}</string>
+                <key>sourceSize</key>
+                <string>{370,331}</string>
+            </dict>
+            <key>NarutoOdamaRasenganAttack_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3611,2325},{370,331}}</string>
+                <key>offset</key>
+                <string>{14.5,-124}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{370,331}}</string>
+                <key>sourceSize</key>
+                <string>{370,331}</string>
+            </dict>
+            <key>NarutoOdamaRasenganAttack_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,2508},{370,331}}</string>
+                <key>offset</key>
+                <string>{14.5,-124}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{370,331}}</string>
+                <key>sourceSize</key>
+                <string>{370,331}</string>
+            </dict>
+            <key>NarutoOdamaRasenganAttack_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{370,2508},{370,331}}</string>
+                <key>offset</key>
+                <string>{14.5,-124}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{370,331}}</string>
+                <key>sourceSize</key>
+                <string>{370,331}</string>
+            </dict>
+            <key>NarutoOdamaRasenganAttack_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{740,2508},{370,331}}</string>
+                <key>offset</key>
+                <string>{14.5,-124}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{370,331}}</string>
+                <key>sourceSize</key>
+                <string>{370,331}</string>
+            </dict>
+            <key>NarutoOdamaRasenganAttack_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1110,2508},{370,331}}</string>
+                <key>offset</key>
+                <string>{14.5,-124}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{370,331}}</string>
+                <key>sourceSize</key>
+                <string>{370,331}</string>
+            </dict>
+            <key>NarutoOdamaRasenganAttack_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1480,2508},{370,331}}</string>
+                <key>offset</key>
+                <string>{14.5,-124}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{370,331}}</string>
+                <key>sourceSize</key>
+                <string>{370,331}</string>
+            </dict>
+            <key>NarutoOdamaRasenganAttack_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1850,2508},{370,331}}</string>
+                <key>offset</key>
+                <string>{14.5,-124}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{370,331}}</string>
+                <key>sourceSize</key>
+                <string>{370,331}</string>
+            </dict>
+            <key>NarutoOdamaRasenganExp_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2220,2508},{406,349}}</string>
+                <key>offset</key>
+                <string>{55.5,-64}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{406,349}}</string>
+                <key>sourceSize</key>
+                <string>{406,349}</string>
+            </dict>
+            <key>NarutoOdamaRasenganExp_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2626,2508},{406,349}}</string>
+                <key>offset</key>
+                <string>{55.5,-64}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{406,349}}</string>
+                <key>sourceSize</key>
+                <string>{406,349}</string>
+            </dict>
+            <key>NarutoOdamaRasenganExp_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3032,2656},{406,349}}</string>
+                <key>offset</key>
+                <string>{55.5,-64}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{406,349}}</string>
+                <key>sourceSize</key>
+                <string>{406,349}</string>
+            </dict>
+            <key>NarutoOdamaRasenganExp_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3438,2656},{406,349}}</string>
+                <key>offset</key>
+                <string>{55.5,-64}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{406,349}}</string>
+                <key>sourceSize</key>
+                <string>{406,349}</string>
+            </dict>
+            <key>NarutoOdamaRasenganExp_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,2839},{406,349}}</string>
+                <key>offset</key>
+                <string>{55.5,-64}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{406,349}}</string>
+                <key>sourceSize</key>
+                <string>{406,349}</string>
+            </dict>
+            <key>NarutoOdamaRasenganExp_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{406,2839},{406,349}}</string>
+                <key>offset</key>
+                <string>{55.5,-64}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{406,349}}</string>
+                <key>sourceSize</key>
+                <string>{406,349}</string>
+            </dict>
+            <key>Blank.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,0},{0,0}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{143,50},{54,64}}</string>
+                <string>{{0,0},{0,0}}</string>
                 <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_004.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,746},{54,64}}</string>
-                <key>offset</key>
-                <string>{-8,-25}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{143,50},{54,64}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_005.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{843,665},{66,64}}</string>
-                <key>offset</key>
-                <string>{-14,-25}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{131,50},{66,64}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_006.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{797,534},{70,64}}</string>
-                <key>offset</key>
-                <string>{-16,-25}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{127,50},{70,64}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_007.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,678},{72,66}}</string>
-                <key>offset</key>
-                <string>{-17,-24}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{125,48},{72,66}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_008.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{728,216},{74,66}}</string>
-                <key>offset</key>
-                <string>{-18,-24}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{123,48},{74,66}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_009.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{457,570},{70,64}}</string>
-                <key>offset</key>
-                <string>{1,-25}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{144,50},{70,64}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_010.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,546},{80,68}}</string>
-                <key>offset</key>
-                <string>{5,-23}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{143,46},{80,68}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_011.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{804,198},{134,64}}</string>
-                <key>offset</key>
-                <string>{20,-25}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{131,50},{134,64}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_012.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,271},{126,64}}</string>
-                <key>offset</key>
-                <string>{11,-25}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{126,50},{126,64}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_013.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{182,353},{122,66}}</string>
-                <key>offset</key>
-                <string>{5,-24}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{122,48},{122,66}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_014.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{705,500},{90,66}}</string>
-                <key>offset</key>
-                <string>{11,-24}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{144,48},{90,66}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_015.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,478},{102,66}}</string>
-                <key>offset</key>
-                <string>{16,-24}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{143,48},{102,66}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_016.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{412,294},{122,80}}</string>
-                <key>offset</key>
-                <string>{9,-17}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{126,34},{122,80}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_017.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{412,208},{124,84}}</string>
-                <key>offset</key>
-                <string>{10,-15}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{126,30},{124,84}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_018.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{614,216},{112,86}}</string>
-                <key>offset</key>
-                <string>{18,-14}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{140,28},{112,86}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_019.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{538,208},{120,74}}</string>
-                <key>offset</key>
-                <string>{33,-20}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{151,40},{120,74}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_020.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,118},{178,88}}</string>
-                <key>offset</key>
-                <string>{64,-13}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{153,26},{178,88}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_021.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{414,112},{184,94}}</string>
-                <key>offset</key>
-                <string>{68,-10}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{154,20},{184,94}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_022.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{614,2},{194,104}}</string>
-                <key>offset</key>
-                <string>{73,-5}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{154,10},{194,104}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_023.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{414,2},{198,108}}</string>
-                <key>offset</key>
-                <string>{74,-3}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{153,6},{198,108}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_024.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{210,2},{202,112}}</string>
-                <key>offset</key>
-                <string>{76,-1}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{153,2},{202,112}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_025.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,2},{206,114}}</string>
-                <key>offset</key>
-                <string>{75,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{150,0},{206,114}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_026.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{804,110},{168,86}}</string>
-                <key>offset</key>
-                <string>{48,-14}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{142,28},{168,86}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_027.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{210,116},{182,84}}</string>
-                <key>offset</key>
-                <string>{51,-4}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{138,19},{182,84}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_028.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{810,2},{190,106}}</string>
-                <key>offset</key>
-                <string>{60,-4}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{143,8},{190,106}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_029.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{614,108},{188,106}}</string>
-                <key>offset</key>
-                <string>{59,-4}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{143,8},{188,106}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
-            </dict>
-            <key>Naruto_Skill05_030.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{263,561},{46,76}}</string>
-                <key>offset</key>
-                <string>{-12,-19}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{143,38},{46,76}}</string>
-                <key>sourceSize</key>
-                <string>{356,114}</string>
+                <string>{0,0}</string>
             </dict>
             <key>Naruto_Walk_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{774,655},{67,53}}</string>
+                <string>{{256,0},{67,54}}</string>
                 <key>offset</key>
-                <string>{-3,0}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{67,53}}</string>
+                <string>{{0,0},{67,54}}</string>
                 <key>sourceSize</key>
-                <string>{73,53}</string>
+                <string>{67,54}</string>
             </dict>
             <key>Naruto_Walk_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{704,690},{66,53}}</string>
+                <string>{{323,0},{66,54}}</string>
                 <key>offset</key>
-                <string>{-3,0}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{66,53}}</string>
+                <string>{{0,0},{66,54}}</string>
                 <key>sourceSize</key>
-                <string>{72,53}</string>
+                <string>{66,54}</string>
             </dict>
             <key>Naruto_Walk_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{373,670},{53,49}}</string>
+                <string>{{389,0},{53,50}}</string>
                 <key>offset</key>
-                <string>{-3,-2}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,4},{53,49}}</string>
+                <string>{{0,0},{53,50}}</string>
                 <key>sourceSize</key>
-                <string>{59,53}</string>
+                <string>{53,50}</string>
             </dict>
             <key>Naruto_Walk_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{930,664},{67,53}}</string>
+                <string>{{442,0},{67,54}}</string>
                 <key>offset</key>
-                <string>{-3,0}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{67,53}}</string>
+                <string>{{0,0},{67,54}}</string>
                 <key>sourceSize</key>
-                <string>{73,53}</string>
+                <string>{67,54}</string>
             </dict>
             <key>Naruto_Walk_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{573,628},{66,53}}</string>
+                <string>{{509,0},{66,54}}</string>
                 <key>offset</key>
-                <string>{-3,0}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{66,53}}</string>
+                <string>{{0,0},{66,54}}</string>
                 <key>sourceSize</key>
-                <string>{72,53}</string>
+                <string>{66,54}</string>
             </dict>
             <key>Naruto_Walk_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{440,636},{53,49}}</string>
+                <string>{{575,0},{53,50}}</string>
                 <key>offset</key>
-                <string>{0,-2}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,4},{53,49}}</string>
+                <string>{{0,0},{53,50}}</string>
                 <key>sourceSize</key>
-                <string>{53,53}</string>
+                <string>{53,50}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -1401,13 +2896,13 @@
             <key>format</key>
             <integer>2</integer>
             <key>realTextureFileName</key>
-            <string>Naruto.png</string>
+            <string>NarutoUzumakiByRps.png</string>
             <key>size</key>
-            <string>{1024,1024}</string>
+            <string>{4096,4096}</string>
             <key>smartupdate</key>
             <string>$TexturePacker:SmartUpdate:c00faba104dd0d7164ab82adc362c39a$</string>
             <key>textureFileName</key>
-            <string>Naruto.png</string>
+            <string>NarutoUzumakiByRps.png</string>
         </dict>
     </dict>
 </plist>

@@ -10,13 +10,13 @@
         <coldName type="coldDown">224</coldName>
       </date>
       <frame>
-        <frameName>Qilin_Move_01.png</frameName>
+        <frameName>Qilin_Move_001.png</frameName>
       </frame>
     </action>
    
     <action value="Walk">
       <frame>
-          <frameName>Qilin_Move_01.png</frameName>
+          <frameName>Qilin_Move_001.png</frameName>
       </frame>
     </action>
    
@@ -43,36 +43,35 @@
    
     <action value="Dead">
       <frame>
-          <frameName>Qilin_Move_01.png</frameName>
+          <frameName>Qilin_Move_001.png</frameName>
       </frame>
     </action>
    
     <action value="nAttack">
       <date>
 	    <dateName type="attackType">aAttack</dateName>
-        <dateName type="attackValue">540</dateName>
-        <dateName type="attackRangeX">32</dateName>
-        <dateName type="attackRangeY">32</dateName>
+        <dateName type="attackValue">760</dateName>
+        <dateName type="attackRangeX">0</dateName>
+        <dateName type="attackRangeY">48</dateName>
         <coldName type="coldDown">0</coldName>
       </date>
       <frame>
-          <frameName>Qilin_Move_01.png</frameName>
-          <eventName type="setDelay">10</eventName>
-          <eventName type="setAttackBox">ac_hit</eventName>
-          <eventName type="setFont">doka.png</eventName>
-          <frameName>Qilin_Move_02.png</frameName>
-          <eventName type="setDelay">10</eventName>
-          <eventName type="setAttackBox">ac_hit</eventName>
-          <eventName type="setFont">doka.png</eventName>
-          <frameName>Qilin_Move_03.png</frameName>
-          <eventName type="setDelay">10</eventName>
-          <eventName type="setAttackBox">ac_hit</eventName>
-          <eventName type="setFont">doka.png</eventName>
-          <frameName>Qilin_Move_04.png</frameName>
-          <eventName type="setDelay">10</eventName>
-          <eventName type="setAttackBox">ac_hit</eventName>
-          <eventName type="setDetonation">0</eventName>
-          <eventName type="setFont">doka.png</eventName>
+        <frameName>Qilin_Move_001.png</frameName>
+        <eventName type="setAttackBox">bc_hit</eventName>
+        <frameName>Qilin_Move_002.png</frameName>
+        <frameName>Qilin_Move_003.png</frameName>
+        <eventName type="setAttackBox">bc_hit</eventName>
+        <frameName>Qilin_Move_004.png</frameName>
+        <frameName>Qilin_Move_005.png</frameName>
+        <eventName type="setAttackBox">bc_hit</eventName>
+        <frameName>Qilin_Move_006.png</frameName>
+        <eventName type="setSound">Audio/Sasuke/sasuke_skill4_1.ogg</eventName>
+        <frameName>Qilin_Move_007.png</frameName>
+        <eventName type="setAttackBox">bf_hit</eventName>
+        <frameName>Qilin_Move_008.png</frameName>
+        <frameName>Qilin_Move_009.png</frameName>
+        <frameName>Qilin_Move_010.png</frameName>
+        <eventName type="setDetonation">0</eventName>
       </frame>
     </action>
 

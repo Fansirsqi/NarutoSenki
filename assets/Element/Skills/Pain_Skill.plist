@@ -173,7 +173,7 @@
                 <key>sourceSize</key>
                 <string>{145,121}</string>
             </dict>
-            <key>Jibaku_Move_01.png</key>
+            <key>Pain_Jibaku_Move_01.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{248,2},{5,6}}</string>
@@ -186,7 +186,7 @@
                 <key>sourceSize</key>
                 <string>{5,100}</string>
             </dict>
-            <key>Jibaku_Move_02.png</key>
+            <key>Pain_Jibaku_Move_02.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{218,149},{16,16}}</string>
@@ -199,7 +199,7 @@
                 <key>sourceSize</key>
                 <string>{16,100}</string>
             </dict>
-            <key>Jibaku_Move_03.png</key>
+            <key>Pain_Jibaku_Move_03.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{122,455},{19,18}}</string>
@@ -212,7 +212,7 @@
                 <key>sourceSize</key>
                 <string>{19,100}</string>
             </dict>
-            <key>Jibaku_Move_04.png</key>
+            <key>Pain_Jibaku_Move_04.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{75,455},{25,24}}</string>
@@ -225,7 +225,7 @@
                 <key>sourceSize</key>
                 <string>{25,100}</string>
             </dict>
-            <key>Jibaku_Move_05.png</key>
+            <key>Pain_Jibaku_Move_05.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{218,201},{31,32}}</string>
@@ -238,7 +238,7 @@
                 <key>sourceSize</key>
                 <string>{31,100}</string>
             </dict>
-            <key>Jibaku_Move_06.png</key>
+            <key>Pain_Jibaku_Move_06.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{45,487},{21,22}}</string>
@@ -251,7 +251,7 @@
                 <key>sourceSize</key>
                 <string>{31,100}</string>
             </dict>
-            <key>Jibaku_Move_07.png</key>
+            <key>Pain_Jibaku_Move_07.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{206,234},{42,45}}</string>
@@ -264,7 +264,7 @@
                 <key>sourceSize</key>
                 <string>{42,109}</string>
             </dict>
-            <key>Jibaku_Move_08.png</key>
+            <key>Pain_Jibaku_Move_08.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{198,318},{49,41}}</string>
@@ -277,7 +277,7 @@
                 <key>sourceSize</key>
                 <string>{49,109}</string>
             </dict>
-            <key>Jibaku_Move_09.png</key>
+            <key>Pain_Jibaku_Move_09.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{67,363},{90,64}}</string>
@@ -290,7 +290,7 @@
                 <key>sourceSize</key>
                 <string>{92,116}</string>
             </dict>
-            <key>Jibaku_Move_10.png</key>
+            <key>Pain_Jibaku_Move_10.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{125,79},{110,68}}</string>
@@ -303,7 +303,7 @@
                 <key>sourceSize</key>
                 <string>{116,120}</string>
             </dict>
-            <key>Jibaku_Move_11.png</key>
+            <key>Pain_Jibaku_Move_11.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{105,291},{91,68}}</string>
@@ -316,7 +316,7 @@
                 <key>sourceSize</key>
                 <string>{93,120}</string>
             </dict>
-            <key>Jibaku_Move_12.png</key>
+            <key>Pain_Jibaku_Move_12.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{143,434},{70,64}}</string>

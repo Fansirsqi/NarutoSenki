@@ -31,7 +31,7 @@
             <eventName type="setMove">32</eventName>
             <frameName>Choji_Hurt_01.png</frameName>
             <frameName>Choji_Hurt_02.png</frameName>
-            <eventName type="setSound">Audio/Choji/Choji_hurt.ogg</eventName>
+            <eventName type="setSound">Audio/Choji/Choji_hurt.mp3</eventName>
         </frame>
     </action>
     <action value="AirHurt">
@@ -63,7 +63,7 @@
             <frameName>Choji_KnockDown_01.png</frameName>
             <frameName>Choji_KnockDown_02.png</frameName>
             <frameName>Choji_KnockDown_03.png</frameName>
-            <eventName type="setSound">Audio/Choji/Choji_dead.ogg</eventName>
+            <eventName type="setSound">Audio/Choji/Choji_dead.mp3</eventName>
         </frame>
     </action>
     <action value="nAttack">
@@ -80,7 +80,7 @@
             <frameName>Choji_NAttack_02.png</frameName>
             <eventName type="setDelay">10</eventName>
             <frameName>Choji_NAttack_03.png</frameName>
-            <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
             <eventName type="setAttackBox">n_hit</eventName>
             <frameName>Choji_NAttack_04.png</frameName>
             <eventName type="setDelay">10</eventName>
@@ -88,16 +88,16 @@
             <eventName type="setMove">8</eventName>
             <frameName>Choji_NAttack_06.png</frameName>
             <eventName type="setAttackBox">n_hit</eventName>
-            <eventName type="setSound">Audio/Effect/combo2.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/combo2.mp3</eventName>
             <eventName type="setDelay">10</eventName>
             <frameName>Choji_NAttack_07.png</frameName>
             <frameName>Choji_NAttack_08.png</frameName>
             <eventName type="setDelay">10</eventName>
             <frameName>Choji_NAttack_09.png</frameName>
             <eventName type="setMove">16</eventName>
-            <eventName type="setSound">Audio/Choji/Choji_combo.ogg</eventName>
+            <eventName type="setSound">Audio/Choji/Choji_combo.mp3</eventName>
             <frameName>Choji_NAttack_10.png</frameName>
-            <eventName type="setSound">Audio/Effect/combo3.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/combo3.mp3</eventName>
             <eventName type="setAttackBox">l_hit</eventName>
             <eventName type="setDelay">10</eventName>
         </frame>
@@ -112,7 +112,7 @@
         </date>
         <frame>
             <frameName>Choji_Skill01_02.png</frameName>
-            <eventName type="setSound">Audio/Choji/Choji_skill1.ogg</eventName>
+            <eventName type="setSound">Audio/Choji/Choji_skill1.mp3</eventName>
             <eventName type="setDelay">10</eventName>
             <frameName>Choji_Skill01_03.png</frameName>
             <eventName type="setDelay">30</eventName>
@@ -128,11 +128,11 @@
             <coldName type="coldDown">15</coldName>
         </date>
         <frame>
-            <eventName type="setSound">Audio/Choji/Choji_skill2.ogg</eventName>
+            <eventName type="setSound">Audio/Choji/Choji_skill2.mp3</eventName>
             <frameName>Choji_Skill02_04.png</frameName>
             <frameName>Choji_Skill02_05.png</frameName>
             <eventName type="setAttackBox">c_hit</eventName>
-            <eventName type="setDSound">Audio/Effect/damage_l.ogg</eventName>
+            <eventName type="setDSound">Audio/Effect/damage_l.mp3</eventName>
             <frameName>Choji_Skill02_06.png</frameName>
             <frameName>Choji_Skill02_08.png</frameName>
             <eventName type="setAttackBox">c_hit</eventName>
@@ -141,7 +141,7 @@
             <eventName type="setChargeB">196</eventName>
             <frameName>Choji_Skill02_06.png</frameName>
             <eventName type="setAttackBox">c_hit</eventName>
-            <eventName type="setDSound">Audio/Effect/damage_l.ogg</eventName>
+            <eventName type="setDSound">Audio/Effect/damage_l.mp3</eventName>
             <frameName>Choji_Skill02_07.png</frameName>
             <frameName>Choji_Skill02_08.png</frameName>
             <eventName type="setAttackBox">c_hit</eventName>
@@ -159,7 +159,7 @@
             <coldName type="coldDown">25</coldName>
         </date>
         <frame>
-            <eventName type="setSound">Audio/Choji/Choji_skill3.ogg</eventName>
+            <eventName type="setSound">Audio/Choji/Choji_skill3.mp3</eventName>
             <frameName>Choji_Skill03_01.png</frameName>
             <frameName>Choji_Skill03_02.png</frameName>
             <eventName type="setJump">true</eventName>
@@ -170,7 +170,7 @@
             <frameName>Choji_Skill03_04.png</frameName>
             <frameName>Choji_Skill03_05.png</frameName>
             <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setDSound">Audio/Effect/damage_h.ogg</eventName>
+            <eventName type="setDSound">Audio/Effect/damage_h.mp3</eventName>
             <frameName>Choji_Skill03_06.png</frameName>
             <frameName>Choji_Skill03_07.png</frameName>
             <eventName type="setAttackBox">b_hit</eventName>
@@ -187,9 +187,9 @@
             <coldName type="coldDown">1</coldName>
         </date>
         <frame>
-            <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
             <frameName>Choji_Skill04_02.png</frameName>
-            <eventName type="setSound">Audio/Choji/Choji_skill4.ogg</eventName>
+            <eventName type="setSound">Audio/Choji/Choji_skill4.mp3</eventName>
             <eventName type="setSkillEffect">smk</eventName>
             <frameName>Choji_Skill04_03.png</frameName>
             <eventName type="setDelay">20</eventName>
@@ -216,7 +216,7 @@
             <coldName type="coldDown">0</coldName>
         </date>
         <frame>
-            <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
             <eventName type="setCommand">setInvincible</eventName>
             <frameName>Choji_Skill05_01.png</frameName>
             <eventName type="setOugis">10</eventName>
@@ -271,7 +271,7 @@
 			<frameName>Choji_pNAttack_02.png</frameName>
 			<eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">l_hit</eventName>
-			<eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+			<eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
 			<frameName>Choji_pNAttack_03.png</frameName>
 			<eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">l_hit</eventName>
@@ -281,7 +281,7 @@
 			<frameName>Choji_pNAttack_05.png</frameName>
 			<eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">l_hit</eventName>
-			<eventName type="setSound">Audio/Choji/Choji_combo.ogg</eventName>
+			<eventName type="setSound">Audio/Choji/Choji_combo.mp3</eventName>
 			<frameName>Choji_pNAttack_06.png</frameName>
 			<eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">l_hit</eventName>
@@ -294,7 +294,7 @@
 			<frameName>Choji_pNAttack_09.png</frameName>
 			<eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">l_hit</eventName>
-			<eventName type="setSound">Audio/Effect/combo3.ogg</eventName>
+			<eventName type="setSound">Audio/Effect/combo3.mp3</eventName>
 			<eventName type="setDelay">10</eventName>            
         </frame>
     </action>
@@ -340,13 +340,13 @@
             <eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">l_hit</eventName>
             <frameName>Choji_Skill10_003.png</frameName>
-            <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
             <eventName type="setAttackBox">l_hit</eventName>
             <frameName>Choji_Skill10_004.png</frameName>
             <eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">l_hit</eventName>
             <frameName>Choji_Skill10_005.png</frameName>
-            <eventName type="setSound">Audio/Choji/Choji_skill10.ogg</eventName>
+            <eventName type="setSound">Audio/Choji/Choji_skill10.mp3</eventName>
             <eventName type="setChargeB">96</eventName>
             <frameName>Choji_Skill10_006.png</frameName>
             <eventName type="setShadow">10</eventName>
@@ -355,20 +355,20 @@
             <eventName type="setAttackBox">b_hit</eventName>
             <frameName>Choji_Skill10_008.png</frameName>
             <eventName type="setShadow">10</eventName>
-            <eventName type="setSound">Audio/Effect/combo3.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/combo3.mp3</eventName>
 			
 			<frameName>Choji_Skill10_001.png</frameName>
             <frameName>Choji_Skill10_002.png</frameName>
             <eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">l_hit</eventName>
             <frameName>Choji_Skill10_003.png</frameName>
-            <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
             <eventName type="setAttackBox">l_hit</eventName>
             <frameName>Choji_Skill10_004.png</frameName>
             <eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">l_hit</eventName>
             <frameName>Choji_Skill10_005.png</frameName>
-            <eventName type="setSound">Audio/Choji/Choji_skill10.ogg</eventName>
+            <eventName type="setSound">Audio/Choji/Choji_skill10.mp3</eventName>
             <eventName type="setChargeB">96</eventName>
             <frameName>Choji_Skill10_006.png</frameName>
             <eventName type="setShadow">10</eventName>
@@ -377,9 +377,9 @@
             <eventName type="setAttackBox">b_hit</eventName>
             <frameName>Choji_Skill10_008.png</frameName>
             <eventName type="setShadow">10</eventName>
-            <eventName type="setSound">Audio/Effect/combo3.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/combo3.mp3</eventName>
             
-			<eventName type="setSound">Audio/Choji/Choji_skill2.ogg</eventName>
+			<eventName type="setSound">Audio/Choji/Choji_skill2.mp3</eventName>
 			<frameName>Choji_Beihua_Zhanche_00.png</frameName>
 			<eventName type="setShadow">10</eventName>
 			<eventName type="setAttackBox">f_hit</eventName>
@@ -390,7 +390,7 @@
 			<eventName type="setAttackBox">f_hit</eventName>
 			<eventName type="setChargeB">96</eventName>
 			<frameName>Choji_Beihua_Zhanche_03.png</frameName>
-			<eventName type="setDSound">Audio/Effect/damage_l.ogg</eventName>
+			<eventName type="setDSound">Audio/Effect/damage_l.mp3</eventName>
 			<frameName>Choji_Beihua_Zhanche_04.png</frameName>
 			<eventName type="setShadow">10</eventName>
 			<eventName type="setAttackBox">f_hit</eventName>

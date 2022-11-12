@@ -5,38 +5,77 @@ Created-By: Android Gradle 3.5.0
 Name: AndroidManifest.xml
 SHA1-Digest: K6QY41lq6igJVCW7L2aZWR+CG1w=
 
+Name: LICENSE
+SHA1-Digest: /CLaubvJb+hzeDqFP3o0Kl+bdZ8=
+
+Name: Readme.html
+SHA1-Digest: pKLxx0jVfTuzPu+6Cvw6FZT4+G8=
+
 Name: Readme.md
-SHA1-Digest: o+4Hx2BrSW2areW7aBvroj3Fse0=
+SHA1-Digest: XOxHYzLNNfC228krL5T6SdlQwIo=
+
+Name: assets/Audio/Choji/Choji_combo.mp3
+SHA1-Digest: X35HNenxW9b79kiXGEfYyXyMh2Q=
 
 Name: assets/Audio/Choji/Choji_combo.ogg
 SHA1-Digest: DXn3XGHBsRsJfJ5qeeeER6xJlA0=
 
+Name: assets/Audio/Choji/Choji_dead.mp3
+SHA1-Digest: 5anD6qu/n0pyucIg5y17DirByFM=
+
 Name: assets/Audio/Choji/Choji_dead.ogg
 SHA1-Digest: 9lcaI2/5JUFENBaWNtOGaeGBmgw=
+
+Name: assets/Audio/Choji/Choji_hurt.mp3
+SHA1-Digest: 9dBKKfkbRx4PxvbpBRsJgDZ+GPo=
 
 Name: assets/Audio/Choji/Choji_hurt.ogg
 SHA1-Digest: +A+cDwIz4xsMl9uFZeoUhpdO/Fc=
 
+Name: assets/Audio/Choji/Choji_skill1.mp3
+SHA1-Digest: TcK5+H7ellA2zIgjsKZVzK611us=
+
 Name: assets/Audio/Choji/Choji_skill1.ogg
 SHA1-Digest: hEWsTDry9SlPgglzOmKbwIsZ+Hc=
+
+Name: assets/Audio/Choji/Choji_skill10.mp3
+SHA1-Digest: /WXwFoZ/UE/Ppt4mGTqbFOnZemI=
 
 Name: assets/Audio/Choji/Choji_skill10.ogg
 SHA1-Digest: Vwe1Cnu5OHgcCxfaCn1mI/eFhQQ=
 
+Name: assets/Audio/Choji/Choji_skill12.mp3
+SHA1-Digest: 7Ik1bzc9r50SAoh3IDgfR9jx6j4=
+
 Name: assets/Audio/Choji/Choji_skill12.ogg
 SHA1-Digest: tVYHevrnSQTEyeTo8+aOPBa08kc=
+
+Name: assets/Audio/Choji/Choji_skill2.mp3
+SHA1-Digest: fsZc+Mr2L52h1nfFApT6ssHvmFc=
 
 Name: assets/Audio/Choji/Choji_skill2.ogg
 SHA1-Digest: 289rGi3ewwNfS/PButBZ/bLj1Oc=
 
+Name: assets/Audio/Choji/Choji_skill3.mp3
+SHA1-Digest: 6oVkzd/i2azF6J0knHBWsTDa8f0=
+
 Name: assets/Audio/Choji/Choji_skill3.ogg
 SHA1-Digest: FvcAjQp9681Aq+H8AIQ9pPGoIM4=
+
+Name: assets/Audio/Choji/Choji_skill4.mp3
+SHA1-Digest: Rc0SpRG9/UaWL12cHVvTgvWHV7s=
 
 Name: assets/Audio/Choji/Choji_skill4.ogg
 SHA1-Digest: NSTBxDnm2SnogKSpdiCm2iRpekM=
 
+Name: assets/Audio/Choji/Choji_skill4_1.mp3
+SHA1-Digest: 2t7IS996yM/tEBnKs9bRrqfPyUs=
+
 Name: assets/Audio/Choji/Choji_skill4_1.ogg
 SHA1-Digest: srAixfcd17EjxlHPb9UH4nj52Pw=
+
+Name: assets/Audio/Choji/Choji_skill5_1.mp3
+SHA1-Digest: fsZc+Mr2L52h1nfFApT6ssHvmFc=
 
 Name: assets/Audio/Choji/Choji_skill5_1.ogg
 SHA1-Digest: 289rGi3ewwNfS/PButBZ/bLj1Oc=
@@ -100,6 +139,12 @@ SHA1-Digest: OdtK6oxJFqpFSAP7fByAjtlVwF0=
 
 Name: assets/Audio/Effect/Lightoning_Ball.mp3
 SHA1-Digest: C17Lw0u7Hivo5EmNJGU6bQZQBAs=
+
+Name: assets/Audio/Effect/SLTZ.mp3
+SHA1-Digest: TTuSvvfePvb3Nl7EWOU8MBgDd7M=
+
+Name: assets/Audio/Effect/SLTZ2.mp3
+SHA1-Digest: 3XVI4/laW9IXjv7yrf1HJYnx/w8=
 
 Name: assets/Audio/Effect/SRK.ogg
 SHA1-Digest: 7PyPziHQxMmwkzGvQ4pNjOg+4A8=
@@ -1520,6 +1565,90 @@ SHA1-Digest: wKy91FWddVXXzFDNc3DOeq6Q64E=
 Name: assets/Audio/Nagato/Nagato_skill5.ogg
 SHA1-Digest: 63sRyzHN76/07uONwgjNkG3zu2o=
 
+Name: assets/Audio/Naruto/Bijudama.wav
+SHA1-Digest: knGvX2otcbMCrosov/KF1XGfNOk=
+
+Name: assets/Audio/Naruto/BreakSound01.wav
+SHA1-Digest: gGXjb+/hJ+LLKXhVC2jfhAEoeQc=
+
+Name: assets/Audio/Naruto/BreakSound02.wav
+SHA1-Digest: co2uQe48l0FIXQRkaXjpzvKBQss=
+
+Name: assets/Audio/Naruto/Bursts.ogg
+SHA1-Digest: bOrc78XI65CF6p4Hzw7Pp+tx58E=
+
+Name: assets/Audio/Naruto/Ciah.wav
+SHA1-Digest: 3XVI4/laW9IXjv7yrf1HJYnx/w8=
+
+Name: assets/Audio/Naruto/Deg.wav
+SHA1-Digest: SEge/97TXuENrT2O37FIJvYMe+8=
+
+Name: assets/Audio/Naruto/EffSkill01.wav
+SHA1-Digest: nWBW8739bcj4b62Oto7Ly/ST5Ec=
+
+Name: assets/Audio/Naruto/EffSkill08.wav
+SHA1-Digest: ZMDzLH/I6lMb0444/GYPmLIxrCo=
+
+Name: assets/Audio/Naruto/Futon.ogg
+SHA1-Digest: pZ49K5uDNtJjZkkP137kIEcXpEc=
+
+Name: assets/Audio/Naruto/Monster.wav
+SHA1-Digest: cAdIyW6VqYTYL/TDx7FEmy4ZkZc=
+
+Name: assets/Audio/Naruto/N1.ogg
+SHA1-Digest: LuRT0Cu6TYZJ+zhtMx1/605Cs8U=
+
+Name: assets/Audio/Naruto/N2.ogg
+SHA1-Digest: ZGpedNSkeweSWdLrIwk8PclHdPk=
+
+Name: assets/Audio/Naruto/N3.ogg
+SHA1-Digest: Ykmx2KmHG2WA5BtTLGL0oY4jil0=
+
+Name: assets/Audio/Naruto/Naruto_s2_01.ogg
+SHA1-Digest: lN/8JBl/jHZoyyVF3XIaNrgmlN0=
+
+Name: assets/Audio/Naruto/Naruto_s4_sfx_01.ogg
+SHA1-Digest: fxmIPoe0Znfj2F3AO+ndxTeaDMk=
+
+Name: assets/Audio/Naruto/OdamaaRasengan.mp3
+SHA1-Digest: SHlvCJo8h9D8VdAkD3M8HXo83nA=
+
+Name: assets/Audio/Naruto/RK_Naruto_s4_sfx_02.ogg
+SHA1-Digest: 37iSUnQCv6nXYPO6l/y1t3w7hug=
+
+Name: assets/Audio/Naruto/Rasen.ogg
+SHA1-Digest: llDQDYFvp8TG/2/1bMEb7b+q6Xg=
+
+Name: assets/Audio/Naruto/Rasen.wav
+SHA1-Digest: i3C1WwjEAagIkCXmEnf3h4i6dog=
+
+Name: assets/Audio/Naruto/Rasen1.wav
+SHA1-Digest: X0/b1u924bwtUUIe3bscNtAwpe4=
+
+Name: assets/Audio/Naruto/Rasen2.wav
+SHA1-Digest: kRjdsFKssNfNOgNvZRYlrO3OgXQ=
+
+Name: assets/Audio/Naruto/Shuriken.ogg
+SHA1-Digest: dl10UDOm+rkc+/powTtUkufw6Tk=
+
+Name: assets/Audio/Naruto/Teleport.ogg
+SHA1-Digest: YNHbQZz8zYGT4NMA2Efb9KGGIxI=
+
+Name: assets/Audio/Naruto/break_sound2.ogg
+SHA1-Digest: 40zAFzb61oDYAkPGMkOCnyWhIig=
+
+Name: assets/Audio/Naruto/break_sound3.ogg
+SHA1-Digest: 4VzcxH6T1wTcYEqB9q8dNzl0suA=
+
+Name: assets/Audio/Naruto/combo1.ogg
+SHA1-Digest: Y47UZYQACrhJTukwQdJI4lijiyc=
+
+Name: assets/Audio/Naruto/combo2.ogg
+SHA1-Digest: XFTqT8PBb6uXYOOWmaAQ3t/b/Fw=
+
+Name: assets/Audio/Naruto/combo3.ogg
+SHA1-Digest: l9Xl5w+Fw0QD9dOFZNs0+U8+FJ8=
+
 Name: assets/Audio/Naruto/kkx.ogg
 SHA1-Digest: miT3USFyhrCYOjEbNyB7ZGmMh7s=
 
@@ -1549,6 +1678,15 @@ SHA1-Digest: Fm9bCG9suvid1vx/cvjAY6MgZXs=
 
 Name: assets/Audio/Naruto/naruto_skill5_2.ogg
 SHA1-Digest: ikxgo/10pDYnMptBZ8Gy0sb23bg=
+
+Name: assets/Audio/Naruto/poof.ogg
+SHA1-Digest: EonyIKLX+xM4+h376EomT9Nylyw=
+
+Name: assets/Audio/Naruto/slash_04.wav
+SHA1-Digest: 1VQaaZ8hxDQNDhAF1H5Hots9GR4=
+
+Name: assets/Audio/Naruto/susanoSword.mp3
+SHA1-Digest: FWfkXC24Vq0yD9nuiifFSVZ04kQ=
 
 Name: assets/Audio/Neji/Neji_combo.ogg
 SHA1-Digest: wPyLyeW+mkeYSvAzp6A/hhaX9LA=
@@ -1757,6 +1895,39 @@ SHA1-Digest: 15e9SJp58NlgPUS8/SpSE+jYoBw=
 Name: assets/Audio/Pain/DevaPath_skill2.ogg
 SHA1-Digest: KtUFGnS8U3kOgmLuGka77I6hPlM=
 
+Name: assets/Audio/Pain/Pain_SLTZ.mp3
+SHA1-Digest: Tqkw7IFsA81a8UJPYbJc+ATdurA=
+
+Name: assets/Audio/Pain/Pain_WXTY.mp3
+SHA1-Digest: CpU0z+QjK1sYl6IjAyFrOZb0tME=
+
+Name: assets/Audio/Pain/QC.mp3
+SHA1-Digest: ODDXY2vVPCIh4cCAWFzmxiKRlPM=
+
+Name: assets/Audio/Pain/Skill3_ha.mp3
+SHA1-Digest: bvbzQtSG9Cet6jN3w1CW5YNlFiQ=
+
+Name: assets/Audio/Pain/dead.mp3
+SHA1-Digest: yKtkYCc0W8rSWe1KML7D2d3BSew=
+
+Name: assets/Audio/Pain/hurt.mp3
+SHA1-Digest: WrgM8SwAWxfjnjo6wjmJhz1z8eI=
+
+Name: assets/Audio/Pain/jibaku1.mp3
+SHA1-Digest: RxST9fQlHUbxMK35btbUWoj2Y/4=
+
+Name: assets/Audio/Pain/jibaku2.mp3
+SHA1-Digest: 8Huznw1m+dhoXQmqS5w+h/ARLxc=
+
+Name: assets/Audio/Pain/nAttack1.mp3
+SHA1-Digest: PdPI5qtyvs3o5OUl+wl8VrHL9uw=
+
+Name: assets/Audio/Pain/nAttack2.mp3
+SHA1-Digest: +rLMPLqMPr0kRw5IFnRZKPqMfZQ=
+
+Name: assets/Audio/Pain/nAttack3.mp3
+SHA1-Digest: KLxsfC+ptKLW1L54gNsKWB4dREQ=
+
 Name: assets/Audio/Pain/pain_combo.ogg
 SHA1-Digest: qFZ3d+qZ6iELXtaE15VCSIFSx9s=
 
@@ -1814,17 +1985,95 @@ SHA1-Digest: VYU1R396Z4ttxU8YaqXm6fiPhwA=
 Name: assets/Audio/SageJiraiya/SageJiraiya_skill5_1.ogg
 SHA1-Digest: /HOfw+irilxjLd2nPLwYduHgN90=
 
+Name: assets/Audio/SageNaruto/BreakSound01.wav
+SHA1-Digest: gGXjb+/hJ+LLKXhVC2jfhAEoeQc=
+
+Name: assets/Audio/SageNaruto/Ciah.wav
+SHA1-Digest: 3XVI4/laW9IXjv7yrf1HJYnx/w8=
+
+Name: assets/Audio/SageNaruto/DUAR.ogg
+SHA1-Digest: dF47UnLa3EgiMz5Lgwa5ulBxftg=
+
+Name: assets/Audio/SageNaruto/EffSkill08.wav
+SHA1-Digest: En1JeXZEZ9krn8woQVU1Wu8sZt4=
+
+Name: assets/Audio/SageNaruto/K.wav
+SHA1-Digest: Oblb5r8poRkUyDD0LhvGbEohj4Q=
+
+Name: assets/Audio/SageNaruto/Monster.wav
+SHA1-Digest: cAdIyW6VqYTYL/TDx7FEmy4ZkZc=
+
+Name: assets/Audio/SageNaruto/Naruto_s4_02.ogg
+SHA1-Digest: EVtzRFyhNEgHKGC1CvZK5odEYxc=
+
+Name: assets/Audio/SageNaruto/Naruto_s4_sfx_01.ogg
+SHA1-Digest: fxmIPoe0Znfj2F3AO+ndxTeaDMk=
+
+Name: assets/Audio/SageNaruto/Naruto_skill04.ogg
+SHA1-Digest: t6L1kVt29PNwNgSmVm0nwryKJfE=
+
+Name: assets/Audio/SageNaruto/Naruto_skill1.ogg
+SHA1-Digest: 5W2MdE4Xdk7mezeGM/cQpSvZKvA=
+
+Name: assets/Audio/SageNaruto/Naruto_skill4.ogg
+SHA1-Digest: U7sOYaNhT3xgrSdlHT9XH9yClOs=
+
+Name: assets/Audio/SageNaruto/RK_Naruto_s4_sfx_02.ogg
+SHA1-Digest: 37iSUnQCv6nXYPO6l/y1t3w7hug=
+
+Name: assets/Audio/SageNaruto/Rasen.wav
+SHA1-Digest: phOvX7UZwh7ulA/YFd6RYZWlHSM=
+
+Name: assets/Audio/SageNaruto/Rasen1.wav
+SHA1-Digest: wFCd9tKGqqAJ0KYm90ac9VIcIus=
+
+Name: assets/Audio/SageNaruto/Rasen2.wav
+SHA1-Digest: /G+DsUDOlgGlN+Q0LdtKoMo2/EI=
+
 Name: assets/Audio/SageNaruto/SageNaruto_skill1.ogg
-SHA1-Digest: Ju+K6Lbfzsa/43nHPBrKMVklhPE=
+SHA1-Digest: 5W2MdE4Xdk7mezeGM/cQpSvZKvA=
 
 Name: assets/Audio/SageNaruto/SageNaruto_skill3.ogg
-SHA1-Digest: qnbtCUXQXe+au+agKd3hiltG6M8=
+SHA1-Digest: cbCMrpeRmF+MXzquOCo5/mOTKi0=
+
+Name: assets/Audio/SageNaruto/SageNaruto_skill3_1.ogg
+SHA1-Digest: QaCSP1xAvYXUuB8ehbNbqe6mvPg=
 
 Name: assets/Audio/SageNaruto/SageNaruto_skill4.ogg
 SHA1-Digest: t6L1kVt29PNwNgSmVm0nwryKJfE=
 
 Name: assets/Audio/SageNaruto/SageNaruto_skill5.ogg
 SHA1-Digest: wO6VJdSQmjhvoQemsaz/FGtbB90=
+
+Name: assets/Audio/SageNaruto/Skill1.ogg
+SHA1-Digest: XS9slXpqgMr0ymEQ0mLZHK1h+FI=
+
+Name: assets/Audio/SageNaruto/Tarendan.mp3
+SHA1-Digest: brkwDtUBQUrNp5uiLzwK0lafjQM=
+
+Name: assets/Audio/SageNaruto/break_sound2.ogg
+SHA1-Digest: 40zAFzb61oDYAkPGMkOCnyWhIig=
+
+Name: assets/Audio/SageNaruto/naruto_skill2.ogg
+SHA1-Digest: D92DmBMXGitLh85tQ5eh/hkeXng=
+
+Name: assets/Audio/SageNaruto/naruto_skill3.ogg
+SHA1-Digest: Kbq9QilKIC1mAAvFw35OEoq7dmw=
+
+Name: assets/Audio/SageNaruto/o_02.ogg
+SHA1-Digest: Yy/5sz1WX4DZ8qS8uV3SWHPIAZU=
+
+Name: assets/Audio/SageNaruto/o_03.ogg
+SHA1-Digest: ymyl238Yrnr2ayoj4QbPubDWFMs=
+
+Name: assets/Audio/SageNaruto/poof.wav
+SHA1-Digest: YAFU2mbWMytRErAiw7K1/3KQzWs=
+
+Name: assets/Audio/SageNaruto/slash_04.wav
+SHA1-Digest: 1VQaaZ8hxDQNDhAF1H5Hots9GR4=
+
+Name: assets/Audio/SageNaruto/susanoSword.mp3
+SHA1-Digest: FWfkXC24Vq0yD9nuiifFSVZ04kQ=
 
 Name: assets/Audio/SageNaruto/xianfa.ogg
 SHA1-Digest: bvug6JyNIhF+GpXkKR+6X/PF4Eg=
@@ -2015,14 +2264,26 @@ SHA1-Digest: Ffy0EZtccuZ+3/DrscbdeetRHSs=
 Name: assets/Audio/Sasuke/sasuke_skill10.ogg
 SHA1-Digest: V0LPwWLz4KLIk1zn8lb8k0oQuPg=
 
+Name: assets/Audio/Sasuke/sasuke_skill11.ogg
+SHA1-Digest: YDYAAe0CaoKIlGvMlXAt+BbtH7Y=
+
+Name: assets/Audio/Sasuke/sasuke_skill1_1.ogg
+SHA1-Digest: MAKPl3wNsySaCej6ObvCbgSgQAA=
+
 Name: assets/Audio/Sasuke/sasuke_skill2.ogg
-SHA1-Digest: LdjBfBbUVLJUdCCTXhDuw/g3hZA=
+SHA1-Digest: XiZgewawQuAL8cQnJMl37YzeGuo=
+
+Name: assets/Audio/Sasuke/sasuke_skill2_2.ogg
+SHA1-Digest: WaYRPneAlr9ZUz/WM/LfksVDHA0=
 
 Name: assets/Audio/Sasuke/sasuke_skill3.ogg
-SHA1-Digest: jdjwgRKkdGSzVZ6vvdHi+/Q+rwU=
+SHA1-Digest: Bz0IugXm3iPwzYXMqtWOc7cQuRo=
 
 Name: assets/Audio/Sasuke/sasuke_skill4.ogg
 SHA1-Digest: BK4uPuJpZ1CXeOAgnHYo3yftYfQ=
+
+Name: assets/Audio/Sasuke/sasuke_skill4_1.ogg
+SHA1-Digest: lBf4JmBLQRuYMXKYrAaKpJGbIiY=
 
 Name: assets/Audio/Sasuke/tz.ogg
 SHA1-Digest: FCTxvmiWIdmHZ6qt+diaycvN20s=
@@ -2271,10 +2532,10 @@ Name: assets/Effects/FontEffect.png
 SHA1-Digest: dEqwyuXjEaRBg6CBuw3aiacdkqk=
 
 Name: assets/Effects/SkillEffect.plist
-SHA1-Digest: XlGGRHU0aGgu+EL3FRQT6CdnILQ=
+SHA1-Digest: V4ocU7J8bUyS2T+lyV5CsD9rgBM=
 
 Name: assets/Effects/SkillEffect.png
-SHA1-Digest: YKYrUz5x41ev2uWB/ZdvqdkfvnY=
+SHA1-Digest: 4T4hZs4lGZbjifX7J9L5dGj6SFI=
 
 Name: assets/Element/Akamaru/Akamaru [Darmianto].png
 SHA1-Digest: NlqI0DZmMRzB/E1zMIOvSQMQWyw=
@@ -2304,7 +2565,7 @@ Name: assets/Element/AsuraPath/AsuraPath.xml
 SHA1-Digest: ehxX4V8Fzr6Xqpb1yvbBWYG7IdI=
 
 Name: assets/Element/Bullet/Amaterasu.xml
-SHA1-Digest: GEvuHdxYCeU5YzBR5QEKFgpC61U=
+SHA1-Digest: xd0fEylbw0QHMEnxqgsvZ9KxUH8=
 
 Name: assets/Element/Bullet/Bone.xml
 SHA1-Digest: anaqjfktRlHilzZAT75aufcxSnk=
@@ -2345,11 +2606,23 @@ SHA1-Digest: HCy4ZYdaIHgFmFbahvlNxtGS1WM=
 Name: assets/Element/Bullet/Rose.xml
 SHA1-Digest: pVBk4ij39fubchCrMCSuMV3Z+O0=
 
+Name: assets/Element/Bullet/SageJiraiya.xml
+SHA1-Digest: hiRhX+CLjdtmD8HUj/PsKYZVR1M=
+
 Name: assets/Element/Bullet/SandSRK.xml
 SHA1-Digest: xu4rFZsLgmsf6BteMAHIekYTn0I=
 
+Name: assets/Element/Bullet/SandStream.xml
+SHA1-Digest: aapBXCXIj0ML2O+6WUeB8eOWquw=
+
+Name: assets/Element/Bullet/Sasuke.xml
+SHA1-Digest: hpeMddfnaD8npbrX3Ie3e/5Bj+M=
+
 Name: assets/Element/Bullet/Shintenshin.xml
 SHA1-Digest: Gmkl2DAUnyBjqD9Rloz63wZatXo=
+
+Name: assets/Element/Bullet/Smkk.xml
+SHA1-Digest: 8CAyMnikFGMskPGFeqTvYFLO8mE=
 
 Name: assets/Element/Bullet/SpcKunai.xml
 SHA1-Digest: Q4lu8jweFc0FfjWVgzBV7SCY2lo=
@@ -2379,7 +2652,7 @@ Name: assets/Element/Choji/Choji.png
 SHA1-Digest: pQVRwtPvh5b23mc9Ig2f01iceqk=
 
 Name: assets/Element/Choji/Choji.xml
-SHA1-Digest: IFnTdFKZJdWN2v4gMVQJ3kWZ59Q=
+SHA1-Digest: +aAXAjSWeJxmlUQ1L2t1iGxoVmw=
 
 Name: assets/Element/Deidara/Deidara.plist
 SHA1-Digest: 7r+aVY/iKHcIPfggUjDJzf6+Iiw=
@@ -2496,13 +2769,13 @@ Name: assets/Element/Hinata/Hinata.png
 SHA1-Digest: EPEt3sp1T+n4jKJ2BYnqFZAQqUw=
 
 Name: assets/Element/Hinata/Hinata.xml
-SHA1-Digest: ph0/ij9GK6GfSU28sggm+CGMfOk=
+SHA1-Digest: NnJpkaa3yvUsHwhwhB1UaVN8Cls=
 
 Name: assets/Element/Hiruzen/Hiruzen.plist
 SHA1-Digest: Tei+l2lrOIWHiJYySYy81eP1HT8=
 
 Name: assets/Element/Hiruzen/Hiruzen.xml
-SHA1-Digest: CmeNmHHMXfd5M6wJe9ZgRz0obIQ=
+SHA1-Digest: Unf5OsKyQEedpOo21en3OnuSgZI=
 
 Name: assets/Element/Hiruzen/HiruzenArchiv「Anzdrpa」×「ArayArt」
  .png
@@ -2527,7 +2800,7 @@ Name: assets/Element/ImmortalSasuke/ImmortalSasuke.png
 SHA1-Digest: B/C+LZHWSd8qESeVO5ay88sACes=
 
 Name: assets/Element/ImmortalSasuke/ImmortalSasuke.xml
-SHA1-Digest: dYHJ6LgJh2qyL6/5+xMXY39jQ7A=
+SHA1-Digest: invfVqQNX9SivHz++gaExD+vx8k=
 
 Name: assets/Element/Ino/Ino.plist
 SHA1-Digest: geRTOd1iOeNXUfmKcYA+o7BBBLk=
@@ -2554,7 +2827,7 @@ Name: assets/Element/Jiraiya/Jiraiya.png
 SHA1-Digest: YLXZM6kzFu7ZPTrNQi05pXYzIjc=
 
 Name: assets/Element/Jiraiya/Jiraiya.xml
-SHA1-Digest: xcBcJ0y1M80oCoWAsrN/g4xky7k=
+SHA1-Digest: Ak2vPjX0775O639Vg3CIKG/JTbM=
 
 Name: assets/Element/Jugo/Jugo.plist
 SHA1-Digest: ts7aO4C7rjm5FJr+9saphkF7YFw=
@@ -2658,6 +2931,9 @@ SHA1-Digest: 3ZKfQbllvibDfxMBpQbSvFkEqSE=
 Name: assets/Element/Minato/Minato.xml
 SHA1-Digest: BfOrPkBpZTjJgrIcp2sDhGyov2U=
 
+Name: assets/Element/Monster/Amaterasub.xml
+SHA1-Digest: q+ail9xHq3+XkZGBcz9Yt4xjCZI=
+
 Name: assets/Element/Monster/Bug.xml
 SHA1-Digest: dEf3uvWihoGUAFuOBPXJENCwC/c=
 
@@ -2694,6 +2970,9 @@ SHA1-Digest: IKlvWxhaIgCDCFxjtatyVnHcJmg=
 Name: assets/Element/Monster/FakeMinato.xml
 SHA1-Digest: mzPGT1JZl44rG1d/Rut/L/RUEDU=
 
+Name: assets/Element/Monster/FakeNaruto.xml
+SHA1-Digest: fNaFr661+dBrWHopW9tJji6GJJU=
+
 Name: assets/Element/Monster/FakeShino.xml
 SHA1-Digest: 3TaAd7UXfnbkcRWUO7k9ocrnkk8=
 
@@ -2701,7 +2980,7 @@ Name: assets/Element/Monster/FireRain.xml
 SHA1-Digest: NEV14CIqdzkIAe9SOMsXPhg3Dtc=
 
 Name: assets/Element/Monster/FudonSRK.xml
-SHA1-Digest: 5/bxsFQMhTuNwjd+qckvyfN8sqE=
+SHA1-Digest: HmYUxnlxG+Wh6lucXFjgIUybQ/U=
 
 Name: assets/Element/Monster/Hasan.xml
 SHA1-Digest: do9HzGmWvx2UZCuWZmyW3l/GZAc=
@@ -2716,13 +2995,16 @@ Name: assets/Element/Monster/ItachiSusano.xml
 SHA1-Digest: xLuIRjHghFkqr6WJuWypb4OlOCU=
 
 Name: assets/Element/Monster/Jibaku.xml
-SHA1-Digest: B2KWruqaeaoAk+w+YM/CZZUa/aw=
+SHA1-Digest: YjjBhrZuKKPM67l1VL8gHwUF6a0=
 
 Name: assets/Element/Monster/JibakuEX.xml
-SHA1-Digest: 3P7kghJHI6+ySSSDw9A0E/am7CU=
+SHA1-Digest: 4ShwBpe6BlUyaeFdZDsIWcqLs/Q=
 
 Name: assets/Element/Monster/Jiuwei.xml
-SHA1-Digest: r1sbwHN8tQZz+hTFY1oFT8Y9dqU=
+SHA1-Digest: 5LgPxvJJBnTbHcnKqPFEBYbMZGM=
+
+Name: assets/Element/Monster/Jiuweibak.xml
+SHA1-Digest: 2+FU2CxhLmoEk0Cq9dGOMfHbAA4=
 
 Name: assets/Element/Monster/Kage.xml
 SHA1-Digest: JEL8VtS/8dNKjByUaoEomfDJuPA=
@@ -2752,6 +3034,9 @@ Name: assets/Element/Monster/PaperRain.xml
 SHA1-Digest: 0z9LEHWOQ3dh2X7dCDUDh8kQ9EQ=
 
 Name: assets/Element/Monster/Qilin.xml
+SHA1-Digest: SASAybBchEU2IYqcdSzrY7LvfOI=
+
+Name: assets/Element/Monster/Qilinbak.xml
 SHA1-Digest: hwW52+aduTMnvR6TqCacmuZJrec=
 
 Name: assets/Element/Monster/QuanRen.xml
@@ -2768,6 +3053,9 @@ SHA1-Digest: QjN7ZKwg8EKSedJ/lp+jYxpzNKE=
 
 Name: assets/Element/Monster/SandBall.xml
 SHA1-Digest: Mxt6WIivlLFJXR8L7M/XV6Dey60=
+
+Name: assets/Element/Monster/SandHand.xml
+SHA1-Digest: XTAw+M0eTSKLqTs7Yy9Zouj762A=
 
 Name: assets/Element/Monster/SansyoBlue.xml
 SHA1-Digest: B3FrpYKmWzyL5ocPdddy25iT2W0=
@@ -2827,6 +3115,9 @@ Name: assets/Element/Monster/Tuji2.xml
 SHA1-Digest: DLoSSR+TEulizMfmdJv5h01c8R0=
 
 Name: assets/Element/Monster/Yataikuzu.xml
+SHA1-Digest: Ks7sFOs+CWwJTdm9x4Z+zz9Na2o=
+
+Name: assets/Element/Monster/Yataikuzu.xml.bak
 SHA1-Digest: WW33NIO5ty+AqlT1sE+/Bsr2Oqs=
 
 Name: assets/Element/Monster/Yominuma.xml
@@ -2842,16 +3133,16 @@ Name: assets/Element/Nagato/Nagato.png
 SHA1-Digest: ttZpN7+VqY4niAY1JKSbcMq3zxs=
 
 Name: assets/Element/Nagato/Nagato.xml
-SHA1-Digest: oKLIHrAxrk4qLxxXytgBR0sENwE=
+SHA1-Digest: fGgryXCPrZ4B4HKz9NR1bgFfvw4=
 
 Name: assets/Element/Naruto/Naruto.plist
-SHA1-Digest: iWfNpH2vmutT3XPeby0vE7M8NcI=
-
-Name: assets/Element/Naruto/Naruto.png
-SHA1-Digest: ZkR1CdUvCVls0exxPeSQc1r2xrY=
+SHA1-Digest: CDCoZy8wHinELr5eOG9hUAMFD94=
 
 Name: assets/Element/Naruto/Naruto.xml
-SHA1-Digest: 4LONIlFuxJ4Qyma/4wsDaYWE9Eg=
+SHA1-Digest: +GyIDurYSlk2tX28rtq7qjahZ0U=
+
+Name: assets/Element/Naruto/NarutoUzumakiByRps.png
+SHA1-Digest: I2ZjOA0CJGI5oQtOUhyOty4fAvM=
 
 Name: assets/Element/Neji/Neji.plist
 SHA1-Digest: kbJsLuPRUQKqQxOu18mQ6Tv/HYg=
@@ -2872,13 +3163,13 @@ Name: assets/Element/Orochimaru/Orochimaru.xml
 SHA1-Digest: /AfWez9KkR1egvpIr7xNcWETbKQ=
 
 Name: assets/Element/Pain/Pain.plist
-SHA1-Digest: AOM9X3XnxJWOKeQF2U+YfIOQ4/Q=
+SHA1-Digest: hxoloafC3WJcil58mEn0zb2C0LQ=
 
 Name: assets/Element/Pain/Pain.png
-SHA1-Digest: dvVSQXz+Hlp55dAgws3irzES554=
+SHA1-Digest: wk1ctSb6WrdZE1IAlPZfkA2cRQM=
 
 Name: assets/Element/Pain/Pain.xml
-SHA1-Digest: yP75BsgCm6GEh+C3t+yx6zqW70k=
+SHA1-Digest: yEf5SvM3wdQkyKAUKhrBU/bpMYY=
 
 Name: assets/Element/Roshi/Roshi.plist
 SHA1-Digest: Q+JNwqacvSy3KqpWXBML3vQkKEY=
@@ -2899,13 +3190,13 @@ Name: assets/Element/SageJiraiya/SageJiraiya.xml
 SHA1-Digest: C7EhSMT0Fn8GoP/aKcOkM9sZMN0=
 
 Name: assets/Element/SageNaruto/SageNaruto.plist
-SHA1-Digest: JGHO1KkF6yUzprOMYdCbyYJvyrk=
+SHA1-Digest: 5El1KxFzLJSnczWy4NrgXmEeiPA=
 
 Name: assets/Element/SageNaruto/SageNaruto.png
-SHA1-Digest: eir+ETGBlsyouGwYmVgLVaJ7XA4=
+SHA1-Digest: rI4HdMu+PSzobuor6eVpy6+C22Y=
 
 Name: assets/Element/SageNaruto/SageNaruto.xml
-SHA1-Digest: +DVmlX25IGcY8C76qid/FQuwmlY=
+SHA1-Digest: Xm3ze1UefiRi/Awp77UOmWvhau4=
 
 Name: assets/Element/Sai/Sai.plist
 SHA1-Digest: Za293o6QZMuy7x5/3aW/E05HTck=
@@ -2923,7 +3214,7 @@ Name: assets/Element/Sakura/Sakura.plist
 SHA1-Digest: OMDnOPXIHU0zh53cFOlR22p0Ojc=
 
 Name: assets/Element/Sakura/Sakura.xml
-SHA1-Digest: 2NUacVclU1eh315Wq6OUeEeJ2Pg=
+SHA1-Digest: 7LsYGs816eEQzpfm4ETkxBfxcAc=
 
 Name: assets/Element/Sanshouuo/Sanshouuo.plist
 SHA1-Digest: ysutAn0c8EqikO+LDGGlZHQqK4c=
@@ -2944,13 +3235,13 @@ Name: assets/Element/Saso/Saso.xml
 SHA1-Digest: 1TIsBjSCb1SruBA/3ccTUiP5sw0=
 
 Name: assets/Element/Sasuke/Sasuke.plist
-SHA1-Digest: eUuzzIayJaQ7vECnpxBm+p/C/oM=
+SHA1-Digest: 4F2HMEUKJ/j7QFbph7/Cus72gLo=
 
 Name: assets/Element/Sasuke/Sasuke.png
-SHA1-Digest: zoc/5N9W23OwrxnqbUfCewzsq8Q=
+SHA1-Digest: copRdMJFdcy0FCckrKBGxdJRFgs=
 
 Name: assets/Element/Sasuke/Sasuke.xml
-SHA1-Digest: maHzD/rJNnxuGYmXJ0IFhWbAlxc=
+SHA1-Digest: uqJuJJUsomQMkel6RvY7Z5H5bRk=
 
 Name: assets/Element/Shikamaru/Shikamaru.plist
 SHA1-Digest: Oqancvg6WsAS+VdHofF2ZyXqDzU=
@@ -3086,7 +3377,7 @@ Name: assets/Element/Skills/Orochimaru_Skill.png
 SHA1-Digest: qejLWxQwy06NGqnIx5GqVFE+Djc=
 
 Name: assets/Element/Skills/Pain_Skill.plist
-SHA1-Digest: kW/PLfY4oWGMwU91BL8daRSQ8Xk=
+SHA1-Digest: 5yzsXh+rsrtrBJ4viDCV7o2+VKk=
 
 Name: assets/Element/Skills/Pain_Skill.png
 SHA1-Digest: 8/eN8HyzGYMM+VJBfiLUW4MhjD4=
@@ -3236,10 +3527,10 @@ Name: assets/Element/hpBar/flogBar.png
 SHA1-Digest: 86cgqu0tWwe9ciGJE+4XYT8Cf9c=
 
 Name: assets/Element/hpBar/hpBar.plist
-SHA1-Digest: yzCP6z+TPHsWg6HzSauoNbUum5o=
+SHA1-Digest: zcEUBR27f5GEdBlu4fZ5gdv+xj0=
 
 Name: assets/Element/hpBar/hpBar.png
-SHA1-Digest: Toyw9vmWJHPE+f3CF07w7PsT0/s=
+SHA1-Digest: 5QxeR2nVBVohlAx/zLx+BFUoA/8=
 
 Name: assets/Element/md5.xml
 SHA1-Digest: 1TAe7ioHV5nLCXQPH4LRDOGK8dg=
@@ -3281,7 +3572,7 @@ Name: assets/Map.png
 SHA1-Digest: UIY21buTG0WHQNCuvwVgrVwTWnc=
 
 Name: assets/Menu.plist
-SHA1-Digest: qQEd4AIpKJW026CUHH7esMGX3lA=
+SHA1-Digest: KTxZbfeVKry1+WhzglqGlLyrKug=
 
 Name: assets/Menu.png
 SHA1-Digest: WR9LoUehBVDAqWTZAKxCXv72SmM=
@@ -3302,7 +3593,7 @@ Name: assets/Record.plist
 SHA1-Digest: 2XXHt4U14+KTKL2D+t3RU3XZe14=
 
 Name: assets/Record.png
-SHA1-Digest: j3pJS4fmRLc2kKKFcbBJWQcf30w=
+SHA1-Digest: OFDXcWT/UzRaEoE1b+vOYTkwcmo=
 
 Name: assets/Record2.plist
 SHA1-Digest: c/d0izHM9gGexu7aNQLQ56GU1s4=
@@ -3326,7 +3617,7 @@ Name: assets/Select.plist
 SHA1-Digest: TvLaiIZ1HjlOCLXXwIvaIyLwJNM=
 
 Name: assets/Select.png
-SHA1-Digest: KjzIeYLxgs6A9wtWjAdZrUgRKXM=
+SHA1-Digest: WPc7d0yKZHxaZFM8rH7jmJnVDdg=
 
 Name: assets/Select2.plist
 SHA1-Digest: w07BpWAurDTbj8IdUp7zIo/hgjc=
@@ -3377,7 +3668,7 @@ Name: assets/UI.png
 SHA1-Digest: CNEuXAHrsyaJk6Y2ONrXP7Q9Qjw=
 
 Name: assets/blue_bg.png
-SHA1-Digest: Sn4y8XFquObYqdvfdihpHW7YAoQ=
+SHA1-Digest: fqisfnHwCsuGsZTtVuw0NGYDDLE=
 
 Name: assets/green_bg.png
 SHA1-Digest: hBsY3PSIqBfUJfWlaUOA8JPCvcM=
@@ -3392,10 +3683,10 @@ Name: assets/logo.png
 SHA1-Digest: g6k5Pa4vTEmScR5xfdxsWf2hq58=
 
 Name: assets/menu_bar2.png
-SHA1-Digest: rtpEZc0DqdLLwAUuPB/CoWNhc4s=
+SHA1-Digest: QqQZYnsS/wu9nkAN8VUtkGSwdjA=
 
 Name: assets/menu_bar3.png
-SHA1-Digest: C/2WxyWDEpeHBlzqz+ZGtGeutDE=
+SHA1-Digest: aF+AXrrHJEiRo7U/ZN88gOwLUKo=
 
 Name: assets/purple_bg.png
 SHA1-Digest: S0RfTBxIxEosglaywoIdlXOeCho=
@@ -3404,16 +3695,19 @@ Name: assets/push_start.png
 SHA1-Digest: OcuoJIifM9gsAezj9gF1VyvwD2A=
 
 Name: assets/red_bg.png
-SHA1-Digest: cKp+3nDGOLbMVqrCDPINGoMwpwI=
+SHA1-Digest: fqisfnHwCsuGsZTtVuw0NGYDDLE=
 
 Name: assets/unlock.dat
 SHA1-Digest: osQH6/sz/nJkQXtCfnsDKuzvmc4=
 
 Name: assets/zakume.png
-SHA1-Digest: oB09pqTQWT/lCmReZWJs3b60eHA=
+SHA1-Digest: rSdXu0ig2hUo8Zl48l6D6Wi2A4k=
 
 Name: classes.dex
-SHA1-Digest: T09winGEOaKnQGWcPw64zayFspY=
+SHA1-Digest: K9vUN3UpHd9gOrglMNcrlwAuqLI=
+
+Name: index.html
+SHA1-Digest: VE2rCNWbbJy5w+eFw97vdp0DBqk=
 
 Name: lib/armeabi/libcocklogic.so
 SHA1-Digest: vI2Mz9NWF6CaUYGlkWAG288WsPc=

@@ -7,15 +7,15 @@
             <key>avator.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{198,220},{179,188}}</string>
+                <string>{{0,0},{1,1}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{179,188}}</string>
+                <string>{{0,0},{1,1}}</string>
                 <key>sourceSize</key>
-                <string>{179,188}</string>
+                <string>{1,1}</string>
             </dict>
             <key>btm_text.png</key>
             <dict>

@@ -212,7 +212,7 @@
             <dateName type="attackValue">300</dateName>
             <dateName type="attackRangeX">32</dateName>
             <dateName type="attackRangeY">40</dateName>
-            <coldName type="coldDown">20</coldName>
+            <coldName type="coldDown">25</coldName>
             <dateName type="combatPoint">1000</dateName>
         </date>
         <frame>
@@ -402,7 +402,7 @@
     <action value="skill05">
         <date>
             <dateName type="attackType">cAttack</dateName>
-            <dateName type="attackValue">800</dateName>
+            <dateName type="attackValue">2500</dateName>
             <dateName type="attackRangeX">32</dateName>
             <dateName type="attackRangeY">48</dateName>
             <coldName type="coldDown">1</coldName>
