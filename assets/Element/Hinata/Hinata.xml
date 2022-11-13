@@ -30,7 +30,7 @@
             <eventName type="setMove">32</eventName>
             <frameName>Hinata_Hurt_01.png</frameName>
             <frameName>Hinata_Hurt_02.png</frameName>
-            <eventName type="setSound">Audio/Hinata/hinata_hurt.ogg</eventName>
+            <eventName type="setSound">Audio/Hinata/hinata_hurt.mp3</eventName>
         </frame>
     </action>
     <action value="AirHurt">
@@ -64,7 +64,7 @@
             <frameName>Hinata_KnockDown_01.png</frameName>
             <frameName>Hinata_KnockDown_02.png</frameName>
             <frameName>Hinata_KnockDown_03.png</frameName>
-            <eventName type="setSound">Audio/Hinata/hinata_dead.ogg</eventName>
+            <eventName type="setSound">Audio/Hinata/hinata_dead.mp3</eventName>
         </frame>
     </action>
     <action value="nAttack">
@@ -80,14 +80,14 @@
             <frameName>Hinata_NAttack_02.png</frameName>
             <eventName type="setAttackBox">n_hit</eventName>
             <frameName>Hinata_NAttack_03.png</frameName>
-            <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
             <eventName type="setAttackBox">b_hit</eventName>
             <frameName>Hinata_NAttack_04.png</frameName>
             <frameName>Hinata_NAttack_05.png</frameName>
             <eventName type="setAttackBox">n_hit</eventName>
             <frameName>Hinata_NAttack_06.png</frameName>
             <frameName>Hinata_NAttack_07.png</frameName>
-            <eventName type="setSound">Audio/Effect/combo2.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/combo2.mp3</eventName>
             <eventName type="setAttackBox">n_hit</eventName>
             <frameName>Hinata_NAttack_08.png</frameName>
             <frameName>Hinata_NAttack_09.png</frameName>
@@ -95,10 +95,10 @@
             <eventName type="setAttackBox">n_hit</eventName>
             <frameName>Hinata_NAttack_11.png</frameName>
             <frameName>Hinata_NAttack_12.png</frameName>
-            <eventName type="setSound">Audio/Hinata/hinata_combo.ogg</eventName>
+            <eventName type="setSound">Audio/Hinata/hinata_combo.mp3</eventName>
             <eventName type="setMove">16</eventName>
             <frameName>Hinata_NAttack_13.png</frameName>
-            <eventName type="setSound">Audio/Effect/combo3.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/combo3.mp3</eventName>
             <eventName type="setAttackBox">l_hit</eventName>
             <frameName>Hinata_NAttack_14.png</frameName>
         </frame>
@@ -116,7 +116,7 @@
             <frameName>Hinata_Skill01_002.png</frameName>
             <frameName>Hinata_Skill01_003.png</frameName>
             <frameName>Hinata_Skill01_004.png</frameName>
-            <eventName type="setSound">Audio/Effect/baiyan.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/baiyan.mp3</eventName>
             <frameName>Hinata_Skill01_005.png</frameName>
             <frameName>Hinata_Skill01_006.png</frameName>
             <eventName type="setBuff">430</eventName>
@@ -133,7 +133,7 @@
         <frame>
             <frameName>Hinata_Skill02_02.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
-            <eventName type="setSound">Audio/Hinata/hinata_skill02_1.ogg</eventName>
+            <eventName type="setSound">Audio/Hinata/hinata_skill02_1.mp3</eventName>
             <frameName>Hinata_Skill02_03.png</frameName>
             <eventName type="setCharge">256</eventName>
             <frameName>Hinata_Skill02_04.png</frameName>
@@ -143,7 +143,7 @@
             <frameName>Hinata_Skill02_07.png</frameName>
             <eventName type="setCharge">128</eventName>
             <frameName>Hinata_Skill02_08.png</frameName>
-            <eventName type="setSound">Audio/Hinata/hinata_skill02_2.ogg</eventName>
+            <eventName type="setSound">Audio/Hinata/hinata_skill02_2.mp3</eventName>
             <eventName type="setAttackBox">f_hit</eventName>
             <frameName>Hinata_Skill02_09.png</frameName>
         </frame>
@@ -157,7 +157,7 @@
             <coldName type="coldDown">15</coldName>
         </date>
         <frame>
-            <eventName type="setSound">Audio/Hinata/hinata_skill03.ogg</eventName>
+            <eventName type="setSound">Audio/Hinata/hinata_skill03.mp3</eventName>
             <frameName>Hinata_Skill03_02.png</frameName>
             <eventName type="setAttackBox">ab_hit</eventName>
             <frameName>Hinata_Skill03_03.png</frameName>
@@ -168,7 +168,7 @@
             <frameName>Hinata_Skill03_04.png</frameName>
             <eventName type="setCharge">64</eventName>
             <eventName type="setAttackBox">s_hit</eventName>
-            <eventName type="setSound">Audio/Effect/damage_c.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/damage_c.mp3</eventName>
             <frameName>Hinata_Skill03_05.png</frameName>
             <frameName>Hinata_Skill03_06.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
@@ -176,7 +176,7 @@
             <eventName type="setCharge">64</eventName>
             <frameName>Hinata_Skill03_08.png</frameName>
             <eventName type="setAttackBox">s_hit</eventName>
-            <eventName type="setSound">Audio/Effect/damage_c.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/damage_c.mp3</eventName>
             <frameName>Hinata_Skill03_09.png</frameName>
             <frameName>Hinata_Skill03_10.png</frameName>
             <eventName type="setCharge">64</eventName>
@@ -184,7 +184,7 @@
             <frameName>Hinata_Skill03_11.png</frameName>
             <frameName>Hinata_Skill03_12.png</frameName>
             <eventName type="setAttackBox">s_hit</eventName>
-            <eventName type="setSound">Audio/Effect/damage_c.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/damage_c.mp3</eventName>
             <frameName>Hinata_Skill03_04.png</frameName>
             <eventName type="setCharge">64</eventName>
             <frameName>Hinata_Skill03_05.png</frameName>
@@ -193,7 +193,7 @@
             <frameName>Hinata_Skill03_07.png</frameName>
             <eventName type="setCharge">64</eventName>
             <eventName type="setAttackBox">s_hit</eventName>
-            <eventName type="setSound">Audio/Effect/damage_c.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/damage_c.mp3</eventName>
             <frameName>Hinata_Skill03_08.png</frameName>
             <frameName>Hinata_Skill03_09.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
@@ -201,7 +201,7 @@
             <eventName type="setCharge">64</eventName>
             <frameName>Hinata_Skill03_11.png</frameName>
             <eventName type="setAttackBox">s_hit</eventName>
-            <eventName type="setSound">Audio/Effect/damage_c.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/damage_c.mp3</eventName>
             <frameName>Hinata_Skill03_13.png</frameName>
             <frameName>Hinata_Skill03_14.png</frameName>
             <eventName type="setCommand">reInvincible</eventName>
@@ -216,7 +216,7 @@
             <coldName type="coldDown">1</coldName>
         </date>
         <frame>
-            <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
             <frameName>Hinata_Skill04_01.png</frameName>
             <eventName type="setSkillEffect">Bagua</eventName>
             <eventName type="setAttackBox">f_hit</eventName>
@@ -224,7 +224,7 @@
             <frameName>Hinata_Skill04_02.png</frameName>
             <eventName type="setAttackBox">fb_hit</eventName>
             <frameName>Hinata_Skill04_03.png</frameName>
-            <eventName type="setSound">Audio/Hinata/hinata_skill04.ogg</eventName>
+            <eventName type="setSound">Audio/Hinata/hinata_skill04.mp3</eventName>
             <eventName type="setCommand">setInvincible</eventName>
             <frameName>Hinata_Skill04_04.png</frameName>
             <eventName type="setJump">true</eventName>
@@ -262,7 +262,7 @@
             <coldName type="coldDown">1</coldName>
         </date>
         <frame>
-            <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
             <eventName type="setCommand">setInvincible</eventName>
             <frameName>Hinata_Skill10_01.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
@@ -271,7 +271,7 @@
             <eventName type="setAttackBox">ac_hit</eventName>
             <eventName type="setSkillEffect">Bagua</eventName>
             <frameName>Hinata_Skill05_001.png</frameName>
-            <eventName type="setSound">Audio/Hinata/hinata_skill5_2.ogg</eventName>
+            <eventName type="setSound">Audio/Hinata/hinata_skill5_2.mp3</eventName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>Hinata_Skill05_002.png</frameName>
             <eventName type="setShadow">10</eventName>
@@ -292,13 +292,13 @@
             <frameName>Hinata_Skill05_011.png</frameName>
             <eventName type="setShadow">10</eventName>
             <frameName>Hinata_Skill05_012.png</frameName>
-            <eventName type="setSound">Audio/Hinata/hinata_skill5_3.ogg</eventName>
+            <eventName type="setSound">Audio/Hinata/hinata_skill5_3.mp3</eventName>
             <eventName type="setChargeB">32</eventName>
             <frameName>Hinata_Skill05_013.png</frameName>
             <eventName type="setAttackBox">b_hit</eventName>
             <frameName>Hinata_Skill05_014.png</frameName>
             <frameName>Hinata_Skill05_012.png</frameName>
-            <eventName type="setSound">Audio/Hinata/hinata_skill5_3.ogg</eventName>
+            <eventName type="setSound">Audio/Hinata/hinata_skill5_3.mp3</eventName>
             <eventName type="setChargeB">32</eventName>
             <frameName>Hinata_Skill05_013.png</frameName>
             <frameName>Hinata_Skill05_014.png</frameName>
@@ -307,12 +307,12 @@
             <eventName type="setChargeB">32</eventName>
             <frameName>Hinata_Skill05_016.png</frameName>
             <frameName>Hinata_Skill05_017.png</frameName>
-            <eventName type="setSound">Audio/Hinata/hinata_skill5_4.ogg</eventName>
+            <eventName type="setSound">Audio/Hinata/hinata_skill5_4.mp3</eventName>
             <frameName>Hinata_Skill05_018.png</frameName>
             <eventName type="setAttackBox">f_hit</eventName>
             <frameName>Hinata_Skill05_019.png</frameName>
             <frameName>Hinata_Skill05_021.png</frameName>
-            <eventName type="setSound">Audio/Hinata/hinata_skill5_1.ogg</eventName>
+            <eventName type="setSound">Audio/Hinata/hinata_skill5_1.mp3</eventName>
             <frameName>Hinata_Skill05_022.png</frameName>
             <eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">ac_hit</eventName>
@@ -321,13 +321,13 @@
             <frameName>Hinata_Skill05_024.png</frameName>
             <eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">c_hit</eventName>
-            <eventName type="setSound">Audio/Effect/damage_i.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/damage_i.mp3</eventName>
             <frameName>Hinata_Skill05_025.png</frameName>
             <frameName>Hinata_Skill05_026.png</frameName>
             <eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>Hinata_Skill05_027.png</frameName>
-            <eventName type="setSound">Audio/Effect/damage_i.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/damage_i.mp3</eventName>
             <frameName>Hinata_Skill05_022.png</frameName>
             <eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">c_hit</eventName>
@@ -336,7 +336,7 @@
             <frameName>Hinata_Skill05_024.png</frameName>
             <eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">c_hit</eventName>
-            <eventName type="setSound">Audio/Effect/damage_i.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/damage_i.mp3</eventName>
             <frameName>Hinata_Skill05_025.png</frameName>
             <frameName>Hinata_Skill05_026.png</frameName>
             <eventName type="setShadow">10</eventName>

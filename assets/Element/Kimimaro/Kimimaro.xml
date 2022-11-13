@@ -34,7 +34,7 @@
         <eventName type="setMove">32</eventName>
         <frameName>Kimimaro_Hurt_01.png</frameName>
         <frameName>Kimimaro_Hurt_02.png</frameName>
-        <eventName type="setSound">Audio/Kimimaro/Kimimaro_hurt.ogg</eventName>
+        <eventName type="setSound">Audio/Kimimaro/Kimimaro_hurt.mp3</eventName>
       </frame>
     </action>
    
@@ -69,7 +69,7 @@
       <frame>
           <frameName>Kimimaro_KnockDown_01.png</frameName>
           <frameName>Kimimaro_KnockDown_02.png</frameName>
-          <eventName type="setSound">Audio/Kimimaro/Kimimaro_dead.ogg</eventName>
+          <eventName type="setSound">Audio/Kimimaro/Kimimaro_dead.mp3</eventName>
       </frame>
     </action>
    
@@ -85,15 +85,15 @@
         <frameName>Kimimaro_NAttack_02.png</frameName>
         <eventName type="setMove">8</eventName>
         <frameName>Kimimaro_NAttack_03.png</frameName>
-        <eventName type="setSound">Audio/Effect/kong.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/kong.mp3</eventName>
         <eventName type="setAttackBox">n_hit</eventName>
         <frameName>Kimimaro_NAttack_01.png</frameName>
         <frameName>Kimimaro_NAttack_04.png</frameName>
         <frameName>Kimimaro_NAttack_05.png</frameName>
-        <eventName type="setSound">Audio/Kimimaro/Kimimaro_combo.ogg</eventName>
+        <eventName type="setSound">Audio/Kimimaro/Kimimaro_combo.mp3</eventName>
         <eventName type="setMove">16</eventName>
         <frameName>Kimimaro_NAttack_06.png</frameName>
-        <eventName type="setSound">Audio/Effect/kong.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/kong.mp3</eventName>
         <eventName type="setAttackBox">bl_hit</eventName>
         <eventName type="setDelay">10</eventName>
         <eventName type="setAttackBox">bl_hit</eventName>
@@ -111,7 +111,7 @@
      </date>
      <frame>
       <frameName>Kimimaro_Skill01_01.png</frameName>
-      <eventName type="setSound">Audio/Kimimaro/Kimimaro_skill1.ogg</eventName>
+      <eventName type="setSound">Audio/Kimimaro/Kimimaro_skill1.mp3</eventName>
       <frameName>Kimimaro_Skill01_02.png</frameName>
       <frameName>Kimimaro_Skill01_03.png</frameName>
       <frameName>Kimimaro_Skill01_04.png</frameName>
@@ -133,7 +133,7 @@
         </date>
         <frame>
           <frameName>Kimimaro_Skill02_01.png</frameName>
-          <eventName type="setSound">Audio/Kimimaro/Kimimaro_skill2.ogg</eventName>
+          <eventName type="setSound">Audio/Kimimaro/Kimimaro_skill2.mp3</eventName>
           <eventName type="setDelay">10</eventName>
           <frameName>Kimimaro_Skill02_02.png</frameName>
           <eventName type="setBullet">Bone</eventName>
@@ -151,34 +151,34 @@
             <coldName type="coldDown">25</coldName>
         </date>
         <frame>
-        <eventName type="setSound">Audio/Kimimaro/Kimimaro_skill3.ogg</eventName>
+        <eventName type="setSound">Audio/Kimimaro/Kimimaro_skill3.mp3</eventName>
         <frameName>Kimimaro_Skill03_01.png</frameName>
         <eventName type="setAttackBox">c_hit</eventName>
-        <eventName type="setSound">Audio/Effect/blade_damage2.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/blade_damage2.mp3</eventName>
         <eventName type="setMove">32</eventName>
         <frameName>Kimimaro_Skill03_02.png</frameName>
         <frameName>Kimimaro_Skill03_03.png</frameName>
         <eventName type="setAttackBox">l_hit</eventName>
-        <eventName type="setSound">Audio/Effect/blade_damage2.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/blade_damage2.mp3</eventName>
         <frameName>Kimimaro_Skill03_04.png</frameName>
         <eventName type="setMove">16</eventName>
         <frameName>Kimimaro_Skill03_05.png</frameName>
         <eventName type="setAttackBox">c_hit</eventName>
-        <eventName type="setSound">Audio/Effect/blade_damage2.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/blade_damage2.mp3</eventName>
         <frameName>Kimimaro_Skill03_06.png</frameName>
         <frameName>Kimimaro_Skill03_07.png</frameName>
         <eventName type="setAttackBox">l_hit</eventName>
-        <eventName type="setSound">Audio/Effect/blade_damage2.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/blade_damage2.mp3</eventName>
         <eventName type="setMove">16</eventName>
         <frameName>Kimimaro_Skill03_08.png</frameName>
         <frameName>Kimimaro_Skill03_09.png</frameName>
         <eventName type="setAttackBox">c_hit</eventName>
-        <eventName type="setSound">Audio/Effect/blade_damage2.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/blade_damage2.mp3</eventName>
         <frameName>Kimimaro_Skill03_10.png</frameName>
         <eventName type="setMove">16</eventName>
         <frameName>Kimimaro_Skill03_11.png</frameName>
         <eventName type="setAttackBox">l_hit</eventName>
-        <eventName type="setSound">Audio/Effect/blade_damage2.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/blade_damage2.mp3</eventName>
         <frameName>Kimimaro_Skill03_12.png</frameName>
         <frameName>Kimimaro_Skill03_13.png</frameName>
         <eventName type="setTransform">40</eventName>
@@ -194,9 +194,9 @@
        <coldName type="coldDown">1</coldName>
      </date>
      <frame>
-        <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
         <frameName>Kimimaro_Skill04_01.png</frameName>
-        <eventName type="setSound">Audio/Kimimaro/Kimimaro_skill4_1.ogg</eventName>
+        <eventName type="setSound">Audio/Kimimaro/Kimimaro_skill4_1.mp3</eventName>
         <frameName>Kimimaro_Skill04_001.png</frameName>
         <frameName>Kimimaro_Skill04_002.png</frameName>
         <frameName>Kimimaro_Skill04_02.png</frameName>
@@ -204,7 +204,7 @@
         <frameName>Kimimaro_Skill04_04.png</frameName>
         <frameName>Kimimaro_Skill04_05.png</frameName>
         <frameName>Kimimaro_Skill04_06.png</frameName>
-        <eventName type="setSound">Audio/Kimimaro/Kimimaro_skill4_2.ogg</eventName>
+        <eventName type="setSound">Audio/Kimimaro/Kimimaro_skill4_2.mp3</eventName>
         <eventName type="setAttackBox">o_hit</eventName>
         <eventName type="setChargeB">224</eventName>
         <frameName>Kimimaro_Skill04_07.png</frameName>
@@ -240,7 +240,7 @@
             <coldName type="coldDown">1</coldName>
         </date>
         <frame>
-          <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+          <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
           <frameName>Kimimaro_Skill05_001.png</frameName>
           <eventName type="setCommand">setInvincible</eventName>
           <eventName type="setOugis">10</eventName>
@@ -248,7 +248,7 @@
           <frameName>Kimimaro_Skill05_01.png</frameName>
           <frameName>Kimimaro_Skill05_02.png</frameName>
           <frameName>Kimimaro_Skill05_03.png</frameName>
-          <eventName type="setSound">Audio/Kimimaro/Kimimaro_skill5.ogg</eventName>
+          <eventName type="setSound">Audio/Kimimaro/Kimimaro_skill5.mp3</eventName>
           <frameName>Kimimaro_Skill05_04.png</frameName>
           <frameName>Kimimaro_Skill05_05.png</frameName>
           <frameName>Kimimaro_Skill05_06.png</frameName>
@@ -267,7 +267,7 @@
           <frameName>Jugo_Skill05_15.png</frameName>
           <frameName>Jugo_Skill05_16.png</frameName>
           <frameName>Jugo_Skill05_17.png</frameName>
-            <eventName type="setSound">Audio/Jugo/Jugo_skill11.ogg</eventName>
+            <eventName type="setSound">Audio/Jugo/Jugo_skill11.mp3</eventName>
           <eventName type="setDelay">20</eventName>   
           <frameName>Jugo_Skill05_14.png</frameName>
           <eventName type="setTransform">40</eventName>

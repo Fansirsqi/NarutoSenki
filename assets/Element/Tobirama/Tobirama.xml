@@ -30,7 +30,7 @@
             <eventName type="setMove">32</eventName>
             <frameName>Tobirama_Hurt_01.png</frameName>
             <frameName>Tobirama_Hurt_02.png</frameName>
-            <eventName type="setSound">Audio/Tobirama/Tobirama_hurt.ogg</eventName>
+            <eventName type="setSound">Audio/Tobirama/Tobirama_hurt.mp3</eventName>
         </frame>
     </action>
     <action value="AirHurt">
@@ -62,7 +62,7 @@
         <frame>
             <frameName>Tobirama_KnockDown_01.png</frameName>
             <frameName>Tobirama_KnockDown_02.png</frameName>
-            <eventName type="setSound">Audio/Tobirama/Tobirama_dead.ogg</eventName>
+            <eventName type="setSound">Audio/Tobirama/Tobirama_dead.mp3</eventName>
         </frame>
     </action>
     <action value="nAttack">
@@ -80,7 +80,7 @@
             <frameName>Tobirama_NAttack_04.png</frameName>
             <frameName>Tobirama_NAttack_05.png</frameName>
             <eventName type="setAttackBox">n_hit</eventName>
-            <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
             <frameName>Tobirama_NAttack_06.png</frameName>
             <frameName>Tobirama_NAttack_07.png</frameName>
             <frameName>Tobirama_NAttack_08.png</frameName>
@@ -90,7 +90,7 @@
             <eventName type="setMove">8</eventName>
             <frameName>Tobirama_NAttack_11.png</frameName>
             <eventName type="setAttackBox">n_hit</eventName>
-            <eventName type="setSound">Audio/Effect/combo2.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/combo2.mp3</eventName>
             <frameName>Tobirama_NAttack_12.png</frameName>
             <frameName>Tobirama_NAttack_13.png</frameName>
             <frameName>Tobirama_NAttack_14.png</frameName>
@@ -98,7 +98,7 @@
             <eventName type="setMove">16</eventName>
             <frameName>Tobirama_NAttack_16.png</frameName>
             <frameName>Tobirama_NAttack_17.png</frameName>
-            <eventName type="setSound">Audio/Tobirama/Tobirama_combo.ogg</eventName>
+            <eventName type="setSound">Audio/Tobirama/Tobirama_combo.mp3</eventName>
             <eventName type="setAttackBox">l_hit</eventName>
             <frameName>Tobirama_NAttack_18.png</frameName>
             <frameName>Tobirama_NAttack_19.png</frameName>
@@ -129,7 +129,7 @@
         </date>
         <frame>
             <frameName>Tobirama_Skill01_01.png</frameName>
-            <eventName type="setSound">Audio/Tobirama/Tobirama_skill1.ogg</eventName>
+            <eventName type="setSound">Audio/Tobirama/Tobirama_skill1.mp3</eventName>
             <frameName>Tobirama_Skill01_02.png</frameName>
             <frameName>Tobirama_Skill01_03.png</frameName>
             <frameName>Tobirama_Skill01_04.png</frameName>
@@ -156,7 +156,7 @@
             <coldName type="coldDown">20</coldName>
         </date>
         <frame>
-            <eventName type="setSound">Audio/Tobirama/Tobirama_skill2.ogg</eventName>
+            <eventName type="setSound">Audio/Tobirama/Tobirama_skill2.mp3</eventName>
             <frameName>Tobirama_Skill02_01.png</frameName>
             <frameName>Tobirama_Skill02_02.png</frameName>
             <frameName>Tobirama_Skill02_03.png</frameName>
@@ -183,7 +183,7 @@
             <coldName type="coldDown">35</coldName>
         </date>
         <frame>
-            <eventName type="setSound">Audio/Tobirama/Tobirama_skill3.ogg</eventName>
+            <eventName type="setSound">Audio/Tobirama/Tobirama_skill3.mp3</eventName>
             <frameName>Tobirama_Skill03_01.png</frameName>
             <frameName>Tobirama_Skill03_02.png</frameName>
             <frameName>Tobirama_Skill03_03.png</frameName>
@@ -203,8 +203,8 @@
             <coldName type="coldDown">1</coldName>
         </date>
         <frame>
-            <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
-            <eventName type="setSound">Audio/Tobirama/Tobirama_skill4.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
+            <eventName type="setSound">Audio/Tobirama/Tobirama_skill4.mp3</eventName>
             <frameName>Tobirama_Skill04_01.png</frameName>
             <frameName>Tobirama_Skill04_02.png</frameName>
             <eventName type="setMove">64</eventName>
@@ -235,7 +235,7 @@
             <eventName type="setFont">zuga.png</eventName>
             <eventName type="setDelay">10</eventName>
             <frameName>Tobirama_Skill04_13.png</frameName>
-            <eventName type="setSound">Audio/Tobirama/Tobirama_skill4_1.ogg</eventName>
+            <eventName type="setSound">Audio/Tobirama/Tobirama_skill4_1.mp3</eventName>
             <eventName type="setDelay">10</eventName>
             <eventName type="setAttackBox">f2_hit</eventName>
             <eventName type="setAttackBox">o_hit</eventName>
@@ -256,7 +256,7 @@
             <coldName type="coldDown">1</coldName>
         </date>
         <frame>
-            <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
             <frameName>Tobirama_Skill05_01.png</frameName>
             <eventName type="setCommand">setInvincible</eventName>
             <frameName>Tobirama_Skill05_02.png</frameName>
@@ -264,7 +264,7 @@
             <frameName>Tobirama_Skill05_03.png</frameName>
             <eventName type="setCommand">findTarget</eventName>
             <eventName type="setSkillEffect">Hiraishin2</eventName>
-            <eventName type="setSound">Audio/Effect/hiraishin_effect.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/hiraishin_effect.mp3</eventName>
             <eventName type="setCommand">setTransport</eventName>
             <frameName>Tobirama_Skill05_04.png</frameName>
             <eventName type="setAttackBox">b_hit</eventName>
@@ -273,13 +273,13 @@
             <frameName>Tobirama_Skill05_06.png</frameName>
             <frameName>Tobirama_Skill05_07.png</frameName>
             <eventName type="setMove">16</eventName>
-            <eventName type="setSound">Audio/Tobirama/Tobirama_skill5_1.ogg</eventName>
+            <eventName type="setSound">Audio/Tobirama/Tobirama_skill5_1.mp3</eventName>
             <eventName type="setAttackBox">o_hit</eventName>
             <frameName>Tobirama_Skill05_08.png</frameName>
             <frameName>Tobirama_Skill05_09.png</frameName>
             <eventName type="setCommand">findTarget</eventName>
             <eventName type="setSkillEffect">Hiraishin2</eventName>
-            <eventName type="setSound">Audio/Effect/hiraishin_effect.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/hiraishin_effect.mp3</eventName>
             <eventName type="setCommand">setTransport</eventName>
             <frameName>Tobirama_Skill05_10.png</frameName>
             <eventName type="setAttackBox">b_hit</eventName>
@@ -288,14 +288,14 @@
             <frameName>Tobirama_Skill05_12.png</frameName>
             <frameName>Tobirama_Skill05_13.png</frameName>
             <eventName type="setMove">16</eventName>
-            <eventName type="setSound">Audio/Tobirama/Tobirama_skill5_2.ogg</eventName>
+            <eventName type="setSound">Audio/Tobirama/Tobirama_skill5_2.mp3</eventName>
             <eventName type="setAttackBox">o_hit</eventName>
             <frameName>Tobirama_Skill05_14.png</frameName>
             <eventName type="setMon">Suijin</eventName>
             <frameName>Tobirama_Skill05_15.png</frameName>
             <eventName type="setCommand">findTarget</eventName>
             <eventName type="setSkillEffect">Hiraishin2</eventName>
-            <eventName type="setSound">Audio/Effect/hiraishin_effect.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/hiraishin_effect.mp3</eventName>
             <eventName type="setCommand">setTransport</eventName>
             <frameName>Tobirama_Skill05_16.png</frameName>
             <eventName type="setAttackBox">b_hit</eventName>
@@ -303,7 +303,7 @@
             <frameName>Tobirama_Skill05_18.png</frameName>
             <eventName type="setMon">Suijin</eventName>
             <frameName>Tobirama_Skill05_19.png</frameName>
-            <eventName type="setSound">Audio/Tobirama/Tobirama_skill5_3.ogg</eventName>
+            <eventName type="setSound">Audio/Tobirama/Tobirama_skill5_3.mp3</eventName>
             <eventName type="setAttackBox">fb_hit</eventName>
             <eventName type="setJump">true</eventName>
             <eventName type="setDelay">10</eventName>
@@ -317,7 +317,7 @@
             <eventName type="setDelay">30</eventName>
             <eventName type="setCommand">findTarget</eventName>
             <eventName type="setSkillEffect">Hiraishin2</eventName>
-            <eventName type="setSound">Audio/HokageMinato/HokageMinato_skill1_1.ogg</eventName>
+            <eventName type="setSound">Audio/HokageMinato/HokageMinato_skill1_1.mp3</eventName>
             <eventName type="setCommand">setTransport</eventName>
             <frameName>Tobirama_Skill05_23.png</frameName>
             <frameName>Tobirama_Skill05_24.png</frameName>
@@ -326,7 +326,7 @@
             <frameName>Tobirama_Skill05_27.png</frameName>
             <frameName>Tobirama_Skill05_28.png</frameName>
             <frameName>Tobirama_Skill05_29.png</frameName>
-            <eventName type="setSound">Audio/Tobirama/Tobirama_skill5_4.ogg</eventName>
+            <eventName type="setSound">Audio/Tobirama/Tobirama_skill5_4.mp3</eventName>
             <frameName>Tobirama_Skill05_30.png</frameName>
             <frameName>Tobirama_Skill05_31.png</frameName>
             <eventName type="setMon">Suijin</eventName>

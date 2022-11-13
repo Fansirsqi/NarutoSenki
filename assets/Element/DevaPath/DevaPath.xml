@@ -80,7 +80,7 @@
         <frameName>DevaPath_NAttack_01.png</frameName>
         <frameName>DevaPath_NAttack_02.png</frameName>
         <frameName>DevaPath_NAttack_03.png</frameName>
-        <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
         <eventName type="setAttackBox">n_hit</eventName>
         <frameName>DevaPath_NAttack_04.png</frameName>
         <frameName>DevaPath_NAttack_05.png</frameName>
@@ -88,17 +88,17 @@
         <frameName>DevaPath_NAttack_07.png</frameName>
         <eventName type="setMove">8</eventName>
         <frameName>DevaPath_NAttack_08.png</frameName>
-         <eventName type="setSound">Audio/Effect/combo2.ogg</eventName>
+         <eventName type="setSound">Audio/Effect/combo2.mp3</eventName>
         <eventName type="setAttackBox">n_hit</eventName>
         <frameName>DevaPath_NAttack_09.png</frameName>
         <frameName>DevaPath_NAttack_10.png</frameName>
         <frameName>DevaPath_NAttack_11.png</frameName>
         <frameName>DevaPath_NAttack_12.png</frameName>
-        <eventName type="setSound">Audio/Pain/DevaPath_combo.ogg</eventName>
+        <eventName type="setSound">Audio/Pain/DevaPath_combo.mp3</eventName>
         <eventName type="setMove">16</eventName>
         <frameName>DevaPath_NAttack_13.png</frameName>
         <eventName type="setAttackBox">l_hit</eventName>
-        <eventName type="setSound">Audio/Effect/combo3.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo3.mp3</eventName>
         <frameName>DevaPath_NAttack_14.png</frameName>
       </frame>
     </action>
@@ -112,7 +112,7 @@
        <coldName type="coldDown">1</coldName>
      </date>
      <frame>
-        <eventName type="setSound">Audio/Pain/DevaPath_skill1.ogg</eventName>
+        <eventName type="setSound">Audio/Pain/DevaPath_skill1.mp3</eventName>
         <frameName>DevaPath_Skill01_01.png</frameName>
         <eventName type="setDelay">10</eventName>
         <frameName>DevaPath_Skill01_02.png</frameName>
@@ -131,7 +131,7 @@
             <coldName type="coldDown">1</coldName>
         </date>
         <frame>
-        <eventName type="setSound">Audio/Pain/DevaPath_skill2.ogg</eventName>
+        <eventName type="setSound">Audio/Pain/DevaPath_skill2.mp3</eventName>
         <frameName>DevaPath_Skill01_01.png</frameName>
         <eventName type="setDelay">10</eventName>
         <frameName>DevaPath_Skill01_02.png</frameName>

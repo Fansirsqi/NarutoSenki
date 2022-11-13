@@ -33,7 +33,7 @@
         <eventName type="setMove">32</eventName>
         <frameName>Kisame_Hurt_01.png</frameName>
         <frameName>Kisame_Hurt_02.png</frameName>
-        <eventName type="setSound">Audio/Kisame/Kisame_hurt.ogg</eventName>
+        <eventName type="setSound">Audio/Kisame/Kisame_hurt.mp3</eventName>
       </frame>
     </action>
    
@@ -69,7 +69,7 @@
       <frame>
           <frameName>Kisame_KnockDown_01.png</frameName>
           <frameName>Kisame_KnockDown_02.png</frameName>
-          <eventName type="setSound">Audio/Kisame/Kisame_dead.ogg</eventName>
+          <eventName type="setSound">Audio/Kisame/Kisame_dead.mp3</eventName>
       </frame>
     </action>
    
@@ -87,24 +87,24 @@
          <eventName type="setDelay">10</eventName>
         <frameName>Kisame_NAttack_03.png</frameName>
         <frameName>Kisame_NAttack_04.png</frameName>
-        <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
         <eventName type="setAttackBox">n_hit</eventName>
         <frameName>Kisame_NAttack_05.png</frameName>
         <frameName>Kisame_NAttack_06.png</frameName>
         <eventName type="setMove">8</eventName>
          <eventName type="setDelay">10</eventName>
         <frameName>Kisame_NAttack_07.png</frameName>
-        <eventName type="setSound">Audio/Effect/kong.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/kong.mp3</eventName>
         <eventName type="setAttackBox">n_hit</eventName>
         <eventName type="setDelay">10</eventName>
         <frameName>Kisame_NAttack_08.png</frameName>
         <frameName>Kisame_NAttack_09.png</frameName>
-        <eventName type="setSound">Audio/Kisame/Kisame_combo.ogg</eventName>
+        <eventName type="setSound">Audio/Kisame/Kisame_combo.mp3</eventName>
         <eventName type="setMove">16</eventName>
          <eventName type="setDelay">10</eventName>
         <frameName>Kisame_NAttack_10.png</frameName>
         <eventName type="setAttackBox">l_hit</eventName>
-        <eventName type="setSound">Audio/Effect/kong.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/kong.mp3</eventName>
         <eventName type="setDelay">10</eventName>
       </frame>
     </action>
@@ -118,21 +118,21 @@
        <coldName type="coldDown">10</coldName>
      </date>
      <frame>
-      <eventName type="setSound">Audio/Kisame/Kisame_skill1.ogg</eventName>
+      <eventName type="setSound">Audio/Kisame/Kisame_skill1.mp3</eventName>
       <frameName>Kisame_Skill01_01.png</frameName>
       <frameName>Kisame_Skill01_02.png</frameName>
       <frameName>Kisame_Skill01_03.png</frameName>
       <frameName>Kisame_Skill01_04.png</frameName>
       <eventName type="setAttackBox">c_hit</eventName>
-      <eventName type="setSound">Audio/Effect/damage_l.ogg</eventName>
+      <eventName type="setSound">Audio/Effect/damage_l.mp3</eventName>
       <frameName>Kisame_Skill01_05.png</frameName>
       <frameName>Kisame_Skill01_06.png</frameName>
       <eventName type="setAttackBox">c_hit</eventName>
-      <eventName type="setSound">Audio/Effect/damage_l.ogg</eventName>
+      <eventName type="setSound">Audio/Effect/damage_l.mp3</eventName>
       <frameName>Kisame_Skill01_07.png</frameName>
       <frameName>Kisame_Skill01_08.png</frameName>
       <eventName type="setAttackBox">c_hit</eventName>
-      <eventName type="setSound">Audio/Effect/damage_l.ogg</eventName>
+      <eventName type="setSound">Audio/Effect/damage_l.mp3</eventName>
      </frame>
    </action>
     <action value="skill02">
@@ -144,7 +144,7 @@
           <coldName type="coldDown">15</coldName>
         </date>
         <frame>
-        <eventName type="setSound">Audio/Kisame/Kisame_skill2.ogg</eventName>
+        <eventName type="setSound">Audio/Kisame/Kisame_skill2.mp3</eventName>
         <frameName>Kisame_Skill02_01.png</frameName>
         <frameName>Kisame_Skill02_02.png</frameName>
         <frameName>Kisame_Skill02_03.png</frameName>
@@ -165,7 +165,7 @@
             <coldName type="coldDown">25</coldName>
         </date>
         <frame>
-        <eventName type="setSound">Audio/Kisame/Kisame_skill3.ogg</eventName>  
+        <eventName type="setSound">Audio/Kisame/Kisame_skill3.mp3</eventName>  
       <frameName>Kisame_Skill02_01.png</frameName>
       <frameName>Kisame_Skill02_02.png</frameName>
       <frameName>Kisame_Skill02_03.png</frameName>
@@ -187,9 +187,9 @@
         <coldName type="coldDown">1</coldName>
      </date>
      <frame>
-        <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
         <frameName>Kisame_Skill04_01.png</frameName>
-        <eventName type="setSound">Audio/Kisame/Kisame_skill4.ogg</eventName>  
+        <eventName type="setSound">Audio/Kisame/Kisame_skill4.mp3</eventName>  
         <eventName type="setDelay">10</eventName>
         <frameName>Kisame_Skill04_02.png</frameName>
         <eventName type="setMon">FakeKisame</eventName>
@@ -204,7 +204,7 @@
        <coldName type="coldDown">1</coldName>
      </date>
      <frame>
-        <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
         <frameName>Kisame_KnockDown_05.png</frameName>
         <eventName type="setCommand">setInvincible</eventName>
         <eventName type="setDelay">10</eventName>
@@ -215,7 +215,7 @@
         <frameName>Kisame_Skill05_02.png</frameName>
         <frameName>Kisame_Skill05_03.png</frameName>
         <frameName>Kisame_Skill05_04.png</frameName>
-        <eventName type="setSound">Audio/Kisame/Kisame_skill5.ogg</eventName>  
+        <eventName type="setSound">Audio/Kisame/Kisame_skill5.mp3</eventName>  
         <frameName>Kisame_Skill05_05.png</frameName>
         <eventName type="setAttackBox">c_hit</eventName>
         <frameName>Kisame_Skill05_06.png</frameName>

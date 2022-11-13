@@ -30,7 +30,7 @@
             <eventName type="setMove">32</eventName>
             <frameName>Neji_Hurt_01.png</frameName>
             <frameName>Neji_Hurt_02.png</frameName>
-            <eventName type="setSound">Audio/Neji/Neji_hurt.ogg</eventName>
+            <eventName type="setSound">Audio/Neji/Neji_hurt.mp3</eventName>
         </frame>
     </action>
     <action value="AirHurt">
@@ -63,7 +63,7 @@
             <frameName>Neji_KnockDown_01.png</frameName>
             <frameName>Neji_KnockDown_02.png</frameName>
             <frameName>Neji_KnockDown_03.png</frameName>
-            <eventName type="setSound">Audio/Neji/Neji_dead.ogg</eventName>
+            <eventName type="setSound">Audio/Neji/Neji_dead.mp3</eventName>
         </frame>
     </action>
     <action value="nAttack">
@@ -80,7 +80,7 @@
             <eventName type="setAttackBox">n_hit</eventName>
             <frameName>Neji_NAttack_03.png</frameName>
             <frameName>Neji_NAttack_04.png</frameName>
-            <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
             <eventName type="setAttackBox">n_hit</eventName>
             <frameName>Neji_NAttack_05.png</frameName>
             <frameName>Neji_NAttack_06.png</frameName>
@@ -90,17 +90,17 @@
             <eventName type="setAttackBox">n_hit</eventName>
             <eventName type="setMove">8</eventName>
             <frameName>Neji_NAttack_09.png</frameName>
-            <eventName type="setSound">Audio/Effect/combo2.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/combo2.mp3</eventName>
             <eventName type="setAttackBox">n_hit</eventName>
             <frameName>Neji_NAttack_10.png</frameName>
             <frameName>Neji_NAttack_11.png</frameName>
             <eventName type="setAttackBox">n_hit</eventName>
             <frameName>Neji_NAttack_12.png</frameName>
-            <eventName type="setSound">Audio/Neji/Neji_combo.ogg</eventName>
+            <eventName type="setSound">Audio/Neji/Neji_combo.mp3</eventName>
             <frameName>Neji_NAttack_13.png</frameName>
             <eventName type="setMove">16</eventName>
             <frameName>Neji_NAttack_14.png</frameName>
-            <eventName type="setSound">Audio/Effect/combo3.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/combo3.mp3</eventName>
             <eventName type="setAttackBox">l_hit</eventName>
             <frameName>Neji_NAttack_15.png</frameName>
             
@@ -119,7 +119,7 @@
             <frameName>Neji_Skill01_02.png</frameName>
             <frameName>Neji_Skill01_03.png</frameName>
             <frameName>Neji_Skill01_04.png</frameName>
-            <eventName type="setSound">Audio/Effect/baiyan.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/baiyan.mp3</eventName>
             <frameName>Neji_Skill01_05.png</frameName>
             <frameName>Neji_Skill01_06.png</frameName>
             <eventName type="setBuff">460</eventName>
@@ -136,7 +136,7 @@
         <frame>
             <frameName>Neji_Skill02_02.png</frameName>
             <eventName type="setDelay">10</eventName>
-            <eventName type="setSound">Audio/Neji/Neji_skill02_1.ogg</eventName>
+            <eventName type="setSound">Audio/Neji/Neji_skill02_1.mp3</eventName>
             <frameName>Neji_Skill02_03.png</frameName>
             <eventName type="setCharge">256</eventName>
             <frameName>Neji_Skill02_04.png</frameName>
@@ -171,7 +171,7 @@
             <eventName type="setSkillEffect">Bagua</eventName>
             <eventName type="setCharge">8</eventName>
             <eventName type="setAttackBox">s_hit</eventName>
-            <eventName type="setSound">Audio/Effect/damage_c.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/damage_c.mp3</eventName>
             <frameName>Neji_Skill03_05.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>Neji_Skill03_06.png</frameName>
@@ -181,7 +181,7 @@
             <frameName>Neji_Skill03_08.png</frameName>
             <eventName type="setSkillEffect">Bagua</eventName>
             <eventName type="setAttackBox">s_hit</eventName>
-            <eventName type="setSound">Audio/Effect/damage_c.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/damage_c.mp3</eventName>
             <frameName>Neji_Skill03_09.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>Neji_Skill03_10.png</frameName>
@@ -192,7 +192,7 @@
             <frameName>Neji_Skill03_12.png</frameName>
             <eventName type="setSkillEffect">Bagua</eventName>
             <eventName type="setAttackBox">s_hit</eventName>
-            <eventName type="setSound">Audio/Effect/damage_c.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/damage_c.mp3</eventName>
             <frameName>Neji_Skill03_04.png</frameName>
             <eventName type="setCharge">8</eventName>
             <frameName>Neji_Skill03_05.png</frameName>
@@ -202,7 +202,7 @@
             <frameName>Neji_Skill03_07.png</frameName>
             <eventName type="setCharge">8</eventName>
             <eventName type="setAttackBox">s_hit</eventName>
-            <eventName type="setSound">Audio/Effect/damage_c.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/damage_c.mp3</eventName>
             <frameName>Neji_Skill03_08.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>Neji_Skill03_09.png</frameName>
@@ -212,7 +212,7 @@
             <eventName type="setCharge">8</eventName>
             <frameName>Neji_Skill03_11.png</frameName>
             <eventName type="setAttackBox">s_hit</eventName>
-            <eventName type="setSound">Audio/Effect/damage_c.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/damage_c.mp3</eventName>
             <frameName>Neji_Skill03_13.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>Neji_Skill03_14.png</frameName>
@@ -225,7 +225,7 @@
             <eventName type="setShadow">10</eventName>
             <frameName>Neji_Skill05_40.png</frameName>
             <eventName type="setAttackBox">f2_hit</eventName>
-            <eventName type="setSound">Audio/Neji/Neji_skill5_4.ogg</eventName>
+            <eventName type="setSound">Audio/Neji/Neji_skill5_4.mp3</eventName>
             <eventName type="setBullet">HasanBo</eventName>
         </frame>
     </action>
@@ -245,11 +245,11 @@
             <eventName type="setAttackBox">ab_hit</eventName>
             <frameName>Neji_Skill04_03.png</frameName>
             <eventName type="setSkillEffect">Bagua</eventName>
-            <eventName type="setSound">Audio/Neji/Neji_skill04.ogg</eventName>
-            <eventName type="setSound">Audio/Effect/rasen.ogg</eventName>
+            <eventName type="setSound">Audio/Neji/Neji_skill04.mp3</eventName>
+            <eventName type="setSound">Audio/Effect/rasen.mp3</eventName>
             <frameName>Kaiten_Move_01.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
-            <eventName type="setSound">Audio/Effect/damage_a.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/damage_a.mp3</eventName>
             <frameName>Kaiten_Move_02.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>Kaiten_Move_03.png</frameName>
@@ -258,7 +258,7 @@
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>Kaiten_Move_05.png</frameName>
             <eventName type="setAttackBox">s_hit</eventName>
-            <eventName type="setSound">Audio/Effect/damage_a.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/damage_a.mp3</eventName>
             <frameName>Kaiten_Move_06.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>Kaiten_Move_07.png</frameName>
@@ -271,7 +271,7 @@
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>Kaiten_Move_05.png</frameName>
             <eventName type="setAttackBox">s_hit</eventName>
-            <eventName type="setSound">Audio/Effect/damage_a.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/damage_a.mp3</eventName>
             <frameName>Kaiten_Move_06.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>Kaiten_Move_07.png</frameName>
@@ -283,7 +283,7 @@
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>Kaiten_Move_05.png</frameName>
             <eventName type="setAttackBox">s_hit</eventName>
-            <eventName type="setSound">Audio/Effect/damage_a.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/damage_a.mp3</eventName>
             <frameName>Kaiten_Move_06.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>Kaiten_Move_07.png</frameName>
@@ -295,7 +295,7 @@
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>Kaiten_Move_05.png</frameName>
             <eventName type="setAttackBox">s_hit</eventName>
-            <eventName type="setSound">Audio/Effect/damage_a.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/damage_a.mp3</eventName>
             <frameName>Kaiten_Move_06.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>Kaiten_Move_07.png</frameName>
@@ -320,14 +320,14 @@
             <coldName type="coldDown">1</coldName>
         </date>
         <frame>
-            <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
             <eventName type="setOugis">10</eventName>
             <frameName>Neji_Skill05_13.png</frameName>
             <eventName type="setSkillEffect">Bagua</eventName>
             <frameName>Neji_Skill05_13.png</frameName>
             <eventName type="setDelay">10</eventName>
             <frameName>Neji_Skill05_001.png</frameName>
-            <eventName type="setSound">Audio/Neji/Neji_skill5_1.ogg</eventName>
+            <eventName type="setSound">Audio/Neji/Neji_skill5_1.mp3</eventName>
             <frameName>Neji_Skill05_002.png</frameName>
             <eventName type="setShadow">10</eventName>
             <eventName type="setChargeB">128</eventName>
@@ -346,7 +346,7 @@
             <eventName type="setMove">16</eventName>
             <frameName>Neji_Skill05_19.png</frameName>
             <eventName type="setShadow">10</eventName>
-            <eventName type="setSound">Audio/Neji/Neji_skill5_3.ogg</eventName>
+            <eventName type="setSound">Audio/Neji/Neji_skill5_3.mp3</eventName>
             <frameName>Neji_Skill05_20.png</frameName>
             <eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">ac_hit</eventName>
@@ -369,7 +369,7 @@
             <eventName type="setShadow">10</eventName>
             <frameName>Neji_Skill05_34.png</frameName>
             <eventName type="setShadow">10</eventName>
-            <eventName type="setSound">Audio/Neji/Neji_skill04_1.ogg</eventName>
+            <eventName type="setSound">Audio/Neji/Neji_skill04_1.mp3</eventName>
             <frameName>Neji_Skill05_35.png</frameName>
             <eventName type="setShadow">10</eventName>
             <frameName>Neji_Skill05_36.png</frameName>
@@ -378,7 +378,7 @@
             <eventName type="setShadow">10</eventName>
             <frameName>Neji_Skill05_40.png</frameName>
             <eventName type="setAttackBox">f_hit</eventName>
-            <eventName type="setSound">Audio/Neji/Neji_skill5_4.ogg</eventName>
+            <eventName type="setSound">Audio/Neji/Neji_skill5_4.mp3</eventName>
             <eventName type="setMon">Hasan</eventName>
             <frameName>Neji_Skill05_41.png</frameName>
             <frameName>Neji_Skill05_40.png</frameName>

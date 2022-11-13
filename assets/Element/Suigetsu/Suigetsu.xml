@@ -41,7 +41,7 @@
             <frameName>Suigetsu_Hurt_01.png</frameName>
             <frameName>Suigetsu_Hurt_02.png</frameName>
             <frameName>Suigetsu_Hurt_03.png</frameName>
-            <eventName type="setSound">Audio/Suigetsu/suigetsu_hurt.ogg</eventName>
+            <eventName type="setSound">Audio/Suigetsu/suigetsu_hurt.mp3</eventName>
         </frame>
     </action>
     <action value="AirHurt">
@@ -74,7 +74,7 @@
         <frame>
             <frameName>Suigetsu_KnockDown_01.png</frameName>
             <frameName>Suigetsu_KnockDown_02.png</frameName>
-            <eventName type="setSound">Audio/Suigetsu/suigetsu_dead.ogg</eventName>
+            <eventName type="setSound">Audio/Suigetsu/suigetsu_dead.mp3</eventName>
         </frame>
     </action>
     <action value="nAttack">
@@ -90,7 +90,7 @@
             <frameName>Suigetsu_NAttack_02.png</frameName>
             <frameName>Suigetsu_NAttack_03.png</frameName>
             <eventName type="setAttackBox">n_hit</eventName>
-            <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
             <frameName>Suigetsu_NAttack_04.png</frameName>
             <frameName>Suigetsu_NAttack_05.png</frameName>
             <frameName>Suigetsu_NAttack_06.png</frameName>
@@ -99,14 +99,14 @@
             <frameName>Suigetsu_NAttack_08.png</frameName>
             <frameName>Suigetsu_NAttack_09.png</frameName>
             <eventName type="setAttackBox">n_hit</eventName>
-            <eventName type="setSound">Audio/Effect/combo2.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/combo2.mp3</eventName>
             <frameName>Suigetsu_NAttack_10.png</frameName>
             <frameName>Suigetsu_NAttack_11.png</frameName>
             <frameName>Suigetsu_NAttack_12.png</frameName>
             <eventName type="setAttackBox">n_hit</eventName>
             <eventName type="setMove">16</eventName>
             <frameName>Suigetsu_NAttack_13.png</frameName>
-            <eventName type="setSound">Audio/Suigetsu/suigetsu_combo.ogg</eventName>
+            <eventName type="setSound">Audio/Suigetsu/suigetsu_combo.mp3</eventName>
             <frameName>Suigetsu_NAttack_14.png</frameName>
             <frameName>Suigetsu_NAttack_15.png</frameName>
             <eventName type="setAttackBox">n_hit</eventName>
@@ -130,13 +130,13 @@
         </date>
         <frame>
             <frameName>Suigetsu_Skill01_01.png</frameName>
-            <eventName type="setSound">Audio/Suigetsu/suigetsu_skill1.ogg</eventName>
+            <eventName type="setSound">Audio/Suigetsu/suigetsu_skill1.mp3</eventName>
             <eventName type="setDelay">10</eventName>
             <frameName>Suigetsu_Skill01_02.png</frameName>
             <eventName type="setAttackBox">o_hit</eventName>
             <frameName>Suigetsu_Skill01_03.png</frameName>
             <eventName type="setChargeB">128</eventName>
-            <eventName type="setSound">Audio/Effect/blade_damage.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/blade_damage.mp3</eventName>
             <frameName>Suigetsu_Skill01_04.png</frameName>
             <eventName type="setAttackBox">ct_hit</eventName>
             <eventName type="setChargeB">140</eventName>
@@ -153,7 +153,7 @@
             <coldName type="coldDown">15</coldName>
         </date>
         <frame>
-            <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
             <eventName type="setCommand">setInvincible</eventName>
             <eventName type="setCommand">findTarget</eventName>
             <frameName>Suigetsu_Skill03_01.png</frameName>
@@ -164,7 +164,7 @@
             <eventName type="setCommand">setTransport</eventName>
             <frameName>Suigetsu_Skill02_01.png</frameName>
             <eventName type="setFlipped">10</eventName>
-            <eventName type="setSound">Audio/Suigetsu/suigetsu_skill2.ogg</eventName>
+            <eventName type="setSound">Audio/Suigetsu/suigetsu_skill2.mp3</eventName>
             <frameName>Suigetsu_Skill02_02.png</frameName>
             <eventName type="setAttackBox">ct_hit</eventName>
             <eventName type="setChargeB">-220</eventName>
@@ -208,7 +208,7 @@
             <coldName type="coldDown">25</coldName>
         </date>
         <frame>
-            <eventName type="setSound">Audio/Suigetsu/suigetsu_skill4.ogg</eventName>
+            <eventName type="setSound">Audio/Suigetsu/suigetsu_skill4.mp3</eventName>
             <eventName type="setFont">stp.png</eventName>
             <frameName>Suigetsu_Skill04_01.png</frameName>
             <eventName type="setAttackBox">ct_hit</eventName>
@@ -240,18 +240,18 @@
         <frame>
             <eventName type="setAttackBox">o2_hit</eventName>
             <eventName type="setCommand">setCounter</eventName>
-            <eventName type="setSound">Audio/Suigetsu/suigetsu_skill3_1.ogg</eventName>
+            <eventName type="setSound">Audio/Suigetsu/suigetsu_skill3_1.mp3</eventName>
             <frameName>Suigetsu_Skill05_07.png</frameName>
             <eventName type="setAttackBox">c_hit</eventName>
             <frameName>Suigetsu_Skill05_08.png</frameName>
             <eventName type="setChargeB">128</eventName>
             <frameName>Suigetsu_Skill05_10.png</frameName>
-            <eventName type="setSound">Audio/Suigetsu/suigetsu_skill5_4.ogg</eventName>
+            <eventName type="setSound">Audio/Suigetsu/suigetsu_skill5_4.mp3</eventName>
             <eventName type="setAttackBox">c_hit</eventName>
             <frameName>Suigetsu_Skill05_11.png</frameName>
             <eventName type="setAttackBox">c_hit</eventName>
             <frameName>Suigetsu_Skill05_12.png</frameName>
-            <eventName type="setSound">Audio/Effect/blade_damage.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/blade_damage.mp3</eventName>
             <eventName type="setAttackBox">o_hit</eventName>
             <frameName>Suigetsu_Skill05_13.png</frameName>
             <eventName type="setAttackBox">c_hit</eventName>
@@ -260,11 +260,11 @@
             <frameName>Suigetsu_Skill05_17.png</frameName>
             <eventName type="setShadow">10</eventName>
             <frameName>Suigetsu_Skill05_18.png</frameName>
-            <eventName type="setSound">Audio/Suigetsu/suigetsu_skill5_3.ogg</eventName>
+            <eventName type="setSound">Audio/Suigetsu/suigetsu_skill5_3.mp3</eventName>
             <eventName type="setAttackBox">c_hit</eventName>
             <frameName>Suigetsu_Skill05_19.png</frameName>
             <eventName type="setAttackBox">c_hit</eventName>
-            <eventName type="setSound">Audio/Effect/blade_damage.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/blade_damage.mp3</eventName>
             <frameName>Suigetsu_Skill05_20.png</frameName>
             <eventName type="setAttackBox">c_hit</eventName>
             <frameName>Suigetsu_Skill05_22.png</frameName>
@@ -276,7 +276,7 @@
             <frameName>Suigetsu_Skill05_24.png</frameName>
             <eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">f2_hit</eventName>
-            <eventName type="setSound">Audio/Effect/blade_damage.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/blade_damage.mp3</eventName>
             <frameName>Suigetsu_Skill05_25.png</frameName>
             <eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">c_hit</eventName>
@@ -296,7 +296,7 @@
             <eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">c_hit</eventName>
             <eventName type="setAttackBox">ac_hit</eventName>
-            <eventName type="setSound">Audio/Effect/blade_damage.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/blade_damage.mp3</eventName>
             <frameName>Suigetsu_Skill05_31.png</frameName>
             <eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">c_hit</eventName>
@@ -313,7 +313,7 @@
             <eventName type="setAttackBox">c_hit</eventName>
             <eventName type="setChargeB">48</eventName>
             <eventName type="setAttackBox">ac_hit</eventName>
-            <eventName type="setSound">Audio/Effect/blade_damage.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/blade_damage.mp3</eventName>
             <frameName>Suigetsu_Skill05_36.png</frameName>
             <eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">c_hit</eventName>
@@ -338,7 +338,7 @@
             <frameName>Suigetsu_Skill05_55.png</frameName>
             <eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">c_hit</eventName>
-            <eventName type="setSound">Audio/Suigetsu/suigetsu_skill5_5.ogg</eventName>
+            <eventName type="setSound">Audio/Suigetsu/suigetsu_skill5_5.mp3</eventName>
             <eventName type="setDelay">10</eventName>
             <eventName type="setAttackBox">c_hit</eventName>
             <frameName>Suigetsu_Skill05_56.png</frameName>
@@ -362,7 +362,7 @@
             <coldName type="coldDown">1</coldName>
         </date>
         <frame>
-            <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
             <frameName>Suigetsu_Skill05_01.png</frameName>
             <frameName>Suigetsu_Skill05_02.png</frameName>
             <frameName>Suigetsu_Skill05_03.png</frameName>
@@ -379,13 +379,13 @@
             <frameName>Suigetsu_Skill05_08.png</frameName>
             <eventName type="setChargeB">128</eventName>
             <frameName>Suigetsu_Skill05_10.png</frameName>
-            <eventName type="setSound">Audio/Suigetsu/suigetsu_skill5_4.ogg</eventName>
+            <eventName type="setSound">Audio/Suigetsu/suigetsu_skill5_4.mp3</eventName>
             <eventName type="setAttackBox">c_hit</eventName>
             <frameName>Suigetsu_Skill05_11.png</frameName>
             <frameName>Suigetsu_Skill05_12.png</frameName>
             <eventName type="setCommand">reInvincible</eventName>
             <!--第一段伤害后取消无敌状态-->
-            <eventName type="setSound">Audio/Effect/blade_damage.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/blade_damage.mp3</eventName>
             <eventName type="setAttackBox">o_hit</eventName>
             <frameName>Suigetsu_Skill05_13.png</frameName>
             <frameName>Suigetsu_Skill05_16.png</frameName>
@@ -393,11 +393,11 @@
             <frameName>Suigetsu_Skill05_17.png</frameName>
             <eventName type="setShadow">10</eventName>
             <frameName>Suigetsu_Skill05_18.png</frameName>
-            <eventName type="setSound">Audio/Suigetsu/suigetsu_skill5_3.ogg</eventName>
+            <eventName type="setSound">Audio/Suigetsu/suigetsu_skill5_3.mp3</eventName>
             <eventName type="setAttackBox">c_hit</eventName>
             <frameName>Suigetsu_Skill05_19.png</frameName>
             <eventName type="setAttackBox">c_hit</eventName>
-            <eventName type="setSound">Audio/Effect/blade_damage.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/blade_damage.mp3</eventName>
             <frameName>Suigetsu_Skill05_20.png</frameName>
             <frameName>Suigetsu_Skill05_22.png</frameName>
             <eventName type="setShadow">10</eventName>
@@ -406,7 +406,7 @@
             <frameName>Suigetsu_Skill05_24.png</frameName>
             <eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">fb_hit</eventName>
-            <eventName type="setSound">Audio/Effect/blade_damage2.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/blade_damage2.mp3</eventName>
             <frameName>Suigetsu_Skill05_25.png</frameName>
             <eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">fb_hit</eventName>
@@ -421,7 +421,7 @@
             <frameName>Suigetsu_Skill05_30.png</frameName>
             <eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">ac_hit</eventName>
-            <eventName type="setSound">Audio/Effect/blade_damage2.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/blade_damage2.mp3</eventName>
             <frameName>Suigetsu_Skill05_31.png</frameName>
             <eventName type="setShadow">10</eventName>
             <frameName>Suigetsu_Skill05_32.png</frameName>
@@ -433,7 +433,7 @@
             <eventName type="setShadow">10</eventName>
             <eventName type="setChargeB">48</eventName>
             <eventName type="setAttackBox">ac_hit</eventName>
-            <eventName type="setSound">Audio/Effect/blade_damage2.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/blade_damage2.mp3</eventName>
             <frameName>Suigetsu_Skill05_36.png</frameName>
             <eventName type="setShadow">10</eventName>
             <frameName>Suigetsu_Skill05_37.png</frameName>
@@ -450,7 +450,7 @@
             <eventName type="setShadow">10</eventName>
             <frameName>Suigetsu_Skill05_55.png</frameName>
             <eventName type="setShadow">10</eventName>
-            <eventName type="setSound">Audio/Suigetsu/suigetsu_skill5_5.ogg</eventName>
+            <eventName type="setSound">Audio/Suigetsu/suigetsu_skill5_5.mp3</eventName>
             <eventName type="setDelay">10</eventName>
             <frameName>Suigetsu_Skill05_56.png</frameName>
             <frameName>Suigetsu_Skill05_57.png</frameName>
@@ -534,9 +534,9 @@
             <frameName>Suigetsu_Skill03_06.png</frameName>
             <frameName>Suigetsu_Skill03_08.png</frameName>
             <eventName type="setAttackBox">f2_hit</eventName>
-            <eventName type="setSound">Audio/Effect/blade_damage.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/blade_damage.mp3</eventName>
             <eventName type="setActionResume">20</eventName>
-            <eventName type="setSound">Audio/Suigetsu/suigetsu_skill3_2.ogg</eventName>
+            <eventName type="setSound">Audio/Suigetsu/suigetsu_skill3_2.mp3</eventName>
             <frameName>Suigetsu_Skill03_09.png</frameName>
             <eventName type="setShadow">10</eventName>
             <eventName type="setJump">true</eventName>
@@ -550,14 +550,14 @@
             <frameName>Suigetsu_Skill03_13.png</frameName>
             <eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">ac_hit</eventName>
-            <eventName type="setSound">Audio/Effect/blade_damage2.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/blade_damage2.mp3</eventName>
             <eventName type="setChargeB">280</eventName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>Suigetsu_Skill05_37.png</frameName>
             <eventName type="setShadow">10</eventName>
             <frameName>Suigetsu_Skill05_38.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
-            <eventName type="setSound">Audio/Effect/blade_damage2.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/blade_damage2.mp3</eventName>
             <frameName>Suigetsu_Skill05_50.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <eventName type="setFlipped">10</eventName>
@@ -568,30 +568,30 @@
             <eventName type="setShadow">10</eventName>
             <eventName type="setChargeB">120</eventName>
             <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setSound">Audio/Effect/blade_damage2.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/blade_damage2.mp3</eventName>
             <eventName type="setChargeB">20</eventName>
             <frameName>Suigetsu_Skill05_53.png</frameName>
             <eventName type="setShadow">10</eventName>
             <frameName>Suigetsu_Skill05_54.png</frameName>
             <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setSound">Audio/Effect/blade_damage.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/blade_damage.mp3</eventName>
             <eventName type="setChargeB">50</eventName>
             <frameName>Suigetsu_Skill05_55.png</frameName>
             <eventName type="setShadow">10</eventName>
-            <eventName type="setSound">Audio/Suigetsu/suigetsu_skill5_5.ogg</eventName>
+            <eventName type="setSound">Audio/Suigetsu/suigetsu_skill5_5.mp3</eventName>
             <frameName>Suigetsu_Skill05_56.png</frameName>
             <eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">o_hit</eventName>
             <frameName>Suigetsu_Skill05_57.png</frameName>
             <eventName type="setChargeB">60</eventName>
             <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setSound">Audio/Effect/blade_damage2.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/blade_damage2.mp3</eventName>
             <frameName>Suigetsu_Skill05_58.png</frameName>
             <eventName type="setShadow">10</eventName>
             <eventName type="setAttackBox">b_hit</eventName>
             <frameName>Suigetsu_Skill05_59.png</frameName>
             <eventName type="setAttackBox">f2_hit</eventName>
-            <eventName type="setSound">Audio/Effect/blade_damage2.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/blade_damage2.mp3</eventName>
             <frameName>Suigetsu_Skill05_60.png</frameName>
             <eventName type="setShadow">10</eventName>
             <eventName type="setCommand">setCounter</eventName>

@@ -61,7 +61,7 @@
           <frameName>Kubi_Move_02.png</frameName>
           <eventName type="setAttackBox">bl_hit</eventName>
           <eventName type="setCharge">12</eventName>
-          <eventName type="setSound">Audio/Effect/SRK2.ogg</eventName>
+          <eventName type="setSound">Audio/Effect/SRK2.mp3</eventName>
           <frameName>Kubi_Move_03.png</frameName>
           <eventName type="setAttackBox">bl_hit</eventName>
           <eventName type="setCharge">12</eventName>

@@ -34,7 +34,7 @@
         <frameName>SageJiraiya_Hurt_01.png</frameName>
         <frameName>SageJiraiya_Hurt_02.png</frameName>
        <eventName type="setDelay">10</eventName>
-        <eventName type="setSound">Audio/Jiraiya/jiraiya_hurt.ogg</eventName>
+        <eventName type="setSound">Audio/Jiraiya/jiraiya_hurt.mp3</eventName>
       </frame>
     </action>
    
@@ -73,7 +73,7 @@
           <frameName>Jiraiya_KnockDown_01.png</frameName>
           <frameName>Jiraiya_KnockDown_02.png</frameName>
           <frameName>SageJiraiya_KnockDown_03.png</frameName>
-          <eventName type="setSound">Audio/Jiraiya/jiraiya_dead.ogg</eventName>
+          <eventName type="setSound">Audio/Jiraiya/jiraiya_dead.mp3</eventName>
         
       </frame>
     </action>
@@ -91,13 +91,13 @@
         <frameName>SageJiraiya_NAttack_02.png</frameName>
         <eventName type="setDelay">10</eventName>
         <frameName>SageJiraiya_NAttack_03.png</frameName>
-        <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
         <eventName type="setAttackBox">n_hit</eventName>
         <frameName>SageJiraiya_NAttack_04.png</frameName>
         <frameName>SageJiraiya_NAttack_05.png</frameName>
         <eventName type="setMove">8</eventName>
         <frameName>SageJiraiya_NAttack_06.png</frameName>
-        <eventName type="setSound">Audio/Effect/combo2.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo2.mp3</eventName>
         <eventName type="setAttackBox">n_hit</eventName>
         <frameName>SageJiraiya_NAttack_07.png</frameName>
         <eventName type="setDelay">10</eventName>
@@ -107,8 +107,8 @@
         <eventName type="setMove">16</eventName>
         <frameName>SageJiraiya_NAttack_11.png</frameName>
         <frameName>SageJiraiya_NAttack_12.png</frameName>
-        <eventName type="setSound">Audio/SageJiraiya/SageJiraiya_combo.ogg</eventName>
-        <eventName type="setSound">Audio/Effect/combo3.ogg</eventName>
+        <eventName type="setSound">Audio/SageJiraiya/SageJiraiya_combo.mp3</eventName>
+        <eventName type="setSound">Audio/Effect/combo3.mp3</eventName>
         <eventName type="setAttackBox">l_hit</eventName>
         <frameName>SageJiraiya_NAttack_13.png</frameName>
         <eventName type="setDelay">10</eventName>
@@ -125,7 +125,7 @@
      </date>
      <frame>
         <frameName>SageJiraiya_Skill01_01.png</frameName>
-        <eventName type="setSound">Audio/SageJiraiya/SageJiraiya_skill1.ogg</eventName>
+        <eventName type="setSound">Audio/SageJiraiya/SageJiraiya_skill1.mp3</eventName>
         <frameName>SageJiraiya_Skill01_02.png</frameName>
         <frameName>SageJiraiya_Skill01_03.png</frameName>
         <frameName>SageJiraiya_Skill01_04.png</frameName>
@@ -154,7 +154,7 @@
         </date>
         <frame>
             <frameName>SageJiraiya_Skill02_01.png</frameName>
-            <eventName type="setSound">Audio/SageJiraiya/SageJiraiya_skill2.ogg</eventName>
+            <eventName type="setSound">Audio/SageJiraiya/SageJiraiya_skill2.mp3</eventName>
             <frameName>SageJiraiya_Skill02_02.png</frameName>
             <eventName type="setDelay">10</eventName>
             <frameName>SageJiraiya_Skill02_03.png</frameName>
@@ -175,7 +175,7 @@
         </date>
         <frame>
           <frameName>SageJiraiya_Skill03_01.png</frameName>
-          <eventName type="setSound">Audio/SageJiraiya/SageJiraiya_skill3.ogg</eventName>
+          <eventName type="setSound">Audio/SageJiraiya/SageJiraiya_skill3.mp3</eventName>
           <frameName>SageJiraiya_Skill03_02.png</frameName>
           <eventName type="setDelay">10</eventName> 
           <frameName>SageJiraiya_Skill03_03.png</frameName>
@@ -187,14 +187,14 @@
           <frameName>SageJiraiya_Skill03_05.png</frameName>
           <frameName>SageJiraiya_Skill03_06.png</frameName>
           <frameName>SageJiraiya_Skill03_07.png</frameName>
-          <eventName type="setSound">Audio/SageJiraiya/SageJiraiya_skill3_1.ogg</eventName>
+          <eventName type="setSound">Audio/SageJiraiya/SageJiraiya_skill3_1.mp3</eventName>
           <frameName>SageJiraiya_Skill03_08.png</frameName>
           <eventName type="setDelay">10</eventName> 
           <frameName>SageJiraiya_Skill03_09.png</frameName>
           <eventName type="setDelay">10</eventName> 
           <frameName>SageJiraiya_Skill03_10.png</frameName>
           <frameName>SageJiraiya_Skill03_11.png</frameName>
-          <eventName type="setSound">Audio/Effect/goukakyu.ogg</eventName>
+          <eventName type="setSound">Audio/Effect/goukakyu.mp3</eventName>
           <frameName>SageJiraiya_Skill03_12.png</frameName>
           <eventName type="setAttackBox">c_hit</eventName>
           <frameName>SageJiraiya_Skill03_13.png</frameName>
@@ -219,11 +219,11 @@
        <coldName type="coldDown">1</coldName>
      </date>
      <frame>
-       <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+       <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
         <frameName>SageJiraiya_Skill04_01.png</frameName>
         <eventName type="setDelay">10</eventName>
         <frameName>SageJiraiya_Skill04_02.png</frameName>
-         <eventName type="setSound">Audio/Jiraiya/jiraiya_skill2.ogg</eventName>
+         <eventName type="setSound">Audio/Jiraiya/jiraiya_skill2.mp3</eventName>
         <eventName type="setCharge">280</eventName>
         <eventName type="setDelay">20</eventName>
         <frameName>SageJiraiya_Skill04_03.png</frameName>
@@ -232,7 +232,7 @@
         <eventName type="setAttackBox">f_hit</eventName>
         <frameName>SageJiraiya_Skill04_05.png</frameName>
         <eventName type="setDelay">10</eventName>
-        <eventName type="setSound">Audio/SageJiraiya/SageJiraiya_skill4_1.ogg</eventName>
+        <eventName type="setSound">Audio/SageJiraiya/SageJiraiya_skill4_1.mp3</eventName>
         <frameName>SageJiraiya_Skill04_06.png</frameName>
         <eventName type="setDelay">20</eventName>
         <frameName>SageJiraiya_Skill04_07.png</frameName>
@@ -266,17 +266,17 @@
        <coldName type="coldDown">1</coldName>
      </date>
      <frame>
-<eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+<eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
       <frameName>SageJiraiya_Skill05_01.png</frameName>
        <eventName type="setDelay">10</eventName>
       <eventName type="setOugis">10</eventName>
       <frameName>SageJiraiya_Skill05_02.png</frameName>
       <eventName type="setCommand">setInvincible</eventName>
-      <eventName type="setSound">Audio/SageJiraiya/SageJiraiya_skill5.ogg</eventName>
+      <eventName type="setSound">Audio/SageJiraiya/SageJiraiya_skill5.mp3</eventName>
       <eventName type="setDelay">60</eventName>
       <frameName>SageJiraiya_Skill05_03.png</frameName>
       <frameName>SageJiraiya_Skill05_04.png</frameName>
-      <eventName type="setSound">Audio/SageJiraiya/SageJiraiya_skill5_1.ogg</eventName>
+      <eventName type="setSound">Audio/SageJiraiya/SageJiraiya_skill5_1.mp3</eventName>
       <frameName>SageJiraiya_Skill05_05.png</frameName>
       <frameName>SageJiraiya_Skill05_06.png</frameName>
         <eventName type="setAttackBox">c_hit</eventName>

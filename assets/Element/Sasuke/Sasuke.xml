@@ -50,7 +50,7 @@
             <eventName type="setMove">32</eventName>
             <frameName>Sasuke_Hurt_01.png</frameName>
             <frameName>Sasuke_Hurt_02.png</frameName>
-            <eventName type="setSound">Audio/Sasuke/sasuke_hurt.ogg</eventName>
+            <eventName type="setSound">Audio/Sasuke/sasuke_hurt.mp3</eventName>
         </frame>
     </action>
     <action value="AirHurt">
@@ -84,7 +84,7 @@
             <frameName>Sasuke_KnockDown_01.png</frameName>
             <frameName>Sasuke_KnockDown_02.png</frameName>
             <frameName>Sasuke_KnockDown_03.png</frameName>
-            <eventName type="setSound">Audio/Sasuke/sasuke_dead.ogg</eventName>
+            <eventName type="setSound">Audio/Sasuke/sasuke_dead.mp3</eventName>
         </frame>
     </action>
     <action value="nAttack">
@@ -104,7 +104,7 @@
             
             
             <eventName type="setAttackBox">n_hit</eventName>
-            <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
             <frameName>Sasuke_NAttack_03.png</frameName>
 
             <eventName type="setAttackBox">l_hit</eventName>
@@ -113,12 +113,12 @@
 
             <frameName>Sasuke_NAttack_05.png</frameName>
             <eventName type="setAttackBox">l_hit</eventName>
-            <eventName type="setSound">Audio/Effect/kong.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/kong.mp3</eventName>
             <frameName>Sasuke_NAttack_06.png</frameName>
             <frameName>Sasuke_NAttack_07.png</frameName>
             <eventName type="setAttackBox">l_hit</eventName>
             <frameName>Sasuke_NAttack_08.png</frameName>
-            <eventName type="setSound">Audio/Sasuke/sasuke_combo.ogg</eventName>
+            <eventName type="setSound">Audio/Sasuke/sasuke_combo.mp3</eventName>
             <eventName type="setMove">16</eventName>
 
             <frameName>Sasuke_NAttack_09.png</frameName>
@@ -126,7 +126,7 @@
 
             <frameName>Sasuke_NAttack_10.png</frameName>
             <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setSound">Audio/Effect/combo3.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/combo3.mp3</eventName>
             <frameName>Sasuke_NAttack_11.png</frameName>
 
             <eventName type="setAttackBox">b_hit</eventName>
@@ -137,7 +137,7 @@
             <eventName type="setAttackBox">l_hit</eventName>
             <eventName type="setAttackBox">f2_hit</eventName>
             <frameName>Sasuke_Skill10_02.png</frameName>
-            <eventName type="setSound">Audio/Sasuke/sasuke_skill10.ogg</eventName>
+            <eventName type="setSound">Audio/Sasuke/sasuke_skill10.mp3</eventName>
             <frameName>Sasuke_Skill10_03.png</frameName>
             <eventName type="setAttackBox">f2_hit</eventName>
             <eventName type="setMove">32</eventName>
@@ -156,7 +156,7 @@
         <frame>
             <eventName type="setCommand">setInvincible</eventName>
             <frameName>Sasuke_Skill02_01.png</frameName>
-            <eventName type="setSound">Audio/Sasuke/sasuke_skill2.ogg</eventName>
+            <eventName type="setSound">Audio/Sasuke/sasuke_skill2.mp3</eventName>
             <frameName>Sasuke_Skill02_02.png</frameName>
             <eventName type="setAttackBox">s_hit</eventName>
             <eventName type="setAttackBox">s_hit</eventName>
@@ -169,7 +169,7 @@
             <frameName>Sasuke_Skill02_01.png</frameName>
             <frameName>Sasuke_Skill01_01.png</frameName>
             <frameName>Sasuke_Skill01_02.png</frameName>
-            <eventName type="setSound">Audio/Sasuke/sasuke_skill1.ogg</eventName>
+            <eventName type="setSound">Audio/Sasuke/sasuke_skill1.mp3</eventName>
             <eventName type="setChargeB">250</eventName>
             <frameName>Sasuke_Skill01_03.png</frameName>
             <eventName type="setAttackBox">b_hit</eventName>
@@ -193,7 +193,7 @@
             <frameName>Sasuke_Skill02_01.png</frameName>
             <frameName>qn_01.png</frameName>
             <frameName>qn_02.png</frameName>
-            <eventName type="setSound">Audio/Sasuke/qn_01.ogg</eventName>
+            <eventName type="setSound">Audio/Sasuke/qn_01.mp3</eventName>
             <eventName type="setAttackBox">o_hit</eventName>
             <eventName type="setDelay">5</eventName>
             <eventName type="setAttackBox">o_hit</eventName>
@@ -202,7 +202,7 @@
             <eventName type="setDelay">8</eventName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>qn_04.png</frameName>
-            <eventName type="setSound">Audio/Sasuke/qn_02.ogg</eventName>
+            <eventName type="setSound">Audio/Sasuke/qn_02.mp3</eventName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <eventName type="setDelay">7</eventName>
             <eventName type="setAttackBox">ac_hit</eventName>
@@ -211,7 +211,7 @@
             <eventName type="setDelay">2</eventName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>qn_06.png</frameName>
-            <eventName type="setSound">Audio/Sasuke/qn_02.ogg</eventName>
+            <eventName type="setSound">Audio/Sasuke/qn_02.mp3</eventName>
             <frameName>qn_07.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <eventName type="setDelay">1</eventName>
@@ -231,10 +231,10 @@
             <frameName>jy_01.png</frameName>
             <frameName>jy_02.png</frameName>
             <frameName>jy_01.png</frameName>
-            <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
             <eventName type="setCommand">setInvincible</eventName>
             <frameName>jy_02.png</frameName>
-            <eventName type="setSound">Audio/Sasuke/kt.ogg</eventName>
+            <eventName type="setSound">Audio/Sasuke/kt.mp3</eventName>
             <frameName>jy_03.png</frameName>
             <eventName type="setAttackBox">c_hit</eventName>
             <eventName type="setDelay">10</eventName>
@@ -324,7 +324,7 @@
         </date>
         <frame>
             <eventName type="setCommand">setInvincible</eventName>
-            <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
             <frameName>Sasuke_Skill04_01.png</frameName>
             <eventName type="setFont">hlh.png</eventName>
             <frameName>Sasuke_Skill04_02.png</frameName>
@@ -333,7 +333,7 @@
             <frameName>Sasuke_Skill04_05.png</frameName>
             <eventName type="setFont">kya.png</eventName>
             <eventName type="setAttackBox">f_hit</eventName>
-            <eventName type="setSound">Audio/Sasuke/sasuke_skill4.ogg</eventName>
+            <eventName type="setSound">Audio/Sasuke/sasuke_skill4.mp3</eventName>
             <frameName>Sasuke_Skill04_06.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>Sasuke_Skill04_07.png</frameName>
@@ -345,14 +345,14 @@
             <frameName>Sasuke_Skill04_09.png</frameName>
             <frameName>Sasuke_Skill04_10.png</frameName>
             <eventName type="setDelay">0</eventName>
-            <eventName type="setSound">Audio/Sasuke/sasuke_skill3.ogg</eventName>
+            <eventName type="setSound">Audio/Sasuke/sasuke_skill3.mp3</eventName>
             <frameName>Sasuke_Skill03_01.png</frameName>
             <eventName type="setSkillEffect">sharingan4</eventName>
-            <eventName type="setSound">Audio/Effect/srg2.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/srg2.mp3</eventName>
             <eventName type="setTrap">Amaterasu</eventName>
             <eventName type="setDelay">20</eventName>
             <frameName>Sasuke_Skill03_02.png</frameName>
-            <eventName type="setSound">Audio/Sasuke/tz.ogg</eventName>
+            <eventName type="setSound">Audio/Sasuke/tz.mp3</eventName>
             <eventName type="setTrap">Amaterasu</eventName>
             <eventName type="setDelay">10</eventName>
             <eventName type="setBuff">17</eventName>
@@ -368,7 +368,7 @@
             <coldName type="coldDown">1</coldName>
         </date>
         <frame>
-            <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
             <eventName type="setCommand">setInvincible</eventName>
             <frameName>Sasuke_Skill05_01.png</frameName>
             <eventName type="setDelay">0</eventName>
@@ -392,13 +392,13 @@
             <eventName type="setChargeB">96</eventName>
             <frameName>Sasuke_Skill05_11.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
-            <eventName type="setSound">Audio/Effect/damage_o.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/damage_o.mp3</eventName>
             <frameName>Sasuke_Skill05_12.png</frameName>
             <eventName type="setChargeB">96</eventName>
             <eventName type="setDelay">1</eventName>
             <frameName>Sasuke_Skill05_13.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
-            <eventName type="setSound">Audio/Effect/damage_o.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/damage_o.mp3</eventName>
             <frameName>Sasuke_Skill05_14.png</frameName>
             <eventName type="setChargeB">96</eventName>
             <frameName>Sasuke_Skill05_15.png</frameName>
@@ -406,7 +406,7 @@
             <frameName>Sasuke_Skill05_17.png</frameName>
             <frameName>Sasuke_Skill05_18.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
-            <eventName type="setSound">Audio/Effect/damage_o.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/damage_o.mp3</eventName>
             <eventName type="setDelay">0</eventName>
             <frameName>Sasuke_Skill05_19.png</frameName>
             <eventName type="setDelay">0</eventName>
@@ -453,7 +453,7 @@
             <eventName type="setAttackBox">ac_hit</eventName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>Sasuke_Skill10_02.png</frameName>
-            <eventName type="setSound">Audio/Sasuke/sasuke_skill10.ogg</eventName>
+            <eventName type="setSound">Audio/Sasuke/sasuke_skill10.mp3</eventName>
             <frameName>Sasuke_Skill10_03.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <eventName type="setAttackBox">ac_hit</eventName>

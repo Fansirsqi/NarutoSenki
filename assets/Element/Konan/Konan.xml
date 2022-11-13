@@ -29,7 +29,7 @@
         <eventName type="setMove">32</eventName>
         <frameName>Konan_Hurt_01.png</frameName>
         <frameName>Konan_Hurt_02.png</frameName>
-        <eventName type="setSound">Audio/Konan/konan_hurt.ogg</eventName>
+        <eventName type="setSound">Audio/Konan/konan_hurt.mp3</eventName>
       </frame>
     </action>
    
@@ -68,7 +68,7 @@
           <frameName>Konan_KnockDown_01.png</frameName>
           <frameName>Konan_KnockDown_02.png</frameName>
           <frameName>Konan_KnockDown_03.png</frameName>
-          <eventName type="setSound">Audio/Konan/konan_dead.ogg</eventName>
+          <eventName type="setSound">Audio/Konan/konan_dead.mp3</eventName>
         
       </frame>
     </action>
@@ -86,19 +86,19 @@
         <frameName>Konan_NAttack_02.png</frameName>
         <frameName>Konan_NAttack_03.png</frameName>
         <frameName>Konan_NAttack_04.png</frameName>
-        <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
         <eventName type="setAttackBox">n_hit</eventName>
         <frameName>Konan_NAttack_01.png</frameName>
         <frameName>Konan_NAttack_05.png</frameName>
         <frameName>Konan_NAttack_06.png</frameName>
         <frameName>Konan_NAttack_07.png</frameName>
-        <eventName type="setSound">Audio/Effect/combo2.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo2.mp3</eventName>
         <eventName type="setAttackBox">n_hit</eventName>
         <frameName>Konan_NAttack_08.png</frameName>
         <frameName>Konan_NAttack_09.png</frameName>
         <frameName>Konan_NAttack_10.png</frameName>
         <eventName type="setMove">16</eventName>
-        <eventName type="setSound">Audio/Konan/konan_combo.ogg</eventName>
+        <eventName type="setSound">Audio/Konan/konan_combo.mp3</eventName>
         <frameName>Konan_NAttack_11.png</frameName>
         <eventName type="setAttackBox">bl_hit</eventName>
         <frameName>Konan_NAttack_12.png</frameName>
@@ -119,7 +119,7 @@
      </date>
      <frame>
         <frameName>Konan_Skill01_01.png</frameName>
-        <eventName type="setSound">Audio/Konan/konan_skill1.ogg</eventName>
+        <eventName type="setSound">Audio/Konan/konan_skill1.mp3</eventName>
         <eventName type="setDelay">10</eventName>
         <frameName>Konan_Skill01_02.png</frameName>
         <eventName type="setDelay">10</eventName>
@@ -143,7 +143,7 @@
         </date>
         <frame>
             <frameName>Konan_Skill02_01.png</frameName>
-            <eventName type="setSound">Audio/Konan/konan_skill2.ogg</eventName>
+            <eventName type="setSound">Audio/Konan/konan_skill2.mp3</eventName>
             <frameName>Konan_Skill02_02.png</frameName>
             <eventName type="setDelay">10</eventName>
             <frameName>Konan_Skill02_03.png</frameName>
@@ -165,7 +165,7 @@
         <frame>
             <frameName>Konan_Skill03_01.png</frameName>
             <frameName>Konan_Skill03_02.png</frameName>
-             <eventName type="setSound">Audio/Konan/konan_skill3.ogg</eventName>
+             <eventName type="setSound">Audio/Konan/konan_skill3.mp3</eventName>
             <frameName>Konan_Skill03_03.png</frameName>
             <frameName>Konan_Skill03_04.png</frameName>
             <eventName type="setDelay">10</eventName>
@@ -175,7 +175,7 @@
             <frameName>Konan_Skill03_06.png</frameName>
             <eventName type="setDelay">20</eventName>
             <frameName>Konan_Skill03_07.png</frameName>
-            <eventName type="setSound">Audio/Konan/konan_skill3_1.ogg</eventName>
+            <eventName type="setSound">Audio/Konan/konan_skill3_1.mp3</eventName>
             <eventName type="setBullet">PaperSrk</eventName>
             <eventName type="setDelay">20</eventName>
             <frameName>Konan_Skill03_08.png</frameName>
@@ -193,9 +193,9 @@
        <coldName type="coldDown">1</coldName>
      </date>
      <frame>
-         <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+         <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
          <frameName>Konan_Skill04_01.png</frameName>
-          <eventName type="setSound">Audio/Konan/konan_skill4.ogg</eventName>
+          <eventName type="setSound">Audio/Konan/konan_skill4.mp3</eventName>
          <eventName type="setFont">orewa.png</eventName>
          <eventName type="setDelay">20</eventName>
          <frameName>Konan_Skill04_02.png</frameName>
@@ -218,9 +218,9 @@
       <coldName type="coldDown">1</coldName>
       </date>
         <frame>
-          <eventName type="setSound">Audio/Effect/ougis.ogg</eventName> 
+          <eventName type="setSound">Audio/Effect/ougis.mp3</eventName> 
           <frameName>Konan_Skill05_01.png</frameName>
-          <eventName type="setSound">Audio/Konan/konan_skill5.ogg</eventName>
+          <eventName type="setSound">Audio/Konan/konan_skill5.mp3</eventName>
           <frameName>Konan_Skill05_02.png</frameName>
           <frameName>Konan_Skill05_03.png</frameName>
           <eventName type="setCommand">setInvincible</eventName>
@@ -237,12 +237,12 @@
           <eventName type="setChargeB">280</eventName>
           <frameName>Konan_Skill05_12.png</frameName>
           <eventName type="setShadow">10</eventName> 
-          <eventName type="setSound">Audio/Effect/blade_damage.ogg</eventName>
+          <eventName type="setSound">Audio/Effect/blade_damage.mp3</eventName>
           <eventName type="setAttackBox">ac_hit</eventName>
           <frameName>Konan_Skill05_13.png</frameName>
           <eventName type="setShadow">10</eventName> 
           <eventName type="setAttackBox">ac_hit</eventName>
-          <eventName type="setSound">Audio/Effect/blade_damage.ogg</eventName>
+          <eventName type="setSound">Audio/Effect/blade_damage.mp3</eventName>
           <frameName>Konan_Skill05_14.png</frameName>
           <eventName type="setShadow">10</eventName> 
           <eventName type="setAttackBox">ac_hit</eventName>
@@ -266,7 +266,7 @@
           <frameName>Konan_Skill05_23.png</frameName>
           <eventName type="setShadow">10</eventName> 
           <frameName>Konan_Skill05_24.png</frameName>
-          <eventName type="setSound">Audio/Konan/konan_skill5_1.ogg</eventName>
+          <eventName type="setSound">Audio/Konan/konan_skill5_1.mp3</eventName>
           <frameName>Konan_Skill05_25.png</frameName>
           <eventName type="setMon">PaperRain</eventName> 
           <eventName type="stopJump">180</eventName> 

@@ -56,7 +56,7 @@
       </date>
       <frame>
         <frameName>Deidara_Skill03_01.png</frameName>
-        <eventName type="setSound">Audio/Deidara/deidara_skill3.ogg</eventName>
+        <eventName type="setSound">Audio/Deidara/deidara_skill3.mp3</eventName>
         <eventName type="setDelay">10</eventName>
         <frameName>Deidara_Skill03_02.png</frameName>
         <eventName type="setDelay">10</eventName>
@@ -69,7 +69,7 @@
         <frameName>Deidara_Skill03_06.png</frameName>
          <eventName type="setAttackBox">a_hit</eventName>
         <frameName>Deidara_Skill03_07.png</frameName>
-        <eventName type="setSound">Audio/Effect/bom.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/bom.mp3</eventName>
         <frameName>Deidara_Skill03_08.png</frameName>
         <frameName>Deidara_Skill03_09.png</frameName>
         <frameName>Deidara_Skill03_10.png</frameName>

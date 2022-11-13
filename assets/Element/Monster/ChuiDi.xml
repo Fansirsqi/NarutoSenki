@@ -58,7 +58,7 @@
       <frame>
         <frameName>ChuiDi_Move_01.png</frameName>
         <eventName type="setAttackBox">b_hit</eventName>
-        <eventName type="setSound">Audio/Effect/damage_k.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/damage_k.mp3</eventName>
          <frameName>ChuiDi_Move_02.png</frameName>
         <frameName>ChuiDi_Move_03.png</frameName>
         <eventName type="setAttackBox">b_hit</eventName>

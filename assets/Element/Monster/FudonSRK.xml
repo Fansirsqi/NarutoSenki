@@ -34,7 +34,7 @@
             <frameName>Fudon_RansenSRK_Boom01.png</frameName>
             <eventName type="setAttackBox">ab_hit</eventName>
             <frameName>Fudon_RansenSRK_Boom02.png</frameName>
-            <eventName type="setSound">Audio/SageNaruto/RK_Naruto_s4_sfx_02.ogg</eventName>
+            <eventName type="setSound">Audio/SageNaruto/RK_Naruto_s4_sfx_02.mp3</eventName>
             <frameName>Fudon_RansenSRK_Boom03.png</frameName>
             <frameName>Fudon_RansenSRK_Boom04.png</frameName>
             <eventName type="setAttackBox">s_hit</eventName>

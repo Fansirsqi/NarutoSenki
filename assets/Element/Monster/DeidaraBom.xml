@@ -60,7 +60,7 @@
         <frameName>DeidaraBom_Move_02.png</frameName>
         <frameName>DeidaraBom_Move_03.png</frameName>
         <frameName>DeidaraBom_Move_04.png</frameName>
-         <eventName type="setSound">Audio/Effect/bom.ogg</eventName>
+         <eventName type="setSound">Audio/Effect/bom.mp3</eventName>
         <eventName type="setAttackBox">n_hit</eventName>
         <frameName>DeidaraBom_Move_05.png</frameName>
         <frameName>DeidaraBom_Move_06.png</frameName>

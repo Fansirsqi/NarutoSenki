@@ -82,7 +82,7 @@
           <eventName type="setAttackBox">ab_hit</eventName>
           <eventName type="setDelay">10</eventName>
           <frameName>Pain_Jibaku_Move_06.png</frameName>
-          <eventName type="setSound">Audio/Effect/bom.ogg</eventName>
+          <eventName type="setSound">Audio/Effect/bom.mp3</eventName>
           <eventName type="setAttackBox">c_hit</eventName>
           <frameName>Pain_Jibaku_Move_07.png</frameName>
           <eventName type="setAttackBox">c_hit</eventName>
@@ -107,7 +107,7 @@
             <frameName>JibakuEX_Move_005.png</frameName>
             <eventName type="setAttackBox">ab_hit</eventName>
             <frameName>JibakuEX_Move_006.png</frameName>
-            <eventName type="setSound">Audio/Effect/bom.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/bom.mp3</eventName>
             <eventName type="setAttackBox">ab_hit</eventName>
             <frameName>JibakuEX_Move_007.png</frameName>
             <eventName type="setAttackBox">ab_hit</eventName>

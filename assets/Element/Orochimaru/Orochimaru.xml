@@ -33,7 +33,7 @@
         <eventName type="setMove">32</eventName>
         <frameName>Orochimaru_Hurt_01.png</frameName>
         <frameName>Orochimaru_Hurt_02.png</frameName>
-        <eventName type="setSound">Audio/Orochimaru/Orochimaru_hurt.ogg</eventName>
+        <eventName type="setSound">Audio/Orochimaru/Orochimaru_hurt.mp3</eventName>
       </frame>
     </action>
    
@@ -71,7 +71,7 @@
           <frameName>Orochimaru_KnockDown_01.png</frameName>
           <frameName>Orochimaru_KnockDown_02.png</frameName>
           <frameName>Orochimaru_KnockDown_03.png</frameName>
-          <eventName type="setSound">Audio/Orochimaru/Orochimaru_dead.ogg</eventName>
+          <eventName type="setSound">Audio/Orochimaru/Orochimaru_dead.mp3</eventName>
       </frame>
     </action>
    
@@ -88,7 +88,7 @@
         <frameName>Orochimaru_NAttack_02.png</frameName>
         <frameName>Orochimaru_NAttack_03.png</frameName>
         <eventName type="setAttackBox">n_hit</eventName>
-        <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
         <frameName>Orochimaru_NAttack_04.png</frameName>
         <eventName type="setDelay">10</eventName>
         <frameName>Orochimaru_NAttack_05.png</frameName>
@@ -96,7 +96,7 @@
         <eventName type="setDelay">10</eventName>
         <frameName>Orochimaru_NAttack_06.png</frameName>
         <eventName type="setAttackBox">n_hit</eventName>
-        <eventName type="setSound">Audio/Effect/combo2.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo2.mp3</eventName>
         <frameName>Orochimaru_NAttack_07.png</frameName>
         <frameName>Orochimaru_NAttack_08.png</frameName>
         <frameName>Orochimaru_NAttack_09.png</frameName>
@@ -104,7 +104,7 @@
         <eventName type="setMove">16</eventName>
         <frameName>Orochimaru_NAttack_11.png</frameName>
         <eventName type="setAttackBox">l_hit</eventName>
-        <eventName type="setSound">Audio/Orochimaru/Orochimaru_combo.ogg</eventName>
+        <eventName type="setSound">Audio/Orochimaru/Orochimaru_combo.mp3</eventName>
         <frameName>Orochimaru_NAttack_12.png</frameName>
       </frame>
     </action>
@@ -119,7 +119,7 @@
      </date>
      <frame>
         <frameName>Orochimaru_Skill01_01.png</frameName>
-        <eventName type="setSound">Audio/Orochimaru/Orochimaru_skill1.ogg</eventName>
+        <eventName type="setSound">Audio/Orochimaru/Orochimaru_skill1.mp3</eventName>
         <eventName type="setDelay">10</eventName>
         <frameName>Orochimaru_Skill01_02.png</frameName>
         <frameName>Orochimaru_Skill01_03.png</frameName>
@@ -148,27 +148,27 @@
         </date>
         <frame>
             <frameName>Orochimaru_Skill02_01.png</frameName>
-            <eventName type="setSound">Audio/Orochimaru/Orochimaru_skill2.ogg</eventName>
+            <eventName type="setSound">Audio/Orochimaru/Orochimaru_skill2.mp3</eventName>
             <eventName type="setDelay">10</eventName>
             <frameName>Orochimaru_Skill02_02.png</frameName>
             <eventName type="setChargeB">96</eventName>
             <eventName type="setAttackBox">c_hit</eventName>
-              <eventName type="setSound">Audio/Effect/damage_l.ogg</eventName>
+              <eventName type="setSound">Audio/Effect/damage_l.mp3</eventName>
             <eventName type="setDelay">10</eventName>
             <frameName>Orochimaru_Skill02_03.png</frameName>
             <eventName type="setChargeB">96</eventName>
             <eventName type="setAttackBox">c_hit</eventName>
-              <eventName type="setSound">Audio/Effect/damage_l.ogg</eventName>
+              <eventName type="setSound">Audio/Effect/damage_l.mp3</eventName>
             <eventName type="setDelay">10</eventName>
             <frameName>Orochimaru_Skill02_04.png</frameName>
              <eventName type="setChargeB">96</eventName>
             <eventName type="setAttackBox">c_hit</eventName>
-              <eventName type="setSound">Audio/Effect/damage_l.ogg</eventName>
+              <eventName type="setSound">Audio/Effect/damage_l.mp3</eventName>
             <eventName type="setDelay">10</eventName>
             <frameName>Orochimaru_Skill02_05.png</frameName>
              <eventName type="setChargeB">96</eventName>
             <eventName type="setAttackBox">c_hit</eventName>
-              <eventName type="setSound">Audio/Effect/damage_l.ogg</eventName>
+              <eventName type="setSound">Audio/Effect/damage_l.mp3</eventName>
             <eventName type="setDelay">10</eventName>
             <frameName>Orochimaru_Skill02_06.png</frameName>
             <eventName type="setDelay">20</eventName>
@@ -185,7 +185,7 @@
         </date>
         <frame>
             <frameName>Orochimaru_Skill03_01.png</frameName>
-            <eventName type="setSound">Audio/Orochimaru/Orochimaru_skill3.ogg</eventName>
+            <eventName type="setSound">Audio/Orochimaru/Orochimaru_skill3.mp3</eventName>
             <frameName>Orochimaru_Skill03_02.png</frameName>
             <eventName type="setDelay">10</eventName>
             <frameName>Orochimaru_Skill03_03.png</frameName>
@@ -201,7 +201,7 @@
             <frameName>Orochimaru_Skill03_06.png</frameName>
             <eventName type="setDelay">10</eventName>
             <frameName>Orochimaru_Skill03_07.png</frameName>
-            <eventName type="setSound">Audio/Orochimaru/Orochimaru_skill3_1.ogg</eventName>
+            <eventName type="setSound">Audio/Orochimaru/Orochimaru_skill3_1.mp3</eventName>
             <eventName type="setAttackBox">l_hit</eventName>
             <eventName type="setDelay">10</eventName>
             <frameName>Orochimaru_Skill03_08.png</frameName>
@@ -224,9 +224,9 @@
        <coldName type="coldDown">1</coldName>
      </date>
      <frame>
-          <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+          <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
           <frameName>Orochimaru_Skill04_01.png</frameName>
-          <eventName type="setSound">Audio/Orochimaru/Orochimaru_skill4.ogg</eventName>
+          <eventName type="setSound">Audio/Orochimaru/Orochimaru_skill4.mp3</eventName>
           <frameName>Orochimaru_Skill04_02.png</frameName>
           <frameName>Orochimaru_Skill04_03.png</frameName>
           <eventName type="setSkillEffect">smk</eventName>
@@ -249,7 +249,7 @@
           <frameName>Orochimaru_Skill04_10.png</frameName>
           <frameName>Orochimaru_Skill04_11.png</frameName>
           <eventName type="setAttackBox">f_hit</eventName>
-          <eventName type="setSound">Audio/Effect/damage_l.ogg</eventName>
+          <eventName type="setSound">Audio/Effect/damage_l.mp3</eventName>
           <frameName>Orochimaru_Skill04_12.png</frameName>
           <frameName>Orochimaru_Skill04_13.png</frameName>
           <eventName type="setCommand">addHP</eventName>
@@ -268,7 +268,7 @@
         <coldName type="coldDown">1</coldName>
         </date>
          <frame>
-        <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
         <frameName>Orochimaru_Skill05_01.png</frameName>
         <frameName>Orochimaru_Skill05_02.png</frameName>
         <frameName>Orochimaru_Skill05_03.png</frameName>
@@ -280,15 +280,15 @@
         <frameName>Orochimaru_Skill04_01.png</frameName>
         <frameName>Orochimaru_Skill04_02.png</frameName>
         <frameName>Orochimaru_Skill04_03.png</frameName>
-        <eventName type="setSound">Audio/Orochimaru/Orochimaru_skill5.ogg</eventName>
+        <eventName type="setSound">Audio/Orochimaru/Orochimaru_skill5.mp3</eventName>
         <eventName type="setMon">SansyoBlue</eventName>
-        <eventName type="setSound">Audio/Effect/poof.ogg</eventName>  
+        <eventName type="setSound">Audio/Effect/poof.mp3</eventName>  
         <eventName type="setDelay">50</eventName>
         <eventName type="setMon">SansyoGreen</eventName>
-        <eventName type="setSound">Audio/Effect/poof.ogg</eventName>  
+        <eventName type="setSound">Audio/Effect/poof.mp3</eventName>  
         <eventName type="setDelay">50</eventName>
         <eventName type="setMon">SansyoRed</eventName>
-        <eventName type="setSound">Audio/Effect/poof.ogg</eventName>  
+        <eventName type="setSound">Audio/Effect/poof.mp3</eventName>  
         <eventName type="setDelay">20</eventName>
         <frameName>Orochimaru_Skill05_06.png</frameName>
         <eventName type="setDelay">50</eventName>

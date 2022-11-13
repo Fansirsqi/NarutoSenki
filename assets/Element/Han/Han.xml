@@ -35,7 +35,7 @@
         <eventName type="setMove">32</eventName>
         <frameName>Han_Hurt_01.png</frameName>
         <frameName>Han_Hurt_02.png</frameName>
-        <eventName type="setSound">Audio/Han/Han_hurt.ogg</eventName>
+        <eventName type="setSound">Audio/Han/Han_hurt.mp3</eventName>
       </frame>
     </action>
    
@@ -83,12 +83,12 @@
       </date>
       <frame>
         <frameName>Han_NAttack_001.png</frameName>
-         <eventName type="setSound">Audio/Han/Han_combo.ogg</eventName>
+         <eventName type="setSound">Audio/Han/Han_combo.mp3</eventName>
         <frameName>Han_NAttack_002.png</frameName>
          <eventName type="setDelay">10</eventName>
         <frameName>Han_NAttack_003.png</frameName>
         <frameName>Han_NAttack_004.png</frameName>
-         <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+         <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
         <eventName type="setAttackBox">l_hit</eventName>
        <eventName type="setDelay">10</eventName>
       </frame>
@@ -103,7 +103,7 @@
        <coldName type="coldDown">1</coldName>
      </date>
      <frame>
-        <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
          <eventName type="setCommand">setInvincible</eventName>
         <frameName>Han_Skill01_001.png</frameName>
         <eventName type="setOugis">10</eventName>
@@ -135,7 +135,7 @@
           <frameName>Han_Skill02_001.png</frameName>
           <frameName>Han_Skill02_002.png</frameName>
           <frameName>Han_Skill02_003.png</frameName>
-          <eventName type="setSound">Audio/Effect/weishoupao.ogg</eventName>
+          <eventName type="setSound">Audio/Effect/weishoupao.mp3</eventName>
           <frameName>Han_Skill02_004.png</frameName>
           <eventName type="setAttackBox">c_hit</eventName>
           <eventName type="setDelay">10</eventName>
@@ -216,7 +216,7 @@
         </date>
         <frame>
             <frameName>Han_Skill11_001.png</frameName>
-            <eventName type="setSound">Audio/Han/Han_combo2.ogg</eventName>
+            <eventName type="setSound">Audio/Han/Han_combo2.mp3</eventName>
             <eventName type="setDelay">20</eventName>
             <frameName>Han_Skill11_002.png</frameName>
              <eventName type="setMove">8</eventName>

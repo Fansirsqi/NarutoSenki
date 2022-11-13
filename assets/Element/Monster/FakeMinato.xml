@@ -58,41 +58,41 @@
       </date>
       <frame> 
             <eventName type="setCommand">findTarget</eventName>
-            <eventName type="setSound">Audio/Effect/hiraishin_effect.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/hiraishin_effect.mp3</eventName>
             <eventName type="setSkillEffect">Hiraishin</eventName>
             <eventName type="setCommand">setTransport</eventName>
         <frameName>FackMinato_Move_001.png</frameName>
-        <eventName type="setSound">Audio/Effect/poof.ogg</eventName>  
+        <eventName type="setSound">Audio/Effect/poof.mp3</eventName>  
         <frameName>FackMinato_Move_002.png</frameName>
         <frameName>FackMinato_Move_003.png</frameName>
         <eventName type="setAttackBox">o_hit</eventName>   
         <frameName>FackMinato_Move_004.png</frameName>
         <frameName>FackMinato_Move_005.png</frameName>
-        <eventName type="setSound">Audio/Effect/hiraishin_effect.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/hiraishin_effect.mp3</eventName>
         <eventName type="setAttackBox">ac_hit</eventName>
         <frameName>FackMinato_Move_006.png</frameName>
         <frameName>FackMinato_Move_007.png</frameName>
-    <!--     <eventName type="setSound">Audio/Effect/hiraishin_effect.ogg</eventName> -->
+    <!--     <eventName type="setSound">Audio/Effect/hiraishin_effect.mp3</eventName> -->
         <eventName type="setAttackBox">o_hit</eventName>
         <frameName>FackMinato_Move_008.png</frameName>
         <frameName>FackMinato_Move_009.png</frameName>
-        <eventName type="setSound">Audio/Effect/hiraishin_effect.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/hiraishin_effect.mp3</eventName>
         <eventName type="setAttackBox">ac_hit</eventName>
         <frameName>FackMinato_Move_010.png</frameName>
         <frameName>FackMinato_Move_011.png</frameName>
-     <!--    <eventName type="setSound">Audio/Effect/hiraishin_effect.ogg</eventName> -->
+     <!--    <eventName type="setSound">Audio/Effect/hiraishin_effect.mp3</eventName> -->
         <eventName type="setAttackBox">o_hit</eventName>
         <frameName>FackMinato_Move_012.png</frameName>
         <frameName>FackMinato_Move_013.png</frameName>
-        <eventName type="setSound">Audio/Effect/hiraishin_effect.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/hiraishin_effect.mp3</eventName>
         <eventName type="setAttackBox">ac_hit</eventName>
         <frameName>FackMinato_Move_014.png</frameName>
         <frameName>FackMinato_Move_015.png</frameName>
-     <!--    <eventName type="setSound">Audio/Effect/hiraishin_effect.ogg</eventName> -->
+     <!--    <eventName type="setSound">Audio/Effect/hiraishin_effect.mp3</eventName> -->
         <eventName type="setAttackBox">o_hit</eventName>
         <frameName>FackMinato_Move_016.png</frameName>
         <frameName>FackMinato_Move_017.png</frameName>
-        <eventName type="setSound">Audio/Effect/hiraishin_effect.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/hiraishin_effect.mp3</eventName>
         <eventName type="setAttackBox">b_hit</eventName>
         <frameName>FackMinato_Move_018.png</frameName>
         <frameName>FackMinato_Move_019.png</frameName>

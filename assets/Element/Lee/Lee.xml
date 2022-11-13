@@ -33,7 +33,7 @@
         <eventName type="setMove">32</eventName>
         <frameName>Lee_Hurt_01.png</frameName>
         <frameName>Lee_Hurt_02.png</frameName>
-        <eventName type="setSound">Audio/Lee/Lee_hurt.ogg</eventName>
+        <eventName type="setSound">Audio/Lee/Lee_hurt.mp3</eventName>
       </frame>
     </action>
    
@@ -69,7 +69,7 @@
           <frameName>Lee_KnockDown_01.png</frameName>
           <frameName>Lee_KnockDown_02.png</frameName>
           <frameName>Lee_KnockDown_03.png</frameName>
-          <eventName type="setSound">Audio/Lee/Lee_dead.ogg</eventName>
+          <eventName type="setSound">Audio/Lee/Lee_dead.mp3</eventName>
       </frame>
     </action>
    
@@ -85,24 +85,24 @@
         <frameName>Lee_NAttack_01.png</frameName>
         <frameName>Lee_NAttack_02.png</frameName>
         <frameName>Lee_NAttack_03.png</frameName>
-        <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
         <eventName type="setAttackBox">n_hit</eventName>
         <frameName>Lee_NAttack_04.png</frameName>
         <frameName>Lee_NAttack_05.png</frameName>
         <frameName>Lee_NAttack_06.png</frameName>
          <eventName type="setMove">8</eventName>
         <frameName>Lee_NAttack_07.png</frameName>
-        <eventName type="setSound">Audio/Effect/combo2.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo2.mp3</eventName>
         <eventName type="setAttackBox">n_hit</eventName>
         <frameName>Lee_NAttack_08.png</frameName>
         <frameName>Lee_NAttack_09.png</frameName>
         <frameName>Lee_NAttack_10.png</frameName>
         <frameName>Lee_NAttack_11.png</frameName>
-        <eventName type="setSound">Audio/Lee/Lee_combo.ogg</eventName>
+        <eventName type="setSound">Audio/Lee/Lee_combo.mp3</eventName>
         <eventName type="setMove">16</eventName>
         <frameName>Lee_NAttack_12.png</frameName>
         <frameName>Lee_NAttack_13.png</frameName>
-        <eventName type="setSound">Audio/Effect/combo3.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo3.mp3</eventName>
         <eventName type="setAttackBox">l_hit</eventName>
         <frameName>Lee_NAttack_14.png</frameName>
          <frameName>Lee_NAttack_15.png</frameName>
@@ -118,7 +118,7 @@
        <coldName type="coldDown">10</coldName>
      </date>
      <frame>
-        <eventName type="setSound">Audio/Lee/Lee_skill1.ogg</eventName>
+        <eventName type="setSound">Audio/Lee/Lee_skill1.mp3</eventName>
         <frameName>Lee_NAttack_10.png</frameName>
         <frameName>Lee_NAttack_11.png</frameName>
         <frameName>Lee_Skill01_01.png</frameName>
@@ -146,11 +146,11 @@
           <frameName>Lee_Skill02_001.png</frameName>
           <frameName>Lee_Skill02_002.png</frameName>
           <eventName type="setChargeB">128</eventName>
-            <eventName type="setSound">Audio/Lee/Lee_skill2.ogg</eventName>
+            <eventName type="setSound">Audio/Lee/Lee_skill2.mp3</eventName>
           <frameName>Lee_Skill02_003.png</frameName>
           <frameName>Lee_Skill02_004.png</frameName>
           <eventName type="setAttackBox">c_hit</eventName>
-           <eventName type="setSound">Audio/Effect/damage_l.ogg</eventName>
+           <eventName type="setSound">Audio/Effect/damage_l.mp3</eventName>
           <eventName type="setDelay">10</eventName>
           <frameName>Lee_Skill02_005.png</frameName>
           <frameName>Lee_Skill02_002.png</frameName>
@@ -158,7 +158,7 @@
           <frameName>Lee_Skill02_003.png</frameName>
           <frameName>Lee_Skill02_004.png</frameName>
           <eventName type="setAttackBox">c_hit</eventName>
-           <eventName type="setSound">Audio/Effect/damage_l.ogg</eventName>
+           <eventName type="setSound">Audio/Effect/damage_l.mp3</eventName>
           <eventName type="setDelay">10</eventName>
           <frameName>Lee_Skill02_006.png</frameName>
           <frameName>Lee_Skill02_007.png</frameName>
@@ -176,14 +176,14 @@
         <frame>
         <frameName>Lee_Skill03_01.png</frameName>
         <frameName>Lee_Skill03_02.png</frameName>
-        <eventName type="setSound">Audio/Lee/Lee_skill3_1.ogg</eventName>
+        <eventName type="setSound">Audio/Lee/Lee_skill3_1.mp3</eventName>
         <eventName type="setAttackBox">c_hit</eventName>
         <frameName>Lee_Skill03_03.png</frameName>
         <frameName>Lee_Skill03_04.png</frameName>
         <frameName>Lee_Skill03_05.png</frameName>
         <frameName>Lee_Skill03_06.png</frameName>
         <eventName type="setAttackBox">f_hit</eventName>
-         <eventName type="setSound">Audio/Lee/Lee_skill3_3.ogg</eventName>
+         <eventName type="setSound">Audio/Lee/Lee_skill3_3.mp3</eventName>
         <frameName>Lee_Skill03_07.png</frameName>
         <frameName>Lee_Skill03_08.png</frameName>
         <frameName>Lee_Skill03_09.png</frameName>
@@ -197,7 +197,7 @@
         <frameName>Lee_Skill03_14.png</frameName>
         <eventName type="setDelay">10</eventName>
         <frameName>Lee_Skill03_15.png</frameName>
-          <eventName type="setSound">Audio/Lee/Lee_skill3_2.ogg</eventName>
+          <eventName type="setSound">Audio/Lee/Lee_skill3_2.mp3</eventName>
          <eventName type="setAttackBox">b_hit</eventName>
         <frameName>Lee_Skill03_16.png</frameName>
         <frameName>Lee_Skill03_17.png</frameName>
@@ -213,12 +213,12 @@
        <coldName type="coldDown">1</coldName>
      </date>
      <frame>
-      <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+      <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
       <frameName>Lee_Skill04_01.png</frameName>
       <eventName type="setCommand">findTarget</eventName> 
       <eventName type="setCommand">setTransport</eventName>
       <frameName>Lee_Skill04_02.png</frameName>
-      <eventName type="setSound">Audio/Lee/Lee_skill4_1.ogg</eventName>
+      <eventName type="setSound">Audio/Lee/Lee_skill4_1.mp3</eventName>
       <frameName>Lee_Skill04_03.png</frameName>
       <eventName type="setAttackBox">ct_hit</eventName>
       <eventName type="setCommand">setInvincible</eventName>
@@ -230,11 +230,11 @@
       <frameName>Lee_Skill04_08.png</frameName>
       <frameName>Lee_Skill04_09.png</frameName>
       <frameName>Lee_Skill04_10.png</frameName>
-      <eventName type="setSound">Audio/Lee/Lee_skill4_2.ogg</eventName>
+      <eventName type="setSound">Audio/Lee/Lee_skill4_2.mp3</eventName>
       <frameName>Lee_Skill04_11.png</frameName>
       <frameName>Lee_Skill04_12.png</frameName>
       <frameName>Lee_Skill04_13.png</frameName>
-      <eventName type="setSound">Audio/Effect/break_sound3.ogg</eventName>
+      <eventName type="setSound">Audio/Effect/break_sound3.mp3</eventName>
       <frameName>Lee_Skill04_14.png</frameName>
       <eventName type="setAttackBox">f_hit</eventName>
       <frameName>Lee_Skill04_15.png</frameName>
@@ -255,17 +255,17 @@
         <coldName type="coldDown">1</coldName>
         </date>
         <frame>
-          <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+          <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
           <frameName>Lee_Skill05_01.png</frameName>
           <eventName type="setOugis">10</eventName>
           <frameName>Lee_Skill05_01.png</frameName>
           <eventName type="setDelay">10</eventName>
-          <eventName type="setSound">Audio/Lee/Lee_skill5_1.ogg</eventName>
+          <eventName type="setSound">Audio/Lee/Lee_skill5_1.mp3</eventName>
           <frameName>Lee_Skill05_02.png</frameName>
           <eventName type="setDelay">10</eventName>
           <frameName>Lee_Skill05_03.png</frameName>
           <eventName type="setDelay">10</eventName>
-          <eventName type="setSound">Audio/Lee/Lee_skill5_2.ogg</eventName>
+          <eventName type="setSound">Audio/Lee/Lee_skill5_2.mp3</eventName>
           <eventName type="setBuff">18</eventName>
         </frame>
     </action>
@@ -330,17 +330,17 @@
         <frameName>Lee_Skill12_01.png</frameName>
         <frameName>Lee_Skill12_02.png</frameName>
         <frameName>Lee_Skill12_03.png</frameName>
-        <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
         <eventName type="setAttackBox">c_hit</eventName>
         <frameName>Lee_Skill12_04.png</frameName>
         <frameName>Lee_Skill12_05.png</frameName>
         <frameName>Lee_Skill12_06.png</frameName>
         <eventName type="setMove">8</eventName>
         <frameName>Lee_Skill12_07.png</frameName>
-        <eventName type="setSound">Audio/Effect/combo2.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo2.mp3</eventName>
         <eventName type="setAttackBox">c_hit</eventName>
         <frameName>Lee_Skill12_08.png</frameName>
-        <eventName type="setSound">Audio/Lee/Lee_skill11.ogg</eventName>
+        <eventName type="setSound">Audio/Lee/Lee_skill11.mp3</eventName>
         <frameName>Lee_Skill12_09.png</frameName>
         <eventName type="setMove">8</eventName>
         <frameName>Lee_Skill12_10.png</frameName>

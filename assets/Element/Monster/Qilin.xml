@@ -65,7 +65,7 @@
         <frameName>Qilin_Move_005.png</frameName>
         <eventName type="setAttackBox">bc_hit</eventName>
         <frameName>Qilin_Move_006.png</frameName>
-        <eventName type="setSound">Audio/Sasuke/sasuke_skill4_1.ogg</eventName>
+        <eventName type="setSound">Audio/Sasuke/sasuke_skill4_1.mp3</eventName>
         <frameName>Qilin_Move_007.png</frameName>
         <eventName type="setAttackBox">bf_hit</eventName>
         <frameName>Qilin_Move_008.png</frameName>

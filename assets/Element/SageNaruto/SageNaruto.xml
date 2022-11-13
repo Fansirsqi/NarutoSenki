@@ -35,7 +35,7 @@
       <eventName type="setMove">32</eventName>
       <frameName>SageNaruto_Hurt_01.png</frameName>
       <frameName>SageNaruto_Hurt_02.png</frameName>
-      <eventName type="setSound">Audio/SageNaruto/SageNaruto_hurt.ogg</eventName>
+      <eventName type="setSound">Audio/SageNaruto/SageNaruto_hurt.mp3</eventName>
     </frame>
   </action>
 
@@ -69,7 +69,7 @@
       <frameName>SageNaruto_KnockDown_01.png</frameName>
       <frameName>SageNaruto_KnockDown_02.png</frameName>
       <frameName>SageNaruto_KnockDown_03.png</frameName>
-      <eventName type="setSound">Audio/SageNaruto/SageNaruto_dead.ogg</eventName>
+      <eventName type="setSound">Audio/SageNaruto/SageNaruto_dead.mp3</eventName>
     </frame>
   </action>
 
@@ -84,7 +84,7 @@
     <frame>
       <frameName>SageNaruto_NAttack_01.png</frameName>
       <frameName>SageNaruto_NAttack_02.png</frameName>
-      <eventName type="setSound">Audio/SageNaruto/o_02.ogg</eventName>
+      <eventName type="setSound">Audio/SageNaruto/o_02.mp3</eventName>
       <eventName type="setAttackBox">n_hit</eventName>
       <eventName type="setAttackBox">ac_hit</eventName>
       <eventName type="setAttackBox">l_hit</eventName>
@@ -96,7 +96,7 @@
       <frameName>SageNaruto_NAttack_05.png</frameName>
       <frameName>SageNaruto_NAttack_06.png</frameName>
       <frameName>SageNaruto_NAttack_07.png</frameName>
-      <eventName type="setSound">Audio/SageNaruto/o_02.ogg</eventName>
+      <eventName type="setSound">Audio/SageNaruto/o_02.mp3</eventName>
       <eventName type="setAttackBox">n_hit</eventName>
       <eventName type="setAttackBox">ac_hit</eventName>
       <eventName type="setAttackBox">l_hit</eventName>
@@ -113,7 +113,7 @@
       <frameName>SageNaruto_NAttack_012.png</frameName>
       <frameName>SageNaruto_NAttack_013.png</frameName>
       <frameName>SageNaruto_NAttack_014.png</frameName>
-      <eventName type="setSound">Audio/SageNaruto/Naruto_s4_02.ogg</eventName>
+      <eventName type="setSound">Audio/SageNaruto/Naruto_s4_02.mp3</eventName>
       <eventName type="setAttackBox">l_hit</eventName>
       <eventName type="setAttackBox">ac_hit</eventName>
       <eventName type="setAttackBox">l_hit</eventName>
@@ -144,14 +144,14 @@
     <frame>
 
       <frameName>SageNaruto_Skill01_01.png</frameName>
-      <eventName type="setSound">Audio/SageNaruto/naruto_skill2.ogg</eventName>
+      <eventName type="setSound">Audio/SageNaruto/naruto_skill2.mp3</eventName>
       <frameName>SageNaruto_Skill01_02.png</frameName>
       <frameName>SageNaruto_Skill01_03.png</frameName>
       <frameName>SageNaruto_Skill01_04.png</frameName>
       <frameName>SageNaruto_Skill01_05.png</frameName>
       <frameName>SageNaruto_Skill01_06.png</frameName>
       <frameName>SageNaruto_Skill01_07.png</frameName>
-      <eventName type="setSound">Audio/SageNaruto/Naruto_s4_sfx_01.ogg</eventName>
+      <eventName type="setSound">Audio/SageNaruto/Naruto_s4_sfx_01.mp3</eventName>
       <frameName>SageNaruto_Skill01_08.png</frameName>
       <frameName>SageNaruto_Skill01_09.png</frameName>
       <frameName>SageNaruto_Skill01_010.png</frameName>
@@ -176,7 +176,7 @@
       <eventName type="setAttackBox">o_hit</eventName>
       <eventName type="setChargeB">48</eventName>
       <eventName type="setSound">Audio/SageNaruto/Rasen1.Wav</eventName>
-      <eventName type="setSound">Audio/SageNaruto/SageNaruto_skill1.ogg</eventName>
+      <eventName type="setSound">Audio/SageNaruto/SageNaruto_skill1.mp3</eventName>
       <frameName>SageNaruto_Skill01_018.png</frameName>
       <eventName type="setAttackBox">o_hit</eventName>
       <eventName type="setChargeB">48</eventName>
@@ -189,7 +189,7 @@
       <frameName>SageNaruto_Skill01_021.png</frameName>
       <eventName type="setAttackBox">o_hit</eventName>
       <eventName type="setChargeB">48</eventName>
-      <eventName type="setSound">Audio/SageNaruto/break_sound2.ogg</eventName>
+      <eventName type="setSound">Audio/SageNaruto/break_sound2.mp3</eventName>
 
       <frameName>SageNaruto_Skill01_022.png</frameName>
       <eventName type="setAttackBox">ac_hit</eventName>
@@ -221,7 +221,7 @@
     </date>
     <frame>
       <eventName type="setCommand">setInvincible</eventName>
-      <eventName type="setSound">Audio/SageNaruto/naruto_skill2.ogg</eventName>
+      <eventName type="setSound">Audio/SageNaruto/naruto_skill2.mp3</eventName>
       <frameName>SageNaruto_SRSW_0.png</frameName>
       <frameName>SageNaruto_SRSW_1.png</frameName>
       <frameName>SageNaruto_SRSW_2.png</frameName>
@@ -230,7 +230,7 @@
       <eventName type="setAttackBox">l_hit</eventName>
       <frameName>SageNaruto_SRSW_5.png</frameName>
       <eventName type="setAttackBox">o_hit</eventName>
-      <eventName type="setSound">Audio/SageNaruto/Naruto_s4_sfx_01.ogg</eventName>
+      <eventName type="setSound">Audio/SageNaruto/Naruto_s4_sfx_01.mp3</eventName>
       <frameName>SageNaruto_SRSW_6.png</frameName>
       <eventName type="setAttackBox">o_hit</eventName>
       <frameName>SageNaruto_SRSW_7.png</frameName>
@@ -281,17 +281,17 @@
 
 
       <frameName>SageNaruto_FudonSRK_01.png</frameName>
-      <eventName type="setSound">Audio/SageNaruto/naruto_skill3.ogg</eventName>
+      <eventName type="setSound">Audio/SageNaruto/naruto_skill3.mp3</eventName>
       <frameName>SageNaruto_FudonSRK_02.png</frameName>
       <frameName>SageNaruto_FudonSRK_03.png</frameName>
       <frameName>SageNaruto_FudonSRK_04.png</frameName>
-      <eventName type="setSound">Audio/SageNaruto/SageNaruto_skill3_1.ogg</eventName>
+      <eventName type="setSound">Audio/SageNaruto/SageNaruto_skill3_1.mp3</eventName>
       <frameName>SageNaruto_FudonSRK_05.png</frameName>
       <frameName>SageNaruto_FudonSRK_06.png</frameName>
       <frameName>SageNaruto_FudonSRK_07.png</frameName>
       <frameName>SageNaruto_FudonSRK_08.png</frameName>
       <frameName>SageNaruto_FudonSRK_09.png</frameName>
-      <eventName type="setSound">Audio/SageNaruto/SageNaruto_skill3.ogg</eventName>
+      <eventName type="setSound">Audio/SageNaruto/SageNaruto_skill3.mp3</eventName>
       <frameName>SageNaruto_FudonSRK_10.png</frameName>
       <frameName>SageNaruto_FudonSRK_11.png</frameName>
       <frameName>SageNaruto_FudonSRK_12.png</frameName>
@@ -323,7 +323,7 @@
       <eventName type="setCommand">setInvincible</eventName>
 
       <frameName>SageNaruto_Skill04_01.png</frameName>
-      <eventName type="setSound">Audio/SageNaruto/Naruto_skill04.ogg</eventName>
+      <eventName type="setSound">Audio/SageNaruto/Naruto_skill04.mp3</eventName>
       <frameName>SageNaruto_Skill04_02.png</frameName>
       <frameName>SageNaruto_Skill04_03.png</frameName>
       <frameName>SageNaruto_Skill04_04.png</frameName>
@@ -340,7 +340,7 @@
       <frameName>SageNaruto_Skill04_014.png</frameName>
       <frameName>SageNaruto_Skill04_015.png</frameName>
       <frameName>SageNaruto_Skill04_016.png</frameName>
-      <eventName type="setSound">Audio/SageNaruto/DUAR.ogg</eventName>
+      <eventName type="setSound">Audio/SageNaruto/DUAR.mp3</eventName>
       <eventName type="setAttackBox">b_hit</eventName>
       <frameName>SageNaruto_Skill04_017.png</frameName>
       <eventName type="setAttackBox">c_hit</eventName>
@@ -402,9 +402,9 @@
       <coldName type="coldDown">1</coldName>
     </date>
     <frame>
-      <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+      <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
       <eventName type="setCommand">setInvincible</eventName>
-      <eventName type="setSound">Audio/SageNaruto/naruto_skill4.ogg</eventName>
+      <eventName type="setSound">Audio/SageNaruto/naruto_skill4.mp3</eventName>
       <frameName>SageNaruto_Skill05_01.png</frameName>
       <frameName>SageNaruto_Skill05_02.png</frameName>
       <frameName>SageNaruto_Skill05_03.png</frameName>
@@ -466,7 +466,7 @@
       <eventName type="setAttackBox">c_hit</eventName>
       <frameName>SageNaruto_Skill05_038.png</frameName>
       <eventName type="setAttackBox">c_hit</eventName>
-      <eventName type="setSound">Audio/SageNaruto/DUAR.ogg</eventName>
+      <eventName type="setSound">Audio/SageNaruto/DUAR.mp3</eventName>
       <frameName>SageNaruto_Skill05_039.png</frameName>
       <eventName type="setAttackBox">c_hit</eventName>
       <frameName>SageNaruto_Skill05_040.png</frameName>
@@ -563,7 +563,7 @@
     </date>
     <frame>
       <eventName type="setCommand">setInvincible</eventName>
-      <eventName type="setSound">Audio/SageNaruto/naruto_skill2.ogg</eventName>
+      <eventName type="setSound">Audio/SageNaruto/naruto_skill2.mp3</eventName>
       <frameName>SageNaruto_SRSW_0.png</frameName>
       <frameName>SageNaruto_SRSW_1.png</frameName>
       <frameName>SageNaruto_SRSW_2.png</frameName>
@@ -572,7 +572,7 @@
       <eventName type="setAttackBox">l_hit</eventName>
       <frameName>SageNaruto_SRSW_5.png</frameName>
       <eventName type="setAttackBox">o_hit</eventName>
-      <eventName type="setSound">Audio/SageNaruto/Naruto_s4_sfx_01.ogg</eventName>
+      <eventName type="setSound">Audio/SageNaruto/Naruto_s4_sfx_01.mp3</eventName>
       <frameName>SageNaruto_SRSW_6.png</frameName>
       <eventName type="setAttackBox">o_hit</eventName>
       <frameName>SageNaruto_SRSW_7.png</frameName>
@@ -638,17 +638,17 @@
     </date>
     <frame>
             <frameName>SageNaruto_FudonSRK_01.png</frameName>
-      <eventName type="setSound">Audio/SageNaruto/naruto_skill3.ogg</eventName>
+      <eventName type="setSound">Audio/SageNaruto/naruto_skill3.mp3</eventName>
       <frameName>SageNaruto_FudonSRK_02.png</frameName>
       <frameName>SageNaruto_FudonSRK_03.png</frameName>
       <frameName>SageNaruto_FudonSRK_04.png</frameName>
-      <eventName type="setSound">Audio/SageNaruto/SageNaruto_skill3_1.ogg</eventName>
+      <eventName type="setSound">Audio/SageNaruto/SageNaruto_skill3_1.mp3</eventName>
       <frameName>SageNaruto_FudonSRK_05.png</frameName>
       <frameName>SageNaruto_FudonSRK_06.png</frameName>
       <frameName>SageNaruto_FudonSRK_07.png</frameName>
       <frameName>SageNaruto_FudonSRK_08.png</frameName>
       <frameName>SageNaruto_FudonSRK_09.png</frameName>
-      <eventName type="setSound">Audio/SageNaruto/SageNaruto_skill3.ogg</eventName>
+      <eventName type="setSound">Audio/SageNaruto/SageNaruto_skill3.mp3</eventName>
       <frameName>SageNaruto_FudonSRK_10.png</frameName>
       <frameName>SageNaruto_FudonSRK_11.png</frameName>
       <frameName>SageNaruto_FudonSRK_12.png</frameName>

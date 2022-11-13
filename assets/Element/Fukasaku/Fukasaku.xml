@@ -31,8 +31,8 @@
         <eventName type="setMove">32</eventName>
         <frameName>Fukasaku_Hurt_01.png</frameName>
         <frameName>Fukasaku_Hurt_02.png</frameName>
-        <eventName type="setSound">Audio/Fukasaku/fukasaku_hurt.ogg</eventName>
-        <eventName type="setSound">Audio/Fukasaku/fukasaku_hurt2.ogg</eventName>
+        <eventName type="setSound">Audio/Fukasaku/fukasaku_hurt.mp3</eventName>
+        <eventName type="setSound">Audio/Fukasaku/fukasaku_hurt2.mp3</eventName>
       </frame>
     </action>
    
@@ -69,7 +69,7 @@
       <frame>
           <frameName>Fukasaku_KnockDown_01.png</frameName>
           <frameName>Fukasaku_KnockDown_02.png</frameName>
-          <eventName type="setSound">Audio/Fukasaku/fukasaku_dead.ogg</eventName>
+          <eventName type="setSound">Audio/Fukasaku/fukasaku_dead.mp3</eventName>
       </frame>
     </action>
    
@@ -90,7 +90,7 @@
         <frameName>Fukasaku_NAttack_06.png</frameName>
         <frameName>Fukasaku_NAttack_07.png</frameName>
         <frameName>Fukasaku_NAttack_08.png</frameName>
-        <eventName type="setSound">Audio/Fukasaku/fukasaku_combo.ogg</eventName>
+        <eventName type="setSound">Audio/Fukasaku/fukasaku_combo.mp3</eventName>
         <eventName type="setAttackBox">l_hit</eventName>
         <frameName>Fukasaku_NAttack_09.png</frameName>
         <frameName>Fukasaku_NAttack_10.png</frameName>
@@ -107,7 +107,7 @@
      </date>
      <frame>
         <frameName>Fukasaku_Skill01_01.png</frameName>
-        <eventName type="setSound">Audio/Fukasaku/fukasaku_skill1.ogg</eventName>
+        <eventName type="setSound">Audio/Fukasaku/fukasaku_skill1.mp3</eventName>
         <frameName>Fukasaku_Skill01_02.png</frameName>
         <frameName>Fukasaku_Skill01_03.png</frameName>
         <frameName>Fukasaku_Skill01_04.png</frameName>
@@ -135,7 +135,7 @@
         </date>
         <frame>
             <frameName>Fukasaku_Skill02_01.png</frameName>
-            <eventName type="setSound">Audio/Fukasaku/fukasaku_skill2.ogg</eventName>
+            <eventName type="setSound">Audio/Fukasaku/fukasaku_skill2.mp3</eventName>
             <frameName>Fukasaku_Skill02_02.png</frameName>
             <frameName>Fukasaku_Skill02_03.png</frameName>
             <frameName>Fukasaku_Skill02_04.png</frameName>
@@ -164,12 +164,12 @@
         </date>
         <frame>
           <frameName>Fukasaku_Skill03_01.png</frameName>
-          <eventName type="setSound">Audio/Fukasaku/fukasaku_skill3_1.ogg</eventName>
+          <eventName type="setSound">Audio/Fukasaku/fukasaku_skill3_1.mp3</eventName>
           <frameName>Fukasaku_Skill03_02.png</frameName>
           <frameName>Fukasaku_Skill03_03.png</frameName>
           <frameName>Fukasaku_Skill03_04.png</frameName>
           <frameName>Fukasaku_Skill03_05.png</frameName>
-           <eventName type="setSound">Audio/Fukasaku/fukasaku_skill3.ogg</eventName>
+           <eventName type="setSound">Audio/Fukasaku/fukasaku_skill3.mp3</eventName>
           <frameName>Fukasaku_Skill03_06.png</frameName>
            <eventName type="setAttackBox">c_hit</eventName>  
           <frameName>Fukasaku_Skill03_07.png</frameName>

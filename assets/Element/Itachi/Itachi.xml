@@ -37,7 +37,7 @@
         <frameName>Itachi_Hurt_01.png</frameName>
         <frameName>Itachi_Hurt_02.png</frameName>
         <frameName>Itachi_Hurt_03.png</frameName>
-        <eventName type="setSound">Audio/Itachi/itachi_hurt.ogg</eventName>
+        <eventName type="setSound">Audio/Itachi/itachi_hurt.mp3</eventName>
       </frame>
     </action>
    
@@ -75,7 +75,7 @@
           <frameName>Itachi_KnockDown_01.png</frameName>
           <frameName>Itachi_KnockDown_02.png</frameName>
           <frameName>Itachi_KnockDown_03.png</frameName>
-          <eventName type="setSound">Audio/Itachi/itachi_dead.ogg</eventName>
+          <eventName type="setSound">Audio/Itachi/itachi_dead.mp3</eventName>
       </frame>
     </action>
    
@@ -92,14 +92,14 @@
         <eventName type="setBullet">SusanoTama</eventName>
         <frameName>Itachi_NAttack_02.png</frameName>
         <frameName>Itachi_NAttack_03.png</frameName>
-        <eventName type="setSound">Audio/Effect/kuwu.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/kuwu.mp3</eventName>
         <eventName type="setAttackBox">bl_hit</eventName>
         <frameName>Itachi_NAttack_04.png</frameName>
         <frameName>Itachi_NAttack_05.png</frameName>
         <frameName>Itachi_NAttack_06.png</frameName>
         <eventName type="setMove">8</eventName>
         <frameName>Itachi_NAttack_07.png</frameName>
-        <eventName type="setSound">Audio/Effect/combo2.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo2.mp3</eventName>
         <eventName type="setAttackBox">n_hit</eventName>
         <frameName>Itachi_NAttack_08.png</frameName>
         <frameName>Itachi_NAttack_09.png</frameName>
@@ -110,8 +110,8 @@
         <frameName>Itachi_NAttack_14.png</frameName>
         <eventName type="setMove">16</eventName>
         <frameName>Itachi_NAttack_15.png</frameName>
-        <eventName type="setSound">Audio/Itachi/itachi_combo.ogg</eventName>
-        <eventName type="setSound">Audio/Effect/combo3.ogg</eventName>
+        <eventName type="setSound">Audio/Itachi/itachi_combo.mp3</eventName>
+        <eventName type="setSound">Audio/Effect/combo3.mp3</eventName>
         <frameName>Itachi_NAttack_16.png</frameName>
         <eventName type="setAttackBox">l_hit</eventName>
         <frameName>Itachi_NAttack_17.png</frameName>
@@ -128,20 +128,20 @@
         </date>
         <frame>
             <frameName>Itachi_Skill02_01.png</frameName>
-            <eventName type="setSound">Audio/Itachi/itachi_skill2.ogg</eventName>
+            <eventName type="setSound">Audio/Itachi/itachi_skill2.mp3</eventName>
             <frameName>Itachi_Skill02_02.png</frameName>
             <frameName>Itachi_Skill02_03.png</frameName>
-            <eventName type="setSound">Audio/Effect/kara.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/kara.mp3</eventName>
             <frameName>Itachi_Skill02_04.png</frameName>
             <frameName>Itachi_Skill02_05.png</frameName>
-            <eventName type="setSound">Audio/Effect/kara.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/kara.mp3</eventName>
             <eventName type="setAttackBox">a_hit</eventName>
             <eventName type="setChargeB">192</eventName>
             <frameName>Itachi_Skill02_06.png</frameName>
-            <eventName type="setSound">Audio/Effect/stick_damage.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/stick_damage.mp3</eventName>
             <eventName type="setAttackBox">a_hit</eventName>
             <frameName>Itachi_Skill02_07.png</frameName>
-            <eventName type="setSound">Audio/Effect/stick_damage.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/stick_damage.mp3</eventName>
             <eventName type="setAttackBox">a_hit</eventName>
             <frameName>Itachi_Skill02_02.png</frameName>
             <frameName>Itachi_Skill02_03.png</frameName>
@@ -157,15 +157,15 @@
        <coldName type="coldDown">15</coldName>
      </date>
      <frame>
-    <eventName type="setSound">Audio/Itachi/itachi_skill1.ogg</eventName>
+    <eventName type="setSound">Audio/Itachi/itachi_skill1.mp3</eventName>
     <frameName>Itachi_Skill01_001.png</frameName>
     <frameName>Itachi_Skill01_002.png</frameName>
     <frameName>Itachi_Skill01_003.png</frameName>
     <frameName>Itachi_Skill01_004.png</frameName>
-    <eventName type="setSound">Audio/Itachi/itachi_skill1_1.ogg</eventName>
+    <eventName type="setSound">Audio/Itachi/itachi_skill1_1.mp3</eventName>
     <eventName type="setDelay">10</eventName>
     <frameName>Itachi_Skill01_005.png</frameName>
-    <eventName type="setSound">Audio/Effect/goukakyu.ogg</eventName>
+    <eventName type="setSound">Audio/Effect/goukakyu.mp3</eventName>
     <frameName>Itachi_Skill01_006.png</frameName>
     <eventName type="setAttackBox">a_hit</eventName>
     <frameName>Itachi_Skill01_007.png</frameName>
@@ -197,7 +197,7 @@
         </date>
         <frame>
             <frameName>Itachi_Skill01_001.png</frameName>
-            <eventName type="setSound">Audio/Itachi/itachi_skill3.ogg</eventName>
+            <eventName type="setSound">Audio/Itachi/itachi_skill3.mp3</eventName>
             <frameName>Itachi_Skill01_002.png</frameName>
             <eventName type="setDelay">10</eventName>
             <frameName>Itachi_Skill03_01.png</frameName>
@@ -205,10 +205,10 @@
             <eventName type="setDelay">10</eventName>
             <frameName>Itachi_Skill03_02.png</frameName>
             <eventName type="setDelay">10</eventName>
-            <eventName type="setSound">Audio/Itachi/itachi_skill3_1.ogg</eventName>
+            <eventName type="setSound">Audio/Itachi/itachi_skill3_1.mp3</eventName>
             <eventName type="setTrap">Amaterasu</eventName>
             <eventName type="setDelay">10</eventName>
-            <eventName type="setSound">Audio/Effect/srg.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/srg.mp3</eventName>
         </frame>
     </action>
 
@@ -221,12 +221,12 @@
        <coldName type="coldDown">1</coldName>
      </date>
      <frame>
-         <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+         <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
          <frameName>Itachi_Skill04_01.png</frameName>
          <eventName type="setFont">jyamada.png</eventName>
          <eventName type="setDelay">20</eventName>
          <frameName>Itachi_Skill04_02.png</frameName>
-         <eventName type="setSound">Audio/Itachi/itachi_skill4.ogg</eventName>
+         <eventName type="setSound">Audio/Itachi/itachi_skill4.mp3</eventName>
          <eventName type="setFont">tkym.png</eventName>
          <eventName type="setSkillEffect">sharingan</eventName>
          <eventName type="setDelay">50</eventName>
@@ -244,7 +244,7 @@
         <coldName type="coldDown">1</coldName>
         </date>
          <frame>
-          <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+          <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
           <frameName>Itachi_Skill05_01.png</frameName>
           <eventName type="setDelay">10</eventName>
           <frameName>Itachi_Skill05_02.png</frameName>
@@ -259,12 +259,12 @@
           <eventName type="setOugis">10</eventName>
           <eventName type="setDelay">10</eventName>
           <frameName>Itachi_Skill05_07.png</frameName>
-          <eventName type="setSound">Audio/Itachi/itachi_skill5.ogg</eventName>
+          <eventName type="setSound">Audio/Itachi/itachi_skill5.mp3</eventName>
           <frameName>Itachi_Skill05_08.png</frameName>
           <frameName>Itachi_Skill05_09.png</frameName>
           <eventName type="setBullet">SusanoTama</eventName>
           <eventName type="setDelay">50</eventName>
-          <eventName type="setSound">Audio/Itachi/itachi_skill5_1.ogg</eventName>
+          <eventName type="setSound">Audio/Itachi/itachi_skill5_1.mp3</eventName>
           <eventName type="setBuff">17</eventName>
           <eventName type="setMon">ItachiSusano</eventName> 
          <eventName type="setCommand">reInvincible</eventName>
@@ -379,7 +379,7 @@
 
         <frame>
             <eventName type="setMonAttack">1</eventName>
-            <eventName type="setSound">Audio/Itachi/itachi_skill5_2.ogg</eventName>
+            <eventName type="setSound">Audio/Itachi/itachi_skill5_2.mp3</eventName>
             <frameName>Itachi_Skill10_01.png</frameName>
             <eventName type="setDelay">10</eventName>
             <frameName>Itachi_Skill10_02.png</frameName>

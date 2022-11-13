@@ -36,7 +36,7 @@
         <eventName type="setMove">32</eventName>
         <frameName>Gaara_Hurt_01.png</frameName>
         <frameName>Gaara_Hurt_02.png</frameName>
-        <eventName type="setSound">Audio/Gaara/Gaara_hurt.ogg</eventName>
+        <eventName type="setSound">Audio/Gaara/Gaara_hurt.mp3</eventName>
       </frame>
     </action>
    
@@ -72,7 +72,7 @@
       <frame>
           <frameName>Gaara_KnockDown_01.png</frameName>
           <frameName>Gaara_KnockDown_02.png</frameName>
-          <eventName type="setSound">Audio/Gaara/Gaara_dead.ogg</eventName>
+          <eventName type="setSound">Audio/Gaara/Gaara_dead.mp3</eventName>
       </frame>
     </action>
    
@@ -90,7 +90,7 @@
         <frameName>Gaara_NAttack_02.png</frameName>
         <eventName type="setDelay">10</eventName>
         <frameName>Gaara_NAttack_03.png</frameName>
-        <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
         <eventName type="setAttackBox">n_hit</eventName>
         <frameName>Gaara_NAttack_04.png</frameName>
         <frameName>Gaara_NAttack_05.png</frameName>
@@ -98,14 +98,14 @@
         <frameName>Gaara_NAttack_06.png</frameName>
         <eventName type="setMove">8</eventName>
         <frameName>Gaara_NAttack_07.png</frameName>
-        <eventName type="setSound">Audio/Effect/stick_damage.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/stick_damage.mp3</eventName>
         <eventName type="setAttackBox">n_hit</eventName>
         <frameName>Gaara_NAttack_08.png</frameName>
         <frameName>Gaara_NAttack_09.png</frameName>
-         <eventName type="setSound">Audio/Gaara/Gaara_combo.ogg</eventName>
+         <eventName type="setSound">Audio/Gaara/Gaara_combo.mp3</eventName>
         <eventName type="setAttackBox">n_hit</eventName>
         <frameName>Gaara_NAttack_10.png</frameName>
-       <eventName type="setSound">Audio/Effect/stick_damage.ogg</eventName>
+       <eventName type="setSound">Audio/Effect/stick_damage.mp3</eventName>
          <frameName>Gaara_NAttack_11.png</frameName>
         <frameName>Gaara_NAttack_12.png</frameName>
         <frameName>Gaara_NAttack_13.png</frameName>
@@ -124,7 +124,7 @@
      </date>
      <frame>
         <frameName>Gaara_Skill01_01.png</frameName>
-          <eventName type="setSound">Audio/Gaara/Gaara_skill1.ogg</eventName>
+          <eventName type="setSound">Audio/Gaara/Gaara_skill1.mp3</eventName>
           <eventName type="setMove">16</eventName>
           <eventName type="setDelay">10</eventName> 
           <frameName>Gaara_Skill01_02.png</frameName>
@@ -132,15 +132,15 @@
           <frameName>Gaara_Skill01_03.png</frameName>
           <frameName>Gaara_Skill01_04.png</frameName>
           <eventName type="setAttackBox">c_hit</eventName>
-         <eventName type="setSound">Audio/Effect/damage_l.ogg</eventName>
+         <eventName type="setSound">Audio/Effect/damage_l.mp3</eventName>
           <eventName type="setDelay">10</eventName>
           <frameName>Gaara_Skill01_05.png</frameName>
           <eventName type="setAttackBox">c_hit</eventName>
-         <eventName type="setSound">Audio/Effect/damage_l.ogg</eventName>
+         <eventName type="setSound">Audio/Effect/damage_l.mp3</eventName>
           <eventName type="setDelay">10</eventName>
           <frameName>Gaara_Skill01_06.png</frameName>
           <eventName type="setAttackBox">c_hit</eventName>
-           <eventName type="setSound">Audio/Effect/damage_l.ogg</eventName>
+           <eventName type="setSound">Audio/Effect/damage_l.mp3</eventName>
           <eventName type="setDelay">10</eventName>
    
      </frame>
@@ -157,7 +157,7 @@
         <frame>
         <frameName>Gaara_Skill02_02.png</frameName>
         <eventName type="setDelay">10</eventName>
-         <eventName type="setSound">Audio/Gaara/Gaara_skill2.ogg</eventName>
+         <eventName type="setSound">Audio/Gaara/Gaara_skill2.mp3</eventName>
         <eventName type="setTrap">SandStream</eventName>
         <frameName>Gaara_Skill02_03.png</frameName>
         <frameName>Gaara_Skill02_04.png</frameName>
@@ -176,7 +176,7 @@
         </date>
         <frame>
       <frameName>Gaara_Skill03_01.png</frameName>
-       <eventName type="setSound">Audio/Gaara/Gaara_skill3.ogg</eventName>
+       <eventName type="setSound">Audio/Gaara/Gaara_skill3.mp3</eventName>
         <eventName type="setDelay">10</eventName>
         <frameName>Gaara_Skill03_02.png</frameName>
         <frameName>Gaara_Skill03_03.png</frameName>
@@ -196,9 +196,9 @@
        <coldName type="coldDown">1</coldName>
      </date>
      <frame>
-        <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
         <frameName>Gaara_Skill04_01.png</frameName>
-         <eventName type="setSound">Audio/Gaara/Gaara_skill4.ogg</eventName>
+         <eventName type="setSound">Audio/Gaara/Gaara_skill4.mp3</eventName>
         <frameName>Gaara_Skill04_02.png</frameName>
         <frameName>Gaara_Skill04_03.png</frameName>
         <frameName>Gaara_Skill04_04.png</frameName>
@@ -216,7 +216,7 @@
         <coldName type="coldDown">1</coldName>
         </date>
          <frame>
-        <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
         <frameName>Gaara_Skill06_01.png</frameName>
         <eventName type="setDelay">10</eventName>
         <eventName type="setOugis">10</eventName>
@@ -229,7 +229,7 @@
         <frameName>Gaara_Skill06_06.png</frameName>
         <frameName>Gaara_Skill06_07.png</frameName>
         <frameName>Gaara_Skill06_08.png</frameName>
-        <eventName type="setSound">Audio/Gaara/Gaara_skill5.ogg</eventName>
+        <eventName type="setSound">Audio/Gaara/Gaara_skill5.mp3</eventName>
         <frameName>Gaara_Skill06_09.png</frameName>
         <frameName>Gaara_Skill06_10.png</frameName>
         <frameName>Gaara_Skill06_08.png</frameName>

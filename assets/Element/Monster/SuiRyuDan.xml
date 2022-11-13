@@ -57,7 +57,7 @@
       <eventName type="setAttackBox">ac_hit</eventName>
       <eventName type="setMove">160</eventName>
       <eventName type="setFlipped">10</eventName>
-      <eventName type="setSound">Audio/Effect/suiryudan.ogg</eventName>
+      <eventName type="setSound">Audio/Effect/suiryudan.mp3</eventName>
       <eventName type="setJump">true</eventName>
       <eventName type="setDelay">10</eventName>
       <frameName>SuiRyuDan_Move_01.png</frameName>

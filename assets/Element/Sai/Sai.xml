@@ -33,7 +33,7 @@
         <eventName type="setMove">32</eventName>
         <frameName>Sai_Hurt_01.png</frameName>
         <frameName>Sai_Hurt_02.png</frameName>
-        <eventName type="setSound">Audio/Sai/sai_hurt.ogg</eventName>
+        <eventName type="setSound">Audio/Sai/sai_hurt.mp3</eventName>
       </frame>
     </action>
    
@@ -70,7 +70,7 @@
           <frameName>Sai_KnockDown_01.png</frameName>
           <frameName>Sai_KnockDown_02.png</frameName>
           <frameName>Sai_KnockDown_03.png</frameName>
-          <eventName type="setSound">Audio/Sai/sai_dead.ogg</eventName>
+          <eventName type="setSound">Audio/Sai/sai_dead.mp3</eventName>
       </frame>
     </action>
    
@@ -85,7 +85,7 @@
       <frame>
         <frameName>Sai_NAttack_01.png</frameName>
         <frameName>Sai_NAttack_02.png</frameName>
-        <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
         <frameName>Sai_NAttack_03.png</frameName>
         <eventName type="setAttackBox">n_hit</eventName>
         <frameName>Sai_NAttack_04.png</frameName>
@@ -93,13 +93,13 @@
         <eventName type="setMove">8</eventName>
         <frameName>Sai_NAttack_06.png</frameName>
         <frameName>Sai_NAttack_07.png</frameName>
-        <eventName type="setSound">Audio/Effect/combo2.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo2.mp3</eventName>
         <eventName type="setAttackBox">n_hit</eventName>
         <frameName>Sai_NAttack_08.png</frameName>
-        <eventName type="setSound">Audio/Sai/sai_combo.ogg</eventName>
+        <eventName type="setSound">Audio/Sai/sai_combo.mp3</eventName>
         <frameName>Sai_NAttack_09.png</frameName>
         <frameName>Sai_NAttack_10.png</frameName>
-        <eventName type="setSound">Audio/Effect/kong.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/kong.mp3</eventName>
         <eventName type="setAttackBox">bl_hit</eventName>
         <eventName type="setMove">16</eventName>
         <frameName>Sai_NAttack_11.png</frameName>
@@ -121,7 +121,7 @@
        <frameName>Sai_Skill01_01.png</frameName>
        <frameName>Sai_Skill01_02.png</frameName>
        <frameName>Sai_Skill01_03.png</frameName>
-       <eventName type="setSound">Audio/Sai/sai_skill1.ogg</eventName>
+       <eventName type="setSound">Audio/Sai/sai_skill1.mp3</eventName>
        <frameName>Sai_Skill01_04.png</frameName>
        <eventName type="setDelay">40</eventName>
        <frameName>Sai_Skill01_03.png</frameName>
@@ -142,7 +142,7 @@
         </date>
         <frame>
             <frameName>Sai_Skill02_01.png</frameName>
-            <eventName type="setSound">Audio/Sai/sai_skill2.ogg</eventName>
+            <eventName type="setSound">Audio/Sai/sai_skill2.mp3</eventName>
             <eventName type="setDelay">10</eventName>
             <frameName>Sai_Skill02_02.png</frameName>
             <eventName type="setDelay">10</eventName>
@@ -150,7 +150,7 @@
             <eventName type="setDelay">10</eventName>
             <frameName>Sai_Skill02_04.png</frameName>
             <frameName>Sai_Skill02_05.png</frameName>
-            <eventName type="setSound">Audio/Sai/sai_skill2_1.ogg</eventName>
+            <eventName type="setSound">Audio/Sai/sai_skill2_1.mp3</eventName>
             <frameName>Sai_Skill02_06.png</frameName>
             <frameName>Sai_Skill02_07.png</frameName>
             <eventName type="setMon">Mouse</eventName>
@@ -167,7 +167,7 @@
         </date>
         <frame>
             <frameName>Sai_Skill02_01.png</frameName>
-            <eventName type="setSound">Audio/Sai/sai_skill2.ogg</eventName>
+            <eventName type="setSound">Audio/Sai/sai_skill2.mp3</eventName>
             <eventName type="setDelay">10</eventName>
             <frameName>Sai_Skill02_02.png</frameName>
             <eventName type="setDelay">10</eventName>
@@ -175,7 +175,7 @@
             <eventName type="setDelay">10</eventName>
             <frameName>Sai_Skill02_04.png</frameName>
             <frameName>Sai_Skill02_05.png</frameName>
-            <eventName type="setSound">Audio/Sai/sai_skill2_1.ogg</eventName>
+            <eventName type="setSound">Audio/Sai/sai_skill2_1.mp3</eventName>
             <frameName>Sai_Skill02_06.png</frameName>
             <frameName>Sai_Skill02_07.png</frameName>
             <eventName type="setMon">Tiger</eventName>
@@ -191,11 +191,11 @@
        <coldName type="coldDown">1</coldName>
      </date>
      <frame>
-        <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
         <frameName>Sai_Skill04_01.png</frameName>
          <eventName type="setFont">makenai.png</eventName>
          <eventName type="setDelay">20</eventName>
-         <eventName type="setSound">Audio/Sai/sai_skill4.ogg</eventName>
+         <eventName type="setSound">Audio/Sai/sai_skill4.mp3</eventName>
         <frameName>Sai_Skill04_02.png</frameName>
         <eventName type="setMon">InkBird</eventName>
         <frameName>Sai_Skill04_03.png</frameName>
@@ -206,7 +206,7 @@
         <frameName>Sai_Skill04_05.png</frameName>
         <frameName>Sai_Skill04_06.png</frameName>
         <frameName>Sai_Skill04_07.png</frameName>
-        <eventName type="setSound">Audio/Sai/sai_skill4_1.ogg</eventName>
+        <eventName type="setSound">Audio/Sai/sai_skill4_1.mp3</eventName>
      </frame>
    </action>
 
@@ -220,7 +220,7 @@
         <coldName type="coldDown">1</coldName>
         </date>
         <frame>
-        <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
         <frameName>Sai_Skill05_01.png</frameName>
         <eventName type="setCommand">setInvincible</eventName>
         <eventName type="setDelay">10</eventName>
@@ -233,7 +233,7 @@
         <frameName>Sai_Skill05_03.png</frameName>
         <eventName type="setShadow">10</eventName> 
         <eventName type="setChargeB">224</eventName>
-          <eventName type="setSound">Audio/Sai/sai_skill5_1.ogg</eventName>
+          <eventName type="setSound">Audio/Sai/sai_skill5_1.mp3</eventName>
         <eventName type="setDelay">10</eventName>
         <eventName type="setAttackBox">o_hit</eventName> 
         <frameName>Sai_Skill05_04.png</frameName>
@@ -243,14 +243,14 @@
         <frameName>Sai_Skill05_05.png</frameName>
         <eventName type="setShadow">10</eventName> 
         <eventName type="setChargeB">224</eventName>
-        <eventName type="setSound">Audio/Sai/sai_skill5_1.ogg</eventName>
+        <eventName type="setSound">Audio/Sai/sai_skill5_1.mp3</eventName>
         <eventName type="setDelay">10</eventName>
         <eventName type="setAttackBox">o2_hit</eventName> 
         <frameName>Sai_Skill05_06.png</frameName>
         <frameName>Sai_Skill05_07.png</frameName>
-         <eventName type="setSound">Audio/Sai/sai_skill5.ogg</eventName>
+         <eventName type="setSound">Audio/Sai/sai_skill5.mp3</eventName>
         <eventName type="setAttackBox">o_hit</eventName> 
-         <eventName type="setSound">Audio/Effect/blade_damage.ogg</eventName>
+         <eventName type="setSound">Audio/Effect/blade_damage.mp3</eventName>
         <frameName>Sai_Skill05_08.png</frameName>
         <frameName>Sai_Skill05_09.png</frameName>
         <frameName>Sai_Skill05_10.png</frameName>
@@ -258,7 +258,7 @@
         <frameName>Sai_Skill05_12.png</frameName>
         <eventName type="setShadow">10</eventName> 
         <eventName type="setChargeB">320</eventName>
-        <eventName type="setSound">Audio/Sai/sai_skill5_2.ogg</eventName>
+        <eventName type="setSound">Audio/Sai/sai_skill5_2.mp3</eventName>
         <frameName>Sai_Skill05_13.png</frameName>
         <eventName type="setShadow">10</eventName> 
         <eventName type="setDelay">10</eventName>
@@ -268,9 +268,9 @@
         <eventName type="setDelay">10</eventName> 
         <eventName type="setAttackBox">o_hit</eventName> 
         <frameName>Sai_Skill05_15.png</frameName>
-        <eventName type="setSound">Audio/Effect/blade_damage.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/blade_damage.mp3</eventName>
         <frameName>Sai_Skill05_16.png</frameName>
-        <eventName type="setSound">Audio/Sai/sai_skill5_2.ogg</eventName>
+        <eventName type="setSound">Audio/Sai/sai_skill5_2.mp3</eventName>
         <eventName type="setChargeB">320</eventName>
         <frameName>Sai_Skill05_17.png</frameName>
         <eventName type="setShadow">10</eventName>
@@ -279,13 +279,13 @@
         <frameName>Sai_Skill05_18.png</frameName>
         <eventName type="setShadow">10</eventName>
         <eventName type="setDelay">10</eventName>
-         <eventName type="setSound">Audio/Sai/sai_skill5_2.ogg</eventName>
+         <eventName type="setSound">Audio/Sai/sai_skill5_2.mp3</eventName>
         <eventName type="setAttackBox">o_hit</eventName> 
         <frameName>Sai_Skill05_19.png</frameName>
         <eventName type="setDelay">10</eventName>
         <frameName>Sai_Skill05_20.png</frameName>
         <eventName type="setMove">32</eventName>
-          <eventName type="setSound">Audio/Effect/damage_o.ogg</eventName>
+          <eventName type="setSound">Audio/Effect/damage_o.mp3</eventName>
         <eventName type="setAttackBox">o_hit</eventName> 
         <frameName>Sai_Skill05_21.png</frameName>
         <frameName>Sai_Skill05_22.png</frameName>
@@ -324,7 +324,7 @@
             <frameName>Sai_NAttack2_06.png</frameName>
             <frameName>Sai_NAttack2_07.png</frameName>
             <eventName type="setMon">Snake</eventName>
-            <eventName type="setSound">Audio/Sai/sai_combo2.ogg</eventName>
+            <eventName type="setSound">Audio/Sai/sai_combo2.mp3</eventName>
         </frame>
     </action>
    

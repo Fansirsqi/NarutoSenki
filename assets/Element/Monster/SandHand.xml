@@ -57,7 +57,7 @@
     </date>
     <frame>
       <frameName>Clone_01.png</frameName>
-      <eventName type="setSound">Audio/Effect/poof.ogg</eventName>
+      <eventName type="setSound">Audio/Effect/poof.mp3</eventName>
       <frameName>Clone_02.png</frameName>
       <frameName>Clone_03.png</frameName>
       <frameName>Clone_04.png</frameName>

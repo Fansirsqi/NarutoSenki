@@ -62,7 +62,7 @@
           <frameName>AsuraPath_NAttack_01.png</frameName>
           <frameName>AsuraPath_NAttack_02.png</frameName>
           <frameName>AsuraPath_NAttack_03.png</frameName>
-          <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+          <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
           <eventName type="setAttackBox">n_hit</eventName>
           <frameName>AsuraPath_NAttack_04.png</frameName>
           <eventName type="setDelay">20</eventName>
@@ -87,7 +87,7 @@
         <frameName>AsuraPath_Skill01_03.png</frameName>
         <eventName type="setDelay">10</eventName>
         <frameName>AsuraPath_Skill01_04.png</frameName>
-        <eventName type="setSound">Audio/Pain/AsuraPath_skill1.ogg</eventName>
+        <eventName type="setSound">Audio/Pain/AsuraPath_skill1.mp3</eventName>
         <eventName type="setMon">Rocket</eventName>
         <eventName type="setDelay">50</eventName>
      </frame>

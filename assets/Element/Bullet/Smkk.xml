@@ -57,7 +57,7 @@
       <frame>
       	<eventName type="setMove">-8</eventName>
      	<frameName>Blank.png</frameName>
-         <eventName type="setSound">Audio/Naruto/poof.ogg</eventName>
+         <eventName type="setSound">Audio/Naruto/poof.mp3</eventName>
       	<eventName type="setMove">-8</eventName>
           <frameName>Smkk_01.png</frameName>
           <eventName type="setMove">-8</eventName>

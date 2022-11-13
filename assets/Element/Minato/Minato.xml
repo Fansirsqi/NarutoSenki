@@ -123,21 +123,21 @@
         <frameName>Minato_NAttack_02.png</frameName>
         <frameName>Minato_NAttack_03.png</frameName>
         <frameName>Minato_NAttack_04.png</frameName>
-        <eventName type="setSound">Audio/Effect/kuwu.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/kuwu.mp3</eventName>
         <eventName type="setAttackBox">bl_hit</eventName>
         <frameName>Minato_NAttack_05.png</frameName>
         <frameName>Minato_NAttack_06.png</frameName>
         <eventName type="setMove">8</eventName>
         <frameName>Minato_NAttack_07.png</frameName>
-        <eventName type="setSound">Audio/Effect/combo2.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo2.mp3</eventName>
         <eventName type="setAttackBox">n_hit</eventName>
         <frameName>Minato_NAttack_08.png</frameName>
         <frameName>Minato_NAttack_09.png</frameName>
         <frameName>Minato_NAttack_10.png</frameName>
         <eventName type="setMove">16</eventName>
         <frameName>Minato_NAttack_11.png</frameName>
-        <eventName type="setSound">Audio/Minato/minato_combo.ogg</eventName>
-        <eventName type="setSound">Audio/Effect/combo3.ogg</eventName>
+        <eventName type="setSound">Audio/Minato/minato_combo.mp3</eventName>
+        <eventName type="setSound">Audio/Effect/combo3.mp3</eventName>
         <eventName type="setAttackBox">l_hit</eventName>
         <frameName>Minato_NAttack_12.png</frameName>
       </frame>
@@ -153,13 +153,13 @@
      </date>
      <frame>
         <frameName>Minato_Skill01_01.png</frameName>
-        <eventName type="setSound">Audio/Minato/minato_skill1.ogg</eventName>
+        <eventName type="setSound">Audio/Minato/minato_skill1.mp3</eventName>
         <frameName>Minato_Skill01_02.png</frameName>
         <frameName>Minato_Skill01_03.png</frameName>
         <frameName>Minato_Skill01_04.png</frameName>
         <frameName>Minato_Skill01_05.png</frameName>
         <frameName>Minato_Skill01_06.png</frameName>
-        <eventName type="setSound">Audio/Effect/pup.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/pup.mp3</eventName>
         <frameName>Minato_Skill01_07.png</frameName>
         <frameName>Minato_Skill01_08.png</frameName>
         <frameName>Minato_Skill01_09.png</frameName>
@@ -178,7 +178,7 @@
         </date>
         <frame>
             <frameName>Minato_Skill02_01.png</frameName>
-            <eventName type="setSound">Audio/Minato/minato_skill2.ogg</eventName>
+            <eventName type="setSound">Audio/Minato/minato_skill2.mp3</eventName>
             <eventName type="setDelay">10</eventName>
             <frameName>Minato_Skill02_02.png</frameName>
             <eventName type="setDelay">10</eventName>
@@ -211,11 +211,11 @@
             <frameName>Minato_Skill01_02.png</frameName>
             <frameName>Minato_Skill01_03.png</frameName>
             <frameName>Minato_Skill01_04.png</frameName>
-            <eventName type="setSound">Audio/Effect/rasen.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/rasen.mp3</eventName>
             <frameName>Minato_Skill03_01.png</frameName>
             <frameName>Minato_Skill03_02.png</frameName>
             <frameName>Minato_Skill03_03.png</frameName>
-            <eventName type="setSound">Audio/Minato/minato_skill3.ogg</eventName>
+            <eventName type="setSound">Audio/Minato/minato_skill3.mp3</eventName>
             <frameName>Minato_Skill03_04.png</frameName>
             <eventName type="setCharge">280</eventName>
             <frameName>Minato_Skill03_05.png</frameName>
@@ -224,23 +224,23 @@
             <eventName type="setAttackBox">c_hit</eventName>
             <eventName type="setDelay">10</eventName>
             <frameName>Minato_Skill03_07.png</frameName>
-            <eventName type="setSound">Audio/Effect/damage_l.ogg</eventName>  
+            <eventName type="setSound">Audio/Effect/damage_l.mp3</eventName>  
             <eventName type="setAttackBox">c_hit</eventName>
             <eventName type="setDelay">10</eventName>
             <frameName>Minato_Skill03_08.png</frameName>
-            <eventName type="setSound">Audio/Effect/damage_l.ogg</eventName>  
+            <eventName type="setSound">Audio/Effect/damage_l.mp3</eventName>  
             <eventName type="setAttackBox">c_hit</eventName>
             <eventName type="setDelay">10</eventName>
             <frameName>Minato_Skill03_09.png</frameName>
-            <eventName type="setSound">Audio/Effect/damage_l.ogg</eventName>  
+            <eventName type="setSound">Audio/Effect/damage_l.mp3</eventName>  
             <eventName type="setAttackBox">c_hit</eventName>
             <eventName type="setDelay">10</eventName>
             <frameName>Minato_Skill03_10.png</frameName>
-            <eventName type="setSound">Audio/Effect/damage_l.ogg</eventName>  
+            <eventName type="setSound">Audio/Effect/damage_l.mp3</eventName>  
             <eventName type="setAttackBox">c_hit</eventName>
             <eventName type="setDelay">10</eventName>
             <frameName>Minato_Skill03_11.png</frameName>
-            <eventName type="setSound">Audio/Effect/damage_l.ogg</eventName>  
+            <eventName type="setSound">Audio/Effect/damage_l.mp3</eventName>  
             <eventName type="setAttackBox">c_hit</eventName>
             <eventName type="setDelay">10</eventName>
         </frame>
@@ -255,7 +255,7 @@
        <coldName type="coldDown">1</coldName>
      </date>
      <frame>
-         <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+         <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
          <frameName>Minato_Skill04_01.png</frameName>
          <eventName type="setFont">korewa.png</eventName>
          <eventName type="setDelay">20</eventName>
@@ -277,7 +277,7 @@
          <eventName type="setFont">ornttk.png</eventName>
          <frameName>Minato_Skill04_10.png</frameName>
          <frameName>Minato_Skill04_11.png</frameName>
-         <eventName type="setSound">Audio/Minato/minato_skill4.ogg</eventName>
+         <eventName type="setSound">Audio/Minato/minato_skill4.mp3</eventName>
          <eventName type="setChargeB">280</eventName>
          <eventName type="setFont">kyu.png</eventName>
          <eventName type="setAttackBox">o_hit</eventName>
@@ -319,7 +319,7 @@
      </date>
      <frame>
         <eventName type="setCommand">setInvincible</eventName>
-        <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
         <frameName>Minato_Skill05_06.png</frameName>
         <eventName type="setOugis">10</eventName>
         <frameName>Minato_Skill05_06.png</frameName>
@@ -350,7 +350,7 @@
         <frameName>Minato_Skill05_14.png</frameName>
         <frameName>Minato_Skill05_15.png</frameName>
         <eventName type="setDelay">10</eventName>
-        <eventName type="setSound">Audio/HokageMinato/HokageMinato_skill1_1.ogg</eventName>
+        <eventName type="setSound">Audio/HokageMinato/HokageMinato_skill1_1.mp3</eventName>
         <frameName>Minato_Skill05_16.png</frameName>
         <eventName type="setDelay">20</eventName>
         <eventName type="setTransform">40</eventName> 

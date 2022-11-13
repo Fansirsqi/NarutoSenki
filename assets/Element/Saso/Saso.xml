@@ -98,10 +98,10 @@
      </date>
      <frame>
         <frameName>Saso_Skill02_01.png</frameName>
-        <eventName type="setSound">Audio/Kankuro/kankuro_skill5_1.ogg</eventName>
+        <eventName type="setSound">Audio/Kankuro/kankuro_skill5_1.mp3</eventName>
         <frameName>Saso_Skill02_02.png</frameName>
         <eventName type="setAttackBox">o_hit</eventName>
-        <eventName type="setSound">Audio/Effect/goukakyu.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/goukakyu.mp3</eventName>
         <eventName type="setDelay">10</eventName>
         <frameName>Saso_Skill02_03.png</frameName>
         <eventName type="setAttackBox">o_hit</eventName>

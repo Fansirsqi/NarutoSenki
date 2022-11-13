@@ -76,7 +76,7 @@
          <eventName type="setDelay">10</eventName>
          <eventName type="setMove">15</eventName>
         <frameName>TamaBomb_Move_002.png</frameName>
-          <eventName type="setSound">Audio/Effect/bom.ogg</eventName>
+          <eventName type="setSound">Audio/Effect/bom.mp3</eventName>
         <eventName type="setAttackBox">b_hit</eventName>
         <frameName>TamaBomb_Move_003.png</frameName>    
         <frameName>TamaBomb_Move_004.png</frameName>

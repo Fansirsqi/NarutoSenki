@@ -33,7 +33,7 @@
         <eventName type="setMove">32</eventName>
         <frameName>Shino_Hurt_01.png</frameName>
         <frameName>Shino_Hurt_02.png</frameName>
-        <eventName type="setSound">Audio/Shino/Shino_hurt.ogg</eventName>
+        <eventName type="setSound">Audio/Shino/Shino_hurt.mp3</eventName>
       </frame>
     </action>
    
@@ -69,7 +69,7 @@
       <frame>
           <frameName>Shino_KnockDown_001.png</frameName>
           <frameName>Shino_KnockDown_002.png</frameName>
-          <eventName type="setSound">Audio/Shino/Shino_dead.ogg</eventName>
+          <eventName type="setSound">Audio/Shino/Shino_dead.mp3</eventName>
       </frame>
     </action>
    
@@ -86,7 +86,7 @@
         <frameName>Shino_NAttack_002.png</frameName>
         <frameName>Shino_NAttack_003.png</frameName>
         <eventName type="setAttackBox">n_hit</eventName>
-        <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
         <frameName>Shino_NAttack_004.png</frameName>
         <frameName>Shino_NAttack_005.png</frameName>
         <frameName>Shino_NAttack_006.png</frameName>
@@ -95,14 +95,14 @@
         <eventName type="setDelay">10</eventName>
         <frameName>Shino_NAttack_008.png</frameName>
         <frameName>Shino_NAttack_009.png</frameName>
-        <eventName type="setSound">Audio/Effect/combo2.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo2.mp3</eventName>
         <frameName>Shino_NAttack_010.png</frameName>
-        <eventName type="setSound">Audio/Shino/Shino_combo.ogg</eventName>
+        <eventName type="setSound">Audio/Shino/Shino_combo.mp3</eventName>
         <eventName type="setMove">16</eventName>
         <frameName>Shino_NAttack_011.png</frameName>
         <frameName>Shino_NAttack_012.png</frameName>
         <eventName type="setAttackBox">l_hit</eventName>
-        <eventName type="setSound">Audio/Effect/combo3.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo3.mp3</eventName>
         <eventName type="setDelay">10</eventName>
       </frame>
     </action>
@@ -116,7 +116,7 @@
        <coldName type="coldDown">15</coldName>
      </date>
      <frame>
-        <eventName type="setSound">Audio/Shino/Shino_skill1.ogg</eventName>
+        <eventName type="setSound">Audio/Shino/Shino_skill1.mp3</eventName>
         <frameName>Shino_Skill01_001.png</frameName>
         <frameName>Shino_Skill01_002.png</frameName>
         <frameName>Shino_Skill01_003.png</frameName>
@@ -135,7 +135,7 @@
           <coldName type="coldDown">15</coldName>
         </date>
         <frame>
-          <eventName type="setSound">Audio/Shino/Shino_skill2.ogg</eventName>
+          <eventName type="setSound">Audio/Shino/Shino_skill2.mp3</eventName>
           <frameName>Shino_Skill02_001.png</frameName>
           <eventName type="setDelay">10</eventName>
           <frameName>Shino_Skill02_002.png</frameName>
@@ -152,7 +152,7 @@
             <coldName type="coldDown">25</coldName>
         </date>
         <frame>
-        <eventName type="setSound">Audio/Shino/Shino_skill3.ogg</eventName>
+        <eventName type="setSound">Audio/Shino/Shino_skill3.mp3</eventName>
         <frameName>Shino_Skill03_001.png</frameName>
         <frameName>Shino_Skill03_002.png</frameName>
         <eventName type="setMon">BugPillar</eventName>
@@ -170,8 +170,8 @@
         <coldName type="coldDown">0</coldName>
      </date>
      <frame>
-        <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
-        <eventName type="setSound">Audio/Shino/Shino_skill4.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
+        <eventName type="setSound">Audio/Shino/Shino_skill4.mp3</eventName>
         <frameName>Shino_Skill04_001.png</frameName>
         <frameName>Shino_Skill04_002.png</frameName>
         <eventName type="setDelay">20</eventName>
@@ -187,7 +187,7 @@
        <coldName type="coldDown">1</coldName>
      </date>
      <frame>
-      <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+      <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
       <frameName>Shino_Skill05_001.png</frameName>
       <eventName type="setCommand">setInvincible</eventName>
       <eventName type="setOugis">10</eventName>
@@ -199,7 +199,7 @@
       <frameName>Shino_Skill05_005.png</frameName>
       <eventName type="setAttackBox">s_hit</eventName>
       <eventName type="setDelay">10</eventName>
-      <eventName type="setSound">Audio/Shino/Shino_skill5.ogg</eventName>
+      <eventName type="setSound">Audio/Shino/Shino_skill5.mp3</eventName>
       <frameName>Shino_Skill05_006.png</frameName>
       <eventName type="setAttackBox">s_hit</eventName>
       <eventName type="setDelay">10</eventName>
@@ -244,7 +244,7 @@
               <frameName>Shino_Skill10_002.png</frameName>
               <eventName type="setDelay">20</eventName>
               <eventName type="setMon">Bug</eventName>
-               <eventName type="setSound">Audio/Shino/Shino_skill1_1.ogg</eventName>
+               <eventName type="setSound">Audio/Shino/Shino_skill1_1.mp3</eventName>
               <frameName>Shino_Skill10_003.png</frameName>
         </frame>
     </action>

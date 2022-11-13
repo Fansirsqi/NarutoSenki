@@ -57,7 +57,7 @@
       <frame>
         <frameName>WaterBom_Move_01.png</frameName>
         <eventName type="setAttackBox">b_hit</eventName>
-        <eventName type="setSound">Audio/Effect/water_effect.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/water_effect.mp3</eventName>
         <eventName type="setFont">doka.png</eventName>
         <frameName>WaterBom_Move_02.png</frameName>
         <eventName type="setAttackBox">c_hit</eventName>

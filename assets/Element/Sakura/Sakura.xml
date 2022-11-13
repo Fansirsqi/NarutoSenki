@@ -31,7 +31,7 @@
             <frameName>Sakura_Hurt_01.png</frameName>
             <frameName>Sakura_Hurt_02.png</frameName>
             <frameName>Sakura_Hurt_03.png</frameName>
-            <eventName type="setSound">Audio/Sakura/sakura_hurt.ogg</eventName>
+            <eventName type="setSound">Audio/Sakura/sakura_hurt.mp3</eventName>
         </frame>
     </action>
     <action value="AirHurt">
@@ -78,7 +78,7 @@
             <frameName>Sakura_NAttack_01.png</frameName>
             <frameName>Sakura_NAttack_02.png</frameName>
             <frameName>Sakura_NAttack_03.png</frameName>
-            <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
             <eventName type="setAttackBox">l_hit</eventName>
             <eventName type="setSound">Audio/Sakura/combo1.mp3</eventName>
             <frameName>Sakura_NAttack_04.png</frameName>
@@ -86,7 +86,7 @@
             <frameName>Sakura_NAttack_06.png</frameName>
             <eventName type="setMove">8</eventName>
             <frameName>Sakura_NAttack_07.png</frameName>
-            <eventName type="setSound">Audio/Effect/combo2.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/combo2.mp3</eventName>
             <eventName type="setAttackBox">s_hit</eventName>
             <frameName>Sakura_NAttack_08.png</frameName>
             <eventName type="setAttackBox">b_hit</eventName>
@@ -95,7 +95,7 @@
             <eventName type="setSound">Audio/Sakura/combo2.mp3</eventName>
             <frameName>Sakura_NAttack_11.png</frameName>
             <eventName type="setMove">16</eventName>
-            <eventName type="setSound">Audio/Effect/combo3.oggv</eventName>
+            <eventName type="setSound">Audio/Effect/combo3.mp3v</eventName>
             <eventName type="setAttackBox">l_hit</eventName>
             <frameName>Sakura_NAttack_12.png</frameName>
             <frameName>Sakura_NAttack_13.png</frameName>
@@ -105,7 +105,7 @@
             <frameName>Sakura_NAttack_01.png</frameName>
             <frameName>Sakura_NAttack_02.png</frameName>
             <frameName>Sakura_NAttack_03.png</frameName>
-            <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
             <eventName type="setAttackBox">l_hit</eventName>
             <eventName type="setSound">Audio/Sakura/combo1.mp3</eventName>
             <frameName>Sakura_NAttack_04.png</frameName>
@@ -113,7 +113,7 @@
             <frameName>Sakura_NAttack_06.png</frameName>
             <eventName type="setMove">8</eventName>
             <frameName>Sakura_NAttack_07.png</frameName>
-            <eventName type="setSound">Audio/Effect/combo2.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/combo2.mp3</eventName>
             <eventName type="setAttackBox">s_hit</eventName>
             <frameName>Sakura_NAttack_08.png</frameName>
             <eventName type="setAttackBox">b_hit</eventName>
@@ -122,7 +122,7 @@
             <eventName type="setSound">Audio/Sakura/combo2.mp3</eventName>
             <frameName>Sakura_NAttack_11.png</frameName>
             <eventName type="setMove">16</eventName>
-            <eventName type="setSound">Audio/Effect/combo3.oggv</eventName>
+            <eventName type="setSound">Audio/Effect/combo3.mp3v</eventName>
             <eventName type="setAttackBox">l_hit</eventName>
             <frameName>Sakura_NAttack_12.png</frameName>
             <frameName>Sakura_NAttack_13.png</frameName>

@@ -61,28 +61,28 @@
           <frameName>InkBird_Move_03.png</frameName>
           <frameName>InkBird_Move_04.png</frameName>
           <eventName type="setAttackBox">ac_hit</eventName>
-          <eventName type="setSound">Audio/Sai/sai_skill4_2.ogg</eventName>
+          <eventName type="setSound">Audio/Sai/sai_skill4_2.mp3</eventName>
           <frameName>InkBird_Move_05.png</frameName>
           <eventName type="setAttackBox">ac_hit</eventName>
-          <eventName type="setSound">Audio/Effect/stick_damage.ogg</eventName>
+          <eventName type="setSound">Audio/Effect/stick_damage.mp3</eventName>
           <frameName>InkBird_Move_06.png</frameName>
           <eventName type="setAttackBox">ac_hit</eventName>
           <frameName>InkBird_Move_04.png</frameName>
           <eventName type="setAttackBox">ac_hit</eventName>
-          <eventName type="setSound">Audio/Effect/stick_damage.ogg</eventName>
+          <eventName type="setSound">Audio/Effect/stick_damage.mp3</eventName>
           <frameName>InkBird_Move_05.png</frameName>
-           <eventName type="setSound">Audio/Sai/sai_skill4_2.ogg</eventName>
+           <eventName type="setSound">Audio/Sai/sai_skill4_2.mp3</eventName>
           <eventName type="setAttackBox">ac_hit</eventName>
           <frameName>InkBird_Move_06.png</frameName>
           <eventName type="setAttackBox">ac_hit</eventName>
-          <eventName type="setSound">Audio/Effect/stick_damage.ogg</eventName>
+          <eventName type="setSound">Audio/Effect/stick_damage.mp3</eventName>
           <frameName>InkBird_Move_04.png</frameName>
           <eventName type="setAttackBox">ac_hit</eventName>
           <frameName>InkBird_Move_05.png</frameName>
           <eventName type="setAttackBox">ac_hit</eventName>
-          <eventName type="setSound">Audio/Effect/stick_damage.ogg</eventName>
+          <eventName type="setSound">Audio/Effect/stick_damage.mp3</eventName>
           <frameName>InkBird_Move_06.png</frameName>
-           <eventName type="setSound">Audio/Sai/sai_skill4_2.ogg</eventName>
+           <eventName type="setSound">Audio/Sai/sai_skill4_2.mp3</eventName>
           <eventName type="setAttackBox">ac_hit</eventName>
           <frameName>InkBird_Move_12.png</frameName>
           <eventName type="setAttackBox">ac_hit</eventName>

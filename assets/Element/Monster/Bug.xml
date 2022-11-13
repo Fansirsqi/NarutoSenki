@@ -60,7 +60,7 @@
       <frame>
         <frameName>Bug_Move_004.png</frameName>
         <eventName type="setAttackBox">a_hit</eventName>
-         <eventName type="setSound">Audio/Effect/stick_damage.ogg</eventName>
+         <eventName type="setSound">Audio/Effect/stick_damage.mp3</eventName>
         <eventName type="setDetonation">0</eventName>
       </frame>
     </action>

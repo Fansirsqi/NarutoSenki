@@ -64,7 +64,7 @@
         <eventName type="setMove">16</eventName>
         <eventName type="setDelay">10</eventName>
         <frameName>AnimalPath_NAttack_03.png</frameName>
-        <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
         <eventName type="setAttackBox">n_hit</eventName>
         <frameName>AnimalPath_NAttack_04.png</frameName>
         <eventName type="setDelay">10</eventName>
@@ -81,7 +81,7 @@
      </date>
      <frame>
         <frameName>AnimalPath_Skill01_01.png</frameName>
-        <eventName type="setSound">Audio/Pain/AnimalPath_skill1.ogg</eventName>
+        <eventName type="setSound">Audio/Pain/AnimalPath_skill1.mp3</eventName>
         <eventName type="setDelay">10</eventName>
         <frameName>AnimalPath_Skill01_02.png</frameName>
         <eventName type="setDelay">10</eventName>

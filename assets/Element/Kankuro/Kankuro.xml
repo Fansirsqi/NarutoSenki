@@ -33,7 +33,7 @@
         <eventName type="setMove">32</eventName>
         <frameName>Kankuro_Hurt_01.png</frameName>
         <frameName>Kankuro_Hurt_02.png</frameName>
-        <eventName type="setSound">Audio/Kankuro/kankuro_hurt.ogg</eventName>
+        <eventName type="setSound">Audio/Kankuro/kankuro_hurt.mp3</eventName>
       </frame>
     </action>
    
@@ -69,7 +69,7 @@
       <frame>
           <frameName>Kankuro_KnockDown_01.png</frameName>
           <frameName>Kankuro_KnockDown_02.png</frameName>
-          <eventName type="setSound">Audio/Kankuro/kankuro_dead.ogg</eventName>
+          <eventName type="setSound">Audio/Kankuro/kankuro_dead.mp3</eventName>
       </frame>
     </action>
    
@@ -86,20 +86,20 @@
         <frameName>Kankuro_NAttack_02.png</frameName>
         <frameName>Kankuro_NAttack_03.png</frameName>
         <frameName>Kankuro_NAttack_04.png</frameName>
-        <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
         <eventName type="setAttackBox">n_hit</eventName>
         <frameName>Kankuro_NAttack_05.png</frameName>
         <eventName type="setMove">8</eventName>
         <frameName>Kankuro_NAttack_06.png</frameName>
-        <eventName type="setSound">Audio/Effect/combo2.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo2.mp3</eventName>
         <eventName type="setAttackBox">n_hit</eventName>
         <frameName>Kankuro_NAttack_07.png</frameName>
         <frameName>Kankuro_NAttack_08.png</frameName>
         <frameName>Kankuro_NAttack_09.png</frameName>
         <eventName type="setMove">16</eventName>
         <frameName>Kankuro_NAttack_10.png</frameName>
-        <eventName type="setSound">Audio/Kankuro/kankuro_combo.ogg</eventName>
-        <eventName type="setSound">Audio/Effect/combo3.ogg</eventName>
+        <eventName type="setSound">Audio/Kankuro/kankuro_combo.mp3</eventName>
+        <eventName type="setSound">Audio/Effect/combo3.mp3</eventName>
         <eventName type="setAttackBox">l_hit</eventName>
       </frame>
     </action>
@@ -114,7 +114,7 @@
      </date>
      <frame>
         <frameName>Kankuro_Skill01_01.png</frameName>
-        <eventName type="setSound">Audio/Kankuro/kankuro_skill1.ogg</eventName>
+        <eventName type="setSound">Audio/Kankuro/kankuro_skill1.mp3</eventName>
         <eventName type="setDelay">10</eventName>
         <frameName>Kankuro_Skill01_02.png</frameName>
         <eventName type="setDelay">10</eventName>
@@ -138,7 +138,7 @@
         </date>
         <frame>
             <eventName type="setMonAttack">2</eventName>
-            <eventName type="setSound">Audio/Kankuro/kankuro_skill2.ogg</eventName>
+            <eventName type="setSound">Audio/Kankuro/kankuro_skill2.mp3</eventName>
             <frameName>Kankuro_Skill02_01.png</frameName>
             <eventName type="setDelay">10</eventName>
             <frameName>Kankuro_Skill02_02.png</frameName>
@@ -169,7 +169,7 @@
         <frame>
             <frameName>Kankuro_Skill03_01.png</frameName>
             <eventName type="setMon">Kuroari</eventName>
-            <eventName type="setSound">Audio/Kankuro/kankuro_skill3.ogg</eventName>
+            <eventName type="setSound">Audio/Kankuro/kankuro_skill3.mp3</eventName>
             <eventName type="setDelay">10</eventName>
             <frameName>Kankuro_Skill03_02.png</frameName>
             <eventName type="setDelay">10</eventName>
@@ -189,10 +189,10 @@
        <coldName type="coldDown">10</coldName>
      </date>
      <frame>
-         <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+         <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
          <frameName>Kankuro_Skill04_01.png</frameName>
          <eventName type="setDelay">10</eventName>
-         <eventName type="setSound">Audio/Kankuro/kankuro_skill4.ogg</eventName>
+         <eventName type="setSound">Audio/Kankuro/kankuro_skill4.mp3</eventName>
          <eventName type="setDelay">20</eventName>
          <frameName>Kankuro_Skill04_02.png</frameName>
          <eventName type="setDelay">10</eventName>
@@ -213,7 +213,7 @@
        <coldName type="coldDown">0</coldName>
      </date>
     <frame>
-        <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
         <frameName>Kankuro_Skill05_01.png</frameName>
         <eventName type="setCommand">setInvincible</eventName>
         <eventName type="setDelay">10</eventName>
@@ -250,7 +250,7 @@
         <frame>
             <eventName type="setMonAttack">1</eventName>
             <frameName>Kankuro_Skill10_01.png</frameName>
-            <eventName type="setSound">Audio/Kankuro/kankuro_skill1_1.ogg</eventName>
+            <eventName type="setSound">Audio/Kankuro/kankuro_skill1_1.mp3</eventName>
             <frameName>Kankuro_Skill10_02.png</frameName>
             <eventName type="setDelay">10</eventName>
             <frameName>Kankuro_Skill10_03.png</frameName>

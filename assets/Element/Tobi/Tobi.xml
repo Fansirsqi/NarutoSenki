@@ -92,7 +92,7 @@
         <frame>
             <frameName>Tobi_Float_003.png</frameName>
             <frameName>Tobi_KnockDown_001.png</frameName>
-            <eventName type="setSound">Audio/Tobi/Tobi_dead.ogg</eventName>
+            <eventName type="setSound">Audio/Tobi/Tobi_dead.mp3</eventName>
         </frame>
     </action>
     <action value="nAttack">
@@ -121,25 +121,25 @@
             <frameName>Tobi_NAttack_002.png</frameName>
             <frameName>Tobi_NAttack_003.png</frameName>
             <eventName type="setAttackBox">n_hit</eventName>
-            <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
             <frameName>Tobi_NAttack_004.png</frameName>
             <frameName>Tobi_NAttack_005.png</frameName>
             
             <frameName>Tobi_NAttack_006.png</frameName>
             <eventName type="setMove">8</eventName>
             <frameName>Tobi_NAttack_007.png</frameName>
-            <eventName type="setSound">Audio/Effect/kong.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/kong.mp3</eventName>
             <eventName type="setAttackBox">n_hit</eventName>
             <eventName type="setDelay">1</eventName>
             <frameName>Tobi_NAttack_008.png</frameName>
             <frameName>Tobi_NAttack_009.png</frameName>
             <frameName>Tobi_NAttack_010.png</frameName>
             <frameName>Tobi_NAttack_011.png</frameName>
-            <eventName type="setSound">Audio/Tobi/Tobi_combo.ogg</eventName>
+            <eventName type="setSound">Audio/Tobi/Tobi_combo.mp3</eventName>
             <frameName>Tobi_NAttack_012.png</frameName>
             <eventName type="setMove">16</eventName>
             <eventName type="setAttackBox">ct_hit</eventName>
-            <eventName type="setSound">Audio/Effect/combo3.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/combo3.mp3</eventName>
             <frameName>Tobi_NAttack_013.png</frameName>
             <eventName type="setDelay">20</eventName>
         </frame>
@@ -157,7 +157,7 @@
             <eventName type="setAttackBox">s_hit</eventName>
             <eventName type="setCommand">setInvincible</eventName>
             <frameName>Tobi_Skill02_002.png</frameName>
-            <eventName type="setSound">Audio/Tobi/Tobi_skill1.ogg</eventName>
+            <eventName type="setSound">Audio/Tobi/Tobi_skill1.mp3</eventName>
             <eventName type="setChargeB">96</eventName>
             <eventName type="setAttackBox">s_hit</eventName>
             <frameName>Tobi_Skill02_003.png</frameName>
@@ -205,7 +205,7 @@
             <eventName type="stopJump">80</eventName>
             <frameName>Tobi_Skill05_019.png</frameName>
             <eventName type="setShadow">10</eventName>
-            <eventName type="setSound">Audio/Effect/goukakyu.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/goukakyu.mp3</eventName>
             <frameName>Tobi_Skill05_019.png</frameName>
             <eventName type="setShadow">10</eventName>
             <eventName type="setChargeB">-40</eventName>
@@ -233,7 +233,7 @@
             <frameName>Tobi_Skill05_026.png</frameName>
             <eventName type="setAttackBox">o2_hit</eventName>
             <frameName>Tobi_Skill05_027.png</frameName>
-            <eventName type="setSound">Audio/Effect/goukakyu.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/goukakyu.mp3</eventName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>Tobi_Skill05_028.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
@@ -243,7 +243,7 @@
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>Tobi_Skill05_031.png</frameName>
             <eventName type="setAttackBox">b_hit</eventName>
-            <!--  <eventName type="setCommand">setInvincible</eventName><eventName type="setBuff">17</eventName><frameName>Tobi_Skill03_001.png</frameName><frameName>Tobi_Skill03_002.png</frameName><eventName type="setSound">Audio/Tobi/Tobi_skill3.ogg</eventName><frameName>Tobi_Skill03_003.png</frameName><frameName>Tobi_Skill03_004.png</frameName><frameName>Tobi_Skill03_005.png</frameName><frameName>Tobi_Skill03_006.png</frameName><eventName type="setSkillEffect">sharingan2</eventName><frameName>Tobi_Skill03_007.png</frameName><eventName type="setSound">Audio/Effect/srg2.ogg</eventName><eventName type="setDelay">0</eventName><eventName type="setCommand">reInvincible</eventName>-->
+            <!--  <eventName type="setCommand">setInvincible</eventName><eventName type="setBuff">17</eventName><frameName>Tobi_Skill03_001.png</frameName><frameName>Tobi_Skill03_002.png</frameName><eventName type="setSound">Audio/Tobi/Tobi_skill3.mp3</eventName><frameName>Tobi_Skill03_003.png</frameName><frameName>Tobi_Skill03_004.png</frameName><frameName>Tobi_Skill03_005.png</frameName><frameName>Tobi_Skill03_006.png</frameName><eventName type="setSkillEffect">sharingan2</eventName><frameName>Tobi_Skill03_007.png</frameName><eventName type="setSound">Audio/Effect/srg2.mp3</eventName><eventName type="setDelay">0</eventName><eventName type="setCommand">reInvincible</eventName>-->
         </frame>
     </action>
     <action value="skill04">
@@ -255,9 +255,9 @@
             <coldName type="coldDown">1</coldName>
         </date>
         <frame>
-            <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
             <frameName>Tobi_Skill04_001.png</frameName>
-            <eventName type="setSound">Audio/Tobi/Tobi_skill4.ogg</eventName>
+            <eventName type="setSound">Audio/Tobi/Tobi_skill4.mp3</eventName>
             <frameName>Tobi_Skill04_002.png</frameName>
             <eventName type="setAttackBox">ct_hit</eventName>
             <eventName type="setCommand">findTarget</eventName>
@@ -282,7 +282,7 @@
             <coldName type="coldDown">1</coldName>
         </date>
         <frame>
-            <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
             <frameName>Tobi_Skill05_001.png</frameName>
             <frameName>Tobi_Skill05_002.png</frameName>
             <eventName type="setOugis">10</eventName>
@@ -294,10 +294,10 @@
             <frameName>Tobi_Skill05_006.png</frameName>
             <frameName>Tobi_Skill05_007.png</frameName>
             <frameName>Tobi_Skill05_008.png</frameName>
-            <eventName type="setSound">Audio/Tobi/Tobi_skill5_1.ogg</eventName>
+            <eventName type="setSound">Audio/Tobi/Tobi_skill5_1.mp3</eventName>
             <eventName type="setAttackBox">o_hit</eventName>
             <frameName>Tobi_Skill05_009.png</frameName>
-            <eventName type="setSound">Audio/Effect/goukakyu.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/goukakyu.mp3</eventName>
             <frameName>Tobi_Skill05_010.png</frameName>
             <eventName type="setAttackBox">c_hit</eventName>
             <frameName>Tobi_Skill05_011.png</frameName>
@@ -318,7 +318,7 @@
             <eventName type="setMon">FireRain</eventName>
             <frameName>Tobi_Skill05_019.png</frameName>
             <eventName type="setShadow">10</eventName>
-            <eventName type="setSound">Audio/Effect/goukakyu.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/goukakyu.mp3</eventName>
             <frameName>Tobi_Skill05_019.png</frameName>
             <eventName type="setShadow">10</eventName>
             <frameName>Tobi_Skill05_019.png</frameName>
@@ -332,7 +332,7 @@
             <eventName type="setDelay">1</eventName>
             <frameName>Tobi_Skill05_026.png</frameName>
             <frameName>Tobi_Skill05_027.png</frameName>
-            <eventName type="setSound">Audio/Effect/goukakyu.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/goukakyu.mp3</eventName>
             <eventName type="setAttackBox">b_hit</eventName>
             <frameName>Tobi_Skill05_028.png</frameName>
             <frameName>Tobi_Skill05_029.png</frameName>
@@ -342,7 +342,7 @@
             <frameName>Tobi_Skill05_031.png</frameName>
             <frameName>Tobi_Skill05_032.png</frameName>
             <frameName>Tobi_Skill05_033.png</frameName>
-            <eventName type="setSound">Audio/Tobi/Tobi_skill5_2.ogg</eventName>
+            <eventName type="setSound">Audio/Tobi/Tobi_skill5_2.mp3</eventName>
             <eventName type="setSkillEffect">sharingan3</eventName>
             <eventName type="setDelay">1</eventName>
             <frameName>Tobi_Skill05_034.png</frameName>

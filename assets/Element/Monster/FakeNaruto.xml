@@ -165,7 +165,7 @@
         <coldName type="coldDown">0</coldName>
       </date>
       <frame>
-        <eventName type="setSound">Audio/Naruto/naruto_skill1.ogg</eventName>
+        <eventName type="setSound">Audio/Naruto/naruto_skill1.mp3</eventName>
         <frameName>NarutoRassengan_01.png</frameName>
         <eventName type="setCharge">25</eventName> 
         <frameName>NarutoRassengan_02.png</frameName>
@@ -189,7 +189,7 @@
         <frameName>NarutoRassenganExplosion_05.png</frameName>
         <frameName>Naruto_Idle_01.png</frameName>
         <frameName>NarutoSkll2Left_01.png</frameName>
-        <eventName type="setSound">Audio/Naruto/poof.ogg</eventName>
+        <eventName type="setSound">Audio/Naruto/poof.mp3</eventName>
         <frameName>NarutoSkll2Left_02.png</frameName>
         <frameName>NarutoSkll2Left_03.png</frameName>
         <frameName>NarutoSkll2Left_04.png</frameName>

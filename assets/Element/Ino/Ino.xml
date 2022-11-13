@@ -33,7 +33,7 @@
         <eventName type="setMove">32</eventName>
         <frameName>Ino_Hurt_01.png</frameName>
         <frameName>Ino_Hurt_02.png</frameName>
-        <eventName type="setSound">Audio/Ino/Ino_hurt.ogg</eventName>
+        <eventName type="setSound">Audio/Ino/Ino_hurt.mp3</eventName>
       </frame>
     </action>
    
@@ -69,7 +69,7 @@
       <frame>
           <frameName>Ino_KnockDown_001.png</frameName>
           <frameName>Ino_KnockDown_002.png</frameName>
-          <eventName type="setSound">Audio/Ino/Ino_dead.ogg</eventName>
+          <eventName type="setSound">Audio/Ino/Ino_dead.mp3</eventName>
       </frame>
     </action>
    
@@ -94,15 +94,15 @@
           <frameName>Ino_NAttack_008.png</frameName>
           <frameName>Ino_NAttack_009.png</frameName>
           <eventName type="setAttackBox">n_hit</eventName>
-          <eventName type="setSound">Audio/Effect/combo2.ogg</eventName>
+          <eventName type="setSound">Audio/Effect/combo2.mp3</eventName>
           <frameName>Ino_NAttack_010.png</frameName>
           <frameName>Ino_NAttack_011.png</frameName>
-          <eventName type="setSound">Audio/Ino/Ino_combo.ogg</eventName>
+          <eventName type="setSound">Audio/Ino/Ino_combo.mp3</eventName>
           <eventName type="setMove">16</eventName>
           <frameName>Ino_NAttack_012.png</frameName>
           <frameName>Ino_NAttack_013.png</frameName>
           <eventName type="setAttackBox">l_hit</eventName>
-          <eventName type="setSound">Audio/Effect/combo3.ogg</eventName>
+          <eventName type="setSound">Audio/Effect/combo3.mp3</eventName>
           <frameName>Ino_NAttack_014.png</frameName>
           <frameName>Ino_NAttack_015.png</frameName>
       </frame>
@@ -117,7 +117,7 @@
        <coldName type="coldDown">10</coldName>
      </date>
      <frame>
-        <eventName type="setSound">Audio/Ino/Ino_skill1.ogg</eventName>
+        <eventName type="setSound">Audio/Ino/Ino_skill1.mp3</eventName>
         <frameName>Ino_Skill01_001.png</frameName>
         <frameName>Ino_Skill01_002.png</frameName>
         <frameName>Ino_Skill01_003.png</frameName>
@@ -126,7 +126,7 @@
         <frameName>Ino_Skill01_006.png</frameName>
         <eventName type="setChargeB">96</eventName>
         <eventName type="setAttackBox">c_hit</eventName>
-        <eventName type="setSound">Audio/Effect/damage_l.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/damage_l.mp3</eventName>
         <eventName type="setDelay">10</eventName>
         <frameName>Ino_Skill01_007.png</frameName>
         <eventName type="setChargeB">96</eventName>
@@ -135,7 +135,7 @@
         <frameName>Ino_Skill01_008.png</frameName>
         <eventName type="setChargeB">96</eventName>
         <eventName type="setAttackBox">c_hit</eventName>
-        <eventName type="setSound">Audio/Effect/damage_l.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/damage_l.mp3</eventName>
         <eventName type="setDelay">10</eventName>
         <frameName>Ino_Skill01_009.png</frameName>
         <eventName type="setChargeB">96</eventName>
@@ -156,7 +156,7 @@
           <coldName type="coldDown">15</coldName>
         </date>
         <frame>
-        <eventName type="setSound">Audio/Ino/Ino_skill2.ogg</eventName>
+        <eventName type="setSound">Audio/Ino/Ino_skill2.mp3</eventName>
         <frameName>Ino_Skill02_001.png</frameName>
         <frameName>Ino_Skill02_002.png</frameName>
         <frameName>Ino_Skill02_003.png</frameName>
@@ -183,7 +183,7 @@
         <frame>
         <frameName>Ino_Skill03_001.png</frameName>
         <frameName>Ino_Skill03_002.png</frameName>
-        <eventName type="setSound">Audio/Ino/Ino_skill3.ogg</eventName>  
+        <eventName type="setSound">Audio/Ino/Ino_skill3.mp3</eventName>  
         <frameName>Ino_Skill03_003.png</frameName>
         <eventName type="setChargeB">192</eventName>
         <frameName>Ino_Skill03_004.png</frameName>
@@ -195,7 +195,7 @@
         <frameName>Ino_Skill03_009.png</frameName>
         <frameName>Ino_Skill03_010.png</frameName>
         <frameName>Ino_Skill03_011.png</frameName>
-         <eventName type="setSound">Audio/Ino/Ino_skill3_1.ogg</eventName>  
+         <eventName type="setSound">Audio/Ino/Ino_skill3_1.mp3</eventName>  
         <eventName type="setAttackBox">f_hit</eventName>
         <frameName>Ino_Skill03_012.png</frameName>
         <frameName>Ino_Skill03_013.png</frameName>
@@ -203,7 +203,7 @@
         <frameName>Ino_Skill03_015.png</frameName>
         <eventName type="setJump">true</eventName>
         <frameName>Ino_Skill03_016.png</frameName>
-         <eventName type="setSound">Audio/Ino/Ino_skill3_2.ogg</eventName>  
+         <eventName type="setSound">Audio/Ino/Ino_skill3_2.mp3</eventName>  
         <eventName type="setAttackBox">ac_hit</eventName>
         <eventName type="setDelay">10</eventName>
         <frameName>Ino_Skill03_017.png</frameName>
@@ -225,14 +225,14 @@
         <coldName type="coldDown">1</coldName>
      </date>
      <frame>
-          <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+          <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
           <frameName>Ino_Skill04_01.png</frameName>
           <frameName>Ino_Skill04_02.png</frameName>
           <eventName type="setCommand">findTarget</eventName> 
           <eventName type="setCommand">setTransport</eventName>
           <frameName>Ino_Skill04_03.png</frameName>
           <frameName>Ino_Skill04_001.png</frameName>
-          <eventName type="setSound">Audio/Ino/Ino_skill4.ogg</eventName>  
+          <eventName type="setSound">Audio/Ino/Ino_skill4.mp3</eventName>  
           <eventName type="setAttackBox">c_hit</eventName>
           <frameName>Ino_Skill04_002.png</frameName>
           <frameName>Ino_Skill04_003.png</frameName>
@@ -263,7 +263,7 @@
        <coldName type="coldDown">1</coldName>
      </date>
      <frame>
-        <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
         <frameName>Ino_Skill05_001.png</frameName>
         <eventName type="setCommand">setInvincible</eventName>
         <frameName>Ino_Skill05_002.png</frameName>

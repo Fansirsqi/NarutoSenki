@@ -69,7 +69,7 @@
         <frameName>all_use.png</frameName>
         <frameName>all_use.png</frameName>
         <frameName>NarutoSkll2Left_01.png</frameName>
-        <eventName type="setSound">Audio/Naruto/poof.ogg</eventName>
+        <eventName type="setSound">Audio/Naruto/poof.mp3</eventName>
         <frameName>NarutoSkll2Left_02.png</frameName>
         <frameName>NarutoSkll2Left_03.png</frameName>
         <frameName>NarutoSkll2Left_04.png</frameName>
@@ -87,7 +87,7 @@
         <frameName>NarutoIncomingBunshen_06.png</frameName>
         <frameName>NarutoIncomingRassengan_00.png</frameName>
         <eventName type="setAttackBox">l_hit</eventName>
-        <eventName type="setSound">Audio/Naruto/Naruto_s4_sfx_01.ogg</eventName>
+        <eventName type="setSound">Audio/Naruto/Naruto_s4_sfx_01.mp3</eventName>
         <frameName>NarutoIncomingRassengan_01.png</frameName>
         <eventName type="setAttackBox">l_hit</eventName>
         <frameName>NarutoIncomingRassengan_02.png</frameName>
@@ -98,7 +98,7 @@
         <frameName>NarutoIncomingRassengan_06.png</frameName>
         <frameName>NarutoRassengan_01.png</frameName>
         <eventName type="setCharge">25</eventName> 
-        <eventName type="setSound">Audio/Naruto/naruto_skill1.ogg</eventName>
+        <eventName type="setSound">Audio/Naruto/naruto_skill1.mp3</eventName>
         <frameName>NarutoRassengan_02.png</frameName>
         <eventName type="setCharge">20</eventName> 
         <eventName type="setAttackBox">o_hit</eventName>
@@ -120,7 +120,7 @@
         <frameName>NarutoRassenganExplosion_05.png</frameName>
         <frameName>Naruto_Idle_01.png</frameName>
         <frameName>NarutoSkll2Left_01.png</frameName>
-        <eventName type="setSound">Audio/Naruto/poof.ogg</eventName>
+        <eventName type="setSound">Audio/Naruto/poof.mp3</eventName>
         <frameName>NarutoSkll2Left_02.png</frameName>
         <frameName>NarutoSkll2Left_03.png</frameName>
         <frameName>NarutoSkll2Left_04.png</frameName>

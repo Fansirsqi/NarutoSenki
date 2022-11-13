@@ -31,7 +31,7 @@
         <frameName>Shikamaru_Hurt_01.png</frameName>
         <frameName>Shikamaru_Hurt_02.png</frameName>
         <frameName>Shikamaru_Hurt_03.png</frameName>
-        <eventName type="setSound">Audio/Shikamaru/Shikamaru_hurt.ogg</eventName>
+        <eventName type="setSound">Audio/Shikamaru/Shikamaru_hurt.mp3</eventName>
       </frame>
     </action>
    
@@ -67,7 +67,7 @@
       <frame>
           <frameName>Shikamaru_KnockDown_01.png</frameName>
           <frameName>Shikamaru_KnockDown_02.png</frameName>
-          <eventName type="setSound">Audio/Shikamaru/Shikamaru_dead.ogg</eventName>
+          <eventName type="setSound">Audio/Shikamaru/Shikamaru_dead.mp3</eventName>
       </frame>
     </action>
    
@@ -85,13 +85,13 @@
         <frameName>Shikamaru_NAttack_03.png</frameName>
         <frameName>Shikamaru_NAttack_04.png</frameName>
         <eventName type="setAttackBox">n_hit</eventName>
-        <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
         <frameName>Shikamaru_NAttack_05.png</frameName>
         <frameName>Shikamaru_NAttack_06.png</frameName>
         <frameName>Shikamaru_NAttack_07.png</frameName>
          <eventName type="setMove">8</eventName>
         <frameName>Shikamaru_NAttack_08.png</frameName>
-        <eventName type="setSound">Audio/Effect/combo2.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo2.mp3</eventName>
          <eventName type="setAttackBox">n_hit</eventName>
         <frameName>Shikamaru_NAttack_09.png</frameName>
         <frameName>Shikamaru_NAttack_10.png</frameName>
@@ -99,11 +99,11 @@
         <frameName>Shikamaru_NAttack_12.png</frameName>
         <eventName type="setMove">16</eventName>
         <frameName>Shikamaru_NAttack_13.png</frameName>
-        <eventName type="setSound">Audio/Shikamaru/Shikamaru_combo.ogg</eventName>
+        <eventName type="setSound">Audio/Shikamaru/Shikamaru_combo.mp3</eventName>
         <frameName>Shikamaru_NAttack_14.png</frameName>
         <frameName>Shikamaru_NAttack_15.png</frameName>
         <eventName type="setAttackBox">l_hit</eventName>
-        <eventName type="setSound">Audio/Effect/combo3.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo3.mp3</eventName>
         <frameName>Shikamaru_NAttack_16.png</frameName>
         <frameName>Shikamaru_NAttack_17.png</frameName>
         <frameName>Shikamaru_NAttack_18.png</frameName>
@@ -119,7 +119,7 @@
             <coldName type="coldDown">20</coldName>
      </date>
      <frame>
-        <eventName type="setSound">Audio/Shikamaru/Shikamaru_skill01.ogg</eventName>
+        <eventName type="setSound">Audio/Shikamaru/Shikamaru_skill01.mp3</eventName>
         <frameName>Shikamaru_Skill01_01.png</frameName>
         <frameName>Shikamaru_Skill01_02.png</frameName>
         <frameName>Shikamaru_Skill01_03.png</frameName>
@@ -142,9 +142,9 @@
             <coldName type="coldDown">15</coldName>
         </date>
         <frame>
-        <eventName type="setSound">Audio/Shikamaru/Shikamaru_skill02.ogg</eventName>
+        <eventName type="setSound">Audio/Shikamaru/Shikamaru_skill02.mp3</eventName>
         <frameName>Shikamaru_Skill02_01.png</frameName>
-        <eventName type="setSound">Audio/Shikamaru/yingzi.ogg</eventName>
+        <eventName type="setSound">Audio/Shikamaru/yingzi.mp3</eventName>
         <frameName>Shikamaru_Skill02_02.png</frameName>
         <frameName>Shikamaru_Skill02_03.png</frameName>
         <frameName>Shikamaru_Skill02_04.png</frameName>
@@ -173,9 +173,9 @@
             <coldName type="coldDown">20</coldName>
         </date>
         <frame>
-        <eventName type="setSound">Audio/Shikamaru/Shikamaru_skill03.ogg</eventName>
+        <eventName type="setSound">Audio/Shikamaru/Shikamaru_skill03.mp3</eventName>
         <frameName>Shikamaru_Skill03_01.png</frameName>
-        <eventName type="setSound">Audio/Shikamaru/yingzi.ogg</eventName>
+        <eventName type="setSound">Audio/Shikamaru/yingzi.mp3</eventName>
         <frameName>Shikamaru_Skill03_02.png</frameName>
         <eventName type="setMon">Kage</eventName>
         <eventName type="setDelay">20</eventName>
@@ -191,15 +191,15 @@
        <coldName type="coldDown">1</coldName>
      </date>
      <frame>
-      <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+      <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
       <frameName>Shikamaru_Skill04_01.png</frameName>
-      <eventName type="setSound">Audio/Shikamaru/Shikamaru_skill04.ogg</eventName>
+      <eventName type="setSound">Audio/Shikamaru/Shikamaru_skill04.mp3</eventName>
       <eventName type="setJump">true</eventName>
       <frameName>Shikamaru_Skill04_02.png</frameName>
       <frameName>Shikamaru_Skill04_03.png</frameName>
       <eventName type="setDelay">10</eventName>
       <frameName>Shikamaru_Skill04_04.png</frameName>
-     <eventName type="setSound">Audio/Effect/kuwu.ogg</eventName>
+     <eventName type="setSound">Audio/Effect/kuwu.mp3</eventName>
       <eventName type="setMon">QuanRen</eventName>
       <frameName>Shikamaru_Skill04_05.png</frameName>
       <frameName>Shikamaru_Skill04_06.png</frameName>
@@ -216,7 +216,7 @@
        <coldName type="coldDown">1</coldName>
       </date>
       <frame>
-        <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
         <frameName>Shikamaru_Skill05_01.png</frameName>
         <eventName type="setCommand">setInvincible</eventName>
         <eventName type="setOugis">10</eventName>
@@ -227,10 +227,10 @@
         <frameName>Shikamaru_Skill03_01.png</frameName>
         <eventName type="setDelay">10</eventName>
         <frameName>Shikamaru_Skill03_02.png</frameName>
-         <eventName type="setSound">Audio/Shikamaru/Shikamaru_skill5.ogg</eventName>
+         <eventName type="setSound">Audio/Shikamaru/Shikamaru_skill5.mp3</eventName>
         <eventName type="setDelay">10</eventName>
         <eventName type="setTrap">KageBom</eventName>
-        <eventName type="setSound">Audio/Shikamaru/yingzi.ogg</eventName>
+        <eventName type="setSound">Audio/Shikamaru/yingzi.mp3</eventName>
         <eventName type="setDelay">600</eventName>
         <eventName type="setCommand">reInvincible</eventName>
       </frame>

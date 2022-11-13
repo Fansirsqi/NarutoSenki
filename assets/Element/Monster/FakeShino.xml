@@ -64,7 +64,7 @@
       </date>
       <frame>
         <frameName>BugClone_Move_001.png</frameName>
-         <eventName type="setSound">Audio/Shino/Shino_skill2_1.ogg</eventName>
+         <eventName type="setSound">Audio/Shino/Shino_skill2_1.mp3</eventName>
         <eventName type="setAttackBox">s_hit</eventName>
         <frameName>BugClone_Move_002.png</frameName>
         <frameName>BugClone_Move_003.png</frameName>

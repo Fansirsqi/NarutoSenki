@@ -40,7 +40,7 @@
             <eventName type="setMove">32</eventName>
             <frameName>ImmortalSasuke_Hurt_01.png</frameName>
             <frameName>ImmortalSasuke_Hurt_02.png</frameName>
-            <eventName type="setSound">Audio/Sasuke/sasuke_hurt.ogg</eventName>
+            <eventName type="setSound">Audio/Sasuke/sasuke_hurt.mp3</eventName>
         </frame>
     </action>
     <action value="AirHurt">
@@ -60,16 +60,16 @@
             <frameName>ImmortalSasuke_KnockDown_04.png</frameName>
             <frameName>ImmortalSasuke_KnockDown_05.png</frameName>
             <frameName>ImmortalSasuke_KnockDown_06.png</frameName>
-            <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
             <frameName>ImmortalSasuke_Skill04_01.png</frameName>
             <frameName>ImmortalSasuke_Skill04_02.png</frameName>
             <eventName type="setSkillEffect">sharingan4</eventName>
             <frameName>ImmortalSasuke_Skill04_03.png</frameName>
-            <eventName type="setSound">Audio/ImmortalSasuke/ImmortalSasuke_skill4.ogg</eventName>
+            <eventName type="setSound">Audio/ImmortalSasuke/ImmortalSasuke_skill4.mp3</eventName>
             <eventName type="setDelay">5</eventName>
             <frameName>ImmortalSasuke_Skill04_04.png</frameName>
             <eventName type="setTrap">Amaterasu</eventName>
-            <eventName type="setSound">Audio/Effect/srg.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/srg.mp3</eventName>
             <frameName>ImmortalSasuke_Skill04_05.png</frameName>
             <eventName type="setCommand">findTarget</eventName>
             <eventName type="setCommand">setTransport</eventName>
@@ -77,7 +77,7 @@
             <frameName>ImmortalSasuke_Skill04_07.png</frameName>
             <frameName>ImmortalSasuke_Skill04_08.png</frameName>
             <frameName>ImmortalSasuke_Skill04_09.png</frameName>
-            <eventName type="setSound">Audio/Effect/blade_damage.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/blade_damage.mp3</eventName>
             <eventName type="setAttackBox">b_hit</eventName>
             <frameName>ImmortalSasuke_Skill04_10.png</frameName>
             <eventName type="setCommand">reInvincible</eventName>
@@ -97,7 +97,7 @@
             <frameName>ImmortalSasuke_KnockDown_01.png</frameName>
             <frameName>ImmortalSasuke_KnockDown_02.png</frameName>
             <frameName>ImmortalSasuke_KnockDown_03.png</frameName>
-            <eventName type="setSound">Audio/Sasuke/sasuke_dead.ogg</eventName>
+            <eventName type="setSound">Audio/Sasuke/sasuke_dead.mp3</eventName>
         </frame>
     </action>
     <action value="nAttack">
@@ -114,7 +114,7 @@
             <frameName>ImmortalSasuke_NAttack_02.png</frameName>
             <frameName>ImmortalSasuke_NAttack_03.png</frameName>
             <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setSound">Audio/Effect/kong.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/kong.mp3</eventName>
             <frameName>ImmortalSasuke_NAttack_04.png</frameName>
             <frameName>ImmortalSasuke_NAttack_05.png</frameName>
             <eventName type="setAttackBox">l_hit</eventName>
@@ -124,7 +124,7 @@
             <eventName type="setMove">8</eventName>
             <frameName>ImmortalSasuke_NAttack_09.png</frameName>
             <eventName type="setAttackBox">l_hit</eventName>
-            <eventName type="setSound">Audio/Effect/kong.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/kong.mp3</eventName>
             <frameName>ImmortalSasuke_NAttack_10.png</frameName>
             <frameName>ImmortalSasuke_NAttack_11.png</frameName>
             <eventName type="setAttackBox">l_hit</eventName>
@@ -136,7 +136,7 @@
             <eventName type="setAttackBox">l_hit</eventName>
             <frameName>ImmortalSasuke_NAttack_16.png</frameName>
             <eventName type="setAttackBox">l_hit</eventName>
-            <eventName type="setSound">Audio/Sasuke/sasuke_combo.ogg</eventName>
+            <eventName type="setSound">Audio/Sasuke/sasuke_combo.mp3</eventName>
             <frameName>ImmortalSasuke_NAttack_17.png</frameName>
             <frameName>ImmortalSasuke_NAttack_18.png</frameName>
             <eventName type="setAttackBox">l_hit</eventName>
@@ -155,7 +155,7 @@
             <!-- 佐助位原地并踹飞敌人后起跳用短刀攻击敌方 -->
             <frameName>ImmortalSasuke_Skill01_01.png</frameName>
             <frameName>ImmortalSasuke_Skill01_02.png</frameName>
-            <eventName type="setSound">Audio/ImmortalSasuke/ImmortalSasuke_skill1_1.ogg</eventName>
+            <eventName type="setSound">Audio/ImmortalSasuke/ImmortalSasuke_skill1_1.mp3</eventName>
             <frameName>ImmortalSasuke_Skill01_03.png</frameName>
             <frameName>ImmortalSasuke_Skill01_04.png</frameName>
             <eventName type="setAttackBox">f2_hit</eventName>
@@ -167,21 +167,21 @@
             <frameName>ImmortalSasuke_Skill01_08.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>ImmortalSasuke_Skill01_09.png</frameName>
-            <eventName type="setSound">Audio/ImmortalSasuke/ImmortalSasuke_skill1_2.ogg</eventName>
+            <eventName type="setSound">Audio/ImmortalSasuke/ImmortalSasuke_skill1_2.mp3</eventName>
             <eventName type="setDelay">5</eventName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>ImmortalSasuke_Skill01_10.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
-            <eventName type="setSound">Audio/Effect/stick_damage.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/stick_damage.mp3</eventName>
             <frameName>ImmortalSasuke_Skill01_11.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
-            <eventName type="setSound">Audio/Effect/stick_damage.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/stick_damage.mp3</eventName>
             <frameName>ImmortalSasuke_Skill01_10.png</frameName>
             <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setSound">Audio/Effect/stick_damage.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/stick_damage.mp3</eventName>
             <frameName>ImmortalSasuke_Skill01_11.png</frameName>
             <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setSound">Audio/Effect/stick_damage.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/stick_damage.mp3</eventName>
         </frame>
     </action>
     <action value="skill02">
@@ -195,16 +195,16 @@
         <frame>
             <frameName>ImmortalSasuke_Skill02_01.png</frameName>
             <eventName type="setAttackBox">o2_hit</eventName>
-            <eventName type="setSound">Audio/ImmortalSasuke/ImmortalSasuke_skill2_1.ogg</eventName>
+            <eventName type="setSound">Audio/ImmortalSasuke/ImmortalSasuke_skill2_1.mp3</eventName>
             <frameName>ImmortalSasuke_Skill02_02.png</frameName>
             <frameName>ImmortalSasuke_Skill02_03.png</frameName>
             <frameName>ImmortalSasuke_Skill02_04.png</frameName>
             <frameName>ImmortalSasuke_Skill02_05.png</frameName>
-            <eventName type="setSound">Audio/ImmortalSasuke/ImmortalSasuke_skill2.ogg</eventName>
+            <eventName type="setSound">Audio/ImmortalSasuke/ImmortalSasuke_skill2.mp3</eventName>
             <eventName type="setChargeB">192</eventName>
             <frameName>ImmortalSasuke_Skill02_06.png</frameName>
             <frameName>ImmortalSasuke_Skill02_07.png</frameName>
-            <eventName type="setSound">Audio/ImmortalSasuke/ImmortalSasuke_skill2_2.ogg</eventName>
+            <eventName type="setSound">Audio/ImmortalSasuke/ImmortalSasuke_skill2_2.mp3</eventName>
             <eventName type="setAttackBox">c_hit</eventName>
             <eventName type="setDelay">10</eventName>
             <frameName>ImmortalSasuke_Skill02_08.png</frameName>
@@ -229,12 +229,12 @@
         </date>
         <frame>
             <!-- 佐助主动释放被动并开启嘲讽 -->
-            <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
             <frameName>ImmortalSasuke_Skill04_01.png</frameName>
             <frameName>ImmortalSasuke_Skill04_02.png</frameName>
             <eventName type="setSkillEffect">sharingan4</eventName>
             <frameName>ImmortalSasuke_Skill04_03.png</frameName>
-            <eventName type="setSound">Audio/ImmortalSasuke/ImmortalSasuke_skill4.ogg</eventName>
+            <eventName type="setSound">Audio/ImmortalSasuke/ImmortalSasuke_skill4.mp3</eventName>
             <eventName type="setDelay">5</eventName>
             <frameName>ImmortalSasuke_Skill04_04.png</frameName>
             
@@ -256,7 +256,7 @@
             
             <eventName type="setMon">Amaterasub</eventName>
             
-            <eventName type="setSound">Audio/Effect/srg.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/srg.mp3</eventName>
             <frameName>ImmortalSasuke_Skill04_05.png</frameName>
             <eventName type="setCommand">findTarget</eventName>
             <eventName type="setCommand">setTransport</eventName>
@@ -264,14 +264,14 @@
             <frameName>ImmortalSasuke_Skill04_07.png</frameName>
             <frameName>ImmortalSasuke_Skill04_08.png</frameName>
             <frameName>ImmortalSasuke_Skill04_09.png</frameName>
-            <eventName type="setSound">Audio/Effect/blade_damage.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/blade_damage.mp3</eventName>
             <eventName type="setAttackBox">b_hit</eventName>
             <frameName>ImmortalSasuke_Skill04_10.png</frameName>
-            <eventName type="setSound">Audio/ImmortalSasuke/ImmortalSasuke_skill3.ogg</eventName>
+            <eventName type="setSound">Audio/ImmortalSasuke/ImmortalSasuke_skill3.mp3</eventName>
             <frameName>ImmortalSasuke_Skill03_01.png</frameName>
             <frameName>ImmortalSasuke_Skill03_02.png</frameName>
             <eventName type="setSkillEffect">sharingan4</eventName>
-            <eventName type="setSound">Audio/Effect/srg2.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/srg2.mp3</eventName>
             <frameName>ImmortalSasuke_Skill03_03.png</frameName>
             <eventName type="setDelay">5</eventName>
             <frameName>ImmortalSasuke_Skill03_04.png</frameName>
@@ -290,13 +290,13 @@
         <frame>
             <!-- 佐助直接恢复所有Hp开启天照怒视一切,途中会损耗自身血量可能会挂 -->
             <eventName type="setCommand">addHP</eventName>
-            <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
             <frameName>ImmortalSasuke_Skill04_01.png</frameName>
             <eventName type="setTrap">Amaterasu</eventName>
             <frameName>ImmortalSasuke_Skill04_02.png</frameName>
             <eventName type="setSkillEffect">sharingan4</eventName>
             <frameName>ImmortalSasuke_Skill04_03.png</frameName>
-            <eventName type="setSound">Audio/ImmortalSasuke/ImmortalSasuke_skill4.ogg</eventName>
+            <eventName type="setSound">Audio/ImmortalSasuke/ImmortalSasuke_skill4.mp3</eventName>
             <eventName type="setDelay">5</eventName>
             <frameName>ImmortalSasuke_Skill04_04.png</frameName>
             <eventName type="setTrap">Amaterasu</eventName>
@@ -313,7 +313,7 @@
             <eventName type="setDelay">5</eventName>
             <frameName>ImmortalSasuke_Skill04_04.png</frameName>
             <eventName type="setTrap">Amaterasu</eventName>
-            <eventName type="setSound">Audio/Effect/srg.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/srg.mp3</eventName>
             <eventName type="setDelay">5</eventName>
             <frameName>ImmortalSasuke_Skill04_04.png</frameName>
             <eventName type="setTrap">Amaterasu</eventName>
@@ -337,7 +337,7 @@
             <frameName>ImmortalSasuke_Skill04_04.png</frameName>
             <eventName type="setTrap">Amaterasu</eventName>
             <eventName type="setDelay">5</eventName>
-            <eventName type="setSound">Audio/Effect/srg.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/srg.mp3</eventName>
             <frameName>ImmortalSasuke_Skill04_04.png</frameName>
             <eventName type="setTrap">Amaterasu</eventName>
             <eventName type="setDelay">5</eventName>
@@ -399,7 +399,7 @@
             <eventName type="setTrap">Amaterasu</eventName>
             <frameName>ImmortalSasuke_Skill04_04.png</frameName>
             <eventName type="setTrap">Amaterasu</eventName>
-            <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
             <frameName>ImmortalSasuke_Skill05_01.png</frameName>
             <eventName type="setDelay">10</eventName>
             <frameName>ImmortalSasuke_Skill05_02.png</frameName>
@@ -421,7 +421,7 @@
             <eventName type="setTrap">Amaterasu</eventName>
             <frameName>ImmortalSasuke_Skill05_07.png</frameName>
             <eventName type="setBuff">18</eventName>
-            <eventName type="setSound">Audio/Itachi/itachi_skill5_1.ogg</eventName>
+            <eventName type="setSound">Audio/Itachi/itachi_skill5_1.mp3</eventName>
             <eventName type="setMon">SasukeSusano</eventName>
             <eventName type="setCommand">reInvincible</eventName>
         </frame>
@@ -451,7 +451,7 @@
             <frameName>ImmortalSasuke_Skill10_01.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>ImmortalSasuke_Skill10_02.png</frameName>
-            <eventName type="setSound">Audio/Sasuke/sasuke_skill10.ogg</eventName>
+            <eventName type="setSound">Audio/Sasuke/sasuke_skill10.mp3</eventName>
             <frameName>ImmortalSasuke_Skill10_03.png</frameName>
             <eventName type="setMon">Amaterasub</eventName>
             <eventName type="setTrap">Amaterasu</eventName>
@@ -481,7 +481,7 @@
             <frameName>ImmortalSasuke_Skill11_02.png</frameName>
             <eventName type="setDelay">0</eventName>
             <eventName type="setAttackBox">ac_hit</eventName>
-            <eventName type="setSound">Audio/Effect/damage_l.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/damage_l.mp3</eventName>
             <eventName type="setDelay">1</eventName>
         </frame>
     </action>

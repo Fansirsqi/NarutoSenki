@@ -57,11 +57,11 @@
       <frame>
         <frameName>SandBall_Move_01.png</frameName>
         <eventName type="setAttackBox">c_hit</eventName>
-        <eventName type="setSound">Audio/Effect/damage_l.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/damage_l.mp3</eventName>
         <frameName>SandBall_Move_02.png</frameName>
         <frameName>SandBall_Move_03.png</frameName>
          <eventName type="setAttackBox">c_hit</eventName>
-         <eventName type="setSound">Audio/Effect/damage_l.ogg</eventName>
+         <eventName type="setSound">Audio/Effect/damage_l.mp3</eventName>
         <frameName>SandBall_Move_05.png</frameName>
         <frameName>SandBall_Move_06.png</frameName>
          <eventName type="setAttackBox">ct_hit</eventName>

@@ -44,7 +44,7 @@
         </date>
         <frame>
             <eventName type="setAttackBox">f2_hit</eventName>
-            <eventName type="setSound">Audio/Neji/Neji_skill5_5.ogg</eventName>
+            <eventName type="setSound">Audio/Neji/Neji_skill5_5.mp3</eventName>
             <eventName type="setCharge">96</eventName>
             <frameName>Hasan_Move_01.png</frameName>
             <eventName type="setAttackBox">c_hit</eventName>

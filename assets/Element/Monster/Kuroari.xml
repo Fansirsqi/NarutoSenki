@@ -57,7 +57,7 @@
         <frameName>Kuroari_Move_02.png</frameName>
         <frameName>Kuroari_Move_03.png</frameName>
         <eventName type="setDelay">10</eventName>
-        <eventName type="setSound">Audio/Effect/kuroari.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/kuroari.mp3</eventName>
         <eventName type="setAttackBox">ct_hit</eventName>
         <frameName>Kuroari_Move_04.png</frameName>
         <eventName type="setDelay">310</eventName>

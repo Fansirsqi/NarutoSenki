@@ -61,7 +61,7 @@
           <frameName>KageBom_Move_04.png</frameName>
           <eventName type="setDelay">530</eventName>
           <frameName>KageBom_Move_05.png</frameName>
-          <eventName type="setSound">Audio/Effect/bom.ogg</eventName>
+          <eventName type="setSound">Audio/Effect/bom.mp3</eventName>
           <frameName>KageBom_Move_06.png</frameName>
           <frameName>KageBom_Move_07.png</frameName>
           <eventName type="setAttackBox">c_hit</eventName>

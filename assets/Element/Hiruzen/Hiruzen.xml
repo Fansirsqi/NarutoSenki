@@ -101,22 +101,22 @@
         </date>
         <frame>
             <frameName>Hiru_Skill01_001.png</frameName>
-            <eventName type="setSound">Audio/Hiruzen/Jutsu.ogg</eventName>
+            <eventName type="setSound">Audio/Hiruzen/Jutsu.mp3</eventName>
             <frameName>Hiru_Skill01_002.png</frameName>
-            <eventName type="setSound">Audio/Hiruzen/Jutsu.ogg</eventName>
+            <eventName type="setSound">Audio/Hiruzen/Jutsu.mp3</eventName>
             <frameName>Hiru_Skill01_003.png</frameName>
-            <eventName type="setSound">Audio/Hiruzen/Jutsu.ogg</eventName>
+            <eventName type="setSound">Audio/Hiruzen/Jutsu.mp3</eventName>
             <frameName>Hiru_Skill01_004.png</frameName>
-            <eventName type="setSound">Audio/Hiruzen/Jutsu.ogg</eventName>
+            <eventName type="setSound">Audio/Hiruzen/Jutsu.mp3</eventName>
             <frameName>Hiru_Skill01_005.png</frameName>
-            <eventName type="setSound">Audio/Hiruzen/Jutsu.ogg</eventName>
+            <eventName type="setSound">Audio/Hiruzen/Jutsu.mp3</eventName>
             <frameName>Hiru_Skill01_006.png</frameName>
-            <eventName type="setSound">Audio/Hiruzen/Jutsu.ogg</eventName>
+            <eventName type="setSound">Audio/Hiruzen/Jutsu.mp3</eventName>
             <frameName>Hiru_Skill01_007.png</frameName>
             <eventName type="setSound">Audio/Hiruzen/Hiruzen_skill1.mp3</eventName>
             <eventName type="setCommand">setInvincible</eventName>
             <frameName>Hiru_Skill01_008.png</frameName>
-            <eventName type="setSound">Audio/Hiruzen/poof2.ogg</eventName>
+            <eventName type="setSound">Audio/Hiruzen/poof2.mp3</eventName>
             <frameName>Hiru_Skill01_009.png</frameName>
             <frameName>Hiru_Skill01_010.png</frameName>
             <frameName>Hiru_Skill01_011.png</frameName>
@@ -138,7 +138,7 @@
             <eventName type="setAttackBox">a_hit</eventName>
             <frameName>Hiru_Skill01_024.png</frameName>
             <frameName>Hiru_Skill01_025.png</frameName>
-            <eventName type="setSound">Audio/Hiruzen/bom.ogg</eventName>
+            <eventName type="setSound">Audio/Hiruzen/bom.mp3</eventName>
             <eventName type="setAttackBox">b_hit</eventName>
             <frameName>Hiru_Skill01_026.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
@@ -152,7 +152,7 @@
             <eventName type="setAttackBox">f2_hit</eventName>
             <frameName>Hiru_Skill01_031.png</frameName>
             <frameName>Hiru_Skill01_032.png</frameName>
-            <eventName type="setSound">Audio/Hiruzen/poof2.ogg</eventName>
+            <eventName type="setSound">Audio/Hiruzen/poof2.mp3</eventName>
             <frameName>Hiru_Skill01_033.png</frameName>
             <eventName type="setSound">Audio/Hiruzen/Hiruzen_skill1_3.mp3</eventName>
             <frameName>Hiru_Skill01_034.png</frameName>
@@ -174,7 +174,7 @@
         <frame>
             <eventName type="setCommand">setInvincible</eventName>
             <eventName type="setSound">Audio/Hiruzen/Hiruzen raiton.mp3</eventName>
-            <eventName type="setSound">Audio/Hiruzen/IntonSFX2.ogg</eventName>
+            <eventName type="setSound">Audio/Hiruzen/IntonSFX2.mp3</eventName>
             <frameName>Hiru_Skill02_001.png</frameName>
             <frameName>Hiru_Skill02_002.png</frameName>
             <eventName type="setAttackBox">ab_hit</eventName>
@@ -237,7 +237,7 @@
             <frameName>Hiru_Skill03_010.png</frameName>
             <frameName>Hiru_Skill03_011.png</frameName>
             <frameName>Hiru_Skill03_012.png</frameName>
-            <eventName type="setSound">Audio/Hiruzen/break_sound.ogg</eventName>
+            <eventName type="setSound">Audio/Hiruzen/break_sound.mp3</eventName>
             <eventName type="setAttackBox">b_hit</eventName>
             <frameName>Hiru_Skill03_013.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
@@ -258,7 +258,7 @@
             <frameName>Hiru_Skill03_021.png</frameName>
             <frameName>Hiru_Skill03_022.png</frameName>
             <eventName type="setSound">Audio/Hiruzen/Tang.wav</eventName>
-            <eventName type="setSound">Audio/Hiruzen/Stone.ogg</eventName>
+            <eventName type="setSound">Audio/Hiruzen/Stone.mp3</eventName>
             <eventName type="setAttackBox">f_hit</eventName>
             <frameName>Hiru_Skill03_023.png</frameName>
             <eventName type="setAttackBox">a_hit</eventName>
@@ -291,7 +291,7 @@
             <dateName type="combatPoint">100</dateName>
         </date>
         <frame>
-            <eventName type="setSound">Audio/Hiruzen/Dash Wind.ogg</eventName>
+            <eventName type="setSound">Audio/Hiruzen/Dash Wind.mp3</eventName>
             <frameName>Hiru_Skill04_001.png</frameName>
             <eventName type="setSound">Audio/Hiruzen/Slash dash.mp3</eventName>
             <eventName type="setChargeB">256</eventName>
@@ -342,7 +342,7 @@
             <eventName type="setDelay">5</eventName>
             <eventName type="setCommand">setInvincible</eventName>
             <frameName>Hiru_Skill04_043.png</frameName>
-            <eventName type="setSound">Audio/Hiruzen/Wind.ogg</eventName>
+            <eventName type="setSound">Audio/Hiruzen/Wind.mp3</eventName>
             <eventName type="setSound">Audio/Hiruzen/goukakyu3.mp3</eventName>
             <eventName type="setAttackBox">c_hit</eventName>
             <frameName>Hiru_Skill04_044.png</frameName>
@@ -412,17 +412,17 @@
             <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
             <eventName type="setCommand">setInvincible</eventName>
             <frameName>Hiru_Skill01_001.png</frameName>
-            <eventName type="setSound">Audio/Hiruzen/Jutsu.ogg</eventName>
+            <eventName type="setSound">Audio/Hiruzen/Jutsu.mp3</eventName>
             <frameName>Hiru_Skill01_002.png</frameName>
-            <eventName type="setSound">Audio/Hiruzen/Jutsu.ogg</eventName>
+            <eventName type="setSound">Audio/Hiruzen/Jutsu.mp3</eventName>
             <frameName>Hiru_Skill01_003.png</frameName>
-            <eventName type="setSound">Audio/Hiruzen/Jutsu.ogg</eventName>
+            <eventName type="setSound">Audio/Hiruzen/Jutsu.mp3</eventName>
             <frameName>Hiru_Skill01_004.png</frameName>
-            <eventName type="setSound">Audio/Hiruzen/Jutsu.ogg</eventName>
+            <eventName type="setSound">Audio/Hiruzen/Jutsu.mp3</eventName>
             <frameName>Hiru_Skill01_005.png</frameName>
-            <eventName type="setSound">Audio/Hiruzen/Jutsu.ogg</eventName>
+            <eventName type="setSound">Audio/Hiruzen/Jutsu.mp3</eventName>
             <frameName>Hiru_Skill01_006.png</frameName>
-            <eventName type="setSound">Audio/Hiruzen/Jutsu.ogg</eventName>
+            <eventName type="setSound">Audio/Hiruzen/Jutsu.mp3</eventName>
             <frameName>Hiru_Skill05_001.png</frameName>
             <eventName type="setOugis">10</eventName>
             <frameName>Hiru_Skill05_002.png</frameName>

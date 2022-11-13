@@ -123,7 +123,7 @@
             <frameName>Karasu_Skill02_02.png</frameName>
             <eventName type="setDelay">10</eventName>
             <frameName>Karasu_Skill02_03.png</frameName>
-            <eventName type="setSound">Audio/Effect/kuilei.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/kuilei.mp3</eventName>
             <eventName type="setJump">true</eventName>
             <eventName type="setDelay">30</eventName>
             <frameName>Karasu_Skill02_04.png</frameName>

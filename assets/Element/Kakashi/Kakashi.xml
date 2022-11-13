@@ -30,7 +30,7 @@
         <eventName type="setMove">32</eventName>
         <frameName>Kakashi_Hurt_01.png</frameName>
         <frameName>Kakashi_Hurt_02.png</frameName>
-        <eventName type="setSound">Audio/Kakashi/kakashi_hurt.ogg</eventName>
+        <eventName type="setSound">Audio/Kakashi/kakashi_hurt.mp3</eventName>
       </frame>
     </action>
    
@@ -67,7 +67,7 @@
       <frame>
           <frameName>Kakashi_KnockDown_01.png</frameName>
           <frameName>Kakashi_KnockDown_02.png</frameName>
-          <eventName type="setSound">Audio/Kakashi/kakashi_dead.ogg</eventName>
+          <eventName type="setSound">Audio/Kakashi/kakashi_dead.mp3</eventName>
       </frame>
     </action>
    
@@ -83,21 +83,21 @@
         <frameName>Kakashi_NAttack_01.png</frameName>
         <frameName>Kakashi_NAttack_02.png</frameName>
         <frameName>Kakashi_NAttack_03.png</frameName>
-        <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
         <eventName type="setAttackBox">n_hit</eventName>
         <frameName>Kakashi_NAttack_04.png</frameName>
         <frameName>Kakashi_NAttack_05.png</frameName>
         <frameName>Kakashi_NAttack_06.png</frameName>
         <eventName type="setMove">8</eventName>
         <frameName>Kakashi_NAttack_07.png</frameName>
-        <eventName type="setSound">Audio/Effect/combo2.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo2.mp3</eventName>
         <eventName type="setAttackBox">n_hit</eventName>
         <frameName>Kakashi_NAttack_08.png</frameName>
-        <eventName type="setSound">Audio/Kakashi/kakashi_combo.ogg</eventName>
+        <eventName type="setSound">Audio/Kakashi/kakashi_combo.mp3</eventName>
         <frameName>Kakashi_NAttack_09.png</frameName>
         <eventName type="setMove">16</eventName>
         <frameName>Kakashi_NAttack_10.png</frameName>
-        <eventName type="setSound">Audio/Effect/combo3.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/combo3.mp3</eventName>
         <eventName type="setAttackBox">l_hit</eventName>
         <frameName>Kakashi_NAttack_11.png</frameName>
       </frame>
@@ -116,7 +116,7 @@
         <frameName>Kakashi_Skill01_01.png</frameName>
         <frameName>Kakashi_Skill01_02.png</frameName>
         <frameName>Kakashi_Skill01_03.png</frameName>
-        <eventName type="setSound">Audio/Kakashi/kakashi_skill1.ogg</eventName>
+        <eventName type="setSound">Audio/Kakashi/kakashi_skill1.mp3</eventName>
         <frameName>Kakashi_Skill10_04.png</frameName>
         <eventName type="setCharge">200</eventName>
         <frameName>Kakashi_Skill10_05.png</frameName>
@@ -143,7 +143,7 @@
             <frameName>Kakashi_Skill01_01.png</frameName>
             <frameName>Kakashi_Skill01_02.png</frameName>
             <frameName>Kakashi_Skill01_03.png</frameName>
-            <eventName type="setSound">Audio/Kakashi/kakashi_skill2.ogg</eventName>
+            <eventName type="setSound">Audio/Kakashi/kakashi_skill2.mp3</eventName>
             <frameName>Kakashi_Skill02_01.png</frameName>
             <frameName>Kakashi_Skill02_02.png</frameName>
             <frameName>Kakashi_Skill02_03.png</frameName>
@@ -165,7 +165,7 @@
             <coldName type="coldDown">40</coldName>
         </date>
         <frame>
-            <eventName type="setSound">Audio/Kakashi/kakashi_skill3.ogg</eventName>
+            <eventName type="setSound">Audio/Kakashi/kakashi_skill3.mp3</eventName>
             <frameName>Kakashi_Idle_01.png</frameName>
             <frameName>Kakashi_Skill01_01.png</frameName>
             <frameName>Kakashi_Skill01_02.png</frameName>
@@ -174,7 +174,7 @@
             <frameName>Kakashi_Skill03_02.png</frameName>
             <eventName type="setSkillEffect">sharingan2</eventName>
             <frameName>Kakashi_Skill03_03.png</frameName>
-            <eventName type="setSound">Audio/Effect/srg2.ogg</eventName>
+            <eventName type="setSound">Audio/Effect/srg2.mp3</eventName>
             <eventName type="setDelay">50</eventName>
             <eventName type="setBuff">17</eventName>
         </frame>
@@ -189,7 +189,7 @@
        <coldName type="coldDown">1</coldName>
      </date>
      <frame>
-         <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+         <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
          <frameName>Kakashi_Skill04_01.png</frameName>
          <eventName type="setFont">ike.png</eventName>
          <eventName type="setDelay">20</eventName>
@@ -209,7 +209,7 @@
          <eventName type="setAttackBox">c_hit</eventName>
          <frameName>Kakashi_Skill04_07.png</frameName>
          <eventName type="setFont">jiuwei.png</eventName>
-         <eventName type="setSound">Audio/Kakashi/kakashi_skill4.ogg</eventName>
+         <eventName type="setSound">Audio/Kakashi/kakashi_skill4.mp3</eventName>
          <eventName type="setAttackBox">bl_hit</eventName>
          <frameName>Kakashi_Skill04_08.png</frameName>
          <eventName type="setAttackBox">bl_hit</eventName>
@@ -248,9 +248,9 @@
         <coldName type="coldDown">1</coldName>
         </date>
         <frame>
-        <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
         <frameName>Kakashi_Skill05_02.png</frameName>
-         <eventName type="setSound">Audio/Kakashi/kakashi_skill5_1.ogg</eventName>
+         <eventName type="setSound">Audio/Kakashi/kakashi_skill5_1.mp3</eventName>
         <frameName>Kakashi_Skill05_03.png</frameName>
         <frameName>Kakashi_Skill05_04.png</frameName>
         <frameName>Kakashi_Skill05_05.png</frameName>
@@ -266,12 +266,12 @@
         <frameName>Kakashi_Skill05_07.png</frameName>
         <eventName type="setShadow">10</eventName> 
         <eventName type="setAttackBox">c_hit</eventName>
-        <eventName type="setSound">Audio/Kakashi/kakashi_skill5_3.ogg</eventName>
+        <eventName type="setSound">Audio/Kakashi/kakashi_skill5_3.mp3</eventName>
         <frameName>Kakashi_Skill05_08.png</frameName>
         <eventName type="setShadow">10</eventName> 
         <frameName>Kakashi_Skill05_09.png</frameName>
         <eventName type="setShadow">10</eventName> 
-        <eventName type="setSound">Audio/Kakashi/kakashi_skill5_4.ogg</eventName>
+        <eventName type="setSound">Audio/Kakashi/kakashi_skill5_4.mp3</eventName>
         <eventName type="setAttackBox">c_hit</eventName>
         <frameName>Kakashi_Skill05_10.png</frameName>
         <eventName type="setShadow">10</eventName> 
@@ -305,7 +305,7 @@
         <frameName>Kakashi_Skill05_14.png</frameName>
         <frameName>Kakashi_Skill05_01.png</frameName>
         <eventName type="setSkillEffect">sharingan3</eventName>
-        <eventName type="setSound">Audio/Kakashi/kakashi_skill5_5.ogg</eventName>
+        <eventName type="setSound">Audio/Kakashi/kakashi_skill5_5.mp3</eventName>
         <eventName type="setMon">Shenwei</eventName> 
         <eventName type="setDelay">120</eventName>
          <eventName type="setCommand">reInvincible</eventName>
@@ -339,7 +339,7 @@
             <frameName>Kakashi_Skill10_04.png</frameName>
             <frameName>Kakashi_Skill10_05.png</frameName>
             <frameName>Kakashi_Skill10_06.png</frameName>
-            <eventName type="setSound">Audio/Kakashi/kakashi_skill10.ogg</eventName>
+            <eventName type="setSound">Audio/Kakashi/kakashi_skill10.mp3</eventName>
             <eventName type="setChargeB">192</eventName>
             <eventName type="setAttackBox">o_hit</eventName>
             <frameName>Kakashi_Skill10_07.png</frameName>
@@ -360,7 +360,7 @@
             <coldName type="coldDown">15</coldName>
         </date>
         <frame>
-            <eventName type="setSound">Audio/Kakashi/kakashi_skill11.ogg</eventName>
+            <eventName type="setSound">Audio/Kakashi/kakashi_skill11.mp3</eventName>
             <frameName>Kakashi_Skill02_01.png</frameName>
             <frameName>Kakashi_Skill02_02.png</frameName>
             <frameName>Kakashi_Skill02_03.png</frameName>

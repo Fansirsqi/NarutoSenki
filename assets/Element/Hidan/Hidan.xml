@@ -33,7 +33,7 @@
         <eventName type="setMove">32</eventName>
         <frameName>Hidan_Hurt_01.png</frameName>
         <frameName>Hidan_Hurt_02.png</frameName>
-        <eventName type="setSound">Audio/Hidan/Hidan_hurt.ogg</eventName>
+        <eventName type="setSound">Audio/Hidan/Hidan_hurt.mp3</eventName>
       </frame>
     </action>
    
@@ -69,7 +69,7 @@
       <frame>
           <frameName>Hidan_KnockDown_001.png</frameName>
           <frameName>Hidan_KnockDown_002.png</frameName>
-          <eventName type="setSound">Audio/Hidan/Hidan_dead.ogg</eventName>
+          <eventName type="setSound">Audio/Hidan/Hidan_dead.mp3</eventName>
       </frame>
     </action>
    
@@ -86,7 +86,7 @@
         <frameName>Hidan_NAttack_002.png</frameName>
         <frameName>Hidan_NAttack_003.png</frameName>
         <eventName type="setAttackBox">n_hit</eventName>
-         <eventName type="setSound">Audio/Effect/combo1.ogg</eventName>
+         <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
         <frameName>Hidan_NAttack_004.png</frameName>
         <frameName>Hidan_NAttack_005.png</frameName>
         <frameName>Hidan_NAttack_006.png</frameName>
@@ -96,14 +96,14 @@
         <eventName type="setDelay">10</eventName>
         <frameName>Hidan_NAttack_008.png</frameName>
         <frameName>Hidan_NAttack_009.png</frameName>
-        <eventName type="setSound">Audio/Effect/kong.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/kong.mp3</eventName>
         <frameName>Hidan_NAttack_010.png</frameName>
         <frameName>Hidan_NAttack_011.png</frameName>
-        <eventName type="setSound">Audio/Hidan/Hidan_combo.ogg</eventName>
+        <eventName type="setSound">Audio/Hidan/Hidan_combo.mp3</eventName>
         <eventName type="setMove">16</eventName>
         <frameName>Hidan_NAttack_012.png</frameName>
         <eventName type="setAttackBox">l_hit</eventName>
-        <eventName type="setSound">Audio/Effect/kong.ogg</eventName>
+        <eventName type="setSound">Audio/Effect/kong.mp3</eventName>
         <eventName type="setDelay">10</eventName>
       </frame>
     </action>
@@ -117,7 +117,7 @@
        <coldName type="coldDown">10</coldName>
      </date>
      <frame>
-      <eventName type="setSound">Audio/Hidan/Hidan_skill1.ogg</eventName>
+      <eventName type="setSound">Audio/Hidan/Hidan_skill1.mp3</eventName>
       <eventName type="setCommand">setInvincible</eventName>
       <frameName>Hidan_Skill01_001.png</frameName>
       <eventName type="setDelay">10</eventName>
@@ -139,7 +139,7 @@
           <coldName type="coldDown">15</coldName>
         </date>
         <frame>
-        <eventName type="setSound">Audio/Hidan/Hidan_skill2.ogg</eventName>
+        <eventName type="setSound">Audio/Hidan/Hidan_skill2.mp3</eventName>
         <frameName>Hidan_Skill02_001.png</frameName>
         <frameName>Hidan_Skill02_002.png</frameName>
         <frameName>Hidan_Skill02_003.png</frameName>
@@ -159,7 +159,7 @@
             <coldName type="coldDown">20</coldName>
         </date>
         <frame>
-        <eventName type="setSound">Audio/Hidan/Hidan_skill3.ogg</eventName>
+        <eventName type="setSound">Audio/Hidan/Hidan_skill3.mp3</eventName>
         <frameName>Hidan_Skill03_001.png</frameName>
          <eventName type="setAttackBox">s_hit</eventName>
         <frameName>Hidan_Skill03_002.png</frameName>
@@ -189,7 +189,7 @@
         <coldName type="coldDown">1</coldName>
      </date>
      <frame>
-    <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+    <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
     <frameName>Hidan_Skill04_001.png</frameName>
     <frameName>Hidan_Skill04_002.png</frameName>
     <eventName type="setAttackBox">c_hit</eventName>
@@ -204,7 +204,7 @@
     <frameName>Hidan_Skill04_009.png</frameName>
     <frameName>Hidan_Skill04_010.png</frameName>
     <eventName type="setAttackBox">f_hit</eventName>
-    <eventName type="setSound">Audio/Hidan/Hidan_skill4_1.ogg</eventName>
+    <eventName type="setSound">Audio/Hidan/Hidan_skill4_1.mp3</eventName>
     <frameName>Hidan_Skill04_011.png</frameName>
     <frameName>Hidan_Skill04_012.png</frameName>
     <frameName>Hidan_Skill04_013.png</frameName>
@@ -225,7 +225,7 @@
        <coldName type="coldDown">1</coldName>
      </date>
      <frame>
-      <eventName type="setSound">Audio/Effect/ougis.ogg</eventName>
+      <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
       <frameName>Hidan_Skill05_001.png</frameName>
       <eventName type="setCommand">setInvincible</eventName>
       <frameName>Hidan_Skill05_002.png</frameName>

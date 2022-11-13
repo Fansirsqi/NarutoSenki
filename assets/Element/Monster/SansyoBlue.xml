@@ -60,7 +60,7 @@
         <frameName>SansyoBlue_Move_002.png</frameName>
         <frameName>SansyoBlue_Move_003.png</frameName>
         <frameName>SansyoBlue_Move_004.png</frameName>
-        <eventName type="setSound">Audio/Orochimaru/Orochimaru_skill5_1.ogg</eventName>
+        <eventName type="setSound">Audio/Orochimaru/Orochimaru_skill5_1.mp3</eventName>
         <frameName>SansyoBlue_Move_005.png</frameName>
         <eventName type="setAttackBox">b_hit</eventName>
         <frameName>SansyoBlue_Move_006.png</frameName>
