@@ -57,17 +57,17 @@
       </date>
       <frame>
         <frameName>Qilin_Move_001.png</frameName>
-        <eventName type="setAttackBox">bc_hit</eventName>
+        <eventName type="setAttackBox">b_hit</eventName>
         <frameName>Qilin_Move_002.png</frameName>
         <frameName>Qilin_Move_003.png</frameName>
-        <eventName type="setAttackBox">bc_hit</eventName>
+        <eventName type="setAttackBox">b_hit</eventName>
         <frameName>Qilin_Move_004.png</frameName>
         <frameName>Qilin_Move_005.png</frameName>
-        <eventName type="setAttackBox">bc_hit</eventName>
+        <eventName type="setAttackBox">b_hit</eventName>
         <frameName>Qilin_Move_006.png</frameName>
         <eventName type="setSound">Audio/Sasuke/sasuke_skill4_1.mp3</eventName>
         <frameName>Qilin_Move_007.png</frameName>
-        <eventName type="setAttackBox">bf_hit</eventName>
+        <eventName type="setAttackBox">f_hit</eventName>
         <frameName>Qilin_Move_008.png</frameName>
         <frameName>Qilin_Move_009.png</frameName>
         <frameName>Qilin_Move_010.png</frameName>

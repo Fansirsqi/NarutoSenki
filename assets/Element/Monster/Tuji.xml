@@ -58,6 +58,7 @@
             <eventName type="setAttackBox">b_hit</eventName>
             <frameName>Tuji_Move_08.png</frameName>
             <frameName>Tuji_Move_09.png</frameName>
+            <eventName type="setSound">Audio/Sakura/EffectSkillTuji_1.mp3</eventName>
             <eventName type="setDetonation">0</eventName>
         </frame>
     </action>

@@ -9,109 +9,73 @@ Name: LICENSE
 SHA1-Digest: /CLaubvJb+hzeDqFP3o0Kl+bdZ8=
 
 Name: Readme.html
-SHA1-Digest: pKLxx0jVfTuzPu+6Cvw6FZT4+G8=
+SHA1-Digest: /lFEJVbTr/2skhzOYpuqRREZOa4=
 
 Name: Readme.md
-SHA1-Digest: XOxHYzLNNfC228krL5T6SdlQwIo=
+SHA1-Digest: SHTDSXiXzmr+ObOjbmGzQZWhFKY=
 
 Name: assets/Audio/Choji/Choji_combo.mp3
-SHA1-Digest: X35HNenxW9b79kiXGEfYyXyMh2Q=
-
-Name: assets/Audio/Choji/Choji_combo.ogg
-SHA1-Digest: DXn3XGHBsRsJfJ5qeeeER6xJlA0=
+SHA1-Digest: vU7tw/NALdc8k1CxXDUK4TlDl+w=
 
 Name: assets/Audio/Choji/Choji_dead.mp3
-SHA1-Digest: 5anD6qu/n0pyucIg5y17DirByFM=
-
-Name: assets/Audio/Choji/Choji_dead.ogg
-SHA1-Digest: 9lcaI2/5JUFENBaWNtOGaeGBmgw=
+SHA1-Digest: A09A2bZrHbpcOkisFX2DlLFKJcs=
 
 Name: assets/Audio/Choji/Choji_hurt.mp3
-SHA1-Digest: 9dBKKfkbRx4PxvbpBRsJgDZ+GPo=
-
-Name: assets/Audio/Choji/Choji_hurt.ogg
-SHA1-Digest: +A+cDwIz4xsMl9uFZeoUhpdO/Fc=
+SHA1-Digest: 4QP4yquNJBha4TCxkaq2K2YSa2I=
 
 Name: assets/Audio/Choji/Choji_skill1.mp3
-SHA1-Digest: TcK5+H7ellA2zIgjsKZVzK611us=
-
-Name: assets/Audio/Choji/Choji_skill1.ogg
-SHA1-Digest: hEWsTDry9SlPgglzOmKbwIsZ+Hc=
+SHA1-Digest: 7RX9cqaYNpfwLtTLFVcyTyc8Uio=
 
 Name: assets/Audio/Choji/Choji_skill10.mp3
-SHA1-Digest: /WXwFoZ/UE/Ppt4mGTqbFOnZemI=
-
-Name: assets/Audio/Choji/Choji_skill10.ogg
-SHA1-Digest: Vwe1Cnu5OHgcCxfaCn1mI/eFhQQ=
+SHA1-Digest: P4aP91oak3P4ePVnWhzr3P1ldZk=
 
 Name: assets/Audio/Choji/Choji_skill12.mp3
-SHA1-Digest: 7Ik1bzc9r50SAoh3IDgfR9jx6j4=
-
-Name: assets/Audio/Choji/Choji_skill12.ogg
-SHA1-Digest: tVYHevrnSQTEyeTo8+aOPBa08kc=
+SHA1-Digest: Kna7GhSlWH6+spBn+jVNe18M4fY=
 
 Name: assets/Audio/Choji/Choji_skill2.mp3
-SHA1-Digest: fsZc+Mr2L52h1nfFApT6ssHvmFc=
-
-Name: assets/Audio/Choji/Choji_skill2.ogg
-SHA1-Digest: 289rGi3ewwNfS/PButBZ/bLj1Oc=
+SHA1-Digest: /V+8tlZvlN12n9JHdfRqB887X/c=
 
 Name: assets/Audio/Choji/Choji_skill3.mp3
-SHA1-Digest: 6oVkzd/i2azF6J0knHBWsTDa8f0=
-
-Name: assets/Audio/Choji/Choji_skill3.ogg
-SHA1-Digest: FvcAjQp9681Aq+H8AIQ9pPGoIM4=
+SHA1-Digest: WvwsSt6TpJpry7SwSc0/Ey1//qg=
 
 Name: assets/Audio/Choji/Choji_skill4.mp3
-SHA1-Digest: Rc0SpRG9/UaWL12cHVvTgvWHV7s=
-
-Name: assets/Audio/Choji/Choji_skill4.ogg
-SHA1-Digest: NSTBxDnm2SnogKSpdiCm2iRpekM=
+SHA1-Digest: IPLjcWiaZ9xOSy2DtxRT5PjDXFo=
 
 Name: assets/Audio/Choji/Choji_skill4_1.mp3
-SHA1-Digest: 2t7IS996yM/tEBnKs9bRrqfPyUs=
-
-Name: assets/Audio/Choji/Choji_skill4_1.ogg
-SHA1-Digest: srAixfcd17EjxlHPb9UH4nj52Pw=
+SHA1-Digest: h2943DzSPO9MMiWMrkzir7/mGD0=
 
 Name: assets/Audio/Choji/Choji_skill5_1.mp3
-SHA1-Digest: fsZc+Mr2L52h1nfFApT6ssHvmFc=
+SHA1-Digest: /V+8tlZvlN12n9JHdfRqB887X/c=
 
-Name: assets/Audio/Choji/Choji_skill5_1.ogg
-SHA1-Digest: 289rGi3ewwNfS/PButBZ/bLj1Oc=
+Name: assets/Audio/Deidara/deidara_combo.mp3
+SHA1-Digest: IH5DJg1NQak0vIUAJxV9U9+oFH0=
 
-Name: assets/Audio/Deidara/deidara_combo.ogg
-SHA1-Digest: Qdf8pP98hoQmvDQLN8xQSTI1/OM=
+Name: assets/Audio/Deidara/deidara_dead.mp3
+SHA1-Digest: n96WcLU2iJ2zRY/Z5Uc/EZ3VBsk=
 
-Name: assets/Audio/Deidara/deidara_dead.ogg
-SHA1-Digest: VwBsc9xv2QQKrXn7B45haguuqQs=
+Name: assets/Audio/Deidara/deidara_hurt.mp3
+SHA1-Digest: uum0TabLdkUgZi4NfpvqJTNmmbg=
 
-Name: assets/Audio/Deidara/deidara_hurt.ogg
-SHA1-Digest: i5hcjPGTISe1kD2l8UstSlgNIPA=
+Name: assets/Audio/Deidara/deidara_skill1.mp3
+SHA1-Digest: P04XgIud2d8YaYyAXZ3yy/RGzfI=
 
-Name: assets/Audio/Deidara/deidara_skill1.ogg
-SHA1-Digest: nE1JLV5QewBoalngSo+LvwYGOSw=
+Name: assets/Audio/Deidara/deidara_skill1_1.mp3
+SHA1-Digest: +fJ+3tDvx4N+X6Ip/8ADY2smLOg=
 
-Name: assets/Audio/Deidara/deidara_skill1_1.ogg
-SHA1-Digest: AHt6p79zYpwXBwLY0IgzXtNeh6g=
+Name: assets/Audio/Deidara/deidara_skill2.mp3
+SHA1-Digest: ltJa42vdponlY8gAosN6sdLqCMY=
 
-Name: assets/Audio/Deidara/deidara_skill2.ogg
-SHA1-Digest: +YJpP7UhqRdSHdNm3G0Y2HDkQ/A=
+Name: assets/Audio/Deidara/deidara_skill3.mp3
+SHA1-Digest: TgyocSeH9lIkzOBLdrkOj6YDOf4=
 
-Name: assets/Audio/Deidara/deidara_skill3.ogg
-SHA1-Digest: W/k6JkmHhhoXxqvPN0iBKpLCu88=
+Name: assets/Audio/Deidara/deidara_skill5_1.mp3
+SHA1-Digest: nZE0D2j+vaSJ9R4OjBZAHosaIes=
 
-Name: assets/Audio/Deidara/deidara_skill5_1.ogg
-SHA1-Digest: 3AXthYs85Vq/MlDIf6FH5/n7yWA=
-
-Name: assets/Audio/Deidara/deidara_skill5_2.ogg
-SHA1-Digest: i6tn87UWnEom2hb8o1zeD7Hxzgw=
+Name: assets/Audio/Deidara/deidara_skill5_2.mp3
+SHA1-Digest: zis5dskU3U6IWolH6W96U9T/GbA=
 
 Name: assets/Audio/Effect/CB.mp3
 SHA1-Digest: EhRtCFJVzDJwBOlNU0LqTM6Djjw=
-
-Name: assets/Audio/Effect/CB.ogg
-SHA1-Digest: u2UZgn2Gr/bA+zV5FOVk9IEr61I=
 
 Name: assets/Audio/Effect/Chidori_Igasanai.mp3
 SHA1-Digest: 4WBvnOewlMNiwn7PBdBAbtPbToI=
@@ -146,23 +110,23 @@ SHA1-Digest: TTuSvvfePvb3Nl7EWOU8MBgDd7M=
 Name: assets/Audio/Effect/SLTZ2.mp3
 SHA1-Digest: 3XVI4/laW9IXjv7yrf1HJYnx/w8=
 
-Name: assets/Audio/Effect/SRK.ogg
-SHA1-Digest: 7PyPziHQxMmwkzGvQ4pNjOg+4A8=
+Name: assets/Audio/Effect/SRK.mp3
+SHA1-Digest: XDETa3KpEjx4sCMLAnE3oxu663U=
 
-Name: assets/Audio/Effect/SRK2.ogg
-SHA1-Digest: 0ZyeonCtCPQ6LeIDbVnE+eYiyJY=
+Name: assets/Audio/Effect/SRK2.mp3
+SHA1-Digest: xNW6qerR7HoQfUYtGP/mv+mZk24=
 
-Name: assets/Audio/Effect/Shenwei.ogg
-SHA1-Digest: NDrtd+gH/QwOWoRFLGUHoy56Flg=
+Name: assets/Audio/Effect/Shenwei.mp3
+SHA1-Digest: ctbXcad81FTuNOmzlc6N550xDsM=
 
-Name: assets/Audio/Effect/Shenwei2.ogg
-SHA1-Digest: glXboQxj/HD985mDX5nfAu0XMg4=
+Name: assets/Audio/Effect/Shenwei2.mp3
+SHA1-Digest: 5kCRSC/cIb/dPR5o//OnOROPvWY=
 
-Name: assets/Audio/Effect/Shun.ogg
-SHA1-Digest: olGDVu7IkJMSCR3yZVMOJSLq3Bs=
+Name: assets/Audio/Effect/Shun.mp3
+SHA1-Digest: AkAkNruo+4EtN9s+rrtKwJ4sfs8=
 
-Name: assets/Audio/Effect/Suan.ogg
-SHA1-Digest: JnlrKlziExDIhSlItjB1ikmHi5s=
+Name: assets/Audio/Effect/Suan.mp3
+SHA1-Digest: 8aMW4j5norYCygCp1aCAHQq0JL4=
 
 Name: assets/Audio/Effect/ThrowBack.mp3
 SHA1-Digest: WrrO1UIlUNClDP+IVtdkAj82H/Q=
@@ -170,299 +134,188 @@ SHA1-Digest: WrrO1UIlUNClDP+IVtdkAj82H/Q=
 Name: assets/Audio/Effect/Walk.mp3
 SHA1-Digest: MLZ6qVDO7j620HyoCL2Oe4jMbEA=
 
-Name: assets/Audio/Effect/Weishouyu.ogg
-SHA1-Digest: Lf1Uguxcuvp2ZUdPrsOufMF6Rh0=
+Name: assets/Audio/Effect/Weishouyu.mp3
+SHA1-Digest: Kqy852gltF0KYJIGfxc60t2kSrk=
 
 Name: assets/Audio/Effect/baiyan.mp3
-SHA1-Digest: xilGPi+2w7B1hysleN1Ml0NdsvA=
-
-Name: assets/Audio/Effect/baiyan.ogg
-SHA1-Digest: +1srtrih0w4hwCrfmRQr7OKNU5I=
+SHA1-Digest: stzwuguQNpT7nsQ2J7s2m0QbAsk=
 
 Name: assets/Audio/Effect/blade.mp3
-SHA1-Digest: p5MjhFeGmYaLP2ZlHgE3vrps8s8=
-
-Name: assets/Audio/Effect/blade.ogg
-SHA1-Digest: Hvi++ljsSRu593qmwFq+z3u+tB4=
+SHA1-Digest: HbySHGgMP30VAz1sXzDjgp8uuu4=
 
 Name: assets/Audio/Effect/blade_damage.mp3
-SHA1-Digest: ELlc5KBSHbVAQ7pivvl2HBKa48c=
+SHA1-Digest: njU8jWl4D6/x5748lugZ0lZnOIk=
 
-Name: assets/Audio/Effect/blade_damage.ogg
-SHA1-Digest: qctJVYBqb8sLGZoItrR5j21en3Q=
-
-Name: assets/Audio/Effect/blade_damage10.ogg
-SHA1-Digest: is8g7K6Sn5tGIxTRjIi43Y7jeUQ=
+Name: assets/Audio/Effect/blade_damage10.mp3
+SHA1-Digest: Llhfnn0i8OQaK6mcXkwc1/L+z88=
 
 Name: assets/Audio/Effect/blade_damage2.mp3
-SHA1-Digest: 3IUY69FcvlHK2X1fFnzRbj829Lo=
+SHA1-Digest: O5mu2gpED2AC6aNVaHOaaWAB0TY=
 
-Name: assets/Audio/Effect/blade_damage2.ogg
-SHA1-Digest: VgUoqBZgkA8tKBGSU9LQOAJM2vE=
+Name: assets/Audio/Effect/blade_damage3.mp3
+SHA1-Digest: AYWMzkbCI4zTUwO6lBxd/MwBfKA=
 
-Name: assets/Audio/Effect/blade_damage3.ogg
-SHA1-Digest: l+4K9BUn6hjNkvG9gO/zYYprBtw=
+Name: assets/Audio/Effect/blade_damage4.mp3
+SHA1-Digest: C7ngP18vW+axqjZoALsYd3jO48E=
 
-Name: assets/Audio/Effect/blade_damage4.ogg
-SHA1-Digest: MtvWSYLUYSorcm4fOMKuu33C2+I=
+Name: assets/Audio/Effect/blade_damage5.mp3
+SHA1-Digest: 4JRJ8U/tr4FM+HAlhj9/BNBoaac=
 
-Name: assets/Audio/Effect/blade_damage5.ogg
-SHA1-Digest: jlauxOME++9FOGEInWXiLz+kklw=
+Name: assets/Audio/Effect/blade_damage6.mp3
+SHA1-Digest: v5QXUjBi6j5NL9mcID2J0Zto2Lc=
 
-Name: assets/Audio/Effect/blade_damage6.ogg
-SHA1-Digest: XbnKMaXJn61SjT14gdCQFicQl0U=
+Name: assets/Audio/Effect/blade_damage7.mp3
+SHA1-Digest: gxsQAMU7OJN1tTobvjy0Wf0iPQY=
 
-Name: assets/Audio/Effect/blade_damage7.ogg
-SHA1-Digest: Erz1YXGXKfFNKpLetNBD1V2iuTM=
+Name: assets/Audio/Effect/blade_damage8.mp3
+SHA1-Digest: AdVrWKniyeMfpS7jo7+QDcSk0Pc=
 
-Name: assets/Audio/Effect/blade_damage8.ogg
-SHA1-Digest: dWLxb9OTC0NNVbBK1ezF7bL/xCc=
-
-Name: assets/Audio/Effect/blade_damage9.ogg
-SHA1-Digest: X0XBxThEvbcG7ZqE7Olo6b/vfiE=
+Name: assets/Audio/Effect/blade_damage9.mp3
+SHA1-Digest: IvWSgb3sVF26MbGaJpi09Dur2O4=
 
 Name: assets/Audio/Effect/bom.mp3
-SHA1-Digest: cfjymzJdAQHUO30f8ETthvL3S/E=
+SHA1-Digest: 6HIdkvd3y7mvZeCQxzxUj0VcMtE=
 
-Name: assets/Audio/Effect/bom.ogg
-SHA1-Digest: x1KUpkwm5XfEx25aJ8j4cDEw6KA=
+Name: assets/Audio/Effect/bom2.mp3
+SHA1-Digest: jcOq2uVHv1mM0IO50IjcSNhddbI=
 
-Name: assets/Audio/Effect/bom2.ogg
-SHA1-Digest: b1F7jY0Tn+uS7BlD+5ZcTiZQoGw=
+Name: assets/Audio/Effect/bom3.mp3
+SHA1-Digest: OuHWh0hGDGDCgYcs0A/FhI2VjjA=
 
-Name: assets/Audio/Effect/bom3.ogg
-SHA1-Digest: 2630l74mD1cbyE+Vs/WGYihLgpo=
-
-Name: assets/Audio/Effect/bom4.ogg
-SHA1-Digest: G9bf+e9nbCTNRuscMRuWqRjbgVI=
+Name: assets/Audio/Effect/bom4.mp3
+SHA1-Digest: 4UyLIS/MALnHCJ0v1zC316DOPfw=
 
 Name: assets/Audio/Effect/break_sound.mp3
-SHA1-Digest: BbnknfTCWl2n0Nou4Y4j5ZH68j8=
-
-Name: assets/Audio/Effect/break_sound.ogg
-SHA1-Digest: kR6Jyh2HLoOFFgdtSGcN/xVveoQ=
+SHA1-Digest: EyBoeYGfTZEWRP9ZBgGFPdouM6s=
 
 Name: assets/Audio/Effect/break_sound2.mp3
-SHA1-Digest: cTzimevvmjCdlZdhfrd5C7L1b1A=
-
-Name: assets/Audio/Effect/break_sound2.ogg
-SHA1-Digest: 4EzXzEhiJK2+TzPVHTa+2l2zUUc=
+SHA1-Digest: XwXVa0h7YGKumw/83BMdsr9E5ew=
 
 Name: assets/Audio/Effect/break_sound3.mp3
-SHA1-Digest: 7F6eQI0GiQzUuA/ZXGP46VfmW3U=
-
-Name: assets/Audio/Effect/break_sound3.ogg
-SHA1-Digest: 4VzcxH6T1wTcYEqB9q8dNzl0suA=
+SHA1-Digest: YULkodneQhLL0bKaW6Oyuw1OZhs=
 
 Name: assets/Audio/Effect/combo1.mp3
-SHA1-Digest: DxwA6thlkL0FvObwav715v8eGs8=
-
-Name: assets/Audio/Effect/combo1.ogg
-SHA1-Digest: Y47UZYQACrhJTukwQdJI4lijiyc=
+SHA1-Digest: 0gRQD3gozv0g+A/E1/H5SG/N6Zk=
 
 Name: assets/Audio/Effect/combo2.mp3
-SHA1-Digest: y2BZ20fRxIktj/Y1Rzk25tMdXV4=
-
-Name: assets/Audio/Effect/combo2.ogg
-SHA1-Digest: XFTqT8PBb6uXYOOWmaAQ3t/b/Fw=
+SHA1-Digest: W7exVtcQyW9OIDwFY5szbTk32GY=
 
 Name: assets/Audio/Effect/combo3.mp3
-SHA1-Digest: K84Ly+l6grqx/gQq6u+jLWKDYLg=
+SHA1-Digest: H0j3XM66nPNjg2MklGk4iosWnqI=
 
-Name: assets/Audio/Effect/combo3.ogg
-SHA1-Digest: l9Xl5w+Fw0QD9dOFZNs0+U8+FJ8=
-
-Name: assets/Audio/Effect/damage_a.ogg
-SHA1-Digest: nP2ILGQ5WJ32nFVN8LOfzzRVeLg=
+Name: assets/Audio/Effect/damage_a.mp3
+SHA1-Digest: kqXFlQt31aPyEnINRPtoidywm5o=
 
 Name: assets/Audio/Effect/damage_c.mp3
-SHA1-Digest: /UZs3iTFhVlrYEcW4FCT7vtirhs=
+SHA1-Digest: IKJn/12XNgy6jbF276ow7FUolYA=
 
-Name: assets/Audio/Effect/damage_c.ogg
-SHA1-Digest: jc6ljjjlOfxI1VU3p+kFf+pwZKU=
-
-Name: assets/Audio/Effect/damage_f.ogg
-SHA1-Digest: K1XKEKHwE/i59dQKxli8NruKAo0=
+Name: assets/Audio/Effect/damage_f.mp3
+SHA1-Digest: cjHyCwiRjG2H/OsNxKAFsidrXIo=
 
 Name: assets/Audio/Effect/damage_h.mp3
-SHA1-Digest: CvAHhrAyDtKdqCLP6+RMS7ubtWo=
-
-Name: assets/Audio/Effect/damage_h.ogg
-SHA1-Digest: vUDlnffEn86LCVM1BdVT7JkxYP8=
+SHA1-Digest: LMFEXkEE75JkKUuxVZcsGvyfmiI=
 
 Name: assets/Audio/Effect/damage_haken.mp3
-SHA1-Digest: z593+KErGX1Mcii3/vMmhFcjlEc=
-
-Name: assets/Audio/Effect/damage_haken.ogg
-SHA1-Digest: cmDG8Xmb25rp9v5DR2TwqkzjF08=
+SHA1-Digest: ngKviDMBrrSa0qTjj4D2T1QhYEk=
 
 Name: assets/Audio/Effect/damage_i.mp3
-SHA1-Digest: /3rhCf3Q2if/e7FHBhZfu9evaKo=
-
-Name: assets/Audio/Effect/damage_i.ogg
-SHA1-Digest: RYKZgmMciKBJJw+146HotGrywtI=
+SHA1-Digest: KHlaLDHtm5JPiFZ8fcP0S5hk0zY=
 
 Name: assets/Audio/Effect/damage_k.mp3
-SHA1-Digest: LGSN6+u1SslGgtNNxpHCLGpUBjA=
-
-Name: assets/Audio/Effect/damage_k.ogg
-SHA1-Digest: cyiBjaS5U2eYLVtgir/4Dl45Zns=
+SHA1-Digest: Ja3IK+kayLWXTxJMpjb+N5c1S+w=
 
 Name: assets/Audio/Effect/damage_l.mp3
-SHA1-Digest: 9rKwEfwzBNKyuUD/ZabbXUiW6OY=
-
-Name: assets/Audio/Effect/damage_l.ogg
-SHA1-Digest: twnFrxRg0n88eCkQEG8MARQHNj0=
+SHA1-Digest: S+0Kbc8DGoeyQu3oZqoFhP7R+JM=
 
 Name: assets/Audio/Effect/damage_o.mp3
-SHA1-Digest: FeqbGEM4Mi32lD3mOgiLzmX2z0Q=
-
-Name: assets/Audio/Effect/damage_o.ogg
-SHA1-Digest: yAApZbAOfNmnR+STCG6PmkgNK6E=
+SHA1-Digest: x9f/2tqztSNQx5kKQ6YXbLCUv/0=
 
 Name: assets/Audio/Effect/damage_o2.mp3
-SHA1-Digest: c2V5F7wUj2ztLC8aPVACG3ONdxs=
-
-Name: assets/Audio/Effect/damage_o2.ogg
-SHA1-Digest: N0/8nEJacLz6O7U09H+zFT0d0IU=
+SHA1-Digest: ey8ybpDdJqySlVhU4VzUkV8N0hU=
 
 Name: assets/Audio/Effect/damage_rasen.mp3
-SHA1-Digest: zNWQfDTJoiBUw3ZQ9NdkOAWHraQ=
+SHA1-Digest: xmWxMhfJ1xGCum8HXDkbVWy/xRA=
 
-Name: assets/Audio/Effect/damage_rasen.ogg
-SHA1-Digest: 19muY/CVkJZpytsjiwkTFrmjNCo=
-
-Name: assets/Audio/Effect/dao.ogg
-SHA1-Digest: NhDl1TF3gA8GGxzOjqZkxel7n2Y=
+Name: assets/Audio/Effect/dao.mp3
+SHA1-Digest: oBpGnucFqraUa0phKXeipwXPWU8=
 
 Name: assets/Audio/Effect/dash_effect.mp3
-SHA1-Digest: bajgp1BfnPSCpqidZelXB2Ian04=
+SHA1-Digest: 3MAe/Li/mhl9Z0Gnd11hNGbHWcQ=
 
-Name: assets/Audio/Effect/dash_effect.ogg
-SHA1-Digest: 1weA20LkQkKT3WqJ0alV0/h2DqE=
+Name: assets/Audio/Effect/dilie.mp3
+SHA1-Digest: i9h1zlBrGyf9v+dMLS0c8IzScNY=
 
-Name: assets/Audio/Effect/dilie.ogg
-SHA1-Digest: CmAOVfr7SHmh2Tk7rPsqeL47MmA=
-
-Name: assets/Audio/Effect/fire.ogg
-SHA1-Digest: dg0v93fsy/NVaDbqTLnnj1RNhqQ=
+Name: assets/Audio/Effect/fire.mp3
+SHA1-Digest: WcgCNaSl4KAxA4e2pV50J7ewfJs=
 
 Name: assets/Audio/Effect/fudon_effect.mp3
-SHA1-Digest: HNmMB7/10Sv93BffS3qjJb3FMPY=
-
-Name: assets/Audio/Effect/fudon_effect.ogg
-SHA1-Digest: TqgmeHxUrravcdH91v3SsnsKHPo=
+SHA1-Digest: ZKNsY7CFWoq9KDk+RLqh4pcqnBI=
 
 Name: assets/Audio/Effect/goukakyu.mp3
-SHA1-Digest: pX4deDffM4sT60AyPou2ZzsNRcg=
-
-Name: assets/Audio/Effect/goukakyu.ogg
-SHA1-Digest: nDPpolyDTAwx11/UWU0Fwks61b4=
+SHA1-Digest: f7XfsiXSD8KxnncxTxi3JXGneko=
 
 Name: assets/Audio/Effect/hiraishin_effect.mp3
-SHA1-Digest: v6P/8GrQ2YU6KFioePrdvAvgpGM=
-
-Name: assets/Audio/Effect/hiraishin_effect.ogg
-SHA1-Digest: kyJ4e20lzQmlLFjJohlNXnWX3Ok=
+SHA1-Digest: wd5ot9+XqnM5AiKdqhbr1jBpuok=
 
 Name: assets/Audio/Effect/hiraishin_effect2.mp3
-SHA1-Digest: hgO5JvzaXns6WGooyzf1Rj50AwM=
+SHA1-Digest: /AJDLYsCxOEvlnuzlQnWY6SLTKQ=
 
-Name: assets/Audio/Effect/hiraishin_effect2.ogg
-SHA1-Digest: vdNDobz0qnohmGcSzVfDdp2nQRk=
+Name: assets/Audio/Effect/jump.mp3
+SHA1-Digest: J0enMCOkuyK+B6YzlS+P48pYob4=
 
-Name: assets/Audio/Effect/jump.ogg
-SHA1-Digest: a7LWttLdUVCd7xGUJ9IJHHqZ/5A=
-
-Name: assets/Audio/Effect/jump2.ogg
-SHA1-Digest: uH9MUO7/g7tp/vZ/oswH48FVXFM=
+Name: assets/Audio/Effect/jump2.mp3
+SHA1-Digest: 3591fqlkrUN8a3MYaJstN3jl/HY=
 
 Name: assets/Audio/Effect/kara.mp3
-SHA1-Digest: YHOnUib84YTfMsJEkpyiqnwGUio=
-
-Name: assets/Audio/Effect/kara.ogg
-SHA1-Digest: 5woVU6m+Q7GIEmmCDZmDknHtEJE=
+SHA1-Digest: yIQRCluTUy4fpey0Q4V/1YdIq2g=
 
 Name: assets/Audio/Effect/katon.mp3
 SHA1-Digest: OiFl7bPSQPU+uAo+CGGynDnqALE=
 
 Name: assets/Audio/Effect/kong.mp3
-SHA1-Digest: jhErf2qGmO/ZsdJZA5aduBR4i34=
-
-Name: assets/Audio/Effect/kong.ogg
-SHA1-Digest: 3HtWCFj9L12jKcMunkQEwIVdaLE=
+SHA1-Digest: FvyclnkGYhbabABw1E4wTQkprZo=
 
 Name: assets/Audio/Effect/kuilei.mp3
-SHA1-Digest: ja9ZFMP7arGEou4CONBhQhcOw6M=
-
-Name: assets/Audio/Effect/kuilei.ogg
-SHA1-Digest: cuvHmY/yixxY2Ld0cgBUZHAxixw=
+SHA1-Digest: wXrFKeE+RhchZogdscyUWsWJkJI=
 
 Name: assets/Audio/Effect/kuroari.mp3
-SHA1-Digest: FZlH9XU88rhKhEL+4UXPktBV2xY=
-
-Name: assets/Audio/Effect/kuroari.ogg
-SHA1-Digest: 0ekv/d4t0irz6HOdrFfrOgo04f4=
+SHA1-Digest: YoAhy0U85SW3JQ268c2/r9AvLoQ=
 
 Name: assets/Audio/Effect/kuwu.mp3
-SHA1-Digest: sDV7OrJhnY2acW7r1kRKT1hf878=
+SHA1-Digest: loNsv2L8/Fde5TK7MXy/JkDcqts=
 
-Name: assets/Audio/Effect/kuwu.ogg
-SHA1-Digest: C1NhQ8wWmqsHzxsuv4MI2WuLo+k=
+Name: assets/Audio/Effect/lei.mp3
+SHA1-Digest: 449nOWIuWec0XuQytmSdEIP3MyU=
 
-Name: assets/Audio/Effect/lei.ogg
-SHA1-Digest: tiI/7Oqsc4LayolKGYfSFpVbDzM=
-
-Name: assets/Audio/Effect/leiqie.ogg
-SHA1-Digest: OLdtIvClyQIOXdSaeoRfQBw4koY=
+Name: assets/Audio/Effect/leiqie.mp3
+SHA1-Digest: eY0m/5bWCPHP00Qj05O4x5FWfUE=
 
 Name: assets/Audio/Effect/o2_damage.mp3
-SHA1-Digest: VsNEG4KT+mbybZXez6EW5lhepJY=
-
-Name: assets/Audio/Effect/o2_damage.ogg
-SHA1-Digest: PVXk5t5ZH76JDf/CUNKpG94dtHg=
+SHA1-Digest: AxlZMG0Ioxm9H6Hdd53hLu9E33g=
 
 Name: assets/Audio/Effect/ougis.mp3
-SHA1-Digest: MMyI1fZdjzCcakLOUklWCt84uGs=
+SHA1-Digest: NlXtzU/b3Pm9NHGVoQYAmj/yki0=
 
-Name: assets/Audio/Effect/ougis.ogg
-SHA1-Digest: 0vG91hdxrGw8D2ULj94+1AdZxb4=
+Name: assets/Audio/Effect/ougis2.mp3
+SHA1-Digest: DAPT4zUAV3RQTijpjkazL2+8juU=
 
-Name: assets/Audio/Effect/ougis2.ogg
-SHA1-Digest: w9bohBhrkJCg0ANX8u2qWI6zEYA=
-
-Name: assets/Audio/Effect/ougis3.ogg
-SHA1-Digest: 2XzTYsl4qbVxkE5SRms8uPQv8WA=
+Name: assets/Audio/Effect/ougis3.mp3
+SHA1-Digest: cdHwKG6xhr3XpRTR5a/9uR0A7hg=
 
 Name: assets/Audio/Effect/poof.mp3
-SHA1-Digest: qiBpyF3evKe1Ni+li/vB3nckcCE=
-
-Name: assets/Audio/Effect/poof.ogg
-SHA1-Digest: EonyIKLX+xM4+h376EomT9Nylyw=
+SHA1-Digest: qrd/IWtu7xLfur4IMbdrYoBOT/Q=
 
 Name: assets/Audio/Effect/poof2.mp3
-SHA1-Digest: rqGwt36JC3cfVUvPCkJJuap/yhA=
-
-Name: assets/Audio/Effect/poof2.ogg
-SHA1-Digest: RJ9dTO/H1vF0ihc6UX9KX77zYyE=
+SHA1-Digest: ACTKs5AVXu6OKP6YwD6RCPONogc=
 
 Name: assets/Audio/Effect/pup.mp3
-SHA1-Digest: byb1bePYajpu/n8NDAOcsOjY8Mc=
-
-Name: assets/Audio/Effect/pup.ogg
-SHA1-Digest: kbPCMvOJxairJ7c3BruuDcx2EVY=
+SHA1-Digest: nNJVsGIPG8tqonVZXWFc1IOyoWA=
 
 Name: assets/Audio/Effect/rasen.mp3
-SHA1-Digest: svOaYWNCS4oJBl3AclZtUU3djFI=
-
-Name: assets/Audio/Effect/rasen.ogg
-SHA1-Digest: XOMOP3wFzudrJ0zSbSuPxaV7DxI=
+SHA1-Digest: dBrNF1GnV2K+RYWKwWLUITSMPK4=
 
 Name: assets/Audio/Effect/rush.mp3
-SHA1-Digest: sBlhK1iURgQ23lq0HLg6vKBjhDY=
-
-Name: assets/Audio/Effect/rush.ogg
-SHA1-Digest: fBD5ULOqS65MGt8LE0ZWTvbiaLs=
+SHA1-Digest: C9ms1Jq84OmKb5vwPsKI7h+Nm28=
 
 Name: assets/Audio/Effect/slash1.mp3
 SHA1-Digest: 2nc89adOFvZxJ2hqRghf6AE89DA=
@@ -474,34 +327,22 @@ Name: assets/Audio/Effect/slash3.mp3
 SHA1-Digest: KyYfHBKG9oeRi5vKA4MBurPUVEk=
 
 Name: assets/Audio/Effect/srg.mp3
-SHA1-Digest: VD3+6lzp43iE9qRpC1MKqv0Lamk=
-
-Name: assets/Audio/Effect/srg.ogg
-SHA1-Digest: O/UZsbvqMk758bHkyJMLgzm3qyk=
+SHA1-Digest: v1IsplkSc+Ul1cCVGomEQ0XzCPM=
 
 Name: assets/Audio/Effect/srg2.mp3
-SHA1-Digest: CHRkY6MfL41oxy8EFwP4pz3leOE=
+SHA1-Digest: Yd4tcNmV4X3CClvIZUGLNKGTy04=
 
-Name: assets/Audio/Effect/srg2.ogg
-SHA1-Digest: Tz+Q5WU5ZEZxCExW9p6g+n8rirk=
+Name: assets/Audio/Effect/srg3.mp3
+SHA1-Digest: HXZG3vvKI48hEHY1ToRHSJagqpw=
 
-Name: assets/Audio/Effect/srg3.ogg
-SHA1-Digest: 6Q0OgQ76ZkxAFg0hGezGdT0U4m4=
-
-Name: assets/Audio/Effect/srg4.ogg
-SHA1-Digest: r87bvh/J5NlAiv2Y9/BZn9rljpw=
+Name: assets/Audio/Effect/srg4.mp3
+SHA1-Digest: uaW84Jnqvrac1gJX+SPqh2BzdXc=
 
 Name: assets/Audio/Effect/stick_damage.mp3
-SHA1-Digest: KL5QKWgmp2ItbvVcjDMEDUBWaH0=
-
-Name: assets/Audio/Effect/stick_damage.ogg
-SHA1-Digest: QywVvrfbTLt+N/3NvKIjW/fkMjw=
+SHA1-Digest: /skbqR9/+WwV9tZVIdMBtFN1F/U=
 
 Name: assets/Audio/Effect/suiryudan.mp3
-SHA1-Digest: SCmGIaPFl3ENoyeX7Wb79AusuOo=
-
-Name: assets/Audio/Effect/suiryudan.ogg
-SHA1-Digest: v9Ae4GDtLUHaeYBm1xYMyNBoMKM=
+SHA1-Digest: JYSUHXGprvkhT9ePXulUM9Gx7HI=
 
 Name: assets/Audio/Effect/susano.mp3
 SHA1-Digest: H6MIqmVYXk15D3P8p67+MgcPX8c=
@@ -513,259 +354,196 @@ Name: assets/Audio/Effect/susanoSword.mp3
 SHA1-Digest: I7znxPwxeQZ2p9pNGmnmTfhA5pY=
 
 Name: assets/Audio/Effect/suzou_effect.mp3
-SHA1-Digest: kCqmfv4mkvskzprsu1lsYXpUBTQ=
-
-Name: assets/Audio/Effect/suzou_effect.ogg
-SHA1-Digest: XRw/TsIHbZY2yBDl/ft4E5zx5XE=
+SHA1-Digest: 9RbN5iJRxbBT7lB8Z0+vlmbzHz4=
 
 Name: assets/Audio/Effect/thunder_effect.mp3
-SHA1-Digest: CSmqqy5w5SPN01XlBlS6ZHF7ZCQ=
+SHA1-Digest: eKufSSOanuc76rrt21mGpgTsrdw=
 
-Name: assets/Audio/Effect/thunder_effect.ogg
-SHA1-Digest: t1fZR9SKyeF1tQTGvAIQXTNKGlE=
+Name: assets/Audio/Effect/tree.mp3
+SHA1-Digest: fP3uSRtPB+NuvlKDO88w9nB/0Vc=
 
-Name: assets/Audio/Effect/tree.ogg
-SHA1-Digest: lwhyL+5uxQ3aENHOgT7xSMT3rm0=
-
-Name: assets/Audio/Effect/tree2.ogg
-SHA1-Digest: YoMDGMD60xnCU7RXxyh8FwLP9Bc=
+Name: assets/Audio/Effect/tree2.mp3
+SHA1-Digest: acW9w5D3V3e8H9XlmNIbBKkwgdI=
 
 Name: assets/Audio/Effect/water_effect.mp3
-SHA1-Digest: yXThrvd9S8kMS8mM/LzgvBO6wHc=
-
-Name: assets/Audio/Effect/water_effect.ogg
-SHA1-Digest: u0RqvQQh8AP8bMZwIkQBUkpwlBM=
+SHA1-Digest: r7XU2eo6pT3ZKu05TRS9xSDEdF0=
 
 Name: assets/Audio/Effect/weishoupao.mp3
-SHA1-Digest: 1xP3CkcxLL7L0w3N1AP6GAFaEvI=
+SHA1-Digest: 0z1LQQvSFxj1qKq6mgcvpfulEfo=
 
-Name: assets/Audio/Effect/weishoupao.ogg
-SHA1-Digest: 6TK7hzPA5jCihC2Cd19XL0XMGDw=
+Name: assets/Audio/Effect/weishouyu2.mp3
+SHA1-Digest: sJBYIk1Rj8Ztzx459XXEAKfVQGM=
 
-Name: assets/Audio/Effect/weishouyu2.ogg
-SHA1-Digest: qPRMDJR4lIsbi8HWYBmDHm9eUjA=
+Name: assets/Audio/Fukasaku/fukasaku_combo.mp3
+SHA1-Digest: 2ernqkzrUiV0GlPdyJbffpqEls4=
 
-Name: assets/Audio/Fukasaku/fukasaku_combo.ogg
-SHA1-Digest: ie6IpDpl2tAFnGcE1QUNPE0oIIE=
+Name: assets/Audio/Fukasaku/fukasaku_dead.mp3
+SHA1-Digest: qK8UBZWYuQ/EUphP2bscG5Wc10E=
 
-Name: assets/Audio/Fukasaku/fukasaku_dead.ogg
-SHA1-Digest: hGs5kUvrLZExFCEwG8aqe3R7sRk=
+Name: assets/Audio/Fukasaku/fukasaku_hurt.mp3
+SHA1-Digest: XfxB3bjkY1+vsqsVgVk8U1H0ITY=
 
-Name: assets/Audio/Fukasaku/fukasaku_hurt.ogg
-SHA1-Digest: 3t3OMUzm/rk9jAWNvoj2a+Jse1s=
+Name: assets/Audio/Fukasaku/fukasaku_hurt2.mp3
+SHA1-Digest: +hxA7fqHHVJP0Z7iJO7cnqW4bUQ=
 
-Name: assets/Audio/Fukasaku/fukasaku_hurt2.ogg
-SHA1-Digest: 81Zk7s9zG6RLvO/LcJ8xCfrC5m4=
+Name: assets/Audio/Fukasaku/fukasaku_skill1.mp3
+SHA1-Digest: EVuPTZEbc5HNkmeGG9O++n1MoCk=
 
-Name: assets/Audio/Fukasaku/fukasaku_skill1.ogg
-SHA1-Digest: roT+95XuLfCYQDlvDgPPj9PmkGk=
+Name: assets/Audio/Fukasaku/fukasaku_skill2.mp3
+SHA1-Digest: 3OCtrZJulYHwfOKZl1zGaTzkIVg=
 
-Name: assets/Audio/Fukasaku/fukasaku_skill2.ogg
-SHA1-Digest: rJBTrkCh/TxjSo7nCikeOD3ldhg=
+Name: assets/Audio/Fukasaku/fukasaku_skill3.mp3
+SHA1-Digest: CqpDLlytXAkaqdimsRXAQAqsQZI=
 
-Name: assets/Audio/Fukasaku/fukasaku_skill3.ogg
-SHA1-Digest: ARS2Wdvlu/B7L1kH0X4S9r/inJk=
+Name: assets/Audio/Fukasaku/fukasaku_skill3_1.mp3
+SHA1-Digest: lXn1odcqEB7e5MS3SuWiKlAUImI=
 
-Name: assets/Audio/Fukasaku/fukasaku_skill3_1.ogg
-SHA1-Digest: /fMNjTo6H8Di/VLqD3t4a14S8iQ=
+Name: assets/Audio/Gaara/Gaara_combo.mp3
+SHA1-Digest: BAzA6oGdqyhorIZuImOkKhKL7hs=
 
-Name: assets/Audio/Gaara/Gaara_combo.ogg
-SHA1-Digest: 8WiiHhz051Z4YlVefonOxBdlkjo=
+Name: assets/Audio/Gaara/Gaara_dead.mp3
+SHA1-Digest: RTq9iW4u5+PaA26o0EI54Cj04HY=
 
-Name: assets/Audio/Gaara/Gaara_dead.ogg
-SHA1-Digest: c4RU7xpiHUj9LD9lMvoiR7QHINo=
+Name: assets/Audio/Gaara/Gaara_hurt.mp3
+SHA1-Digest: 6FgbsKcGx28iKhBdXEQOx9FxDBU=
 
-Name: assets/Audio/Gaara/Gaara_hurt.ogg
-SHA1-Digest: lr5YgH8eNkdcbTJNSUkRn80zRM0=
+Name: assets/Audio/Gaara/Gaara_skill1.mp3
+SHA1-Digest: giYZ9edrTfRl9L9gL7Nrp8iGi98=
 
-Name: assets/Audio/Gaara/Gaara_skill1.ogg
-SHA1-Digest: 2dizVPeNkrFkG3ki9UT8O+shWQg=
+Name: assets/Audio/Gaara/Gaara_skill2.mp3
+SHA1-Digest: PJ5UMZ53PZev/pUlz9zifWP4tGY=
 
-Name: assets/Audio/Gaara/Gaara_skill2.ogg
-SHA1-Digest: Va9fK/AXNzooE7iN/lkEa5v97V4=
+Name: assets/Audio/Gaara/Gaara_skill3.mp3
+SHA1-Digest: r2CGA1Vlunccp/E4rjY740YTJYA=
 
-Name: assets/Audio/Gaara/Gaara_skill3.ogg
-SHA1-Digest: FrwfvpGZDKkVd32gA6fxE7eWhhI=
+Name: assets/Audio/Gaara/Gaara_skill4.mp3
+SHA1-Digest: RIDCgdWSPM7T7ecm6Ef0RcWOJ8U=
 
-Name: assets/Audio/Gaara/Gaara_skill4.ogg
-SHA1-Digest: O/B7NJJUpqo0SkGtZ2zByTFPnV8=
+Name: assets/Audio/Gaara/Gaara_skill5.mp3
+SHA1-Digest: 6lKKky50viWd1eBdmjd5zCdVtf4=
 
-Name: assets/Audio/Gaara/Gaara_skill5.ogg
-SHA1-Digest: CKbUli8w7GqTkWhuoCPuaLaEmG8=
+Name: assets/Audio/Han/Han_combo.mp3
+SHA1-Digest: NY780bIIgnMUzuV4evJeVISwAtA=
 
-Name: assets/Audio/Han/Han_combo.ogg
-SHA1-Digest: J3VAESv7Nvnn9eQ3F3T/lbPtoGI=
+Name: assets/Audio/Han/Han_combo2.mp3
+SHA1-Digest: 76J0GbdNRxedhY4OzDxK2G7bHcw=
 
-Name: assets/Audio/Han/Han_combo2.ogg
-SHA1-Digest: Hp3574L+DgTzwQP9he3LfnX1sms=
+Name: assets/Audio/Han/Han_hurt.mp3
+SHA1-Digest: 0B/q3yT3n6hIR0Tmzs9YmucIv9g=
 
-Name: assets/Audio/Han/Han_hurt.ogg
-SHA1-Digest: 4RlDE1PPkDOHDF3J7PdAYLN0UpA=
+Name: assets/Audio/Hidan/Hidan_combo.mp3
+SHA1-Digest: Ew4rXtdv8bDUht5zO9GHnGa6o0Q=
 
-Name: assets/Audio/Hidan/Hidan_combo.ogg
-SHA1-Digest: Rieu2PZDWeUgKFMjW+qdZ0AU+xw=
+Name: assets/Audio/Hidan/Hidan_dead.mp3
+SHA1-Digest: Tuynrbi2UH5dN2qwnvGrhjFqWCc=
 
-Name: assets/Audio/Hidan/Hidan_dead.ogg
-SHA1-Digest: GMFuxSka8e5PuR9OZHOFkEZ+ZUo=
+Name: assets/Audio/Hidan/Hidan_skill1.mp3
+SHA1-Digest: g4GzadnAkQJ+3ZPvDLHYdPPGRgg=
 
-Name: assets/Audio/Hidan/Hidan_skill1.ogg
-SHA1-Digest: 4gwl+GTj4JmlZuFEXIImg8htB5o=
+Name: assets/Audio/Hidan/Hidan_skill2.mp3
+SHA1-Digest: o7UqoIATZmXyjzrLWWJqybORQOw=
 
-Name: assets/Audio/Hidan/Hidan_skill2.ogg
-SHA1-Digest: p21bEOWnmvcQ7ewymZcL2dWlKjE=
+Name: assets/Audio/Hidan/Hidan_skill3.mp3
+SHA1-Digest: TR9wxrw2qV2vzydg5zaaTq1Y0ko=
 
-Name: assets/Audio/Hidan/Hidan_skill3.ogg
-SHA1-Digest: nd77N9xqwJ2B5P9D0qtfPt7RKXE=
+Name: assets/Audio/Hidan/Hidan_skill4_1.mp3
+SHA1-Digest: w/A4DySDNb5Ybi5INKSKN2cb3Lk=
 
-Name: assets/Audio/Hidan/Hidan_skill4_1.ogg
-SHA1-Digest: VvmS1B/yeryyL8zRD6tAm8uiDRY=
+Name: assets/Audio/Hinata/haa.mp3
+SHA1-Digest: in8lTNuDWEwczOyIejRtm4ijQQw=
 
-Name: assets/Audio/Hinata/haa.ogg
-SHA1-Digest: JYp/5qaK6iZxF8TQ7a2Rzn74lpA=
-
-Name: assets/Audio/Hinata/hinata_combo.ogg
+Name: assets/Audio/Hinata/hinata_combo.mp3
 SHA1-Digest: 5k4hoUA8+inkEbDk2Eog7owlOro=
 
-Name: assets/Audio/Hinata/hinata_dead.ogg
+Name: assets/Audio/Hinata/hinata_dead.mp3
 SHA1-Digest: cdmgcZ3XHCCCRAFbAXO7q1PFSyk=
 
-Name: assets/Audio/Hinata/hinata_hurt.ogg
+Name: assets/Audio/Hinata/hinata_hurt.mp3
 SHA1-Digest: My5yai1ogMoFekbxZqtiuh7CWTo=
 
-Name: assets/Audio/Hinata/hinata_skill01.ogg
-SHA1-Digest: JYp/5qaK6iZxF8TQ7a2Rzn74lpA=
+Name: assets/Audio/Hinata/hinata_skill01.mp3
+SHA1-Digest: in8lTNuDWEwczOyIejRtm4ijQQw=
 
-Name: assets/Audio/Hinata/hinata_skill02_1.ogg
+Name: assets/Audio/Hinata/hinata_skill02_1.mp3
 SHA1-Digest: HqxDKTO1/6WMdSqkg+SWvx23D/g=
 
-Name: assets/Audio/Hinata/hinata_skill02_2.ogg
+Name: assets/Audio/Hinata/hinata_skill02_2.mp3
 SHA1-Digest: F1wut9tfqTNZ7bml97zNH4nSseY=
 
-Name: assets/Audio/Hinata/hinata_skill03.ogg
-SHA1-Digest: 1YzLB7tzwf9H4E68A5/qqYQfN2Q=
+Name: assets/Audio/Hinata/hinata_skill03.mp3
+SHA1-Digest: RFUGVFlZa1gdFudxJXxG0nBdbaw=
 
-Name: assets/Audio/Hinata/hinata_skill04.ogg
+Name: assets/Audio/Hinata/hinata_skill04.mp3
 SHA1-Digest: 27zx2K+03D1j3Tfw4wPVkfQHxtM=
 
-Name: assets/Audio/Hinata/hinata_skill5_1.ogg
+Name: assets/Audio/Hinata/hinata_skill5_1.mp3
 SHA1-Digest: dhKY8b2Ej7tBkOyhHKX4lLLZT+E=
 
-Name: assets/Audio/Hinata/hinata_skill5_2.ogg
+Name: assets/Audio/Hinata/hinata_skill5_2.mp3
 SHA1-Digest: PjP+x8/MpAOHRLed7FmAcv4TkkE=
 
-Name: assets/Audio/Hinata/hinata_skill5_3.ogg
+Name: assets/Audio/Hinata/hinata_skill5_3.mp3
 SHA1-Digest: wwsCDQUnWA1To+apJKHAcVT5h08=
 
-Name: assets/Audio/Hinata/hinata_skill5_4.ogg
+Name: assets/Audio/Hinata/hinata_skill5_4.mp3
 SHA1-Digest: NkE7jjgJ71esSRidLEi5cwtd6DQ=
 
-Name: assets/Audio/Hinata/hinata_skill5_6.ogg
-SHA1-Digest: adU450umkiXxU3BN+vkaiThdoCU=
+Name: assets/Audio/Hinata/hinata_skill5_6.mp3
+SHA1-Digest: r98GCyHrBvY/qNPvovbGIeC6TfY=
 
-Name: assets/Audio/Hinata/ykm.ogg
-SHA1-Digest: 1YzLB7tzwf9H4E68A5/qqYQfN2Q=
+Name: assets/Audio/Hinata/ykm.mp3
+SHA1-Digest: RFUGVFlZa1gdFudxJXxG0nBdbaw=
 
-Name: assets/Audio/Hiruzen/Dash Wind.ogg
-SHA1-Digest: z4VR4K9xUzmqHPBu3fZco6SWBPM=
+Name: assets/Audio/Hiruzen/Dash Wind.mp3
+SHA1-Digest: 8xoK9DERdtZHP8Ox+b6uc6VXOho=
 
 Name: assets/Audio/Hiruzen/Flame.mp3
 SHA1-Digest: 0lgxZVZiHmy/ljM1Rr/YoNKhJu4=
 
 Name: assets/Audio/Hiruzen/Hiruzen raiton.mp3
-SHA1-Digest: veL9VhZfyxIAVpEV9Esm8FVxXaM=
+SHA1-Digest: BuaWvLql6SD+zcUJZxZdL1d0CaM=
 
 Name: assets/Audio/Hiruzen/Hiruzen raiton1.mp3
-SHA1-Digest: Ridb+f+ID13D2uqy5V8AXhCtBPs=
+SHA1-Digest: ulVSCkXuGBwQsqgCD5t1OSNUC6U=
 
 Name: assets/Audio/Hiruzen/Hiruzen raiton2.mp3
 SHA1-Digest: JdNT5/FufSQGUAmx2qcttrH3FFw=
 
 Name: assets/Audio/Hiruzen/Hiruzen_combo.mp3
-SHA1-Digest: Gm+GkamARn0hSYodfpITgRDzpWs=
-
-Name: assets/Audio/Hiruzen/Hiruzen_combo.ogg
-SHA1-Digest: Z/jIGFmgIXmoUH9uG1oBegck+6k=
+SHA1-Digest: nDTynWmjmU6JT7beAvKAoqFtbbk=
 
 Name: assets/Audio/Hiruzen/Hiruzen_dead.mp3
-SHA1-Digest: 3PiZRStO2YHtw5jArQAfF9uF9Pw=
-
-Name: assets/Audio/Hiruzen/Hiruzen_dead.ogg
-SHA1-Digest: 3PiZRStO2YHtw5jArQAfF9uF9Pw=
+SHA1-Digest: EK11T6+zDKidnbIloG71x9FHDMk=
 
 Name: assets/Audio/Hiruzen/Hiruzen_hurt.mp3
-SHA1-Digest: A1CW1VkTsGg0gnO8jTKYTpoAACQ=
-
-Name: assets/Audio/Hiruzen/Hiruzen_hurt.ogg
-SHA1-Digest: A1CW1VkTsGg0gnO8jTKYTpoAACQ=
+SHA1-Digest: 6l3OLnvanz74iB0qSnlzN3HnvZY=
 
 Name: assets/Audio/Hiruzen/Hiruzen_skill1.mp3
-SHA1-Digest: +ztTH0uIGG7rj7p621dmaiF3bng=
-
-Name: assets/Audio/Hiruzen/Hiruzen_skill1.ogg
-SHA1-Digest: L180gRQ5wllryWnfBElvgs6ghCo=
-
-Name: assets/Audio/Hiruzen/Hiruzen_skill1_2.mp3
-SHA1-Digest: ilmtFag3cLczA9loabOBm7eU/Fo=
-
-Name: assets/Audio/Hiruzen/Hiruzen_skill1_3.mp3
-SHA1-Digest: nQfaQeFdlANfQWDcK7TgtHzy7qs=
+SHA1-Digest: WpOa2uyhIOvJ0ESOtAOPTsrmpYc=
 
 Name: assets/Audio/Hiruzen/Hiruzen_skill2.mp3
-SHA1-Digest: tmKVmmCZ/qh0qo5JIKasTSMCxM4=
-
-Name: assets/Audio/Hiruzen/Hiruzen_skill2.ogg
-SHA1-Digest: 333ccy1TdquHe9CqQIOFFg3U+s4=
-
-Name: assets/Audio/Hiruzen/Hiruzen_skill3.mp3
-SHA1-Digest: L180gRQ5wllryWnfBElvgs6ghCo=
+SHA1-Digest: pG/jisQKCvDaJNaJoPbL6QN0fFw=
 
 Name: assets/Audio/Hiruzen/Hiruzen_skill3_1.mp3
-SHA1-Digest: IDMepq/ayF4NwiSRXDcuyuvTLlQ=
-
-Name: assets/Audio/Hiruzen/Hiruzen_skill3_1.ogg
-SHA1-Digest: ilmtFag3cLczA9loabOBm7eU/Fo=
+SHA1-Digest: ZEDeFmmPOYHH36q/iiiPBcE1btc=
 
 Name: assets/Audio/Hiruzen/Hiruzen_skill3_2.mp3
-SHA1-Digest: 2oz8cLIiYwFkxiVaUKhj00KcpWc=
-
-Name: assets/Audio/Hiruzen/Hiruzen_skill3_2.ogg
-SHA1-Digest: +ztTH0uIGG7rj7p621dmaiF3bng=
-
-Name: assets/Audio/Hiruzen/Hiruzen_skill4.mp3
-SHA1-Digest: 407UcPGkr2RyZ5dbqU9Sg0/6C3k=
+SHA1-Digest: bQj2GvCuJh/qJqOlvk04U8jAuFw=
 
 Name: assets/Audio/Hiruzen/Hiruzen_skill4_1.mp3
-SHA1-Digest: ijV1ah3tf8LnbxU+tJepIEJMGDY=
-
-Name: assets/Audio/Hiruzen/Hiruzen_skill4_1.ogg
-SHA1-Digest: nQfaQeFdlANfQWDcK7TgtHzy7qs=
+SHA1-Digest: w0ewA6ZeddKkt2YnUtJ/TZyHl6w=
 
 Name: assets/Audio/Hiruzen/Hiruzen_skill4_2.mp3
-SHA1-Digest: ljn1KUqh5TIoCa49qC9zxQbxCTw=
-
-Name: assets/Audio/Hiruzen/Hiruzen_skill4_2.ogg
-SHA1-Digest: ijV1ah3tf8LnbxU+tJepIEJMGDY=
+SHA1-Digest: R26h659wxpWPYtE6ozqsoBuB3/I=
 
 Name: assets/Audio/Hiruzen/Hiruzen_skill4_3.mp3
-SHA1-Digest: OBAlB8QzPwVgP0mOUXKEf6PcoDI=
-
-Name: assets/Audio/Hiruzen/Hiruzen_skill4_3.ogg
-SHA1-Digest: bGLHVmvUOiBWelLxdTnR6dLkkiw=
+SHA1-Digest: mFvFEdMHP4yCbnEVr+n5M8HX0TI=
 
 Name: assets/Audio/Hiruzen/Hiruzen_skill5.mp3
-SHA1-Digest: hoO3vaDwqlk8nPndNXJzCFNeawU=
+SHA1-Digest: EykIhvA3AmuvKgllEl1Vcdt8fOI=
 
-Name: assets/Audio/Hiruzen/Hiruzen_skill5.ogg
-SHA1-Digest: hoO3vaDwqlk8nPndNXJzCFNeawU=
-
-Name: assets/Audio/Hiruzen/IntonSFX2.ogg
-SHA1-Digest: V64ScOl16S1ADBmqBnCen1vH8sQ=
-
-Name: assets/Audio/Hiruzen/Jutsu.ogg
-SHA1-Digest: Pctq5507S86LWm71v8t6fnRRfGQ=
-
-Name: assets/Audio/Hiruzen/Shiki.mp3
-SHA1-Digest: cmo+UbuNO1QNj7mvOzjj5+q89r0=
+Name: assets/Audio/Hiruzen/IntonSFX2.mp3
+SHA1-Digest: zFkXO+oYSuNIzpb5kBjJvFbH8nE=
 
 Name: assets/Audio/Hiruzen/Slash dash.mp3
 SHA1-Digest: rztW+rJe88gCVqDqao/L/t/5nJY=
@@ -773,32 +551,26 @@ SHA1-Digest: rztW+rJe88gCVqDqao/L/t/5nJY=
 Name: assets/Audio/Hiruzen/Slash.mp3
 SHA1-Digest: B1HobdqtNyIG7odTnaEGI655S+A=
 
-Name: assets/Audio/Hiruzen/Stone.ogg
-SHA1-Digest: x7f9ENDIQdeybKGdC57Lu4KJcX8=
+Name: assets/Audio/Hiruzen/Tang.mp3
+SHA1-Digest: tmt3QKSyzzMlGEaFHVe/VddzVMM=
 
-Name: assets/Audio/Hiruzen/Tang.wav
-SHA1-Digest: Uz6TC9L/YatfcgSxvaqm1AUlsBQ=
+Name: assets/Audio/Hiruzen/bom.mp3
+SHA1-Digest: 6HIdkvd3y7mvZeCQxzxUj0VcMtE=
 
-Name: assets/Audio/Hiruzen/Wind.ogg
-SHA1-Digest: 4Hs3sBXRgvwrf+/U6eaxfU0T0ZM=
-
-Name: assets/Audio/Hiruzen/bom.ogg
-SHA1-Digest: x1KUpkwm5XfEx25aJ8j4cDEw6KA=
-
-Name: assets/Audio/Hiruzen/break_sound.ogg
+Name: assets/Audio/Hiruzen/break_sound.mp3
 SHA1-Digest: svliJHs/3jSLYqyixglP6OPVAFU=
 
 Name: assets/Audio/Hiruzen/goukakyu.mp3
-SHA1-Digest: nDPpolyDTAwx11/UWU0Fwks61b4=
+SHA1-Digest: f7XfsiXSD8KxnncxTxi3JXGneko=
 
 Name: assets/Audio/Hiruzen/goukakyu2.mp3
-SHA1-Digest: ATFvpqLrxc35PBkSn7h00V9vI04=
+SHA1-Digest: aftWOsIL1p0SIOWCXjN89+FSXDY=
 
 Name: assets/Audio/Hiruzen/goukakyu3.mp3
 SHA1-Digest: 5+Yut4owBrXPRCmjqG7778SBwew=
 
-Name: assets/Audio/Hiruzen/poof2.ogg
-SHA1-Digest: MY8b2UC5SMvhQNL8il+jStURDUQ=
+Name: assets/Audio/Hiruzen/poof2.mp3
+SHA1-Digest: alxWOKvSZEvw2c5GOne48Rtoris=
 
 Name: assets/Audio/Hiruzen/slash_effect.mp3
 SHA1-Digest: tORULF68fLiwXFpWfqgsc+GNCYA=
@@ -812,446 +584,452 @@ SHA1-Digest: iZg5z/XDfUhjGPDVvH/O5lvhmhw=
 Name: assets/Audio/Hiruzen/wind_effect.mp3
 SHA1-Digest: UO6LXA9gko42egGGqzAcT+ZdW04=
 
-Name: assets/Audio/HokageMinato/HokageMinato_skill1_1.ogg
-SHA1-Digest: zsgax0PAPeDqvLywNYMOKgTvXyI=
+Name: assets/Audio/HokageMinato/HokageMinato_skill1_1.mp3
+SHA1-Digest: 4jOe/XF7cZBp3EI/wK1jqyvyCbY=
 
-Name: assets/Audio/HokageMinato/HokageMinato_skill1_r.ogg
-SHA1-Digest: uhoDbG1Z6BI51QnHgxIt1ZWNgBE=
+Name: assets/Audio/HokageMinato/HokageMinato_skill1_r.mp3
+SHA1-Digest: W0IZndl03Ea23n38LVhTUYL9P6c=
 
-Name: assets/Audio/HokageMinato/HokageMinato_skill2.ogg
-SHA1-Digest: Iu6tKzzYDmVVbs+92rT5JhS5IQc=
+Name: assets/Audio/HokageMinato/HokageMinato_skill2.mp3
+SHA1-Digest: VLd+tnTNpVAq3WXshPDuD5uf5Yk=
 
-Name: assets/Audio/HokageMinato/HokageMinato_skill2_1.ogg
-SHA1-Digest: ON9u5391cAT4inuP9BUwKGwuzho=
+Name: assets/Audio/HokageMinato/HokageMinato_skill2_1.mp3
+SHA1-Digest: WLzrGAmkFhd0qKriNLmtKQxO9/w=
 
-Name: assets/Audio/HokageMinato/HokageMinato_skill3.ogg
-SHA1-Digest: OLS1tBC7TuDVg544XvZgeCyfdmA=
+Name: assets/Audio/HokageMinato/HokageMinato_skill3.mp3
+SHA1-Digest: R/opoUrr8AF1kiylmdjyvSHRDYA=
 
-Name: assets/Audio/HokageMinato/HokageMinato_skill4.ogg
-SHA1-Digest: 4JrE3ovFOPbdlEgIatRjPe5sA9s=
+Name: assets/Audio/HokageMinato/HokageMinato_skill4.mp3
+SHA1-Digest: M6+cXYIW6B9fgwZSabaFHVpV3CA=
 
-Name: assets/Audio/HokageMinato/HokageMinato_skill5.ogg
-SHA1-Digest: y+irQck0YuJUMPZ9xMS4dC+rOM0=
+Name: assets/Audio/HokageMinato/HokageMinato_skill5.mp3
+SHA1-Digest: RqxHRJIyaLYMpWGA0XZCzaP2cPs=
 
-Name: assets/Audio/ImmortalSasuke/ImmortalSasuke_skill1_1.ogg
-SHA1-Digest: bp3NiL+0CiW/trWLeKBUNGDtvB0=
+Name: assets/Audio/ImmortalSasuke/ImmortalSasuke_skill1_1.mp3
+SHA1-Digest: I8hb0PWWrfLrdJJEx/ejz5qezNw=
 
-Name: assets/Audio/ImmortalSasuke/ImmortalSasuke_skill1_2.ogg
-SHA1-Digest: KEpAlLpSM5n5nezJR9GKhL7Rh6A=
+Name: assets/Audio/ImmortalSasuke/ImmortalSasuke_skill1_2.mp3
+SHA1-Digest: 7VMEI2+Wm6DC3mbw4035JpatpA8=
 
-Name: assets/Audio/ImmortalSasuke/ImmortalSasuke_skill2.ogg
-SHA1-Digest: XiZgewawQuAL8cQnJMl37YzeGuo=
+Name: assets/Audio/ImmortalSasuke/ImmortalSasuke_skill2.mp3
+SHA1-Digest: HCWa/Ydil2SKuTVM4uIS31bMyOs=
 
-Name: assets/Audio/ImmortalSasuke/ImmortalSasuke_skill2_1.ogg
-SHA1-Digest: YDYAAe0CaoKIlGvMlXAt+BbtH7Y=
+Name: assets/Audio/ImmortalSasuke/ImmortalSasuke_skill2_1.mp3
+SHA1-Digest: 775i4HCdECDa0mVkKSmc9rUHALM=
 
-Name: assets/Audio/ImmortalSasuke/ImmortalSasuke_skill2_2.ogg
-SHA1-Digest: WaYRPneAlr9ZUz/WM/LfksVDHA0=
+Name: assets/Audio/ImmortalSasuke/ImmortalSasuke_skill2_2.mp3
+SHA1-Digest: Gl9fQAq8gfzfrVSI0hmrdwcd30w=
 
-Name: assets/Audio/ImmortalSasuke/ImmortalSasuke_skill3.ogg
-SHA1-Digest: hoqINNiTa1Zt/vx17ujMVRqyxtg=
+Name: assets/Audio/ImmortalSasuke/ImmortalSasuke_skill3.mp3
+SHA1-Digest: UN0IeRjyTyMMm5TUcch/EGZNnGM=
 
-Name: assets/Audio/ImmortalSasuke/ImmortalSasuke_skill4.ogg
-SHA1-Digest: FCTxvmiWIdmHZ6qt+diaycvN20s=
+Name: assets/Audio/ImmortalSasuke/ImmortalSasuke_skill4.mp3
+SHA1-Digest: ODvL9OxVWCE+Q4Tm1pp/euTtxqQ=
 
-Name: assets/Audio/Ino/Ino_combo.ogg
-SHA1-Digest: kdx6A1Q7w/ZQNRYyQ+KEfxd+Wps=
+Name: assets/Audio/ImmortalSasuke/susana.mp3
+SHA1-Digest: x65Gr1G1QmLeT6GvQbcM9c3pOQw=
 
-Name: assets/Audio/Ino/Ino_dead.ogg
-SHA1-Digest: j1fzXYMK5Kegl3gVj6igsU4gOAA=
+Name: assets/Audio/ImmortalSasuke/tz.mp3
+SHA1-Digest: I7NSDHWC9DskQ/1Bzr1SMRLzM8c=
 
-Name: assets/Audio/Ino/Ino_hurt.ogg
-SHA1-Digest: i12WHrACSGErHRER4vY3KHzkfpo=
+Name: assets/Audio/Ino/Ino_combo.mp3
+SHA1-Digest: ZYDuAr+6L/+VH94gLsc8EoS6mfw=
 
-Name: assets/Audio/Ino/Ino_skill1.ogg
-SHA1-Digest: XoC1mXVSYbJxm/yG4iXjwa1eMXo=
+Name: assets/Audio/Ino/Ino_dead.mp3
+SHA1-Digest: rIg/21hd+NFmdx3U3zHDo5mVOn0=
 
-Name: assets/Audio/Ino/Ino_skill2.ogg
-SHA1-Digest: UYSmhy7Dwc7JoP4qzUQ4kK4eUm8=
+Name: assets/Audio/Ino/Ino_hurt.mp3
+SHA1-Digest: bGbDx5pnjNDTNyJYKQu1I3bfGJQ=
 
-Name: assets/Audio/Ino/Ino_skill3.ogg
-SHA1-Digest: tH3+7a3df/yLbPJ7sAeQZKeQB8U=
+Name: assets/Audio/Ino/Ino_skill1.mp3
+SHA1-Digest: iNUfd0mgs72Lj3mTkYPsVw8EJtQ=
 
-Name: assets/Audio/Ino/Ino_skill3_1.ogg
-SHA1-Digest: zYG0tETPO14s+cq2v6zHyzv25OY=
+Name: assets/Audio/Ino/Ino_skill2.mp3
+SHA1-Digest: 6ZypQXB2YChNRT1Zo527WX9x7is=
 
-Name: assets/Audio/Ino/Ino_skill3_2.ogg
-SHA1-Digest: k9vJX6pb98PkwLUdMy7QARdgX5E=
+Name: assets/Audio/Ino/Ino_skill3.mp3
+SHA1-Digest: YMGiPYuAdUVKZg4zs411TX92210=
 
-Name: assets/Audio/Ino/Ino_skill4.ogg
-SHA1-Digest: /Q3qogK8ZYNZl2dpuj21a8KpsK8=
+Name: assets/Audio/Ino/Ino_skill3_1.mp3
+SHA1-Digest: 26XJ3XDimmok2RvNC+skVTFQDck=
 
-Name: assets/Audio/Intro/Choji.ogg
-SHA1-Digest: 1slNpklOHbnSN61/I0qK9FFge24=
+Name: assets/Audio/Ino/Ino_skill3_2.mp3
+SHA1-Digest: Irzbqy8fhqvjY0v1EhGOVnTAyjo=
 
-Name: assets/Audio/Intro/Deidara.ogg
-SHA1-Digest: ZZpOlmNr8f5EiJDV1VTOppVNEcQ=
+Name: assets/Audio/Ino/Ino_skill4.mp3
+SHA1-Digest: LyUVSZTVDADgaoMeRw2s6qGYd4Y=
 
-Name: assets/Audio/Intro/Gaara.ogg
-SHA1-Digest: XRdhMk1w49PDIDE80Faz2sU5fho=
+Name: assets/Audio/Intro/Choji.mp3
+SHA1-Digest: skSECkAcOvXXYF5fmBq9tTftjwc=
 
-Name: assets/Audio/Intro/Hidan.ogg
-SHA1-Digest: U64M7xrZzyQgWSBh2/+aTOYt2nM=
+Name: assets/Audio/Intro/Deidara.mp3
+SHA1-Digest: 0kFvpk+zt8zgMk/UXofpgRZMMuk=
 
-Name: assets/Audio/Intro/Hinata.ogg
-SHA1-Digest: 2io9kU8DB6TqZ/gAwWC0Izm1Q68=
+Name: assets/Audio/Intro/Gaara.mp3
+SHA1-Digest: Y1yVhA5Suzvau8vVBX2cwRDN+qE=
 
-Name: assets/Audio/Intro/Hiruzen.ogg
-SHA1-Digest: qaJDdYh+Mj8G2Pq5osXQ1eXMx1w=
+Name: assets/Audio/Intro/Hidan.mp3
+SHA1-Digest: 5O4+QEE3Fb6JUZEMi/OWZQ/zPAA=
 
-Name: assets/Audio/Intro/Ino.ogg
-SHA1-Digest: NkoNyJsr7V0dQyiVYYZHFyX7OLU=
+Name: assets/Audio/Intro/Hinata.mp3
+SHA1-Digest: woI0ULQSXkjJk9jcljo+f0hsBOE=
 
-Name: assets/Audio/Intro/Itachi.ogg
-SHA1-Digest: vlylWJf866n3NUyr1vmbIqEzLJo=
+Name: assets/Audio/Intro/Hiruzen.mp3
+SHA1-Digest: OFUur4PzPw8ciLkbqPaeA9vp/II=
 
-Name: assets/Audio/Intro/Jiraiya.ogg
-SHA1-Digest: RRWWAYIeh6huEhermtt8aNo8IGI=
+Name: assets/Audio/Intro/Ino.mp3
+SHA1-Digest: HHHj1B4VvGPvFHhagT3NDx8X47c=
 
-Name: assets/Audio/Intro/Jugo.ogg
-SHA1-Digest: UHzvAF03qps/+tnnTBKBcH+b0z8=
+Name: assets/Audio/Intro/Itachi.mp3
+SHA1-Digest: k2elLbZwBsBd06HJxPshTR3rPuk=
 
-Name: assets/Audio/Intro/Kakashi.ogg
-SHA1-Digest: 9MffUy9PGZLo5nwdtxjEMl/LR7g=
+Name: assets/Audio/Intro/Jiraiya.mp3
+SHA1-Digest: f9rRulXP7x+AEmmni3QkRgwcNbg=
 
-Name: assets/Audio/Intro/Kankuro.ogg
-SHA1-Digest: v6Fy+nsYUuKTPdxFrKPwUij0JbU=
+Name: assets/Audio/Intro/Jugo.mp3
+SHA1-Digest: Fxwnn94KA4QLB3jKTQBJqHz2NdY=
 
-Name: assets/Audio/Intro/Karin.ogg
-SHA1-Digest: R9WE1kNq4NWcKTgd4KU61xbUtvg=
+Name: assets/Audio/Intro/Kakashi.mp3
+SHA1-Digest: osjgf2Y/kOSyh07omxaIj6K7JdE=
 
-Name: assets/Audio/Intro/Kiba.ogg
-SHA1-Digest: 1T0pfWH4LFWzHZvG1u7bPGhWsb4=
+Name: assets/Audio/Intro/Kankuro.mp3
+SHA1-Digest: D3jA9W28jb89d5oD3Hetzg7Ldl8=
 
-Name: assets/Audio/Intro/Kisame.ogg
-SHA1-Digest: LR1WfQBcVSDO5vTCkW/STPnZhA8=
+Name: assets/Audio/Intro/Karin.mp3
+SHA1-Digest: rjdp2vhamWRIGyvxzsOyp0gSUEg=
 
-Name: assets/Audio/Intro/Konan.ogg
-SHA1-Digest: sarrwFKk4IMqyrc1TxCFtrtoNEI=
+Name: assets/Audio/Intro/Kiba.mp3
+SHA1-Digest: ElvdfjZO73jAnOMvOSaU0RiF6c4=
 
-Name: assets/Audio/Intro/Lee.ogg
-SHA1-Digest: m8P87kK8nHU/BCF3u/vzmbbVj3o=
+Name: assets/Audio/Intro/Kisame.mp3
+SHA1-Digest: 5a1q8Uce8r2MZGlh06VL6nVGUkc=
 
-Name: assets/Audio/Intro/Minato.ogg
-SHA1-Digest: ek5xrahXTDiyV1bW4gy8xM5zY/Q=
+Name: assets/Audio/Intro/Konan.mp3
+SHA1-Digest: A2BQ5fdjteTvNrjArLnrZOE70xg=
 
-Name: assets/Audio/Intro/Naruto.ogg
-SHA1-Digest: CAnIWXSQxOt7BDsbtKJ6hVs8N7Y=
+Name: assets/Audio/Intro/Lee.mp3
+SHA1-Digest: qixGosupEv2OJCtA8FgToKLSQ8U=
 
-Name: assets/Audio/Intro/Neji.ogg
-SHA1-Digest: 5g5Bj21m2PIistYhC9TZNta7hxA=
+Name: assets/Audio/Intro/Minato.mp3
+SHA1-Digest: 5wG8ylo93tHx4/fuKnVD3L6Go88=
 
-Name: assets/Audio/Intro/Orochimaru.ogg
-SHA1-Digest: 2YWnYN1dAvzx5RpbGcBnA6slLkI=
+Name: assets/Audio/Intro/Naruto.mp3
+SHA1-Digest: cSW+MkTOiLB48MYp3+vrkH92wp4=
 
-Name: assets/Audio/Intro/Pain.ogg
-SHA1-Digest: KZPUk3l2nmW2zTSpGmCmhd9X1kY=
+Name: assets/Audio/Intro/Neji.mp3
+SHA1-Digest: hXKCiGUq/TlmZJnv9LCMBLMyZyg=
 
-Name: assets/Audio/Intro/Sai.ogg
-SHA1-Digest: C8EdmpPAyg/OmgFmpQ/k5D0nL8Q=
+Name: assets/Audio/Intro/Orochimaru.mp3
+SHA1-Digest: IXwr7C14ZIUVRvyEyuu2T3TlLeM=
 
-Name: assets/Audio/Intro/Sakura.ogg
-SHA1-Digest: hMWxG+A0s/BtjF+YeqIedhO7eOU=
+Name: assets/Audio/Intro/Pain.mp3
+SHA1-Digest: VPuFi2l71kSqyHh5nqwwdtTcXgM=
 
-Name: assets/Audio/Intro/Sasuke.ogg
-SHA1-Digest: g+jBGiqD5EMlmiUUTsWVunwPEPQ=
+Name: assets/Audio/Intro/Sai.mp3
+SHA1-Digest: 8ARLzxe94MYr+dEQ19703MCCjBI=
 
-Name: assets/Audio/Intro/Shikamaru.ogg
-SHA1-Digest: 2GXXW4zLyOWyOWgMzjzCN8iKf6o=
+Name: assets/Audio/Intro/Sakura.mp3
+SHA1-Digest: zJE4NR1oM34h75o98hx6mF7hLho=
 
-Name: assets/Audio/Intro/Shino.ogg
-SHA1-Digest: JwnC7DwVWHunyLKnz4oMZ6qWqkk=
+Name: assets/Audio/Intro/Sasuke.mp3
+SHA1-Digest: WmCVa0tos+NtHIScy+ITcdtQaSU=
 
-Name: assets/Audio/Intro/Suigetsu.ogg
-SHA1-Digest: dMgjZDZrlHe72+Fu4Y/n2o83yrg=
+Name: assets/Audio/Intro/Shikamaru.mp3
+SHA1-Digest: NQ38HiXup55TdkYagSAcUlLJdeE=
 
-Name: assets/Audio/Intro/Tenten.ogg
-SHA1-Digest: TT2jO1UlQu5koMCxWnLrkSX0HnI=
+Name: assets/Audio/Intro/Shino.mp3
+SHA1-Digest: uDswe04upux8gWE94vdCUVivSQ8=
 
-Name: assets/Audio/Intro/Tobi.ogg
-SHA1-Digest: R+UBF9ImbFECSk7/q5hza7nFL+k=
+Name: assets/Audio/Intro/Suigetsu.mp3
+SHA1-Digest: BlWJiOw30wYU1+f2hqTJhzQd4O8=
 
-Name: assets/Audio/Intro/Tobirama.ogg
-SHA1-Digest: 9ZgyYVA6T/NL/rk8CfO8hWyJ7u0=
+Name: assets/Audio/Intro/Tenten.mp3
+SHA1-Digest: Cxx56Xdi6kdUnUlQ4qlXqJiqK1o=
 
-Name: assets/Audio/Intro/Tsunade.ogg
-SHA1-Digest: TT2zna/YFgwH7uJRYN+etP7Ms6c=
+Name: assets/Audio/Intro/Tobi.mp3
+SHA1-Digest: WOXH0NOmjzOA6ArjbWuRz+faXXA=
 
-Name: assets/Audio/Itachi/itachi_combo.ogg
-SHA1-Digest: cMd4NDJRsRDEyTuKmnSBDrq4VLE=
+Name: assets/Audio/Intro/Tobirama.mp3
+SHA1-Digest: L/fQBGkOt0qMWNMO2mwdbhZEc4A=
 
-Name: assets/Audio/Itachi/itachi_dead.ogg
-SHA1-Digest: Rlc2D8jzyj1eLMFS+1LuLcg0u0k=
+Name: assets/Audio/Intro/Tsunade.mp3
+SHA1-Digest: ly8kkvbQhCaAhzuNsEC2tXAtu/A=
 
-Name: assets/Audio/Itachi/itachi_hurt.ogg
-SHA1-Digest: sTewoHZo5PayGXnXj71VzWtkNXc=
+Name: assets/Audio/Itachi/itachi_combo.mp3
+SHA1-Digest: hzknkWcQSGTJGH/KyH7r3/qMtOg=
 
-Name: assets/Audio/Itachi/itachi_skill1.ogg
-SHA1-Digest: uGHdsOHzFQd/fOIwQleCucCs/Pk=
+Name: assets/Audio/Itachi/itachi_dead.mp3
+SHA1-Digest: hc/OUL2pa+tGOU4vquXy7o4V5RQ=
 
-Name: assets/Audio/Itachi/itachi_skill1_1.ogg
-SHA1-Digest: J2/MI5V7COnflV4vNhYh+J6J3oA=
+Name: assets/Audio/Itachi/itachi_hurt.mp3
+SHA1-Digest: XkMYJUKWcsKxowhkMMalDiGdKTE=
 
-Name: assets/Audio/Itachi/itachi_skill2.ogg
-SHA1-Digest: yKFBZB5sgaVTVyB84Yrb5V1Yk2k=
+Name: assets/Audio/Itachi/itachi_skill1.mp3
+SHA1-Digest: aFslvhckTNIgyIoSdpVcWXFVHQ4=
 
-Name: assets/Audio/Itachi/itachi_skill3.ogg
-SHA1-Digest: 7S6oJnpvRGyOEjP4u4nD8UaMq50=
+Name: assets/Audio/Itachi/itachi_skill1_1.mp3
+SHA1-Digest: sWOx9QGhAEgGwyPSBxKOw9q2gAk=
 
-Name: assets/Audio/Itachi/itachi_skill3_1.ogg
-SHA1-Digest: a9tFk3n4B6buSJ6/x9jxgnGYE4c=
+Name: assets/Audio/Itachi/itachi_skill2.mp3
+SHA1-Digest: 2X0eNrkwkBhYiSWO0f1kYK/iBdA=
 
-Name: assets/Audio/Itachi/itachi_skill4.ogg
-SHA1-Digest: VQX+oiEoFR4LEo0e0rw2skYycKY=
+Name: assets/Audio/Itachi/itachi_skill3.mp3
+SHA1-Digest: cSPP8VrrSEG2Sb6SGDy4FEgTKF0=
 
-Name: assets/Audio/Itachi/itachi_skill5.ogg
-SHA1-Digest: ug17hqOo455pcA3RriYNavakFjA=
+Name: assets/Audio/Itachi/itachi_skill3_1.mp3
+SHA1-Digest: jGGd5ARgxwoIC6LE50uWbU89n1Q=
 
-Name: assets/Audio/Itachi/itachi_skill5_1.ogg
-SHA1-Digest: W6aAvTo+6x5LODDGV0ga18TmI00=
+Name: assets/Audio/Itachi/itachi_skill4.mp3
+SHA1-Digest: btDvnVedvRfvD/dogTL48TuZlY0=
 
-Name: assets/Audio/Itachi/itachi_skill5_2.ogg
-SHA1-Digest: og5cr6xF8fj3xKwESTneVsTcDhE=
+Name: assets/Audio/Itachi/itachi_skill5.mp3
+SHA1-Digest: 2Y39B4Ogyxij/9y5jwuxvOChcuQ=
 
-Name: assets/Audio/Itachi/lgxrg.ogg
-SHA1-Digest: JLCk6COEj46hKk1ybFkYkhPyQwc=
+Name: assets/Audio/Itachi/itachi_skill5_1.mp3
+SHA1-Digest: 2RU+Hgb89tvVfX1igHqzjzbQqlg=
 
-Name: assets/Audio/Jiraiya/jiraiya_combo.ogg
-SHA1-Digest: 1t27uL5pTKfEEcfXTs7IrMg70ew=
+Name: assets/Audio/Itachi/itachi_skill5_2.mp3
+SHA1-Digest: k3bP96Ex/TypK6encaGHuoDIXMg=
 
-Name: assets/Audio/Jiraiya/jiraiya_dead.ogg
-SHA1-Digest: KNNTXZWeD5bciRFdOXIm2VbmSyc=
+Name: assets/Audio/Itachi/lgxrg.mp3
+SHA1-Digest: ZP/14HF8Qph0JqO3LN7L27vFy+c=
 
-Name: assets/Audio/Jiraiya/jiraiya_hurt.ogg
-SHA1-Digest: kF2k+SXRxTuKSE6mNow1TiW7c0g=
+Name: assets/Audio/Jiraiya/jiraiya_combo.mp3
+SHA1-Digest: eVLGGjJRYsNRPrLnmfhr9nRDHRU=
 
-Name: assets/Audio/Jiraiya/jiraiya_skill1.ogg
-SHA1-Digest: jouOB/5A8IpJVfFpuYx20huy5gg=
+Name: assets/Audio/Jiraiya/jiraiya_dead.mp3
+SHA1-Digest: 23BaJ+8uWCp5JGWHHJtFPGsdfcg=
 
-Name: assets/Audio/Jiraiya/jiraiya_skill2.ogg
-SHA1-Digest: 8ZcpscGoWxp85dPPKGa1eavNywE=
+Name: assets/Audio/Jiraiya/jiraiya_hurt.mp3
+SHA1-Digest: tkC9gvZJLiLhTlzLxn3QeYkoybI=
 
-Name: assets/Audio/Jiraiya/jiraiya_skill3.ogg
-SHA1-Digest: ub0Ek7aJ/guRMcgaN5fHisEmjYA=
+Name: assets/Audio/Jiraiya/jiraiya_skill1.mp3
+SHA1-Digest: uZehDgx/Zur6zZEMC3T+Okl2Kfc=
 
-Name: assets/Audio/Jiraiya/jiraiya_skill4.ogg
-SHA1-Digest: sXAtXoMOPiO/dhG0VmmSAhSMZLw=
+Name: assets/Audio/Jiraiya/jiraiya_skill2.mp3
+SHA1-Digest: liQ0UA8OYjAOY++Mg5VlPtX7kRo=
 
-Name: assets/Audio/Jiraiya/jiraiya_skill5_1.ogg
-SHA1-Digest: CHuBS+r/Cxgwp6Yzh/3zJ46LzYI=
+Name: assets/Audio/Jiraiya/jiraiya_skill3.mp3
+SHA1-Digest: sR0mWJ33SbKTjTLF0i6WWkHr9kM=
 
-Name: assets/Audio/Jiraiya/jiraiya_skill5_2.ogg
-SHA1-Digest: hRn05GHKJYx2oi7hoeYK2OhX4Bg=
+Name: assets/Audio/Jiraiya/jiraiya_skill4.mp3
+SHA1-Digest: xuFvf2c/+8s3wmCVbOgD6fKxAr4=
 
-Name: assets/Audio/Jugo/Jugo_combo.ogg
-SHA1-Digest: LXPOQiYgQGn8IQF+Iq4cF373UKQ=
+Name: assets/Audio/Jiraiya/jiraiya_skill5_1.mp3
+SHA1-Digest: CSKyYiNtQT9L0/vx3nyb8zfW1Xc=
 
-Name: assets/Audio/Jugo/Jugo_dead.ogg
-SHA1-Digest: 7pYUlbkD6qFSjvuXVsd4gNkzLMA=
+Name: assets/Audio/Jiraiya/jiraiya_skill5_2.mp3
+SHA1-Digest: W2eoIRDFaGhATHm+1yZ7H2zc0aQ=
 
-Name: assets/Audio/Jugo/Jugo_hurt.ogg
-SHA1-Digest: vR8ISIfKa0F98g7yFJc8kz8+VYg=
+Name: assets/Audio/Jugo/Jugo_combo.mp3
+SHA1-Digest: 6S8yRu7MbnXxWLbIglQMalFEcuI=
 
-Name: assets/Audio/Jugo/Jugo_skill1.ogg
-SHA1-Digest: V/ddvGgVPJQEzya8LRKWImnd58w=
+Name: assets/Audio/Jugo/Jugo_dead.mp3
+SHA1-Digest: +zWaWUpN7VXw7W6KxdiGrifFzIk=
 
-Name: assets/Audio/Jugo/Jugo_skill10.ogg
-SHA1-Digest: I5rriRpWX7zAuK+N6umEhcDvPLM=
+Name: assets/Audio/Jugo/Jugo_hurt.mp3
+SHA1-Digest: VQYe8Vb4ppY2TnV1hRzE3Aj5DPg=
 
-Name: assets/Audio/Jugo/Jugo_skill11.ogg
-SHA1-Digest: SaBS+YNB9moimqEDzlUMkZXh3xw=
+Name: assets/Audio/Jugo/Jugo_skill1.mp3
+SHA1-Digest: 9DE1k5PcapzR9XlkYgW2dqNrL4c=
 
-Name: assets/Audio/Jugo/Jugo_skill2.ogg
-SHA1-Digest: GGH65s6NkRHVtU3vwmg3urmrE9g=
+Name: assets/Audio/Jugo/Jugo_skill10.mp3
+SHA1-Digest: 6c19s3JGcslFYG25QXzT7Lmynt4=
 
-Name: assets/Audio/Jugo/Jugo_skill3.ogg
-SHA1-Digest: 7Oyb5bzjzkFkGfss794eFdqwO3I=
+Name: assets/Audio/Jugo/Jugo_skill11.mp3
+SHA1-Digest: NAiU96tl/Kd34nyPKH15z8JEhbY=
 
-Name: assets/Audio/Jugo/Jugo_skill4_1.ogg
-SHA1-Digest: RBUnZdk5sG6FTjfv/vl/NG/WcV4=
+Name: assets/Audio/Jugo/Jugo_skill2.mp3
+SHA1-Digest: +ofcVZoad58HI49nN2DwLpz/4Ks=
 
-Name: assets/Audio/Jugo/Jugo_skill4_2.ogg
-SHA1-Digest: ncDs++ejJw/59u9h7kNlFH1XXS4=
+Name: assets/Audio/Jugo/Jugo_skill3.mp3
+SHA1-Digest: YgGN5hwrEo0Gq9Vkkwn4HTK0fyo=
 
-Name: assets/Audio/Jugo/Jugo_skill5.ogg
-SHA1-Digest: DlwbAJG095A3UcGZrmYLM1xjp1U=
+Name: assets/Audio/Jugo/Jugo_skill4_1.mp3
+SHA1-Digest: welgStnoznqcf2s4vMKwY3E2jns=
 
-Name: assets/Audio/Kakashi/kakashi_combo.ogg
-SHA1-Digest: JnbNXebPJ7z85kjnaq+WSA9KwTI=
+Name: assets/Audio/Jugo/Jugo_skill4_2.mp3
+SHA1-Digest: w5/x9gJ8Bdugh0aMRZl00GzjAC4=
 
-Name: assets/Audio/Kakashi/kakashi_dead.ogg
-SHA1-Digest: Gq+yp6XUmmvZIctUH7A6gZKAatc=
+Name: assets/Audio/Jugo/Jugo_skill5.mp3
+SHA1-Digest: NLn+aDgUGjs6ZJvpQRMsAPH4wNw=
 
-Name: assets/Audio/Kakashi/kakashi_hurt.ogg
-SHA1-Digest: pwvom2phnnfqK94N+15Y9IfC6e8=
+Name: assets/Audio/Kakashi/kakashi_combo.mp3
+SHA1-Digest: Ql7pfBrhWmr2nRoqLHsEENV0GtY=
 
-Name: assets/Audio/Kakashi/kakashi_skill1.ogg
-SHA1-Digest: Uakbs8UrS2yM/OlsS4om/hwhUpQ=
+Name: assets/Audio/Kakashi/kakashi_dead.mp3
+SHA1-Digest: vOHjSVvImeornZ4oaKd2pZRl2eM=
 
-Name: assets/Audio/Kakashi/kakashi_skill10.ogg
-SHA1-Digest: AhR7QQR2Tqu8D9XR23hHVkcJc7U=
+Name: assets/Audio/Kakashi/kakashi_hurt.mp3
+SHA1-Digest: sh0BN9GGd2MmtESZI0yPgAVOhlY=
 
-Name: assets/Audio/Kakashi/kakashi_skill11.ogg
-SHA1-Digest: 22DP12VHh8BMSzWDbd0v62V9ZZg=
+Name: assets/Audio/Kakashi/kakashi_skill1.mp3
+SHA1-Digest: MkyivHk3Afyo3phvb4xB77vv2jI=
 
-Name: assets/Audio/Kakashi/kakashi_skill2.ogg
-SHA1-Digest: meuqJnl57UFxK61MyXY4WvjrYPI=
+Name: assets/Audio/Kakashi/kakashi_skill10.mp3
+SHA1-Digest: dHC2Qr6OS75URNaQOAxC+zeKb2M=
 
-Name: assets/Audio/Kakashi/kakashi_skill3.ogg
-SHA1-Digest: Bc5VIBDBPL8gtOP7RsixmCBhHBk=
+Name: assets/Audio/Kakashi/kakashi_skill11.mp3
+SHA1-Digest: gKsPoPTT9Ar5dM9V57vGDdfk0bg=
 
-Name: assets/Audio/Kakashi/kakashi_skill4.ogg
-SHA1-Digest: QI2WUa6Ta5xxQuVMmfA9e0mcseM=
+Name: assets/Audio/Kakashi/kakashi_skill2.mp3
+SHA1-Digest: vkiBQwvALrvdAgZR55FpL9RDTFc=
 
-Name: assets/Audio/Kakashi/kakashi_skill5_1.ogg
-SHA1-Digest: sGk8yXQ7VG2nUfgQ4vQlJeX0y1A=
+Name: assets/Audio/Kakashi/kakashi_skill3.mp3
+SHA1-Digest: v5NLRE7oN+etad0BvnhlkZYKIrU=
 
-Name: assets/Audio/Kakashi/kakashi_skill5_3.ogg
-SHA1-Digest: PB+LdBsvXvLCODEKQWlgtVrHXbU=
+Name: assets/Audio/Kakashi/kakashi_skill4.mp3
+SHA1-Digest: xiD+/XuqWv8fDsWJj47I7dkeiIc=
 
-Name: assets/Audio/Kakashi/kakashi_skill5_4.ogg
-SHA1-Digest: QZNzds993NLHW8rTRDrsV0e9vHU=
+Name: assets/Audio/Kakashi/kakashi_skill5_1.mp3
+SHA1-Digest: VdvxJepzSm0b/sbySYOVK2u2WRw=
 
-Name: assets/Audio/Kakashi/kakashi_skill5_5.ogg
-SHA1-Digest: gjUlV6ZjbF5wPORXf7BZkUkENvU=
+Name: assets/Audio/Kakashi/kakashi_skill5_3.mp3
+SHA1-Digest: Ot+lih6Mwy9mimprQVPnZqP/+TI=
 
-Name: assets/Audio/Kankuro/kankuro_combo.ogg
-SHA1-Digest: aX46xVOTg61stCWj8fb0KWjFmt4=
+Name: assets/Audio/Kakashi/kakashi_skill5_4.mp3
+SHA1-Digest: M3Ynk9uL1BP7C8iOytfC+pHN4LI=
 
-Name: assets/Audio/Kankuro/kankuro_dead.ogg
-SHA1-Digest: cwRKgyvJZZa0zw3dSCzNZjZvxJI=
+Name: assets/Audio/Kakashi/kakashi_skill5_5.mp3
+SHA1-Digest: ZRUlaFiRM+lxllNwhD+l5BH6ZGU=
 
-Name: assets/Audio/Kankuro/kankuro_hurt.ogg
-SHA1-Digest: 4T8mWVt6lIQdgWHs5tIeqg1WwZQ=
+Name: assets/Audio/Kankuro/kankuro_combo.mp3
+SHA1-Digest: BM2aAuW0YFlXdgKrMrcs8rTDDxE=
 
-Name: assets/Audio/Kankuro/kankuro_skill1.ogg
-SHA1-Digest: ISBqJHf3+h+MUGDt6xOPoWJ5Hwk=
+Name: assets/Audio/Kankuro/kankuro_dead.mp3
+SHA1-Digest: s6Rrc6/oN9RJtdO6iznD0SWfjjY=
 
-Name: assets/Audio/Kankuro/kankuro_skill1_1.ogg
-SHA1-Digest: tZJ6eqY7qDDii9Vu2pV//d2MK6c=
+Name: assets/Audio/Kankuro/kankuro_hurt.mp3
+SHA1-Digest: 15AWbAbt3QA0pz5Uy5AqNCq1AGg=
 
-Name: assets/Audio/Kankuro/kankuro_skill2.ogg
-SHA1-Digest: je3ccAoRNBnkKFlcUDpqFwWSmBY=
+Name: assets/Audio/Kankuro/kankuro_skill1.mp3
+SHA1-Digest: 1wU3/KAR2ix/a+Xsll5ubUVGQmw=
 
-Name: assets/Audio/Kankuro/kankuro_skill3.ogg
-SHA1-Digest: LoVVv083vZagxtYAVr/j2yfjW/E=
+Name: assets/Audio/Kankuro/kankuro_skill1_1.mp3
+SHA1-Digest: jRcYpv1242l9rnaOReQQZ2yVJNk=
 
-Name: assets/Audio/Kankuro/kankuro_skill4.ogg
-SHA1-Digest: r5MWG9FsH1Y9jwsBk+8wmG8ws+s=
+Name: assets/Audio/Kankuro/kankuro_skill2.mp3
+SHA1-Digest: 3IMyoO8tBPp3Qyhaaqw1Zz+2/jU=
 
-Name: assets/Audio/Kankuro/kankuro_skill5_1.ogg
-SHA1-Digest: qbzrfhKvtUEPpffHMN7BVGK6cRk=
+Name: assets/Audio/Kankuro/kankuro_skill3.mp3
+SHA1-Digest: kFLHrxVmUnxQ8X+Lhin6w+6D/b8=
 
-Name: assets/Audio/Karin/Karin_combo.ogg
-SHA1-Digest: w8ri5Hl8ByVyOmvkNE3z/5V8ep0=
+Name: assets/Audio/Kankuro/kankuro_skill4.mp3
+SHA1-Digest: G8NXfHogCQi1rzzxTxDgIvWWINc=
 
-Name: assets/Audio/Karin/Karin_dead.ogg
-SHA1-Digest: FzQIHz/z43YcDD3PZ+qjjXUNdVc=
+Name: assets/Audio/Kankuro/kankuro_skill5_1.mp3
+SHA1-Digest: 7Evpkrr+m4C1R0Ou/PCdX6esV/w=
 
-Name: assets/Audio/Karin/Karin_hurt.ogg
-SHA1-Digest: CqNO3+cElue4/5UwZLwXOF3V0fo=
+Name: assets/Audio/Karin/Karin_combo.mp3
+SHA1-Digest: 4eugD3ZuZpMa1QOaMszuJlV+Di8=
 
-Name: assets/Audio/Karin/Karin_skill1.ogg
-SHA1-Digest: n+nxXx4lgYLPcz2bQhuF5nnzHe0=
+Name: assets/Audio/Karin/Karin_dead.mp3
+SHA1-Digest: U1qDObSq4ezm+kgrnbHo8TyseOU=
 
-Name: assets/Audio/Karin/Karin_skill2.ogg
-SHA1-Digest: vHKNp9jfK+EcHUX6XviIFMBMCnU=
+Name: assets/Audio/Karin/Karin_hurt.mp3
+SHA1-Digest: m6U2AKlMyATtYJ5UVD950mb9g6c=
 
-Name: assets/Audio/Karin/Karin_skill2_1.ogg
-SHA1-Digest: efxvlZHxOWEBZ+90oTWGBF5ij/Q=
+Name: assets/Audio/Karin/Karin_skill1.mp3
+SHA1-Digest: EutL70WFAhWYl0M4XCzk7Ii1VWM=
 
-Name: assets/Audio/Karin/Karin_skill3.ogg
-SHA1-Digest: 4R2iV+TBDyUNcoMPz4Wq8zxEilA=
+Name: assets/Audio/Karin/Karin_skill2.mp3
+SHA1-Digest: Z98qj2cHRtquqOEeZMVPDPL2JF8=
 
-Name: assets/Audio/Karin/Karin_skill4.ogg
-SHA1-Digest: d+kyP2Gs0oVL9H9eoWY5+JiKNs8=
+Name: assets/Audio/Karin/Karin_skill2_1.mp3
+SHA1-Digest: f0KeigylhKWyl2vvtY48I65zShA=
 
-Name: assets/Audio/Karin/Karin_skill5_1.ogg
-SHA1-Digest: 2G1Uhs8Xon/7Mydk3VlYyHZGq1M=
+Name: assets/Audio/Karin/Karin_skill3.mp3
+SHA1-Digest: nSFN1kxTwR255cFI8FLd1biX5GI=
 
-Name: assets/Audio/Karin/Karin_skill5_2.ogg
-SHA1-Digest: lR/HTtyt4Ft3TvqOiKYzpGniJgo=
+Name: assets/Audio/Karin/Karin_skill4.mp3
+SHA1-Digest: urMgWmo3kPLwoj8FeqEAig9WXbA=
 
-Name: assets/Audio/Karin/Karin_skill5_3.ogg
-SHA1-Digest: jUrrLvSYQ8hOtofu8eTg2tMzWxo=
+Name: assets/Audio/Karin/Karin_skill5_1.mp3
+SHA1-Digest: NfT4e/87lhxc+gKDKqo9mA/67jc=
 
-Name: assets/Audio/Kiba/Akamaru_skill1.ogg
-SHA1-Digest: RwARSnLwSg7jlaB6fl4xwhylg34=
+Name: assets/Audio/Karin/Karin_skill5_2.mp3
+SHA1-Digest: Kyvtz9oGp+xb1ddUjVqH9S/FFuA=
 
-Name: assets/Audio/Kiba/Attack1.wav
-SHA1-Digest: Ykmx2KmHG2WA5BtTLGL0oY4jil0=
+Name: assets/Audio/Karin/Karin_skill5_3.mp3
+SHA1-Digest: 3HxG+DPGTFHKfFP3qwEN5aYeJOg=
 
-Name: assets/Audio/Kiba/Attack2.wav
-SHA1-Digest: Q6rc+tiM662z4iCexFkzhQSMxkE=
+Name: assets/Audio/Kiba/Akamaru_skill1.mp3
+SHA1-Digest: 5/N3i6I6ANjRlVZt5sE1HaJ7xd8=
 
-Name: assets/Audio/Kiba/Attack3.wav
-SHA1-Digest: +cl+ujSo/nBp6E0tYt25V67iZiQ=
+Name: assets/Audio/Kiba/Attack1.mp3
+SHA1-Digest: pPGiq1+cLSESVMrYHn3SkJ26zVw=
 
-Name: assets/Audio/Kiba/Attack4.wav
-SHA1-Digest: kPpAK887MbknIWzr14UWYvRGOu0=
+Name: assets/Audio/Kiba/Attack2.mp3
+SHA1-Digest: X3i/wEsPi5EG5QWQGlQQKOmAqa0=
 
-Name: assets/Audio/Kiba/Attack5.wav
-SHA1-Digest: Fd1MlfJYOcpCl8F/l23FqxZO0hE=
+Name: assets/Audio/Kiba/Attack3.mp3
+SHA1-Digest: 2XFXu9PZa8qpWDnWq+Cz3Tb23fQ=
 
-Name: assets/Audio/Kiba/Kiba_combo.ogg
-SHA1-Digest: eBkAzsf+Jf0GTTBppGHgrrk7WH4=
+Name: assets/Audio/Kiba/Attack4.mp3
+SHA1-Digest: HH47c1WiGwNZeDTpIqWTrPQMnWI=
 
-Name: assets/Audio/Kiba/Kiba_dead.ogg
-SHA1-Digest: McgqOd+HVflHrzMLarrnMnL8u3w=
+Name: assets/Audio/Kiba/Attack5.mp3
+SHA1-Digest: iFG4sFpng+IHaSpQ5B31zkpBX8o=
 
-Name: assets/Audio/Kiba/Kiba_hurt.ogg
-SHA1-Digest: 83HUtQWuL5iqcF16w6S+osynq0c=
+Name: assets/Audio/Kiba/Kiba_combo.mp3
+SHA1-Digest: l8pyIrYTR2G7T4qKpn7A40NCNe0=
 
-Name: assets/Audio/Kiba/Kiba_ougis.ogg
-SHA1-Digest: n6Q1PEzStaqDojLvdEvpj8b+3DM=
+Name: assets/Audio/Kiba/Kiba_dead.mp3
+SHA1-Digest: s0JebNdl5uX4qoNyc1md3GrhyQ4=
 
-Name: assets/Audio/Kiba/Kiba_skill1.ogg
-SHA1-Digest: ngNr2vrpef9olebmwJxFLO4UXTs=
+Name: assets/Audio/Kiba/Kiba_hurt.mp3
+SHA1-Digest: UIF2xxS3txq1sel3vlEO85FKMzE=
 
-Name: assets/Audio/Kiba/Kiba_skill11.ogg
-SHA1-Digest: VxurIaM4LtUXBtzJNWpZBlfoiEU=
+Name: assets/Audio/Kiba/Kiba_ougis.mp3
+SHA1-Digest: /0mW9MYq3E6D4Ge65Fir+f0wB0k=
 
-Name: assets/Audio/Kiba/Kiba_skill2.ogg
-SHA1-Digest: eY/dBNMzYjnF5okDKiFlqeIwI18=
+Name: assets/Audio/Kiba/Kiba_skill1.mp3
+SHA1-Digest: W4xoru42fM89s+/wWzOE8GG5weA=
 
-Name: assets/Audio/Kiba/Kiba_skill3.ogg
-SHA1-Digest: ocK3c/XbSwgXfKxrF3W6Fq58hV8=
+Name: assets/Audio/Kiba/Kiba_skill11.mp3
+SHA1-Digest: Tk0OLePsrhngZp0ApuSzZjKhA5w=
 
-Name: assets/Audio/Kiba/Kiba_skill4_1.ogg
-SHA1-Digest: yxT+AKCUv5yLyMtxuOnkkDGG7/0=
+Name: assets/Audio/Kiba/Kiba_skill2.mp3
+SHA1-Digest: ZW7VHdUjeJjVj0shMpiQElJ6aM4=
 
-Name: assets/Audio/Kiba/Kiba_skill4_2.ogg
-SHA1-Digest: gQhrGpZgCN79CHANjFLioaY5U5o=
+Name: assets/Audio/Kiba/Kiba_skill3.mp3
+SHA1-Digest: vbVxpdrocrlHUshGha/XCjr902k=
 
-Name: assets/Audio/Kiba/Kiba_skill5.ogg
-SHA1-Digest: Jlc+mSvsp9tgDlgjOsOwbJIUqW0=
+Name: assets/Audio/Kiba/Kiba_skill4_1.mp3
+SHA1-Digest: tkBBUHgL7qTFAS4LfVL5Mg91ymE=
+
+Name: assets/Audio/Kiba/Kiba_skill4_2.mp3
+SHA1-Digest: g0xDXKkR7c+jNjjIrwo3T/xWp3o=
+
+Name: assets/Audio/Kiba/Kiba_skill5.mp3
+SHA1-Digest: Q4vg7qoGyvdYHvTCFjZq9RRmsVk=
 
 Name: assets/Audio/Kiba/RayQamaitazhiSlash.mp3
 SHA1-Digest: r43pdaq4bBYKsW7Ywq8sCtnIvlQ=
 
-Name: assets/Audio/Kiba/S1.ogg
-SHA1-Digest: VxurIaM4LtUXBtzJNWpZBlfoiEU=
+Name: assets/Audio/Kiba/S1.mp3
+SHA1-Digest: Tk0OLePsrhngZp0ApuSzZjKhA5w=
 
-Name: assets/Audio/Kiba/S3.ogg
-SHA1-Digest: yxT+AKCUv5yLyMtxuOnkkDGG7/0=
+Name: assets/Audio/Kiba/S3.mp3
+SHA1-Digest: tkBBUHgL7qTFAS4LfVL5Mg91ymE=
 
-Name: assets/Audio/Kiba/S4.ogg
-SHA1-Digest: ocK3c/XbSwgXfKxrF3W6Fq58hV8=
+Name: assets/Audio/Kiba/S4.mp3
+SHA1-Digest: vbVxpdrocrlHUshGha/XCjr902k=
 
-Name: assets/Audio/Kiba/S42.ogg
-SHA1-Digest: gQhrGpZgCN79CHANjFLioaY5U5o=
+Name: assets/Audio/Kiba/S42.mp3
+SHA1-Digest: g0xDXKkR7c+jNjjIrwo3T/xWp3o=
 
-Name: assets/Audio/Kiba/S5.ogg
-SHA1-Digest: eY/dBNMzYjnF5okDKiFlqeIwI18=
+Name: assets/Audio/Kiba/S5.mp3
+SHA1-Digest: ZW7VHdUjeJjVj0shMpiQElJ6aM4=
 
-Name: assets/Audio/Kiba/SS.ogg
-SHA1-Digest: Jlc+mSvsp9tgDlgjOsOwbJIUqW0=
+Name: assets/Audio/Kiba/SS.mp3
+SHA1-Digest: Q4vg7qoGyvdYHvTCFjZq9RRmsVk=
 
-Name: assets/Audio/Kiba/Sword1.wav
-SHA1-Digest: 3Bm01E5H75BqW8dx2sfQQW6VU1A=
+Name: assets/Audio/Kiba/Sword1.mp3
+SHA1-Digest: /EdpDxZ+FILSfgAS7hp9mu5q7Vk=
 
-Name: assets/Audio/Kiba/Sword3.wav
-SHA1-Digest: P8LggsGSl/5P6u0KOoWIPqaj6sA=
+Name: assets/Audio/Kiba/Sword3.mp3
+SHA1-Digest: o/JFdX/zSw+pe7GiF9tGBsrxSQ0=
 
 Name: assets/Audio/Kiba/muncul1.mp3
 SHA1-Digest: U2M/SVEKCUBFQzlHBHvctMVgAoY=
@@ -1268,152 +1046,143 @@ SHA1-Digest: FKwPJdpdfzRp8jXxdZx9MHZMNIU=
 Name: assets/Audio/Kiba/pedang2.mp3
 SHA1-Digest: wygpSmIurbi43M3FsYJjwYtXg98=
 
-Name: assets/Audio/Kiba/pedang3.ogg
-SHA1-Digest: PqzoSW3h1yh+tDfdAEJdlQhpY14=
+Name: assets/Audio/Kiba/poop.mp3
+SHA1-Digest: mE0hrXfAHtpL64/EFSiffdIuVkc=
 
-Name: assets/Audio/Kiba/poop.wav
-SHA1-Digest: lsh/0GHguLjBYw17/dMrPNn+ckU=
+Name: assets/Audio/Kiba/sword2.mp3
+SHA1-Digest: RUo80W8IwVGJG/VYTrZ/sQE/ueQ=
 
-Name: assets/Audio/Kiba/susanoo.ogg
-SHA1-Digest: WFzz+9NfcQLPPb9E++AnUAdGAoM=
+Name: assets/Audio/Kiba/t.mp3
+SHA1-Digest: 3RpQurtHQ1nyBsClX0mzq0hxVo4=
 
-Name: assets/Audio/Kiba/sword2.wav
-SHA1-Digest: dwY/FerQdfsbn+JA6niNhTtkjGY=
+Name: assets/Audio/Kimimaro/Kimimaro_combo.mp3
+SHA1-Digest: H8JW32VF2xqNc4jo3rYnv0EtrqM=
 
-Name: assets/Audio/Kiba/t.wav
-SHA1-Digest: jQXG2hHu29zgPQFQ/2RiGTwRVyk=
+Name: assets/Audio/Kimimaro/Kimimaro_dead.mp3
+SHA1-Digest: /+UyDMeXLUG6HR5ENh6Q9CL5CUk=
 
-Name: assets/Audio/Kiba/walk.mp3
-SHA1-Digest: T6wVFOcoHNpvDhMLrOUO1ZYy1BQ=
+Name: assets/Audio/Kimimaro/Kimimaro_hurt.mp3
+SHA1-Digest: 5DyiXGK/z3s3EF++PD5l6nMlIpY=
 
-Name: assets/Audio/Kimimaro/Kimimaro_combo.ogg
-SHA1-Digest: XahFp2NAIxVo8P8Y1HR5k3vLwg0=
+Name: assets/Audio/Kimimaro/Kimimaro_skill1.mp3
+SHA1-Digest: q2nsj2WoBsri+UNTJZ2xh3ed4ps=
 
-Name: assets/Audio/Kimimaro/Kimimaro_dead.ogg
-SHA1-Digest: uCpVsnxlXPLlAnf/kO/fm2X0yiI=
+Name: assets/Audio/Kimimaro/Kimimaro_skill2.mp3
+SHA1-Digest: T4CwxIqLkj9LmcJPmI6sglpATBk=
 
-Name: assets/Audio/Kimimaro/Kimimaro_hurt.ogg
-SHA1-Digest: wMhmnCAg5fYrn/2XQR36Xolvyg0=
+Name: assets/Audio/Kimimaro/Kimimaro_skill3.mp3
+SHA1-Digest: Lt84lGTcanhJeSg2FGQA4XTL2sY=
 
-Name: assets/Audio/Kimimaro/Kimimaro_skill1.ogg
-SHA1-Digest: T806D3rZ8c9tOXxwDfWg/Fj4DJs=
+Name: assets/Audio/Kimimaro/Kimimaro_skill4_1.mp3
+SHA1-Digest: C8hm8IkhDxAg5sdeqkZmyDVu31o=
 
-Name: assets/Audio/Kimimaro/Kimimaro_skill2.ogg
-SHA1-Digest: GrzaIQfJA/e/scvz00+OHRJBNtY=
+Name: assets/Audio/Kimimaro/Kimimaro_skill4_2.mp3
+SHA1-Digest: t93wZWtGWC3SaZr2deuDbeyOdGw=
 
-Name: assets/Audio/Kimimaro/Kimimaro_skill3.ogg
-SHA1-Digest: us6rlKIQw8hwuh3Emf+wsR9BlCc=
+Name: assets/Audio/Kimimaro/Kimimaro_skill5.mp3
+SHA1-Digest: dVwJCGMl7EpLCkms6A04aj28YrU=
 
-Name: assets/Audio/Kimimaro/Kimimaro_skill4_1.ogg
-SHA1-Digest: OFg0JDi98oDhl1a+ypjrGvJ1QoQ=
+Name: assets/Audio/Kisame/Kisame_combo.mp3
+SHA1-Digest: 3E0qO/Jgn7VIquJSpAIoGWuLb1E=
 
-Name: assets/Audio/Kimimaro/Kimimaro_skill4_2.ogg
-SHA1-Digest: bpgLHbkRdUqX/0oU714A3pRadss=
+Name: assets/Audio/Kisame/Kisame_dead.mp3
+SHA1-Digest: AgaClhJ5k9lYDRX0zL5kxzuYBRY=
 
-Name: assets/Audio/Kimimaro/Kimimaro_skill5.ogg
-SHA1-Digest: up91JiDl6W5Q/ZEAtdbCXrErQp4=
+Name: assets/Audio/Kisame/Kisame_hurt.mp3
+SHA1-Digest: 46xj1Fzjrsdezm6o3UVpA6dqAvA=
 
-Name: assets/Audio/Kisame/Kisame_combo.ogg
-SHA1-Digest: mmX4G0HlbberwLBPLFZEHHA9FLA=
+Name: assets/Audio/Kisame/Kisame_ougis.mp3
+SHA1-Digest: 0atXkfl/egxLWI1wx1aqGtstoPo=
 
-Name: assets/Audio/Kisame/Kisame_dead.ogg
-SHA1-Digest: eVdAtGTmcWFF5+Iwwzxcv8ruJ4A=
+Name: assets/Audio/Kisame/Kisame_skill1.mp3
+SHA1-Digest: O/jqYZdX+0jyAgeJpNFTisOjVKA=
 
-Name: assets/Audio/Kisame/Kisame_hurt.ogg
-SHA1-Digest: BX75aISfUxT+qj0NObcyvQdeBnA=
+Name: assets/Audio/Kisame/Kisame_skill2.mp3
+SHA1-Digest: FhibYVofAbOtQ7tXnsyLpzLEFsY=
 
-Name: assets/Audio/Kisame/Kisame_ougis.ogg
-SHA1-Digest: kwbtxCIPsKI3eT9OZwfB7RFYCXk=
+Name: assets/Audio/Kisame/Kisame_skill3.mp3
+SHA1-Digest: KOd0o1w3uf6fv2PCtbEfHntG82U=
 
-Name: assets/Audio/Kisame/Kisame_skill1.ogg
-SHA1-Digest: zfhz6laAbVD/FgYSvHgMG+ULzdA=
+Name: assets/Audio/Kisame/Kisame_skill4.mp3
+SHA1-Digest: ycKkSZXjDfKoOsRekAwmMKTvVGk=
 
-Name: assets/Audio/Kisame/Kisame_skill2.ogg
-SHA1-Digest: V+c/LqikRfJoSYaq8fkjnpgjZyc=
+Name: assets/Audio/Kisame/Kisame_skill5.mp3
+SHA1-Digest: UhljDvf8Lm/M7gmJlbF6bUWom8o=
 
-Name: assets/Audio/Kisame/Kisame_skill3.ogg
-SHA1-Digest: Md7eFAytLE5Hg9wm8TC2x3T8ppo=
+Name: assets/Audio/Konan/konan_combo.mp3
+SHA1-Digest: kxS/CRcbH9sVL18yPhVQEtLLM0c=
 
-Name: assets/Audio/Kisame/Kisame_skill4.ogg
-SHA1-Digest: jKxlEji8/dKCgAMIOSqoEWEyCJ4=
+Name: assets/Audio/Konan/konan_dead.mp3
+SHA1-Digest: kR7Ou+y/PATvLk5jfOpmZYMHCdU=
 
-Name: assets/Audio/Kisame/Kisame_skill5.ogg
-SHA1-Digest: tzKkB/kRnkrYIQb8YqoW0gboHpI=
+Name: assets/Audio/Konan/konan_hurt.mp3
+SHA1-Digest: k6Wdu49WEq2X8cmTJtsQpTVTq1U=
 
-Name: assets/Audio/Konan/konan_combo.ogg
-SHA1-Digest: PAjxvY3GwvFPxIzk3Sfyz/vRQy4=
+Name: assets/Audio/Konan/konan_ougis.mp3
+SHA1-Digest: y5wKMZ+V/v8haKYaO5j5raSXNuo=
 
-Name: assets/Audio/Konan/konan_dead.ogg
-SHA1-Digest: OZlnOxAbpttanMsKV7UPq9sn9DQ=
+Name: assets/Audio/Konan/konan_skill1.mp3
+SHA1-Digest: sUmvKAr8K+Gx2xgFTu3bv9ITN/Y=
 
-Name: assets/Audio/Konan/konan_hurt.ogg
-SHA1-Digest: 3tPU27cZgiSZX+kmpY225YULzF8=
+Name: assets/Audio/Konan/konan_skill2.mp3
+SHA1-Digest: s8jJVMLIfyuiTGmU0ZZV34f+4N4=
 
-Name: assets/Audio/Konan/konan_ougis.ogg
-SHA1-Digest: Pv+dYVzLqVirIDOy3ApoyAUHboM=
+Name: assets/Audio/Konan/konan_skill3.mp3
+SHA1-Digest: 53/j7NOchnRqYa2SItaEzb7iSRQ=
 
-Name: assets/Audio/Konan/konan_skill1.ogg
-SHA1-Digest: YVYqDEZUYIUb9fmuR+JH4EZ+k1k=
+Name: assets/Audio/Konan/konan_skill3_1.mp3
+SHA1-Digest: YtR95bhpJowBLprD/S3h0WdcDJk=
 
-Name: assets/Audio/Konan/konan_skill2.ogg
-SHA1-Digest: mNjGHCynJbapI/wpIquzjWWFmNY=
+Name: assets/Audio/Konan/konan_skill4.mp3
+SHA1-Digest: CRhEqZt04PjbiZ8WmvVToRuoe+w=
 
-Name: assets/Audio/Konan/konan_skill3.ogg
-SHA1-Digest: DnLXRoiWFl1dEfQWe102gsfjX/M=
+Name: assets/Audio/Konan/konan_skill5.mp3
+SHA1-Digest: PZ/eOcZGUQ88tPcoi8JzK6+ZBpQ=
 
-Name: assets/Audio/Konan/konan_skill3_1.ogg
-SHA1-Digest: KRo8fRQgsj2qdw2W/jRNR8AUPv0=
+Name: assets/Audio/Konan/konan_skill5_1.mp3
+SHA1-Digest: uZCV1lSEsDEsfe5D7F8+PCOXmYI=
 
-Name: assets/Audio/Konan/konan_skill4.ogg
-SHA1-Digest: QbVA36Y/qO/LXLitXgcwFrdq5bI=
+Name: assets/Audio/Lee/Lee_combo.mp3
+SHA1-Digest: 2DlTxGrazEufoQO1cK+eJFYRUJA=
 
-Name: assets/Audio/Konan/konan_skill5.ogg
-SHA1-Digest: xN05iDaTK5OSSTIARmpZ1MJbPqQ=
+Name: assets/Audio/Lee/Lee_dead.mp3
+SHA1-Digest: zS8iMYBYtan+Fc5vaOknPu4yyc0=
 
-Name: assets/Audio/Konan/konan_skill5_1.ogg
-SHA1-Digest: 9yXVkXc0obLiN3Uc5WRhXXGHPgg=
+Name: assets/Audio/Lee/Lee_hurt.mp3
+SHA1-Digest: 8Z41rwTTw/qj41tAypr5Wl8XGdI=
 
-Name: assets/Audio/Lee/Lee_combo.ogg
-SHA1-Digest: RICY4W1Ke6l9+rB1ubxr58nuNIM=
+Name: assets/Audio/Lee/Lee_skill1.mp3
+SHA1-Digest: nq+U1FcinvxQIxp+W3FESJy12U0=
 
-Name: assets/Audio/Lee/Lee_dead.ogg
-SHA1-Digest: TuCrepPWTIZTPtEHveLx6a+z1Sc=
+Name: assets/Audio/Lee/Lee_skill10.mp3
+SHA1-Digest: XobdCTWWzeWKD1Y5Y0Of/4vSkdw=
 
-Name: assets/Audio/Lee/Lee_hurt.ogg
-SHA1-Digest: GFfi7713HBZ9SUmF2IlR9OShIeA=
+Name: assets/Audio/Lee/Lee_skill11.mp3
+SHA1-Digest: f0dWi5q0bbj3PSpScO12Og8YNe8=
 
-Name: assets/Audio/Lee/Lee_skill1.ogg
-SHA1-Digest: yIyFuMFLGfHuwGojUAIVfOPvlH0=
+Name: assets/Audio/Lee/Lee_skill2.mp3
+SHA1-Digest: Gte35EHy3Q6hqzbiOrOPHf0FEQs=
 
-Name: assets/Audio/Lee/Lee_skill10.ogg
-SHA1-Digest: Nc+UPZvFqCZ40PeLGabvGTTvB9U=
+Name: assets/Audio/Lee/Lee_skill3_1.mp3
+SHA1-Digest: VZbXNKqJUjah8h3OpC0jlZDwSco=
 
-Name: assets/Audio/Lee/Lee_skill11.ogg
-SHA1-Digest: FJ9BZo4xnN6LSjxr4Sq3JI8mwrc=
+Name: assets/Audio/Lee/Lee_skill3_2.mp3
+SHA1-Digest: HwgxoNCRiPZaUPy4+Xn0tOGwP5c=
 
-Name: assets/Audio/Lee/Lee_skill2.ogg
-SHA1-Digest: T3HhWhq3EgJtzIc7DIRYE8KuyOY=
+Name: assets/Audio/Lee/Lee_skill3_3.mp3
+SHA1-Digest: sotqxvWNLK64sF7ar7eK9RuH5MM=
 
-Name: assets/Audio/Lee/Lee_skill3_1.ogg
-SHA1-Digest: SM8+jQD6tOQ8/ZhZWyR+odBWdTY=
+Name: assets/Audio/Lee/Lee_skill4_1.mp3
+SHA1-Digest: c7CeZo8B+qYpD54ljUvTetCyqik=
 
-Name: assets/Audio/Lee/Lee_skill3_2.ogg
-SHA1-Digest: W0pUSIvUaqc757a46bwadmKVRwo=
+Name: assets/Audio/Lee/Lee_skill4_2.mp3
+SHA1-Digest: d/yvqDqgsPNA4+wmi2mge9csj9g=
 
-Name: assets/Audio/Lee/Lee_skill3_3.ogg
-SHA1-Digest: BG2N3IxpgnakooIg0kBcJZboQfg=
+Name: assets/Audio/Lee/Lee_skill5_1.mp3
+SHA1-Digest: OVWGKrC407FORc4kOLj8Y41rA9Y=
 
-Name: assets/Audio/Lee/Lee_skill4_1.ogg
-SHA1-Digest: TUUB0JUJil5uBhp9wsbM94LFqrY=
-
-Name: assets/Audio/Lee/Lee_skill4_2.ogg
-SHA1-Digest: dXVXNgnJPh7jG+DYqW43WLK6Ibo=
-
-Name: assets/Audio/Lee/Lee_skill5_1.ogg
-SHA1-Digest: +7nJgLA6/ox487vOu5Sw3txHUlE=
-
-Name: assets/Audio/Lee/Lee_skill5_2.ogg
-SHA1-Digest: k8YTEroganJfnoOulzkgjhOCVZw=
+Name: assets/Audio/Lee/Lee_skill5_2.mp3
+SHA1-Digest: 8xLAsulU26k02M9FhUr21N4SWkM=
 
 Name: assets/Audio/Menu/arcade.ogg
 SHA1-Digest: 1UKs6htTQdLE+x6GPdCpo80mqcQ=
@@ -1484,20 +1253,20 @@ SHA1-Digest: Ovp2lgjpahmKe+BYF6m3a+94mdg=
 Name: assets/Audio/Menu/training.ogg
 SHA1-Digest: /Gwqfg23aFBItaanVaPoaEOX+G8=
 
-Name: assets/Audio/Minato/minato_combo.ogg
-SHA1-Digest: g/vu3fKXDn3U4YIPbuxLQhzPUhM=
+Name: assets/Audio/Minato/minato_combo.mp3
+SHA1-Digest: 19oMk3apxIoB0dd74Mnp1Max9+0=
 
-Name: assets/Audio/Minato/minato_skill1.ogg
-SHA1-Digest: gNh82LdzkxR3SEcVNLJa5IYd8U8=
+Name: assets/Audio/Minato/minato_skill1.mp3
+SHA1-Digest: QQA+u4NGbQufo4JwFpCBX1CwPiU=
 
-Name: assets/Audio/Minato/minato_skill2.ogg
-SHA1-Digest: 9LnTDbi3bZZ8VGoPMv9S1Xlt4Wk=
+Name: assets/Audio/Minato/minato_skill2.mp3
+SHA1-Digest: gueX2jAzpKTkpA2m1s/+GHeuFSY=
 
-Name: assets/Audio/Minato/minato_skill3.ogg
-SHA1-Digest: uhoDbG1Z6BI51QnHgxIt1ZWNgBE=
+Name: assets/Audio/Minato/minato_skill3.mp3
+SHA1-Digest: W0IZndl03Ea23n38LVhTUYL9P6c=
 
-Name: assets/Audio/Minato/minato_skill4.ogg
-SHA1-Digest: sSuWS16aMC0bG2fzIUpkolKzGXU=
+Name: assets/Audio/Minato/minato_skill4.mp3
+SHA1-Digest: kANAjRlom3fJs83ooAU88PFuSaQ=
 
 Name: assets/Audio/Music/Battle1.ogg
 SHA1-Digest: h8YUrdFXXFEzHWWmQHclnl/PFYY=
@@ -1544,356 +1313,314 @@ SHA1-Digest: unZBIF7pot7MioZHP+jZKSGWWwQ=
 Name: assets/Audio/Music/select_music.ogg
 SHA1-Digest: gc540Hsbu3ZEf13zuJ0kLfFll80=
 
-Name: assets/Audio/Nagato/Nagato_combo.ogg
-SHA1-Digest: DM+Qq39AbffPvXJjyYmu0mKNbu8=
+Name: assets/Audio/Nagato/Nagato_combo.mp3
+SHA1-Digest: SW+Q/7/qbg+TnwdYszQCNeJfImU=
 
-Name: assets/Audio/Nagato/Nagato_skill1.ogg
-SHA1-Digest: vUTYo09kPC+Jv0x8XW8fo5PyPR8=
+Name: assets/Audio/Nagato/Nagato_skill1.mp3
+SHA1-Digest: dGqlxZViEcjOW6Y5A9faFTurxwg=
 
-Name: assets/Audio/Nagato/Nagato_skill2.ogg
-SHA1-Digest: ziG6TsOZseZhu3BCvmsU5Ctqkxc=
+Name: assets/Audio/Nagato/Nagato_skill2.mp3
+SHA1-Digest: OF44RjlbizsXP8nawThr11Qbudo=
 
-Name: assets/Audio/Nagato/Nagato_skill2_1.ogg
-SHA1-Digest: iMcI1thiw+H4Q/PL/ZWr0u1cQR0=
+Name: assets/Audio/Nagato/Nagato_skill2_1.mp3
+SHA1-Digest: HKUtsieGstF10lnD0Yjy03XaclI=
 
-Name: assets/Audio/Nagato/Nagato_skill3.ogg
-SHA1-Digest: b7ApfKdfpIiDesBNGwRK4UdJt+g=
+Name: assets/Audio/Nagato/Nagato_skill3.mp3
+SHA1-Digest: 0ZH/hr5kMCBFSG61gpHhiOnxT7E=
 
-Name: assets/Audio/Nagato/Nagato_skill4.ogg
-SHA1-Digest: wKy91FWddVXXzFDNc3DOeq6Q64E=
+Name: assets/Audio/Nagato/Nagato_skill4.mp3
+SHA1-Digest: LPwCHGv60KXt3N466Y4bVDG5cWk=
 
-Name: assets/Audio/Nagato/Nagato_skill5.ogg
-SHA1-Digest: 63sRyzHN76/07uONwgjNkG3zu2o=
+Name: assets/Audio/Nagato/Nagato_skill5.mp3
+SHA1-Digest: kotxsUHu4Hip8bvj+sLLq71ZQaI=
 
-Name: assets/Audio/Naruto/Bijudama.wav
-SHA1-Digest: knGvX2otcbMCrosov/KF1XGfNOk=
+Name: assets/Audio/Naruto/BreakSound01.mp3
+SHA1-Digest: fAoZlOCzVnuGz9Y83XUrUwfnlC4=
 
-Name: assets/Audio/Naruto/BreakSound01.wav
-SHA1-Digest: gGXjb+/hJ+LLKXhVC2jfhAEoeQc=
+Name: assets/Audio/Naruto/BreakSound02.mp3
+SHA1-Digest: naEODYrlSxZHAfSc+IB+zNn2jSg=
 
-Name: assets/Audio/Naruto/BreakSound02.wav
-SHA1-Digest: co2uQe48l0FIXQRkaXjpzvKBQss=
+Name: assets/Audio/Naruto/Bursts.mp3
+SHA1-Digest: ILEer84kfofBl13QJnZQLGaUVkw=
 
-Name: assets/Audio/Naruto/Bursts.ogg
-SHA1-Digest: bOrc78XI65CF6p4Hzw7Pp+tx58E=
+Name: assets/Audio/Naruto/EffSkill01.mp3
+SHA1-Digest: JfUk4XM7ea2Jh/sTEPwz/pMXAQA=
 
-Name: assets/Audio/Naruto/Ciah.wav
-SHA1-Digest: 3XVI4/laW9IXjv7yrf1HJYnx/w8=
+Name: assets/Audio/Naruto/Futon.mp3
+SHA1-Digest: 7qd9kQR3FzyV1EX7wWQW/VMwc1I=
 
-Name: assets/Audio/Naruto/Deg.wav
-SHA1-Digest: SEge/97TXuENrT2O37FIJvYMe+8=
+Name: assets/Audio/Naruto/Naruto_s2_01.mp3
+SHA1-Digest: Uy5X9YWZFXU0gUo3EFgJtCNdVcs=
 
-Name: assets/Audio/Naruto/EffSkill01.wav
-SHA1-Digest: nWBW8739bcj4b62Oto7Ly/ST5Ec=
-
-Name: assets/Audio/Naruto/EffSkill08.wav
-SHA1-Digest: ZMDzLH/I6lMb0444/GYPmLIxrCo=
-
-Name: assets/Audio/Naruto/Futon.ogg
-SHA1-Digest: pZ49K5uDNtJjZkkP137kIEcXpEc=
-
-Name: assets/Audio/Naruto/Monster.wav
-SHA1-Digest: cAdIyW6VqYTYL/TDx7FEmy4ZkZc=
-
-Name: assets/Audio/Naruto/N1.ogg
-SHA1-Digest: LuRT0Cu6TYZJ+zhtMx1/605Cs8U=
-
-Name: assets/Audio/Naruto/N2.ogg
-SHA1-Digest: ZGpedNSkeweSWdLrIwk8PclHdPk=
-
-Name: assets/Audio/Naruto/N3.ogg
-SHA1-Digest: Ykmx2KmHG2WA5BtTLGL0oY4jil0=
-
-Name: assets/Audio/Naruto/Naruto_s2_01.ogg
-SHA1-Digest: lN/8JBl/jHZoyyVF3XIaNrgmlN0=
-
-Name: assets/Audio/Naruto/Naruto_s4_sfx_01.ogg
-SHA1-Digest: fxmIPoe0Znfj2F3AO+ndxTeaDMk=
+Name: assets/Audio/Naruto/Naruto_s4_sfx_01.mp3
+SHA1-Digest: CQT4zDJ97m55A0BVu93bGRlf2wM=
 
 Name: assets/Audio/Naruto/OdamaaRasengan.mp3
 SHA1-Digest: SHlvCJo8h9D8VdAkD3M8HXo83nA=
 
-Name: assets/Audio/Naruto/RK_Naruto_s4_sfx_02.ogg
-SHA1-Digest: 37iSUnQCv6nXYPO6l/y1t3w7hug=
+Name: assets/Audio/Naruto/RK_Naruto_s4_sfx_02.mp3
+SHA1-Digest: Q+quGzg5izHr68np5JSlHMUsN5c=
 
-Name: assets/Audio/Naruto/Rasen.ogg
-SHA1-Digest: llDQDYFvp8TG/2/1bMEb7b+q6Xg=
+Name: assets/Audio/Naruto/Rasen.mp3
+SHA1-Digest: RLEQS5gR0+9aRbtHu4pA8QMbU6g=
 
-Name: assets/Audio/Naruto/Rasen.wav
-SHA1-Digest: i3C1WwjEAagIkCXmEnf3h4i6dog=
+Name: assets/Audio/Naruto/Shuriken.mp3
+SHA1-Digest: Cr7gQfhhtx1rlKcawmO2AGT0s4s=
 
-Name: assets/Audio/Naruto/Rasen1.wav
-SHA1-Digest: X0/b1u924bwtUUIe3bscNtAwpe4=
+Name: assets/Audio/Naruto/break_sound2.mp3
+SHA1-Digest: Dc998j4aGlZaPhZIq+89cc8Q6Ho=
 
-Name: assets/Audio/Naruto/Rasen2.wav
-SHA1-Digest: kRjdsFKssNfNOgNvZRYlrO3OgXQ=
+Name: assets/Audio/Naruto/break_sound3.mp3
+SHA1-Digest: YULkodneQhLL0bKaW6Oyuw1OZhs=
 
-Name: assets/Audio/Naruto/Shuriken.ogg
-SHA1-Digest: dl10UDOm+rkc+/powTtUkufw6Tk=
+Name: assets/Audio/Naruto/combo1.mp3
+SHA1-Digest: 0gRQD3gozv0g+A/E1/H5SG/N6Zk=
 
-Name: assets/Audio/Naruto/Teleport.ogg
-SHA1-Digest: YNHbQZz8zYGT4NMA2Efb9KGGIxI=
+Name: assets/Audio/Naruto/combo2.mp3
+SHA1-Digest: W7exVtcQyW9OIDwFY5szbTk32GY=
 
-Name: assets/Audio/Naruto/break_sound2.ogg
-SHA1-Digest: 40zAFzb61oDYAkPGMkOCnyWhIig=
+Name: assets/Audio/Naruto/combo3.mp3
+SHA1-Digest: H0j3XM66nPNjg2MklGk4iosWnqI=
 
-Name: assets/Audio/Naruto/break_sound3.ogg
-SHA1-Digest: 4VzcxH6T1wTcYEqB9q8dNzl0suA=
+Name: assets/Audio/Naruto/kkx.mp3
+SHA1-Digest: VDGkIkMK3rAPLtBGa8xOvP37M7E=
 
-Name: assets/Audio/Naruto/combo1.ogg
-SHA1-Digest: Y47UZYQACrhJTukwQdJI4lijiyc=
+Name: assets/Audio/Naruto/naruto_combo.mp3
+SHA1-Digest: iuk0tbJ/Nro7gLlqp3eJEw/Ud/Y=
 
-Name: assets/Audio/Naruto/combo2.ogg
-SHA1-Digest: XFTqT8PBb6uXYOOWmaAQ3t/b/Fw=
+Name: assets/Audio/Naruto/naruto_dead.mp3
+SHA1-Digest: wSRcXoRnTB3EmWOEC9kKRTNSlUw=
 
-Name: assets/Audio/Naruto/combo3.ogg
-SHA1-Digest: l9Xl5w+Fw0QD9dOFZNs0+U8+FJ8=
+Name: assets/Audio/Naruto/naruto_hurt.mp3
+SHA1-Digest: lizHgymKnCV4Ebwg+VLTTsn5Z5k=
 
-Name: assets/Audio/Naruto/kkx.ogg
-SHA1-Digest: miT3USFyhrCYOjEbNyB7ZGmMh7s=
+Name: assets/Audio/Naruto/naruto_skill1.mp3
+SHA1-Digest: hBeYzqop/ATKV+yil6qI3J5aQ/w=
 
-Name: assets/Audio/Naruto/naruto_combo.ogg
-SHA1-Digest: oM6B99VRukBNAE1U2XA8zQ6nE74=
+Name: assets/Audio/Naruto/naruto_skill2.mp3
+SHA1-Digest: 1kYrHunvRRB0M7zGFPCAI4fkA5Q=
 
-Name: assets/Audio/Naruto/naruto_dead.ogg
-SHA1-Digest: etnX1vOVu1MDuxoIm5lvqBTSZ8Q=
+Name: assets/Audio/Naruto/naruto_skill3.mp3
+SHA1-Digest: wmTShUispgfYixAvY7QT9WGaVYI=
 
-Name: assets/Audio/Naruto/naruto_hurt.ogg
-SHA1-Digest: 77nhw818i4uPprTfExrsQdtqY/U=
+Name: assets/Audio/Naruto/naruto_skill4.mp3
+SHA1-Digest: R4eXUUZpTakbGdDptnn+kT9jUHo=
 
-Name: assets/Audio/Naruto/naruto_skill1.ogg
-SHA1-Digest: 4W5BEIcBGpzSeNM8mb6KPg5bQXo=
+Name: assets/Audio/Naruto/naruto_skill5_1.mp3
+SHA1-Digest: 2Qq/QnWsM14lbCZWZBDBnx7THEc=
 
-Name: assets/Audio/Naruto/naruto_skill2.ogg
-SHA1-Digest: D92DmBMXGitLh85tQ5eh/hkeXng=
+Name: assets/Audio/Naruto/naruto_skill5_2.mp3
+SHA1-Digest: lNID6KoHSSRxSiLN6osjhz5xNoM=
 
-Name: assets/Audio/Naruto/naruto_skill3.ogg
-SHA1-Digest: Kbq9QilKIC1mAAvFw35OEoq7dmw=
+Name: assets/Audio/Naruto/poof.mp3
+SHA1-Digest: qrd/IWtu7xLfur4IMbdrYoBOT/Q=
 
-Name: assets/Audio/Naruto/naruto_skill4.ogg
-SHA1-Digest: U7sOYaNhT3xgrSdlHT9XH9yClOs=
+Name: assets/Audio/Naruto/slash_04.mp3
+SHA1-Digest: RnH4Ah8d1Ri2mI/CyPQinllYzyE=
 
-Name: assets/Audio/Naruto/naruto_skill5_1.ogg
-SHA1-Digest: Fm9bCG9suvid1vx/cvjAY6MgZXs=
+Name: assets/Audio/Neji/Neji_combo.mp3
+SHA1-Digest: 3csM1Ei3RVJB9wlp7LsBqNqxQKE=
 
-Name: assets/Audio/Naruto/naruto_skill5_2.ogg
-SHA1-Digest: ikxgo/10pDYnMptBZ8Gy0sb23bg=
+Name: assets/Audio/Neji/Neji_dead.mp3
+SHA1-Digest: TLv6cMhP9pvp8OdDSEPF11Xis3U=
 
-Name: assets/Audio/Naruto/poof.ogg
-SHA1-Digest: EonyIKLX+xM4+h376EomT9Nylyw=
+Name: assets/Audio/Neji/Neji_hurt.mp3
+SHA1-Digest: uP4IvIcPBVyQ6Is2N0HK55sTKdE=
 
-Name: assets/Audio/Naruto/slash_04.wav
-SHA1-Digest: 1VQaaZ8hxDQNDhAF1H5Hots9GR4=
+Name: assets/Audio/Neji/Neji_skill01.mp3
+SHA1-Digest: vKl+fvJxhAArz1PAJhoWIZE2H34=
 
-Name: assets/Audio/Naruto/susanoSword.mp3
-SHA1-Digest: FWfkXC24Vq0yD9nuiifFSVZ04kQ=
+Name: assets/Audio/Neji/Neji_skill02_1.mp3
+SHA1-Digest: smLH42GY8j4PiVmYWqwSxo4vrHI=
 
-Name: assets/Audio/Neji/Neji_combo.ogg
-SHA1-Digest: wPyLyeW+mkeYSvAzp6A/hhaX9LA=
+Name: assets/Audio/Neji/Neji_skill02_2.mp3
+SHA1-Digest: khbuZWSBfOvqyumit+1w1AErAWE=
 
-Name: assets/Audio/Neji/Neji_dead.ogg
-SHA1-Digest: BjOTNgk0lviqS7Vs9N51/A8YfPQ=
+Name: assets/Audio/Neji/Neji_skill03.mp3
+SHA1-Digest: GXYc5YtZm67f7JUpOH/1fCoo97I=
 
-Name: assets/Audio/Neji/Neji_hurt.ogg
-SHA1-Digest: jpffnL3LHUVF428M850KHP2XNcc=
+Name: assets/Audio/Neji/Neji_skill04.mp3
+SHA1-Digest: p8ZRQiSaDrcVRw/01TPSQqYZ2sM=
 
-Name: assets/Audio/Neji/Neji_skill01.ogg
-SHA1-Digest: CPhXNs4hGb7Aoapkp4rHNP9CQN0=
+Name: assets/Audio/Neji/Neji_skill04_1.mp3
+SHA1-Digest: sT7ogeHD2FaUXj72vTk0WW3Ymuo=
 
-Name: assets/Audio/Neji/Neji_skill02_1.ogg
-SHA1-Digest: 2ucNuZ8k0fA9pwe9wkz3+lbkEIQ=
+Name: assets/Audio/Neji/Neji_skill5_1.mp3
+SHA1-Digest: BcKFHNqM15fQ7ekTWGBdsK7u30g=
 
-Name: assets/Audio/Neji/Neji_skill02_2.ogg
-SHA1-Digest: tUZ6fFTWtL8UDMDqKzmS8P35RRc=
+Name: assets/Audio/Neji/Neji_skill5_3.mp3
+SHA1-Digest: 2P0Ly6m9sMPxJZYP8mdxJV2fcBI=
 
-Name: assets/Audio/Neji/Neji_skill03.ogg
-SHA1-Digest: EOWhvNmAwBGhjCpmw00Ls267PLw=
+Name: assets/Audio/Neji/Neji_skill5_4.mp3
+SHA1-Digest: pc7d/CqhwkwKVl/x7Q3qUe6xQh4=
 
-Name: assets/Audio/Neji/Neji_skill04.ogg
-SHA1-Digest: zcn3vKrD4wJaUaT6MgYT5ZAteMA=
+Name: assets/Audio/Neji/haa.mp3
+SHA1-Digest: vKl+fvJxhAArz1PAJhoWIZE2H34=
 
-Name: assets/Audio/Neji/Neji_skill04_1.ogg
-SHA1-Digest: Y9v203QAFO7DnA4jNjieredRxlU=
+Name: assets/Audio/Orochimaru/Orochimaru_combo.mp3
+SHA1-Digest: 4AsHDCj+bG3f77gg8XH+XpamMIE=
 
-Name: assets/Audio/Neji/Neji_skill5_1.ogg
-SHA1-Digest: F1L5BK4BKrdlUWcZMyUDB9oa4Bo=
+Name: assets/Audio/Orochimaru/Orochimaru_dead.mp3
+SHA1-Digest: T7b1Qdpay3UtXGymzf6AzvZOKC8=
 
-Name: assets/Audio/Neji/Neji_skill5_3.ogg
-SHA1-Digest: 8xftq9yuxf03XluEYI6hZ+I5RRk=
+Name: assets/Audio/Orochimaru/Orochimaru_hurt.mp3
+SHA1-Digest: bJR3mYpMttZcD4p7VDH/DQfmJHo=
 
-Name: assets/Audio/Neji/Neji_skill5_4.ogg
-SHA1-Digest: Xz53ehL0VfHSuV1JHnCTJj8KuUo=
+Name: assets/Audio/Orochimaru/Orochimaru_skill1.mp3
+SHA1-Digest: Z4kfXBbAXYtgHzTO2zNlY7LwILU=
 
-Name: assets/Audio/Neji/Neji_skill5_5.ogg
-SHA1-Digest: 8PMpBypSQA46uvATxD/NrwkdFro=
+Name: assets/Audio/Orochimaru/Orochimaru_skill2.mp3
+SHA1-Digest: FNX/27yVENfeXJ1Pry1JAiajPfs=
 
-Name: assets/Audio/Neji/haa.ogg
-SHA1-Digest: CPhXNs4hGb7Aoapkp4rHNP9CQN0=
+Name: assets/Audio/Orochimaru/Orochimaru_skill3.mp3
+SHA1-Digest: taFX9kOybYQVAS70gZTFTpm9cMU=
 
-Name: assets/Audio/Orochimaru/Orochimaru_combo.ogg
-SHA1-Digest: J5yu7oAgEk3KSuROulXO4J0BlqY=
+Name: assets/Audio/Orochimaru/Orochimaru_skill3_1.mp3
+SHA1-Digest: XKBq6cywtYb+KO1yAyzXtgt/y/s=
 
-Name: assets/Audio/Orochimaru/Orochimaru_dead.ogg
-SHA1-Digest: Ni+G84rxJdfZeQLmGJxuLDBcZ5E=
+Name: assets/Audio/Orochimaru/Orochimaru_skill4.mp3
+SHA1-Digest: gbTWPjxNcuaSURMIxRdaY/RhE7I=
 
-Name: assets/Audio/Orochimaru/Orochimaru_hurt.ogg
-SHA1-Digest: 4oo7hikvd+jZ0EOyOV4fxM1F4pQ=
+Name: assets/Audio/Orochimaru/Orochimaru_skill5.mp3
+SHA1-Digest: xfux9l088RYvp1uUqFz2vaRkc5Q=
 
-Name: assets/Audio/Orochimaru/Orochimaru_skill1.ogg
-SHA1-Digest: /D9+xW7N77iRW/CQZcE6y9z2U0w=
+Name: assets/Audio/Orochimaru/Orochimaru_skill5_1.mp3
+SHA1-Digest: GBXNc93ZXbYBpYyvuGXbnOMs1Cg=
 
-Name: assets/Audio/Orochimaru/Orochimaru_skill2.ogg
-SHA1-Digest: BTH1NV6AK/IRSLNr031jnmJJuAY=
+Name: assets/Audio/Ougis/Choji_ougis.mp3
+SHA1-Digest: CLbGBZgc7Umo4Wlv1uNdyQgzDjg=
 
-Name: assets/Audio/Orochimaru/Orochimaru_skill3.ogg
-SHA1-Digest: +v7faqVyPEFnQTvaHrhTcmVpZW4=
+Name: assets/Audio/Ougis/Deidara_ougis.mp3
+SHA1-Digest: ZN4pUJIf/yhOdz4GmDJr2JWVHiw=
 
-Name: assets/Audio/Orochimaru/Orochimaru_skill3_1.ogg
-SHA1-Digest: eYokJPWMmUEWF4xmy0kkJIRwJsE=
+Name: assets/Audio/Ougis/Gaara_ougis.mp3
+SHA1-Digest: xFR1V4T55Ux0Cpj1ADBnOZK6RrA=
 
-Name: assets/Audio/Orochimaru/Orochimaru_skill4.ogg
-SHA1-Digest: 93EKWVvbNgJmvdeY5IQ4pA2688k=
+Name: assets/Audio/Ougis/Han_ougis.mp3
+SHA1-Digest: Npb8yxyi0Ri06zOEFl8XISY+oAI=
 
-Name: assets/Audio/Orochimaru/Orochimaru_skill5.ogg
-SHA1-Digest: Sc1naJyBBG0lsg8DqGSSa8bn88M=
+Name: assets/Audio/Ougis/Hidan_ougis.mp3
+SHA1-Digest: yy4r4tUvl5gCiGAH5lyBqvO8UJs=
 
-Name: assets/Audio/Orochimaru/Orochimaru_skill5_1.ogg
-SHA1-Digest: MbR31hqm2W9bSM1hGqsH6ypaEAs=
+Name: assets/Audio/Ougis/Hinata_ougis.mp3
+SHA1-Digest: 0sCOLl9wV6YEmQmJDqtVGqBNrr4=
 
-Name: assets/Audio/Ougis/Choji_ougis.ogg
-SHA1-Digest: NKfCfGFabBmP5R73hxKvUsgQ8JY=
+Name: assets/Audio/Ougis/Hiruzen_ougis.mp3
+SHA1-Digest: tBTcrvrBOAEMVrMRw/diAhItj1M=
 
-Name: assets/Audio/Ougis/Deidara_ougis.ogg
-SHA1-Digest: IR+7oYDu42eVNT5Mip4XYDCTAZc=
+Name: assets/Audio/Ougis/HokageMinato_ougis.mp3
+SHA1-Digest: yFGO6IpqNfVOj9OD/Wzw+nXCtYc=
 
-Name: assets/Audio/Ougis/Gaara_ougis.ogg
-SHA1-Digest: wcEk2B97+MNSDnFczvRtTKyT7+o=
+Name: assets/Audio/Ougis/ImmortalSasuke_ougis.mp3
+SHA1-Digest: gr9uxEv8CGI/4YybWZ7b+UBLQTA=
 
-Name: assets/Audio/Ougis/Han_ougis.ogg
-SHA1-Digest: jECsrmxwknhe1HCOflPEj1Hp7po=
+Name: assets/Audio/Ougis/Ino_ougis.mp3
+SHA1-Digest: TDJrO6N8P9YAkmbOcp/OSYyRSRo=
 
-Name: assets/Audio/Ougis/Hidan_ougis.ogg
-SHA1-Digest: W1ndwQHscSDX+PM7iOJitVsg7Tg=
+Name: assets/Audio/Ougis/Itachi_ougis.mp3
+SHA1-Digest: RxH8cgl5DqMruWqetQeyRE72Y7U=
 
-Name: assets/Audio/Ougis/Hinata_ougis.ogg
-SHA1-Digest: OIDqBaKUyO3wMFDGJr6KEeP5C/E=
+Name: assets/Audio/Ougis/Jiraiya_ougis.mp3
+SHA1-Digest: xyLIbs+KngPkZVt5t+vcPpzVKmg=
 
-Name: assets/Audio/Ougis/Hiruzen_ougis.ogg
-SHA1-Digest: gUFy5HjXhi0kAzd+DBTYymaTc3Y=
+Name: assets/Audio/Ougis/Jugo_ougis.mp3
+SHA1-Digest: soTQdfYvbMyFbBvRiNSLHRKnrrc=
 
-Name: assets/Audio/Ougis/HokageMinato_ougis.ogg
-SHA1-Digest: 0kKiQ8/+kwDcA/9oIJaHafzBciY=
+Name: assets/Audio/Ougis/Kakashi_ougis.mp3
+SHA1-Digest: CLgMOohvi2qoXvqGcAT2Eyn0XKg=
 
-Name: assets/Audio/Ougis/ImmortalSasuke_ougis.ogg
-SHA1-Digest: RDIxbDq25muTYzdTOUMM4L8W1bc=
+Name: assets/Audio/Ougis/Kankuro_ougis.mp3
+SHA1-Digest: ftckgXJpKiOmo97HA2ta5wjS6aM=
 
-Name: assets/Audio/Ougis/Ino_ougis.ogg
-SHA1-Digest: xe/5ey3QDsWIyqoTXKsl+ZppFuI=
+Name: assets/Audio/Ougis/Karin_ougis.mp3
+SHA1-Digest: NFd9WJf3TWbhiFTcGxBiHMU/GZQ=
 
-Name: assets/Audio/Ougis/Itachi_ougis.ogg
-SHA1-Digest: gh91drOQHMNAmiCVYtqeH9yxdhI=
+Name: assets/Audio/Ougis/Kiba_ougis.mp3
+SHA1-Digest: /0mW9MYq3E6D4Ge65Fir+f0wB0k=
 
-Name: assets/Audio/Ougis/Jiraiya_ougis.ogg
-SHA1-Digest: S2J79vfIf1mtmsXsMO6w8qBpkRs=
+Name: assets/Audio/Ougis/Kimimaro_ougis.mp3
+SHA1-Digest: SIkez8ZznbRXQfMq/bhuQl7+PJs=
 
-Name: assets/Audio/Ougis/Jugo_ougis.ogg
-SHA1-Digest: 7RqZ0Zbr7H47YvFtpBjiscR7tvw=
+Name: assets/Audio/Ougis/Kisame_ougis.mp3
+SHA1-Digest: 0atXkfl/egxLWI1wx1aqGtstoPo=
 
-Name: assets/Audio/Ougis/Kakashi_ougis.ogg
-SHA1-Digest: VV4QmmF06Tuw8BRQDZeNjDlGG+s=
+Name: assets/Audio/Ougis/Konan_ougis.mp3
+SHA1-Digest: U+Aiq5bFCppfI16R0M0amrgc89k=
 
-Name: assets/Audio/Ougis/Kankuro_ougis.ogg
-SHA1-Digest: ilvryXzT9y4Bqh7meyaPw3cEKcc=
+Name: assets/Audio/Ougis/Lee_ougis.mp3
+SHA1-Digest: qY2e5Sc2NYHVjQLX+hdjGdyBsDo=
 
-Name: assets/Audio/Ougis/Karin_ougis.ogg
-SHA1-Digest: YXrKRPmKAV6Rn+hVcqfy6xkG/m0=
+Name: assets/Audio/Ougis/Minato_ougis.mp3
+SHA1-Digest: ylGR9lAf8qcwO7oYjvOf9v4bLBQ=
 
-Name: assets/Audio/Ougis/Kiba_ougis.ogg
-SHA1-Digest: n6Q1PEzStaqDojLvdEvpj8b+3DM=
+Name: assets/Audio/Ougis/Nagato_ougis.mp3
+SHA1-Digest: C+Gu9ffFrgB9dAsaACksko/0Blk=
 
-Name: assets/Audio/Ougis/Kimimaro_ougis.ogg
-SHA1-Digest: qyZREnDFA4kdJvqKawqS7p/TFRI=
+Name: assets/Audio/Ougis/Naruto_ougis.mp3
+SHA1-Digest: o9N0bMF8KalvnKK3MX8c3702SnA=
 
-Name: assets/Audio/Ougis/Kisame_ougis.ogg
-SHA1-Digest: CdLStXW6wMdJAu5xwQDjz91iGqE=
+Name: assets/Audio/Ougis/Neji_ougis.mp3
+SHA1-Digest: 7ZxeVuHCDEgpR/QB4AChkMddExc=
 
-Name: assets/Audio/Ougis/Konan_ougis.ogg
-SHA1-Digest: wQV5cgnhGXxbOF4KDlOAHnF+EsQ=
+Name: assets/Audio/Ougis/Orochimaru_ougis.mp3
+SHA1-Digest: N/WCRmDod9x5FUP5+a+0w9GPdDI=
 
-Name: assets/Audio/Ougis/Lee_ougis.ogg
-SHA1-Digest: 3oVkQs+6u3lv1qeK9xzgEIU+Urs=
+Name: assets/Audio/Ougis/Pain_ougis.mp3
+SHA1-Digest: PRPg4gwzDJTRq02rFesOds5vmnk=
 
-Name: assets/Audio/Ougis/Minato_ougis.ogg
-SHA1-Digest: xM7qJkOt13m7hS9LSeOcGZxvkLs=
+Name: assets/Audio/Ougis/Roshi_ougis.mp3
+SHA1-Digest: hlVfvInVfJPEaAajrRXxxnfFPi0=
 
-Name: assets/Audio/Ougis/Nagato_ougis.ogg
-SHA1-Digest: xIAMHlFtVE8e5wRNpPxPoKzvpAA=
+Name: assets/Audio/Ougis/SageJiraiya_ougis.mp3
+SHA1-Digest: F9eA5x2SYtLpj1XyXBg3uwodIQU=
 
-Name: assets/Audio/Ougis/Naruto_ougis.ogg
-SHA1-Digest: vwddkyfdvcvqeKl2Lrir9+60fyI=
+Name: assets/Audio/Ougis/SageNaruto_ougis.mp3
+SHA1-Digest: s49AO3wb3glb43C6AkwZW2MXmyI=
 
-Name: assets/Audio/Ougis/Neji_ougis.ogg
-SHA1-Digest: lkiAr+qeG0sH6K+ME17JDNB7gew=
+Name: assets/Audio/Ougis/Sai_ougis.mp3
+SHA1-Digest: kQbpD79tI+v9V5BfwmnCBXlkjxo=
 
-Name: assets/Audio/Ougis/Orochimaru_ougis.ogg
-SHA1-Digest: TFtjpZCS1dl+GU6q6Tb+n9qxyJ8=
+Name: assets/Audio/Ougis/Sakura_ougis.mp3
+SHA1-Digest: l10y/yXFPi48UVVjYgVT+WAAdoU=
 
-Name: assets/Audio/Ougis/Pain_ougis.ogg
-SHA1-Digest: ftI6eBXqdkVL5PJ2MpNd6yR+ZlE=
+Name: assets/Audio/Ougis/Sasuke_ougis.mp3
+SHA1-Digest: pYb4G5w8WssJJokqkqHOvwxJaQs=
 
-Name: assets/Audio/Ougis/Roshi_ougis.ogg
-SHA1-Digest: Q4YeqIOGlT66cMc2t9VFuIV3qUk=
+Name: assets/Audio/Ougis/Shikamaru_ougis.mp3
+SHA1-Digest: JxDf8LPTTIc9wnidCyy6Kudwqjk=
 
-Name: assets/Audio/Ougis/SageJiraiya_ougis.ogg
-SHA1-Digest: FGKJCKgpjKY4SG+CfMcB7JF9Wuk=
+Name: assets/Audio/Ougis/Shino_ougis.mp3
+SHA1-Digest: YHMfc3ZLsXujcv+YJpV7VvzWiRM=
 
-Name: assets/Audio/Ougis/SageNaruto_ougis.ogg
-SHA1-Digest: WKLJnkzPe1wtdRhTF89C4xAw7aM=
+Name: assets/Audio/Ougis/Suigetsu_ougis.mp3
+SHA1-Digest: +PofoLexvL+iA+OiZp1ki/TEoaQ=
 
-Name: assets/Audio/Ougis/Sai_ougis.ogg
-SHA1-Digest: BF6k0yEO9dvnE5u3D9xgsqbja7g=
+Name: assets/Audio/Ougis/Tenten_ougis.mp3
+SHA1-Digest: 6I3dW8p5vWsZ0CGv65GrfIDFWl4=
 
-Name: assets/Audio/Ougis/Sakura_ougis.ogg
-SHA1-Digest: DIM5ch/QcnhWLhEupGCxeqGX7p8=
+Name: assets/Audio/Ougis/Tobi_ougis.mp3
+SHA1-Digest: RvmGmEW5XX+LYLWnju9y2Vd/rng=
 
-Name: assets/Audio/Ougis/Sasuke_ougis.ogg
-SHA1-Digest: a+XuCPJ3hymWTurVmf5ReYI3sFg=
+Name: assets/Audio/Ougis/Tobirama_ougis.mp3
+SHA1-Digest: VUrk9h2nIg7eUwDmIwGEXXPvOTk=
 
-Name: assets/Audio/Ougis/Shikamaru_ougis.ogg
-SHA1-Digest: tWPuYl4A8ooYc+vafHC9MHv5/Pw=
+Name: assets/Audio/Ougis/Tsunade_ougis.mp3
+SHA1-Digest: trmQRH5vRZx8HZ0FElNJ4jIWk6A=
 
-Name: assets/Audio/Ougis/Shino_ougis.ogg
-SHA1-Digest: OdYlaVQ/Gdwb9PkCmEUEbMn3CUw=
+Name: assets/Audio/Pain/AnimalPath_skill1.mp3
+SHA1-Digest: dn3z31uxOjC4zEoU1PrMpb/amWY=
 
-Name: assets/Audio/Ougis/Suigetsu_ougis.ogg
-SHA1-Digest: V8fff8DfANb3uThU2rGubX8M+G4=
+Name: assets/Audio/Pain/AsuraPath_skill1.mp3
+SHA1-Digest: 7nyYvF7t1ACePPN/iAe1U2Mp+ww=
 
-Name: assets/Audio/Ougis/Tenten_ougis.ogg
-SHA1-Digest: a5AZ7Dhzv+fmIsr1Myg1wsKOU6I=
+Name: assets/Audio/Pain/DevaPath_combo.mp3
+SHA1-Digest: 8KHRjBxMSJXBwq2vbdIfsU5Bf28=
 
-Name: assets/Audio/Ougis/Tobi_ougis.ogg
-SHA1-Digest: mGQqg8WHqBLXnpzmpV4eqvMTJpg=
+Name: assets/Audio/Pain/DevaPath_skill1.mp3
+SHA1-Digest: ttv9dQJBBeRmdNxWniwk7G5Rod0=
 
-Name: assets/Audio/Ougis/Tobirama_ougis.ogg
-SHA1-Digest: C/OWAMA26Z2C/y91j34IuKWCFLA=
-
-Name: assets/Audio/Ougis/Tsunade_ougis.ogg
-SHA1-Digest: T7CFX0oahNvIAoSz4K2jWluwMUM=
-
-Name: assets/Audio/Pain/AnimalPath_skill1.ogg
-SHA1-Digest: GDDW7dkFpbso3f60C5Quwt90jHg=
-
-Name: assets/Audio/Pain/AsuraPath_skill1.ogg
-SHA1-Digest: ttBXeThDVnzcb3eBXTWGwKCrs50=
-
-Name: assets/Audio/Pain/DevaPath_combo.ogg
-SHA1-Digest: 6EpsI6zhVr+FkeHb5lRuZu3bLyM=
-
-Name: assets/Audio/Pain/DevaPath_skill1.ogg
-SHA1-Digest: 15e9SJp58NlgPUS8/SpSE+jYoBw=
-
-Name: assets/Audio/Pain/DevaPath_skill2.ogg
-SHA1-Digest: KtUFGnS8U3kOgmLuGka77I6hPlM=
+Name: assets/Audio/Pain/DevaPath_skill2.mp3
+SHA1-Digest: kxs94UroC76t4H8UvQENhgtcHsU=
 
 Name: assets/Audio/Pain/Pain_SLTZ.mp3
 SHA1-Digest: Tqkw7IFsA81a8UJPYbJc+ATdurA=
@@ -1928,197 +1655,179 @@ SHA1-Digest: +rLMPLqMPr0kRw5IFnRZKPqMfZQ=
 Name: assets/Audio/Pain/nAttack3.mp3
 SHA1-Digest: KLxsfC+ptKLW1L54gNsKWB4dREQ=
 
-Name: assets/Audio/Pain/pain_combo.ogg
-SHA1-Digest: qFZ3d+qZ6iELXtaE15VCSIFSx9s=
+Name: assets/Audio/Pain/pain_combo.mp3
+SHA1-Digest: B0NhR+9ST3rgxtCuKO5yXJfioKQ=
 
-Name: assets/Audio/Pain/pain_dead.ogg
-SHA1-Digest: byk91/FiMP6ksWffkgWYtZgJw1E=
+Name: assets/Audio/Pain/pain_dead.mp3
+SHA1-Digest: FGIVMD/ZLwH7jtC94ApsrryqGL4=
 
-Name: assets/Audio/Pain/pain_hurt.ogg
-SHA1-Digest: yVnIxLnzJSXGusylc9gjEQG1ED4=
+Name: assets/Audio/Pain/pain_hurt.mp3
+SHA1-Digest: S4vZT6D+F3j8tIFpt4XU9PR47lc=
 
-Name: assets/Audio/Pain/pain_skill1.ogg
-SHA1-Digest: 8CtJYlnizz5nutAHMIcwpKQ8cKg=
+Name: assets/Audio/Pain/pain_skill1.mp3
+SHA1-Digest: JAdVUKdE32oS/iAvUuyJr2QGJeY=
 
-Name: assets/Audio/Pain/pain_skill2.ogg
-SHA1-Digest: IKNXAkZj9nsvYLj4b9K7ORcxju0=
+Name: assets/Audio/Pain/pain_skill2.mp3
+SHA1-Digest: Elr6PnBqxPMnC8eOkNcD/3klUWg=
 
-Name: assets/Audio/Pain/pain_skill3.ogg
-SHA1-Digest: IEidKIq3gzPd0culN5T0mecLhsg=
+Name: assets/Audio/Pain/pain_skill3.mp3
+SHA1-Digest: A++7axvMUpDVZN8arxB2ltqpoQg=
 
-Name: assets/Audio/Pain/pain_skill4.ogg
-SHA1-Digest: kr9BGq3tK8561RgRBPJGAxswx7E=
+Name: assets/Audio/Pain/pain_skill4.mp3
+SHA1-Digest: WIMcpCU0DRKaUxEjzLGLrb/WOGQ=
 
-Name: assets/Audio/Roshi/Roshi_Hurt.ogg
-SHA1-Digest: 38axu0EKpMoRyNGUl4dkH2cgIyo=
+Name: assets/Audio/Roshi/Roshi_Hurt.mp3
+SHA1-Digest: clVS5DVwsrNXsH7Q24edwuBHNZY=
 
-Name: assets/Audio/Roshi/Roshi_combo.ogg
-SHA1-Digest: Zu5enzBjKblJYpsberS6cZaFrlk=
+Name: assets/Audio/Roshi/Roshi_combo.mp3
+SHA1-Digest: V6jRwY4+b4xu06wSPlJuoDiSWGo=
 
-Name: assets/Audio/Roshi/Roshi_combo2.ogg
-SHA1-Digest: yVs4iYBpCkh+BUDO8RFgwgnulMQ=
+Name: assets/Audio/Roshi/Roshi_combo2.mp3
+SHA1-Digest: X5AeLS5Em2WKvtgLW7TGOT7V7ls=
 
-Name: assets/Audio/SageJiraiya/SageJiraiya_combo.ogg
-SHA1-Digest: bqT0rqoytnBF2T1LNU3v/YqQh48=
+Name: assets/Audio/SageJiraiya/SageJiraiya_combo.mp3
+SHA1-Digest: SBEUim19iR9i8V0hXo2EBhhNNO0=
 
-Name: assets/Audio/SageJiraiya/SageJiraiya_ougis.ogg
-SHA1-Digest: yCugb8i+dyKktdkSp/qvJ7mgRBk=
+Name: assets/Audio/SageJiraiya/SageJiraiya_ougis.mp3
+SHA1-Digest: QoVPBtatm+srcQ7k1Zjy3b3Y6qY=
 
-Name: assets/Audio/SageJiraiya/SageJiraiya_skill1.ogg
-SHA1-Digest: Sd96PSewZMT+vsT4TTRurC9ciZ4=
+Name: assets/Audio/SageJiraiya/SageJiraiya_skill1.mp3
+SHA1-Digest: bBhOlPHOM5fTeYghJ6+ZLPu5j20=
 
-Name: assets/Audio/SageJiraiya/SageJiraiya_skill2.ogg
-SHA1-Digest: o0U4GF9SuYTuRRFzJnhjpvlMIKI=
+Name: assets/Audio/SageJiraiya/SageJiraiya_skill2.mp3
+SHA1-Digest: z78jDiN7qUNJeqdTx3i5v8HjdIw=
 
-Name: assets/Audio/SageJiraiya/SageJiraiya_skill3.ogg
-SHA1-Digest: o9dFscC11oJnKcNzBLWlkae8sC4=
+Name: assets/Audio/SageJiraiya/SageJiraiya_skill3.mp3
+SHA1-Digest: Riggysp6SnUhhN1nPbR6ulNTlMw=
 
-Name: assets/Audio/SageJiraiya/SageJiraiya_skill3_1.ogg
-SHA1-Digest: FV+7VSe+gO4ypF6XshoHF4at7Ic=
+Name: assets/Audio/SageJiraiya/SageJiraiya_skill3_1.mp3
+SHA1-Digest: 8Fs/qHJuulX8tt85m+vsB7mRKfY=
 
-Name: assets/Audio/SageJiraiya/SageJiraiya_skill4_1.ogg
-SHA1-Digest: pZS9h35NrSp3PjSguqwbP0AJnSY=
+Name: assets/Audio/SageJiraiya/SageJiraiya_skill4_1.mp3
+SHA1-Digest: LYaOJ01uPQGl8HFlI0Cy/wI9mj0=
 
-Name: assets/Audio/SageJiraiya/SageJiraiya_skill5.ogg
-SHA1-Digest: VYU1R396Z4ttxU8YaqXm6fiPhwA=
+Name: assets/Audio/SageJiraiya/SageJiraiya_skill5.mp3
+SHA1-Digest: nnzrMXKQ+6xPr6ZU1T2vsJq530A=
 
-Name: assets/Audio/SageJiraiya/SageJiraiya_skill5_1.ogg
-SHA1-Digest: /HOfw+irilxjLd2nPLwYduHgN90=
+Name: assets/Audio/SageJiraiya/SageJiraiya_skill5_1.mp3
+SHA1-Digest: pMu220HQfcoHCWk6RZQ/brDcmko=
 
-Name: assets/Audio/SageNaruto/BreakSound01.wav
-SHA1-Digest: gGXjb+/hJ+LLKXhVC2jfhAEoeQc=
+Name: assets/Audio/SageNaruto/BreakSound01.mp3
+SHA1-Digest: fAoZlOCzVnuGz9Y83XUrUwfnlC4=
 
-Name: assets/Audio/SageNaruto/Ciah.wav
-SHA1-Digest: 3XVI4/laW9IXjv7yrf1HJYnx/w8=
+Name: assets/Audio/SageNaruto/EffSkill08.mp3
+SHA1-Digest: ZebVR/L05bvfHAzc/HOkr7QfITM=
 
-Name: assets/Audio/SageNaruto/DUAR.ogg
-SHA1-Digest: dF47UnLa3EgiMz5Lgwa5ulBxftg=
+Name: assets/Audio/SageNaruto/Naruto_s4_02.mp3
+SHA1-Digest: /kqtZqOTt6NMuf8zZKYayZBTqbk=
 
-Name: assets/Audio/SageNaruto/EffSkill08.wav
-SHA1-Digest: En1JeXZEZ9krn8woQVU1Wu8sZt4=
+Name: assets/Audio/SageNaruto/Naruto_s4_sfx_01.mp3
+SHA1-Digest: CQT4zDJ97m55A0BVu93bGRlf2wM=
 
-Name: assets/Audio/SageNaruto/K.wav
-SHA1-Digest: Oblb5r8poRkUyDD0LhvGbEohj4Q=
+Name: assets/Audio/SageNaruto/Naruto_skill04.mp3
+SHA1-Digest: tSErI3UeAxHpUwy0ExEMMx95obs=
 
-Name: assets/Audio/SageNaruto/Monster.wav
-SHA1-Digest: cAdIyW6VqYTYL/TDx7FEmy4ZkZc=
+Name: assets/Audio/SageNaruto/Naruto_skill1.mp3
+SHA1-Digest: q2cDSaHDnfzpBLC5RNxKQ7R858c=
 
-Name: assets/Audio/SageNaruto/Naruto_s4_02.ogg
-SHA1-Digest: EVtzRFyhNEgHKGC1CvZK5odEYxc=
+Name: assets/Audio/SageNaruto/Naruto_skill4.mp3
+SHA1-Digest: R4eXUUZpTakbGdDptnn+kT9jUHo=
 
-Name: assets/Audio/SageNaruto/Naruto_s4_sfx_01.ogg
-SHA1-Digest: fxmIPoe0Znfj2F3AO+ndxTeaDMk=
+Name: assets/Audio/SageNaruto/RK_Naruto_s4_sfx_02.mp3
+SHA1-Digest: Q+quGzg5izHr68np5JSlHMUsN5c=
 
-Name: assets/Audio/SageNaruto/Naruto_skill04.ogg
-SHA1-Digest: t6L1kVt29PNwNgSmVm0nwryKJfE=
+Name: assets/Audio/SageNaruto/Rasen.mp3
+SHA1-Digest: I1rBqElqTqmqA8wxU0WusyDX2e4=
 
-Name: assets/Audio/SageNaruto/Naruto_skill1.ogg
-SHA1-Digest: 5W2MdE4Xdk7mezeGM/cQpSvZKvA=
+Name: assets/Audio/SageNaruto/Rasen1.mp3
+SHA1-Digest: pTmQA+KS3t4NrCkOFXzbQso8Rd0=
 
-Name: assets/Audio/SageNaruto/Naruto_skill4.ogg
-SHA1-Digest: U7sOYaNhT3xgrSdlHT9XH9yClOs=
+Name: assets/Audio/SageNaruto/Rasen2.mp3
+SHA1-Digest: BOTbecGi3D8nVEpCAzc6MMGWNdM=
 
-Name: assets/Audio/SageNaruto/RK_Naruto_s4_sfx_02.ogg
-SHA1-Digest: 37iSUnQCv6nXYPO6l/y1t3w7hug=
+Name: assets/Audio/SageNaruto/SageNaruto_skill1.mp3
+SHA1-Digest: q2cDSaHDnfzpBLC5RNxKQ7R858c=
 
-Name: assets/Audio/SageNaruto/Rasen.wav
-SHA1-Digest: phOvX7UZwh7ulA/YFd6RYZWlHSM=
+Name: assets/Audio/SageNaruto/SageNaruto_skill3.mp3
+SHA1-Digest: LhBnrLPnRhCp6UPQZdxYaZ2Tfdg=
 
-Name: assets/Audio/SageNaruto/Rasen1.wav
-SHA1-Digest: wFCd9tKGqqAJ0KYm90ac9VIcIus=
+Name: assets/Audio/SageNaruto/SageNaruto_skill3_1.mp3
+SHA1-Digest: 8uLCgXbNRTMr58WflfdtHxVHS5s=
 
-Name: assets/Audio/SageNaruto/Rasen2.wav
-SHA1-Digest: /G+DsUDOlgGlN+Q0LdtKoMo2/EI=
+Name: assets/Audio/SageNaruto/SageNaruto_skill4.mp3
+SHA1-Digest: tSErI3UeAxHpUwy0ExEMMx95obs=
 
-Name: assets/Audio/SageNaruto/SageNaruto_skill1.ogg
-SHA1-Digest: 5W2MdE4Xdk7mezeGM/cQpSvZKvA=
-
-Name: assets/Audio/SageNaruto/SageNaruto_skill3.ogg
-SHA1-Digest: cbCMrpeRmF+MXzquOCo5/mOTKi0=
-
-Name: assets/Audio/SageNaruto/SageNaruto_skill3_1.ogg
-SHA1-Digest: QaCSP1xAvYXUuB8ehbNbqe6mvPg=
-
-Name: assets/Audio/SageNaruto/SageNaruto_skill4.ogg
-SHA1-Digest: t6L1kVt29PNwNgSmVm0nwryKJfE=
-
-Name: assets/Audio/SageNaruto/SageNaruto_skill5.ogg
-SHA1-Digest: wO6VJdSQmjhvoQemsaz/FGtbB90=
-
-Name: assets/Audio/SageNaruto/Skill1.ogg
-SHA1-Digest: XS9slXpqgMr0ymEQ0mLZHK1h+FI=
+Name: assets/Audio/SageNaruto/SageNaruto_skill5.mp3
+SHA1-Digest: nPPcTtVbgCb3/Iok3/3ZE7kv9j8=
 
 Name: assets/Audio/SageNaruto/Tarendan.mp3
 SHA1-Digest: brkwDtUBQUrNp5uiLzwK0lafjQM=
 
-Name: assets/Audio/SageNaruto/break_sound2.ogg
-SHA1-Digest: 40zAFzb61oDYAkPGMkOCnyWhIig=
+Name: assets/Audio/SageNaruto/break_sound2.mp3
+SHA1-Digest: Dc998j4aGlZaPhZIq+89cc8Q6Ho=
 
-Name: assets/Audio/SageNaruto/naruto_skill2.ogg
-SHA1-Digest: D92DmBMXGitLh85tQ5eh/hkeXng=
+Name: assets/Audio/SageNaruto/naruto_skill2.mp3
+SHA1-Digest: 1kYrHunvRRB0M7zGFPCAI4fkA5Q=
 
-Name: assets/Audio/SageNaruto/naruto_skill3.ogg
-SHA1-Digest: Kbq9QilKIC1mAAvFw35OEoq7dmw=
+Name: assets/Audio/SageNaruto/naruto_skill3.mp3
+SHA1-Digest: wmTShUispgfYixAvY7QT9WGaVYI=
 
-Name: assets/Audio/SageNaruto/o_02.ogg
-SHA1-Digest: Yy/5sz1WX4DZ8qS8uV3SWHPIAZU=
+Name: assets/Audio/SageNaruto/o_02.mp3
+SHA1-Digest: nsksfO/JlUYeky1O4i6vAIhDEsk=
 
-Name: assets/Audio/SageNaruto/o_03.ogg
-SHA1-Digest: ymyl238Yrnr2ayoj4QbPubDWFMs=
+Name: assets/Audio/SageNaruto/o_03.mp3
+SHA1-Digest: Yq/dm0hxQEbOdMSlwzZtuBYDOVg=
 
-Name: assets/Audio/SageNaruto/poof.wav
-SHA1-Digest: YAFU2mbWMytRErAiw7K1/3KQzWs=
+Name: assets/Audio/SageNaruto/poof.mp3
+SHA1-Digest: a80gY243kAPOy3ymAJB4EGfljuw=
 
-Name: assets/Audio/SageNaruto/slash_04.wav
-SHA1-Digest: 1VQaaZ8hxDQNDhAF1H5Hots9GR4=
+Name: assets/Audio/SageNaruto/slash_04.mp3
+SHA1-Digest: RnH4Ah8d1Ri2mI/CyPQinllYzyE=
 
-Name: assets/Audio/SageNaruto/susanoSword.mp3
-SHA1-Digest: FWfkXC24Vq0yD9nuiifFSVZ04kQ=
+Name: assets/Audio/SageNaruto/xianfa.mp3
+SHA1-Digest: 5VVyyZWoVnKzhxejUJypyNE7OcU=
 
-Name: assets/Audio/SageNaruto/xianfa.ogg
-SHA1-Digest: bvug6JyNIhF+GpXkKR+6X/PF4Eg=
+Name: assets/Audio/Sai/sai_combo.mp3
+SHA1-Digest: rdJ5qet1Ac6cpwmlsO9Sgl0fXsI=
 
-Name: assets/Audio/Sai/sai_combo.ogg
-SHA1-Digest: WcEIWfDNMkeFtvwKkB3KiFrL8bs=
+Name: assets/Audio/Sai/sai_combo2.mp3
+SHA1-Digest: EcqK86n97Ybvi22qCs7xbQNMHhM=
 
-Name: assets/Audio/Sai/sai_combo2.ogg
-SHA1-Digest: /t9Ee32uCPm57XDbyQigWmSxCpk=
+Name: assets/Audio/Sai/sai_dead.mp3
+SHA1-Digest: gl0jDEtD5HmqopUXFtU20tgHL5k=
 
-Name: assets/Audio/Sai/sai_dead.ogg
-SHA1-Digest: XDpOI977g3pulZrJLMN/PxOGwRg=
+Name: assets/Audio/Sai/sai_hurt.mp3
+SHA1-Digest: +0vBhCtBm5u5oyHX2lBlfikw6Ek=
 
-Name: assets/Audio/Sai/sai_hurt.ogg
-SHA1-Digest: u/8fXcXZ4zqkd0Vwf3DDAFQgy5M=
+Name: assets/Audio/Sai/sai_skill1.mp3
+SHA1-Digest: MZx9vQws0Uk64LDG3T/pmnJZl0s=
 
-Name: assets/Audio/Sai/sai_skill1.ogg
-SHA1-Digest: oA9uCg+pSkQg0C0OvJC5a9rnjmk=
+Name: assets/Audio/Sai/sai_skill2.mp3
+SHA1-Digest: XlYHfYiegLom7JbLdWeEYfWcIsU=
 
-Name: assets/Audio/Sai/sai_skill2.ogg
-SHA1-Digest: xclTYOLP2bG1nvdbJXGeC3ixfUc=
+Name: assets/Audio/Sai/sai_skill2_1.mp3
+SHA1-Digest: 9ZvKv5xgTR9l2YpAQ7Ofb8W/e+k=
 
-Name: assets/Audio/Sai/sai_skill2_1.ogg
-SHA1-Digest: BpO3AWueofzU7gTPyKZPjCHKjPg=
+Name: assets/Audio/Sai/sai_skill3.mp3
+SHA1-Digest: S2gchrI0fWfhdQTfLzOMJSME2BU=
 
-Name: assets/Audio/Sai/sai_skill3.ogg
-SHA1-Digest: dI7VpLAmDxaoyKBKiE62m7KA9VM=
+Name: assets/Audio/Sai/sai_skill4.mp3
+SHA1-Digest: TRn8w8PjqfK3DkFfSxJxU5HMDD4=
 
-Name: assets/Audio/Sai/sai_skill4.ogg
-SHA1-Digest: JkBtfJgoosfWrAei5U8ec4zjA5s=
+Name: assets/Audio/Sai/sai_skill4_1.mp3
+SHA1-Digest: Ee3y6IrZKNfNhjL2MqqqZ7QvoOU=
 
-Name: assets/Audio/Sai/sai_skill4_1.ogg
-SHA1-Digest: KhGbwC8Ec3zwBmzDnvy6AmhGpN4=
+Name: assets/Audio/Sai/sai_skill4_2.mp3
+SHA1-Digest: JuwdgdCHSoLfvn6FCY+YaEK/OuU=
 
-Name: assets/Audio/Sai/sai_skill4_2.ogg
-SHA1-Digest: 2tkP/fkcbl9f62MOkD9xQXjxWBo=
+Name: assets/Audio/Sai/sai_skill5.mp3
+SHA1-Digest: pphh678m9hKt8s5PoA7hGPQ/dz0=
 
-Name: assets/Audio/Sai/sai_skill5.ogg
-SHA1-Digest: ANJmuN585Io5ej8zjCYyct5vW/4=
+Name: assets/Audio/Sai/sai_skill5_1.mp3
+SHA1-Digest: Krn5nckRo7JaY1zWe5fVJgW5phM=
 
-Name: assets/Audio/Sai/sai_skill5_1.ogg
-SHA1-Digest: 7BHH36iWPAqBkLUaohCkX9pfkwE=
-
-Name: assets/Audio/Sai/sai_skill5_2.ogg
-SHA1-Digest: T0GVR0bjQ+nZCPl9nN6qV05VYaQ=
+Name: assets/Audio/Sai/sai_skill5_2.mp3
+SHA1-Digest: icrSv5RE0nGt1du8rgYlQRK9ddk=
 
 Name: assets/Audio/Sakura/EffectSkill1.mp3
 SHA1-Digest: CeF0dXmwjKENhkFlOevEpiqVv0o=
@@ -2156,41 +1865,35 @@ SHA1-Digest: ZnbuUlU5d63MrTyZAjDzoa+up1M=
 Name: assets/Audio/Sakura/EffectSkillTuji_1.mp3
 SHA1-Digest: db+Vv2hpDhisQbwy3o0/dcHRJFY=
 
-Name: assets/Audio/Sakura/Sakura.ogg
-SHA1-Digest: /thBM1xnqscelBiHY4HduX7BX9A=
-
 Name: assets/Audio/Sakura/Sakura_ougis.mp3
 SHA1-Digest: HJAW0Gzu38vdLXlY8h29d2OCS54=
 
-Name: assets/Audio/Sakura/Sakura_ougis.ogg
-SHA1-Digest: oFUFarJVqm2nINcagqB3Y/xsJHo=
-
 Name: assets/Audio/Sakura/Sakura_skill1.mp3
-SHA1-Digest: II+alYm1cI4zukhG5T4U4uzHuJI=
+SHA1-Digest: vCqTZVYqMZL8JqkbiouuXXnwqL8=
 
 Name: assets/Audio/Sakura/Sakura_skill2.mp3
-SHA1-Digest: ZmoG29tJwVtiCZHTDs/USx026fk=
+SHA1-Digest: ZxrVjl/xzOrb5xdl+vEA+Uegstc=
 
 Name: assets/Audio/Sakura/Sakura_skill3.mp3
-SHA1-Digest: KQSh88okyyJZAqQx0eumBCqwMes=
+SHA1-Digest: jxFgYFwQ+v7m7kB/aas5v+NV3wA=
 
 Name: assets/Audio/Sakura/Sakura_skill4.mp3
 SHA1-Digest: sV2ndTxSFz9XhOL25Nav0LgTgnE=
 
 Name: assets/Audio/Sakura/Sakura_skill4_1.mp3
-SHA1-Digest: 3yVXdWga6teBeDPSHO/V206tz5s=
+SHA1-Digest: sU7LE52ydzTTv+VlJ+sCMC331mo=
 
 Name: assets/Audio/Sakura/Sakura_skill5.mp3
-SHA1-Digest: vhtcO41AZCgqPSEnWwnsv96CHA4=
+SHA1-Digest: WAo44NgFw1ZpmDIdB74Az37tq6U=
 
 Name: assets/Audio/Sakura/Sakura_skill5_1.mp3
-SHA1-Digest: jsPIPDt45iL7o7dzFDl5rdnQSDI=
+SHA1-Digest: MdQpgYIs8kIUHRFDi6s70yN3y88=
 
 Name: assets/Audio/Sakura/Sakura_skill5_2.mp3
-SHA1-Digest: gr64FTs8pqdTR3fYNRYUE61/Vz4=
+SHA1-Digest: /mhJa+mKukCwEv/PRaRAlNxyHWU=
 
 Name: assets/Audio/Sakura/Sakura_skill5_3.mp3
-SHA1-Digest: 2183slQuHokGhYQsUJ9/U7FdWYA=
+SHA1-Digest: cyek3Dc1lzEaNToYZhcCMvM55Vc=
 
 Name: assets/Audio/Sakura/Smoke.mp3
 SHA1-Digest: hLnW2lwv5/COrf1UJpifS5iTc8Y=
@@ -2201,323 +1904,506 @@ SHA1-Digest: h6HsiuVxn2bAeF53j0QTMvttgnU=
 Name: assets/Audio/Sakura/combo2.mp3
 SHA1-Digest: I1g0nh7rsCl2on22VU1T032uAxA=
 
-Name: assets/Audio/Sakura/sakura_combo.ogg
-SHA1-Digest: blPa3LgWW6erR/KZxZAW7o/32qk=
+Name: assets/Audio/Sakura/sakura_combo.mp3
+SHA1-Digest: Vd1UUlmQDaYbYPRwlAosq8/arrc=
 
-Name: assets/Audio/Sakura/sakura_dead.ogg
-SHA1-Digest: f4cOyckb0snkBApWSO94vyfIVC4=
+Name: assets/Audio/Sakura/sakura_dead.mp3
+SHA1-Digest: 4bWoD/qKmmHiYgviygCvPV0LA4Q=
 
-Name: assets/Audio/Sakura/sakura_hurt.ogg
-SHA1-Digest: cSeDzBotDuYo+N9STA3Xd5CEl5c=
+Name: assets/Audio/Sakura/sakura_hurt.mp3
+SHA1-Digest: EnKv9Khw/Wbk96swf9Affd8lD5E=
 
-Name: assets/Audio/Sakura/sakura_skill1.ogg
-SHA1-Digest: 8Nb3o6w0x7ksjAeW02vPQ9oQEbE=
+Name: assets/Audio/Sakura/sakura_skill1_2.mp3
+SHA1-Digest: CvcKCWHWmDTi3N45CtxVG+K+Doo=
 
-Name: assets/Audio/Sakura/sakura_skill2.ogg
-SHA1-Digest: dxH3oacQVjlpX0JuneC7iu9bbGs=
+Name: assets/Audio/Sakura/sakura_skill5_4.mp3
+SHA1-Digest: 5uvY7Y9StL9fxPmJKAG8Vd5plpg=
 
-Name: assets/Audio/Sakura/sakura_skill3.ogg
-SHA1-Digest: DoBSnhiX8PNd9YXEkEWKDruDcy4=
+Name: assets/Audio/Sasuke/kt.mp3
+SHA1-Digest: 1N7fnfVARa8OAERDqpEWGrrzybw=
 
-Name: assets/Audio/Sakura/sakura_skill4_1.ogg
-SHA1-Digest: 4r+OYFxoyYn5fLfwT5k8wYPSz8c=
+Name: assets/Audio/Sasuke/kt_1.mp3
+SHA1-Digest: QdM4BAYat8DqLcG6as29jODzuIQ=
 
-Name: assets/Audio/Sakura/sakura_skill4_2.ogg
-SHA1-Digest: dfa6bTNFbsCoXh8/rm8N6Jm8JxQ=
+Name: assets/Audio/Sasuke/qn_01.mp3
+SHA1-Digest: HCWa/Ydil2SKuTVM4uIS31bMyOs=
 
-Name: assets/Audio/Sakura/sakura_skill5.ogg
-SHA1-Digest: mnMJgl2iwJyqCpplkeBpLGGQmq8=
+Name: assets/Audio/Sasuke/qn_02.mp3
+SHA1-Digest: Gl9fQAq8gfzfrVSI0hmrdwcd30w=
 
-Name: assets/Audio/Sakura/sakura_skill5_1.ogg
-SHA1-Digest: jpLV5MkZS1+BMCU55W3ng1YeRl4=
+Name: assets/Audio/Sasuke/sasuke_combo.mp3
+SHA1-Digest: 31hGfi8i3gHGhXKWMHqhx443Dwo=
 
-Name: assets/Audio/Sakura/sakura_skill5_2.ogg
-SHA1-Digest: lI4jZyKgApeElAmE2cqYkJpisRU=
+Name: assets/Audio/Sasuke/sasuke_dead.mp3
+SHA1-Digest: VaomVV5vS6bymoP06Ss1f77Akv4=
 
-Name: assets/Audio/Sakura/sakura_skill5_3.ogg
-SHA1-Digest: HheBu17vMdhz6fHVyVKd5fZPxXk=
+Name: assets/Audio/Sasuke/sasuke_hurt.mp3
+SHA1-Digest: msqL+DfYx8i9jCSmS0f1YmPrFvM=
 
-Name: assets/Audio/Sakura/sakura_skill5_4.ogg
-SHA1-Digest: qHXn53S7GmUhRaxfGFJ0OwgRL84=
+Name: assets/Audio/Sasuke/sasuke_skill1.mp3
+SHA1-Digest: NzlS7ZxmLpbvAT8Y3wjydZWaUaA=
 
-Name: assets/Audio/Sasuke/kt.ogg
-SHA1-Digest: OXUT/kV/IbvryOV8vJPP3tUuMRI=
+Name: assets/Audio/Sasuke/sasuke_skill10.mp3
+SHA1-Digest: eWooL7C8zSYWR7Q8Z8mnYy+w4LI=
 
-Name: assets/Audio/Sasuke/qn_01.ogg
-SHA1-Digest: XiZgewawQuAL8cQnJMl37YzeGuo=
+Name: assets/Audio/Sasuke/sasuke_skill11.mp3
+SHA1-Digest: 775i4HCdECDa0mVkKSmc9rUHALM=
 
-Name: assets/Audio/Sasuke/qn_02.ogg
-SHA1-Digest: WaYRPneAlr9ZUz/WM/LfksVDHA0=
+Name: assets/Audio/Sasuke/sasuke_skill1_1.mp3
+SHA1-Digest: 8x3vsezXcl0EOsfvKIeCt6UnjpI=
 
-Name: assets/Audio/Sasuke/sasuke_combo.ogg
-SHA1-Digest: 70uZhHdGJ2+cZXi84eGartZ6wn8=
+Name: assets/Audio/Sasuke/sasuke_skill2.mp3
+SHA1-Digest: HCWa/Ydil2SKuTVM4uIS31bMyOs=
 
-Name: assets/Audio/Sasuke/sasuke_dead.ogg
-SHA1-Digest: v+Ev9hfLMpRZsonxAb1PbGABsyI=
+Name: assets/Audio/Sasuke/sasuke_skill2_2.mp3
+SHA1-Digest: Gl9fQAq8gfzfrVSI0hmrdwcd30w=
 
-Name: assets/Audio/Sasuke/sasuke_hurt.ogg
-SHA1-Digest: /qsko03pHh+etGGsj0beigeWBJE=
+Name: assets/Audio/Sasuke/sasuke_skill3.mp3
+SHA1-Digest: SEQagTqQbGD+OhNDHFrOqvJ9JE0=
 
-Name: assets/Audio/Sasuke/sasuke_skill1.ogg
-SHA1-Digest: Ffy0EZtccuZ+3/DrscbdeetRHSs=
+Name: assets/Audio/Sasuke/sasuke_skill4.mp3
+SHA1-Digest: 2mGesKuMli//0T3+42Iq8syE7nA=
 
-Name: assets/Audio/Sasuke/sasuke_skill10.ogg
-SHA1-Digest: V0LPwWLz4KLIk1zn8lb8k0oQuPg=
+Name: assets/Audio/Sasuke/sasuke_skill4_1.mp3
+SHA1-Digest: VDIe3B3GQXXtlMshD84qyH4ITPE=
 
-Name: assets/Audio/Sasuke/sasuke_skill11.ogg
-SHA1-Digest: YDYAAe0CaoKIlGvMlXAt+BbtH7Y=
+Name: assets/Audio/Shikamaru/Shikamaru_combo.mp3
+SHA1-Digest: gS24CTS8SAWteoSKwWzSvQiBxXk=
 
-Name: assets/Audio/Sasuke/sasuke_skill1_1.ogg
-SHA1-Digest: MAKPl3wNsySaCej6ObvCbgSgQAA=
+Name: assets/Audio/Shikamaru/Shikamaru_dead.mp3
+SHA1-Digest: z5KYMyCRoQE1hmgFi7TSei1ePBU=
 
-Name: assets/Audio/Sasuke/sasuke_skill2.ogg
-SHA1-Digest: XiZgewawQuAL8cQnJMl37YzeGuo=
+Name: assets/Audio/Shikamaru/Shikamaru_hurt.mp3
+SHA1-Digest: oXCoWFCqJQsgKp5WD2iTI6Ka0CE=
 
-Name: assets/Audio/Sasuke/sasuke_skill2_2.ogg
-SHA1-Digest: WaYRPneAlr9ZUz/WM/LfksVDHA0=
+Name: assets/Audio/Shikamaru/Shikamaru_skill01.mp3
+SHA1-Digest: wOFLatbDd2I7s7RVI3EqwGFZbAI=
 
-Name: assets/Audio/Sasuke/sasuke_skill3.ogg
-SHA1-Digest: Bz0IugXm3iPwzYXMqtWOc7cQuRo=
+Name: assets/Audio/Shikamaru/Shikamaru_skill02.mp3
+SHA1-Digest: qliKqOdu2vaRF92g5Hh8U8Djv/k=
 
-Name: assets/Audio/Sasuke/sasuke_skill4.ogg
-SHA1-Digest: BK4uPuJpZ1CXeOAgnHYo3yftYfQ=
+Name: assets/Audio/Shikamaru/Shikamaru_skill03.mp3
+SHA1-Digest: tbBhGNcO2p5K+ePCGtsZriIl5Oc=
 
-Name: assets/Audio/Sasuke/sasuke_skill4_1.ogg
-SHA1-Digest: lBf4JmBLQRuYMXKYrAaKpJGbIiY=
+Name: assets/Audio/Shikamaru/Shikamaru_skill04.mp3
+SHA1-Digest: lktKiM7Yyzokj5sFJ9o2dnnH7T0=
 
-Name: assets/Audio/Sasuke/tz.ogg
-SHA1-Digest: FCTxvmiWIdmHZ6qt+diaycvN20s=
+Name: assets/Audio/Shikamaru/Shikamaru_skill5.mp3
+SHA1-Digest: Lym+E6RdxcA1wQotu4B6MaYx4bA=
 
-Name: assets/Audio/Shikamaru/Shikamaru_combo.ogg
-SHA1-Digest: VDZDINh1gkMTzqTzQB7E+soe9Dc=
+Name: assets/Audio/Shikamaru/yingzi.mp3
+SHA1-Digest: Art1lM/vTwDiQCpia5rAhr/u6HM=
 
-Name: assets/Audio/Shikamaru/Shikamaru_dead.ogg
-SHA1-Digest: KByyTbA3ssNIM/zJPgplrmxLk7o=
+Name: assets/Audio/Suigetsu/suigetsu_combo.mp3
+SHA1-Digest: KAmmLqRfyxdQlh73IXFHsToARRo=
 
-Name: assets/Audio/Shikamaru/Shikamaru_hurt.ogg
-SHA1-Digest: mGHthF+IzBXjJa+ONK9sID6XYo0=
+Name: assets/Audio/Suigetsu/suigetsu_dead.mp3
+SHA1-Digest: YaGAm0wtq3Au8eO/xiHx4KsNAvg=
 
-Name: assets/Audio/Shikamaru/Shikamaru_skill01.ogg
-SHA1-Digest: QnHmEocse3tDdiA3nsj5iLZyDD0=
+Name: assets/Audio/Suigetsu/suigetsu_hurt.mp3
+SHA1-Digest: aMWFWqzGYfXDK88a9I5X13ahpTA=
 
-Name: assets/Audio/Shikamaru/Shikamaru_skill02.ogg
-SHA1-Digest: N6Ko5RIHlbWJpRieAl+SpDkaetI=
+Name: assets/Audio/Suigetsu/suigetsu_skill1.mp3
+SHA1-Digest: aPGSH0ZdP7gXxtyGzJx7jsAeZgc=
 
-Name: assets/Audio/Shikamaru/Shikamaru_skill03.ogg
-SHA1-Digest: StKBT4JlJA0XI3qt8Hm+QEoWwho=
+Name: assets/Audio/Suigetsu/suigetsu_skill2.mp3
+SHA1-Digest: eOXtCLcaDlu/edQAh0rY29s+Npo=
 
-Name: assets/Audio/Shikamaru/Shikamaru_skill04.ogg
-SHA1-Digest: VGaHLXw+/fuk8BOTThtcx8vQ9Bs=
+Name: assets/Audio/Suigetsu/suigetsu_skill3_1.mp3
+SHA1-Digest: PnsRrpylk2xqY7x/B0XSk0DwGIQ=
 
-Name: assets/Audio/Shikamaru/Shikamaru_skill5.ogg
-SHA1-Digest: edspvPgihfqIQSns6iO8Joj8IXQ=
+Name: assets/Audio/Suigetsu/suigetsu_skill3_2.mp3
+SHA1-Digest: NXtu7rkWjlTzFUtIB4tmRyJfbN4=
 
-Name: assets/Audio/Shikamaru/yingzi.ogg
-SHA1-Digest: h3UTIfhAQcCvqIBeeiJTXj5C3sE=
+Name: assets/Audio/Suigetsu/suigetsu_skill4.mp3
+SHA1-Digest: 53u8eP0j0xwV9NU8OUJAZYEtw1w=
 
-Name: assets/Audio/Shino/Shino_combo.ogg
-SHA1-Digest: fTcs0bI+RUNInQca30Bykp6iQak=
+Name: assets/Audio/Suigetsu/suigetsu_skill5_1.mp3
+SHA1-Digest: MARSIA1OwSiBQ5tbfoEgCVq1YOg=
 
-Name: assets/Audio/Shino/Shino_dead.ogg
-SHA1-Digest: NiEP4bWoOvSwUfGQ2eu1Psv7Jow=
+Name: assets/Audio/Suigetsu/suigetsu_skill5_2.mp3
+SHA1-Digest: qW/p/06x+BdihTDAf2suwszWv9M=
 
-Name: assets/Audio/Shino/Shino_hurt.ogg
-SHA1-Digest: 8xLE5skrQCePI6ZysII4ax2K2ik=
+Name: assets/Audio/Suigetsu/suigetsu_skill5_3.mp3
+SHA1-Digest: 3h7QNZUy9DqufB/XOKNGK2tw/zc=
 
-Name: assets/Audio/Shino/Shino_skill1.ogg
-SHA1-Digest: K8UlmtYDRlzZGaHO+p4ur1sFLw8=
+Name: assets/Audio/Suigetsu/suigetsu_skill5_4.mp3
+SHA1-Digest: Xqn4W4794GrdMEuzSxJjkSwi4fY=
 
-Name: assets/Audio/Shino/Shino_skill1_1.ogg
-SHA1-Digest: XrQpKkVJ236PY8QMzuxkP80pz2U=
+Name: assets/Audio/Suigetsu/suigetsu_skill5_5.mp3
+SHA1-Digest: 7n69RGKYD+8M2+CFDobc3M1O7v0=
 
-Name: assets/Audio/Shino/Shino_skill2.ogg
-SHA1-Digest: D/GaA+EnvoSqB8iHdvYAyjZk3w4=
+Name: assets/Audio/Tenten/Tenten_skill5_1.mp3
+SHA1-Digest: 0xsHG4uVL+ooZGBujCgJDEcXzkI=
 
-Name: assets/Audio/Shino/Shino_skill2_1.ogg
-SHA1-Digest: WthbXRum9tAWQUwTjVvN7ZcMGWU=
+Name: assets/Audio/Tenten/Tenten_skill5_2.mp3
+SHA1-Digest: /j6XYR7YXwu4B1bMPJYicSPp5/c=
 
-Name: assets/Audio/Shino/Shino_skill3.ogg
-SHA1-Digest: 89PxHSw70LCiILglsrM4Hq1Odmw=
+Name: assets/Audio/Tenten/Tenten_skill5_3.mp3
+SHA1-Digest: 1Ro+4KRiAIZax/VvZYnaxzoUO9I=
 
-Name: assets/Audio/Shino/Shino_skill4.ogg
-SHA1-Digest: ixND6uOAOx66O7DrgD4J/vrzYFQ=
+Name: assets/Audio/Tenten/tenten_combo.mp3
+SHA1-Digest: i4U3DzG8od5Ej3NU6Gz+jgv/t8g=
 
-Name: assets/Audio/Shino/Shino_skill5.ogg
-SHA1-Digest: kNTph0DQ2EkweJYnxce+J9ePhZw=
+Name: assets/Audio/Tenten/tenten_dead.mp3
+SHA1-Digest: LJNFAU2foK3+bF+qKV3jWN/AxOM=
 
-Name: assets/Audio/Suigetsu/suigetsu_combo.ogg
-SHA1-Digest: TFgUupI4Bk0ll4RNGUFehC6LIvw=
+Name: assets/Audio/Tenten/tenten_hurt.mp3
+SHA1-Digest: 5YQiYrJ8GvJV4QGnu3Ald+rDwOc=
 
-Name: assets/Audio/Suigetsu/suigetsu_dead.ogg
-SHA1-Digest: Ed6MBDvsSqHWx4ZD186eyu7SqCU=
+Name: assets/Audio/Tenten/tenten_skill1.mp3
+SHA1-Digest: 6VJY+ju0nsEGj5IsLP+IovTG7gw=
 
-Name: assets/Audio/Suigetsu/suigetsu_hurt.ogg
-SHA1-Digest: SoVV7xJbIL1H7btPjTBZvHJcH5I=
+Name: assets/Audio/Tenten/tenten_skill2.mp3
+SHA1-Digest: X6PQuC5pY6+LgIlkHERFOAsXcfU=
 
-Name: assets/Audio/Suigetsu/suigetsu_skill1.ogg
-SHA1-Digest: bj65VqhKpPHwDew7xEqVx3k50m4=
+Name: assets/Audio/Tenten/tenten_skill2_1.mp3
+SHA1-Digest: NU/MSh890wYhTAOHtI8qROdrW6M=
 
-Name: assets/Audio/Suigetsu/suigetsu_skill2.ogg
-SHA1-Digest: zivsiimeUFmyLrudjZm4/SQdU6c=
+Name: assets/Audio/Tenten/tenten_skill3.mp3
+SHA1-Digest: PB6KXKOefn8N5JhrHIuqKukJZ1k=
 
-Name: assets/Audio/Suigetsu/suigetsu_skill3_1.ogg
-SHA1-Digest: aANFNJr5W4tbR0jwTY+vuVJbcow=
+Name: assets/Audio/Tenten/tenten_skill4.mp3
+SHA1-Digest: 7R3U+XNNxM7ajsKjXOQGWUy/L20=
 
-Name: assets/Audio/Suigetsu/suigetsu_skill3_2.ogg
-SHA1-Digest: H2g4+pKBaXCJxK4QZ5i8YxJHjyA=
+Name: assets/Audio/Tenten/tenten_skill4_1.mp3
+SHA1-Digest: 5kXz0sC5jqT2oUHUDgIivnG5Zes=
 
-Name: assets/Audio/Suigetsu/suigetsu_skill4.ogg
-SHA1-Digest: NAMcwLqlVkmva6HwtBfoGb2N/X4=
+Name: assets/Audio/Tobi/Tobi_combo.mp3
+SHA1-Digest: JJPy159MjRhCocr+GwPQjE27B1E=
 
-Name: assets/Audio/Suigetsu/suigetsu_skill5_1.ogg
-SHA1-Digest: 0JhPGjKH3UTRMQcPu/eV91Pi+is=
+Name: assets/Audio/Tobi/Tobi_dead.mp3
+SHA1-Digest: ecKx1+wHVtjejcdTCCXAFIMVAQk=
 
-Name: assets/Audio/Suigetsu/suigetsu_skill5_2.ogg
-SHA1-Digest: pTDFhvhP4WhkAz3y6VNkYP/Dqok=
+Name: assets/Audio/Tobi/Tobi_skill1.mp3
+SHA1-Digest: ziHW5hM6vVwSeFh80IuMcOq+9so=
 
-Name: assets/Audio/Suigetsu/suigetsu_skill5_3.ogg
-SHA1-Digest: +r0Mz4IsXc7BKbBirbkWvr16i8Q=
+Name: assets/Audio/Tobi/Tobi_skill2.mp3
+SHA1-Digest: MkZ8jiDc/0dbqT6xlstkVz70B1w=
 
-Name: assets/Audio/Suigetsu/suigetsu_skill5_4.ogg
-SHA1-Digest: Exk/WGzS3dQr/K5jKSt25B+lPVc=
+Name: assets/Audio/Tobi/Tobi_skill3.mp3
+SHA1-Digest: Cv/pf1jcWRSPsmelVvXcwtXzHgw=
 
-Name: assets/Audio/Suigetsu/suigetsu_skill5_5.ogg
-SHA1-Digest: kIaY64hoZBkAZPGvkYifGvLfIeE=
+Name: assets/Audio/Tobi/Tobi_skill4_1.mp3
+SHA1-Digest: GB5SyDtFT5a3S/49bDgP4ARnsrc=
 
-Name: assets/Audio/Tenten/Tenten_skill5_1.ogg
-SHA1-Digest: wdb/oAQ2XCkx8AUl1JwS511eY18=
+Name: assets/Audio/Tobi/Tobi_skill4_2.mp3
+SHA1-Digest: fhkvKb49SAXFTIh/gRF0rq1S4w8=
 
-Name: assets/Audio/Tenten/Tenten_skill5_2.ogg
-SHA1-Digest: Tduj7JYqaJh3M0oSgZZE2SfiLOs=
+Name: assets/Audio/Tobi/Tobi_skill5_1.mp3
+SHA1-Digest: SS4rExP6JvhfIdNF+DJr5cLt54g=
 
-Name: assets/Audio/Tenten/Tenten_skill5_3.ogg
-SHA1-Digest: IO9L7cGlvC+VFwVxeqallDWIMwg=
+Name: assets/Audio/Tobi/Tobi_skill5_2.mp3
+SHA1-Digest: DM9E2UcIoP0zQlpXrldkHCwgxtk=
 
-Name: assets/Audio/Tenten/tenten_combo.ogg
-SHA1-Digest: viMyVEoJGNxhAw73YmEIXYiOu4A=
+Name: assets/Audio/Tobirama/Tobirama_combo.mp3
+SHA1-Digest: LN+jIoiTZYKwaepKL8TMzaBYY9M=
 
-Name: assets/Audio/Tenten/tenten_dead.ogg
-SHA1-Digest: 9+xA09J0sQAV4Krpyg8bh7jqc+c=
+Name: assets/Audio/Tobirama/Tobirama_dead.mp3
+SHA1-Digest: hgUBtmKcTXZZfWKxWTSgkyzyn7w=
 
-Name: assets/Audio/Tenten/tenten_hurt.ogg
-SHA1-Digest: /0U8LbAY1fdTBnxLedEOR2fXnr8=
+Name: assets/Audio/Tobirama/Tobirama_hurt.mp3
+SHA1-Digest: qXi0mMKSl3F4e3fUJxXpe15zvGw=
 
-Name: assets/Audio/Tenten/tenten_skill1.ogg
-SHA1-Digest: ddqQ/19h/YfkKJMQBNS0+kmqBc0=
+Name: assets/Audio/Tobirama/Tobirama_skill1.mp3
+SHA1-Digest: i6qGwsFU4D6685ZmHwNwUTJPXG8=
 
-Name: assets/Audio/Tenten/tenten_skill2.ogg
-SHA1-Digest: O3ynWnNaV1pOKFLvxpKr2L32FzY=
+Name: assets/Audio/Tobirama/Tobirama_skill2.mp3
+SHA1-Digest: vJSz/4V/jw3TzmVVX+D6lE0TF5M=
 
-Name: assets/Audio/Tenten/tenten_skill2_1.ogg
-SHA1-Digest: Fefr6CN/8gPXq+eUN2At8elRFSc=
+Name: assets/Audio/Tobirama/Tobirama_skill3.mp3
+SHA1-Digest: YJGdn8SpwHk46em2u8df1wbp0U4=
 
-Name: assets/Audio/Tenten/tenten_skill3.ogg
-SHA1-Digest: 3v3v2e4DoMvbCFzGUIM6Z63HZbQ=
+Name: assets/Audio/Tobirama/Tobirama_skill4.mp3
+SHA1-Digest: 72jxpC+tkbOoiJ3My0sd75+S8bQ=
 
-Name: assets/Audio/Tenten/tenten_skill4.ogg
-SHA1-Digest: mB1/ma22D0pqVR+lpF5XEaS9GPg=
+Name: assets/Audio/Tobirama/Tobirama_skill4_1.mp3
+SHA1-Digest: ZmmW6Dx47fbHZyiBTGAkWus/AYg=
 
-Name: assets/Audio/Tenten/tenten_skill4_1.ogg
-SHA1-Digest: TutiskSRqR+JpTI/ooXjclnDPGE=
+Name: assets/Audio/Tobirama/Tobirama_skill5_1.mp3
+SHA1-Digest: 3TGy1g9tHroemk1vTS6RPi2oYis=
 
-Name: assets/Audio/Tobi/Tobi_combo.ogg
-SHA1-Digest: Syih9N9D0kWes9mFPQYTYzv9iuo=
+Name: assets/Audio/Tobirama/Tobirama_skill5_2.mp3
+SHA1-Digest: lfsf1RqW1nn3K9IMAF1DDX6AXAw=
 
-Name: assets/Audio/Tobi/Tobi_dead.ogg
-SHA1-Digest: s7NGSYCuNd6FoYgZUwCvKUKYcBI=
+Name: assets/Audio/Tobirama/Tobirama_skill5_3.mp3
+SHA1-Digest: 6nXq4y7rLpB7P5AASQKkKnX/Kx8=
 
-Name: assets/Audio/Tobi/Tobi_skill1.ogg
-SHA1-Digest: FBJaa1IWvKDqSK2xVZ4cva9sXBk=
+Name: assets/Audio/Tobirama/Tobirama_skill5_4.mp3
+SHA1-Digest: hikgU1r02mBLvVsoIyoEiFD4iXY=
 
-Name: assets/Audio/Tobi/Tobi_skill2.ogg
-SHA1-Digest: O0acNn4QBicMf154DQmKRaLNGQ0=
+Name: assets/Audio/Tsunade/Tsunade_combo.mp3
+SHA1-Digest: xXoAF1Rp4Z9r/yMduhCe4wQsx/0=
 
-Name: assets/Audio/Tobi/Tobi_skill3.ogg
-SHA1-Digest: BHj/0JMNLKaJfJU+3eK6WqbTIbY=
+Name: assets/Audio/Tsunade/Tsunade_dead.mp3
+SHA1-Digest: VpKrGfQrLql5WDos4N8UmTmF990=
 
-Name: assets/Audio/Tobi/Tobi_skill4_1.ogg
-SHA1-Digest: gwRDG1xIwVK0gqMDFvqNxDi+U/E=
+Name: assets/Audio/Tsunade/Tsunade_hurt.mp3
+SHA1-Digest: SqDzb5sKZIiZoP8+IKPNvp5Rg7M=
 
-Name: assets/Audio/Tobi/Tobi_skill4_2.ogg
-SHA1-Digest: 4b5pJ9P83b5AZokNhCUbBZNHvNA=
+Name: assets/Audio/Tsunade/Tsunade_skill1.mp3
+SHA1-Digest: GXitHMjWM+e0Sagv5/NA3v4QVck=
 
-Name: assets/Audio/Tobi/Tobi_skill5_1.ogg
-SHA1-Digest: go2D3h6M2/ZEfEr2byDOdCkTkuA=
+Name: assets/Audio/Tsunade/Tsunade_skill11.mp3
+SHA1-Digest: /tvZbmrA23jsN/S+RgLDxhxWUns=
 
-Name: assets/Audio/Tobi/Tobi_skill5_2.ogg
-SHA1-Digest: QfpmrkBS+ShsKr+cjvuwSgzam/4=
+Name: assets/Audio/Tsunade/Tsunade_skill2.mp3
+SHA1-Digest: iwoEwsmb9KAgsLhaWReVtEQoDV8=
 
-Name: assets/Audio/Tobirama/Tobirama_combo.ogg
-SHA1-Digest: SQANOiV5sWde5a7kTpKad7zjXkU=
+Name: assets/Audio/Tsunade/Tsunade_skill2_1.mp3
+SHA1-Digest: /XP0WxWmjAxQcFwEXKwA1F8k/nI=
 
-Name: assets/Audio/Tobirama/Tobirama_dead.ogg
-SHA1-Digest: McONR+qA6Q3aS3MnSuUIU9CWWwo=
+Name: assets/Audio/Tsunade/Tsunade_skill3.mp3
+SHA1-Digest: Cd5IabzgLuKwGu0+u/dfxX7JFpk=
 
-Name: assets/Audio/Tobirama/Tobirama_hurt.ogg
-SHA1-Digest: XNUE726XQRqgidfG5Oif6Zmzcyk=
+Name: assets/Audio/Tsunade/Tsunade_skill4_1.mp3
+SHA1-Digest: yIskExeNbEb8B6dkRDe/G/TjmHo=
 
-Name: assets/Audio/Tobirama/Tobirama_skill1.ogg
-SHA1-Digest: EM9vQtceN8lnoTU2CLA2JfCCREM=
+Name: assets/Audio/Tsunade/Tsunade_skill4_2.mp3
+SHA1-Digest: A+2cathflWvq8wtzyDbHP43iXC8=
 
-Name: assets/Audio/Tobirama/Tobirama_skill2.ogg
-SHA1-Digest: WhY2A4h8fzGlQ/nIuwPuGCoyupk=
+Name: assets/Audio/Tsunade/Tsunade_skill4_3.mp3
+SHA1-Digest: 2ZBjRuTJZBcvVmNS40AD33rp1X0=
 
-Name: assets/Audio/Tobirama/Tobirama_skill3.ogg
-SHA1-Digest: U2KyQswCG1kFs0LBaPRaB4FJQfA=
+Name: assets/Audio/Tsunade/Tsunade_skill5.mp3
+SHA1-Digest: TsuZ9VDa7BOjSKfuB0Cqm0ZZYYg=
 
-Name: assets/Audio/Tobirama/Tobirama_skill4.ogg
-SHA1-Digest: /7W/ws3/eq0BCa8ISyqCtyBJVEs=
+Name: assets/Audio/ogg/SRK.mp3
+SHA1-Digest: XDETa3KpEjx4sCMLAnE3oxu663U=
 
-Name: assets/Audio/Tobirama/Tobirama_skill4_1.ogg
-SHA1-Digest: FAPg/1mAajhLUQNXWnIicHe+87s=
+Name: assets/Audio/ogg/SRK2.mp3
+SHA1-Digest: xNW6qerR7HoQfUYtGP/mv+mZk24=
 
-Name: assets/Audio/Tobirama/Tobirama_skill5_1.ogg
-SHA1-Digest: M7O9EHZaWmNxHxz8p7F0nIcTHGU=
+Name: assets/Audio/ogg/Shenwei.mp3
+SHA1-Digest: ctbXcad81FTuNOmzlc6N550xDsM=
 
-Name: assets/Audio/Tobirama/Tobirama_skill5_2.ogg
-SHA1-Digest: GrsXl0tflUo9eJlw09R2L+nzUoM=
+Name: assets/Audio/ogg/Shenwei2.mp3
+SHA1-Digest: 5kCRSC/cIb/dPR5o//OnOROPvWY=
 
-Name: assets/Audio/Tobirama/Tobirama_skill5_3.ogg
-SHA1-Digest: 2cgZKwgrprLh4Jbd2UJ8WZQBcF0=
+Name: assets/Audio/ogg/Shun.mp3
+SHA1-Digest: AkAkNruo+4EtN9s+rrtKwJ4sfs8=
 
-Name: assets/Audio/Tobirama/Tobirama_skill5_4.ogg
-SHA1-Digest: 4ZLG+KyLfHXMurewjowC3C6yzzs=
+Name: assets/Audio/ogg/Suan.mp3
+SHA1-Digest: 8aMW4j5norYCygCp1aCAHQq0JL4=
 
-Name: assets/Audio/Tsunade/Tsunade_combo.ogg
-SHA1-Digest: TcQMlftEqVmIsxlvvk4uA66wHrw=
+Name: assets/Audio/ogg/Weishouyu.mp3
+SHA1-Digest: Kqy852gltF0KYJIGfxc60t2kSrk=
 
-Name: assets/Audio/Tsunade/Tsunade_dead.ogg
-SHA1-Digest: N2hhkxh2jWtSyhOVRrTEfEt/8LA=
+Name: assets/Audio/ogg/baiyan.mp3
+SHA1-Digest: stzwuguQNpT7nsQ2J7s2m0QbAsk=
 
-Name: assets/Audio/Tsunade/Tsunade_hurt.ogg
-SHA1-Digest: YmlgWLc4H4Snrqm4cS5nm4H1A+c=
+Name: assets/Audio/ogg/blade.mp3
+SHA1-Digest: HbySHGgMP30VAz1sXzDjgp8uuu4=
 
-Name: assets/Audio/Tsunade/Tsunade_skill1.ogg
-SHA1-Digest: CwxehPuTFS/IrAAleCp9eA3hQxE=
+Name: assets/Audio/ogg/blade_damage.mp3
+SHA1-Digest: njU8jWl4D6/x5748lugZ0lZnOIk=
 
-Name: assets/Audio/Tsunade/Tsunade_skill11.ogg
-SHA1-Digest: zKX+xNSyrkj4YAYR+3EPSfx8RI8=
+Name: assets/Audio/ogg/blade_damage10.mp3
+SHA1-Digest: Llhfnn0i8OQaK6mcXkwc1/L+z88=
 
-Name: assets/Audio/Tsunade/Tsunade_skill2.ogg
-SHA1-Digest: tnJ++V3wsQMQXLg2oMLhp3tU2Iw=
+Name: assets/Audio/ogg/blade_damage2.mp3
+SHA1-Digest: O5mu2gpED2AC6aNVaHOaaWAB0TY=
 
-Name: assets/Audio/Tsunade/Tsunade_skill2_1.ogg
-SHA1-Digest: bI8gLwbvnLY+YfLzUFuayjI3rJ0=
+Name: assets/Audio/ogg/blade_damage3.mp3
+SHA1-Digest: AYWMzkbCI4zTUwO6lBxd/MwBfKA=
 
-Name: assets/Audio/Tsunade/Tsunade_skill3.ogg
-SHA1-Digest: ZeM8i7U86p8SloVGue0FgjxVFOM=
+Name: assets/Audio/ogg/blade_damage4.mp3
+SHA1-Digest: C7ngP18vW+axqjZoALsYd3jO48E=
 
-Name: assets/Audio/Tsunade/Tsunade_skill4_1.ogg
-SHA1-Digest: ftd2PESzBGK6Lcf0iwey0e8g1Ws=
+Name: assets/Audio/ogg/blade_damage5.mp3
+SHA1-Digest: 4JRJ8U/tr4FM+HAlhj9/BNBoaac=
 
-Name: assets/Audio/Tsunade/Tsunade_skill4_2.ogg
-SHA1-Digest: WvZXo83tbDxRhfuIgyfe+rjggn0=
+Name: assets/Audio/ogg/blade_damage6.mp3
+SHA1-Digest: v5QXUjBi6j5NL9mcID2J0Zto2Lc=
 
-Name: assets/Audio/Tsunade/Tsunade_skill4_3.ogg
-SHA1-Digest: 5t78DyYBeaGZBsYFWHyC49gLT5s=
+Name: assets/Audio/ogg/blade_damage7.mp3
+SHA1-Digest: gxsQAMU7OJN1tTobvjy0Wf0iPQY=
 
-Name: assets/Audio/Tsunade/Tsunade_skill5.ogg
-SHA1-Digest: sVvZH3U5jwoAiBIX7kvFFt+hPOg=
+Name: assets/Audio/ogg/blade_damage8.mp3
+SHA1-Digest: AdVrWKniyeMfpS7jo7+QDcSk0Pc=
+
+Name: assets/Audio/ogg/blade_damage9.mp3
+SHA1-Digest: IvWSgb3sVF26MbGaJpi09Dur2O4=
+
+Name: assets/Audio/ogg/bom.mp3
+SHA1-Digest: 6HIdkvd3y7mvZeCQxzxUj0VcMtE=
+
+Name: assets/Audio/ogg/bom2.mp3
+SHA1-Digest: jcOq2uVHv1mM0IO50IjcSNhddbI=
+
+Name: assets/Audio/ogg/bom3.mp3
+SHA1-Digest: OuHWh0hGDGDCgYcs0A/FhI2VjjA=
+
+Name: assets/Audio/ogg/bom4.mp3
+SHA1-Digest: 4UyLIS/MALnHCJ0v1zC316DOPfw=
+
+Name: assets/Audio/ogg/break_sound.mp3
+SHA1-Digest: EyBoeYGfTZEWRP9ZBgGFPdouM6s=
+
+Name: assets/Audio/ogg/break_sound2.mp3
+SHA1-Digest: XwXVa0h7YGKumw/83BMdsr9E5ew=
+
+Name: assets/Audio/ogg/break_sound3.mp3
+SHA1-Digest: YULkodneQhLL0bKaW6Oyuw1OZhs=
+
+Name: assets/Audio/ogg/combo1.mp3
+SHA1-Digest: 0gRQD3gozv0g+A/E1/H5SG/N6Zk=
+
+Name: assets/Audio/ogg/combo2.mp3
+SHA1-Digest: W7exVtcQyW9OIDwFY5szbTk32GY=
+
+Name: assets/Audio/ogg/combo3.mp3
+SHA1-Digest: H0j3XM66nPNjg2MklGk4iosWnqI=
+
+Name: assets/Audio/ogg/damage_a.mp3
+SHA1-Digest: kqXFlQt31aPyEnINRPtoidywm5o=
+
+Name: assets/Audio/ogg/damage_c.mp3
+SHA1-Digest: IKJn/12XNgy6jbF276ow7FUolYA=
+
+Name: assets/Audio/ogg/damage_f.mp3
+SHA1-Digest: cjHyCwiRjG2H/OsNxKAFsidrXIo=
+
+Name: assets/Audio/ogg/damage_h.mp3
+SHA1-Digest: LMFEXkEE75JkKUuxVZcsGvyfmiI=
+
+Name: assets/Audio/ogg/damage_haken.mp3
+SHA1-Digest: ngKviDMBrrSa0qTjj4D2T1QhYEk=
+
+Name: assets/Audio/ogg/damage_i.mp3
+SHA1-Digest: KHlaLDHtm5JPiFZ8fcP0S5hk0zY=
+
+Name: assets/Audio/ogg/damage_k.mp3
+SHA1-Digest: Ja3IK+kayLWXTxJMpjb+N5c1S+w=
+
+Name: assets/Audio/ogg/damage_l.mp3
+SHA1-Digest: S+0Kbc8DGoeyQu3oZqoFhP7R+JM=
+
+Name: assets/Audio/ogg/damage_o.mp3
+SHA1-Digest: x9f/2tqztSNQx5kKQ6YXbLCUv/0=
+
+Name: assets/Audio/ogg/damage_o2.mp3
+SHA1-Digest: ey8ybpDdJqySlVhU4VzUkV8N0hU=
+
+Name: assets/Audio/ogg/damage_rasen.mp3
+SHA1-Digest: xmWxMhfJ1xGCum8HXDkbVWy/xRA=
+
+Name: assets/Audio/ogg/dao.mp3
+SHA1-Digest: oBpGnucFqraUa0phKXeipwXPWU8=
+
+Name: assets/Audio/ogg/dash_effect.mp3
+SHA1-Digest: 3MAe/Li/mhl9Z0Gnd11hNGbHWcQ=
+
+Name: assets/Audio/ogg/dilie.mp3
+SHA1-Digest: i9h1zlBrGyf9v+dMLS0c8IzScNY=
+
+Name: assets/Audio/ogg/fire.mp3
+SHA1-Digest: WcgCNaSl4KAxA4e2pV50J7ewfJs=
+
+Name: assets/Audio/ogg/fudon_effect.mp3
+SHA1-Digest: ZKNsY7CFWoq9KDk+RLqh4pcqnBI=
+
+Name: assets/Audio/ogg/goukakyu.mp3
+SHA1-Digest: f7XfsiXSD8KxnncxTxi3JXGneko=
+
+Name: assets/Audio/ogg/hiraishin_effect.mp3
+SHA1-Digest: wd5ot9+XqnM5AiKdqhbr1jBpuok=
+
+Name: assets/Audio/ogg/hiraishin_effect2.mp3
+SHA1-Digest: /AJDLYsCxOEvlnuzlQnWY6SLTKQ=
+
+Name: assets/Audio/ogg/jump.mp3
+SHA1-Digest: J0enMCOkuyK+B6YzlS+P48pYob4=
+
+Name: assets/Audio/ogg/jump2.mp3
+SHA1-Digest: 3591fqlkrUN8a3MYaJstN3jl/HY=
+
+Name: assets/Audio/ogg/kara.mp3
+SHA1-Digest: yIQRCluTUy4fpey0Q4V/1YdIq2g=
+
+Name: assets/Audio/ogg/kong.mp3
+SHA1-Digest: FvyclnkGYhbabABw1E4wTQkprZo=
+
+Name: assets/Audio/ogg/kuilei.mp3
+SHA1-Digest: wXrFKeE+RhchZogdscyUWsWJkJI=
+
+Name: assets/Audio/ogg/kuroari.mp3
+SHA1-Digest: YoAhy0U85SW3JQ268c2/r9AvLoQ=
+
+Name: assets/Audio/ogg/kuwu.mp3
+SHA1-Digest: loNsv2L8/Fde5TK7MXy/JkDcqts=
+
+Name: assets/Audio/ogg/lei.mp3
+SHA1-Digest: 449nOWIuWec0XuQytmSdEIP3MyU=
+
+Name: assets/Audio/ogg/leiqie.mp3
+SHA1-Digest: eY0m/5bWCPHP00Qj05O4x5FWfUE=
+
+Name: assets/Audio/ogg/o2_damage.mp3
+SHA1-Digest: AxlZMG0Ioxm9H6Hdd53hLu9E33g=
+
+Name: assets/Audio/ogg/ougis.mp3
+SHA1-Digest: NlXtzU/b3Pm9NHGVoQYAmj/yki0=
+
+Name: assets/Audio/ogg/ougis2.mp3
+SHA1-Digest: DAPT4zUAV3RQTijpjkazL2+8juU=
+
+Name: assets/Audio/ogg/ougis3.mp3
+SHA1-Digest: cdHwKG6xhr3XpRTR5a/9uR0A7hg=
+
+Name: assets/Audio/ogg/poof.mp3
+SHA1-Digest: qrd/IWtu7xLfur4IMbdrYoBOT/Q=
+
+Name: assets/Audio/ogg/poof2.mp3
+SHA1-Digest: ACTKs5AVXu6OKP6YwD6RCPONogc=
+
+Name: assets/Audio/ogg/pup.mp3
+SHA1-Digest: nNJVsGIPG8tqonVZXWFc1IOyoWA=
+
+Name: assets/Audio/ogg/rasen.mp3
+SHA1-Digest: dBrNF1GnV2K+RYWKwWLUITSMPK4=
+
+Name: assets/Audio/ogg/rush.mp3
+SHA1-Digest: C9ms1Jq84OmKb5vwPsKI7h+Nm28=
+
+Name: assets/Audio/ogg/srg.mp3
+SHA1-Digest: v1IsplkSc+Ul1cCVGomEQ0XzCPM=
+
+Name: assets/Audio/ogg/srg2.mp3
+SHA1-Digest: Yd4tcNmV4X3CClvIZUGLNKGTy04=
+
+Name: assets/Audio/ogg/srg3.mp3
+SHA1-Digest: HXZG3vvKI48hEHY1ToRHSJagqpw=
+
+Name: assets/Audio/ogg/srg4.mp3
+SHA1-Digest: uaW84Jnqvrac1gJX+SPqh2BzdXc=
+
+Name: assets/Audio/ogg/stick_damage.mp3
+SHA1-Digest: /skbqR9/+WwV9tZVIdMBtFN1F/U=
+
+Name: assets/Audio/ogg/suiryudan.mp3
+SHA1-Digest: JYSUHXGprvkhT9ePXulUM9Gx7HI=
+
+Name: assets/Audio/ogg/suzou_effect.mp3
+SHA1-Digest: 9RbN5iJRxbBT7lB8Z0+vlmbzHz4=
+
+Name: assets/Audio/ogg/thunder_effect.mp3
+SHA1-Digest: eKufSSOanuc76rrt21mGpgTsrdw=
+
+Name: assets/Audio/ogg/tree.mp3
+SHA1-Digest: fP3uSRtPB+NuvlKDO88w9nB/0Vc=
+
+Name: assets/Audio/ogg/tree2.mp3
+SHA1-Digest: acW9w5D3V3e8H9XlmNIbBKkwgdI=
+
+Name: assets/Audio/ogg/water_effect.mp3
+SHA1-Digest: r7XU2eo6pT3ZKu05TRS9xSDEdF0=
+
+Name: assets/Audio/ogg/weishoupao.mp3
+SHA1-Digest: 0z1LQQvSFxj1qKq6mgcvpfulEfo=
+
+Name: assets/Audio/ogg/weishouyu2.mp3
+SHA1-Digest: sJBYIk1Rj8Ztzx459XXEAKfVQGM=
 
 Name: assets/Effects/DamageEffect.plist
 SHA1-Digest: qwEtctx5fRDKo00mq8fK48+Y9Is=
@@ -2537,11 +2423,98 @@ SHA1-Digest: V4ocU7J8bUyS2T+lyV5CsD9rgBM=
 Name: assets/Effects/SkillEffect.png
 SHA1-Digest: 4T4hZs4lGZbjifX7J9L5dGj6SFI=
 
+Name: assets/Effects/SkillEffect/Bagua.png
+SHA1-Digest: pGhKU9BoVftImln2tYJBzT46cQs=
+
+Name: assets/Effects/SkillEffect/Hiraishin2Effect_01.png
+SHA1-Digest: YL8mjBJHg2Ter90V6qq+T8vdRLQ=
+
+Name: assets/Effects/SkillEffect/Hiraishin2Effect_02.png
+SHA1-Digest: hJH5ZliInkJvrmuPSB24AYkS9qc=
+
+Name: assets/Effects/SkillEffect/Hiraishin2Effect_03.png
+SHA1-Digest: fKfZzv0bElW9O5B8DUS2HmJRtM8=
+
+Name: assets/Effects/SkillEffect/HiraishinEffect_01.png
+SHA1-Digest: T8ZBH0BIPx4uUvLNhD1FrUaZnRA=
+
+Name: assets/Effects/SkillEffect/HiraishinEffect_02.png
+SHA1-Digest: INLmAfS5cX5TUAmXVroFkFnmnD4=
+
+Name: assets/Effects/SkillEffect/HiraishinEffect_03.png
+SHA1-Digest: ugiNzkZE219Qfukm5c2hg8TUOo8=
+
+Name: assets/Effects/SkillEffect/Kagura_01.png
+SHA1-Digest: 979tyTsrwnFRSx70fQGtugkpk7A=
+
+Name: assets/Effects/SkillEffect/Kagura_02.png
+SHA1-Digest: q2ULMZ+3gF/KxH8FjP72HXzdtbY=
+
+Name: assets/Effects/SkillEffect/Kagura_03.png
+SHA1-Digest: 9T73Hl/DqwiOnbg0hSme8WRhkOU=
+
+Name: assets/Effects/SkillEffect/Kagura_04.png
+SHA1-Digest: 0fFCx82mQ05M3o3Z9xRWuWOerps=
+
+Name: assets/Effects/SkillEffect/Kagura_05.png
+SHA1-Digest: AkIhihvxSP7owBxkac/VyqxsQHQ=
+
+Name: assets/Effects/SkillEffect/Kujiyose.png
+SHA1-Digest: QH5D6RxZLZ8lL9XjFGWtSe3jBcw=
+
+Name: assets/Effects/SkillEffect/all_use.png
+SHA1-Digest: dSslVBT0B1iAGNrFOJJs6lKKuMc=
+
+Name: assets/Effects/SkillEffect/hp_restore_01.png
+SHA1-Digest: Yn9hrU9jawQ9yCuu1oHzdrcaakY=
+
+Name: assets/Effects/SkillEffect/hp_restore_02.png
+SHA1-Digest: TmK2M33ZpAisncGWRPcnyvInLko=
+
+Name: assets/Effects/SkillEffect/hp_restore_03.png
+SHA1-Digest: x6oOpQwMxskrjBSNHha/ohdU6QI=
+
+Name: assets/Effects/SkillEffect/hp_restore_04.png
+SHA1-Digest: 9+lq7XsDzghkSxgPjCfJAfw6tRo=
+
+Name: assets/Effects/SkillEffect/kazi.png
+SHA1-Digest: aYBMQPZEDmSF4p6NhF492xpnXEg=
+
+Name: assets/Effects/SkillEffect/sharingan.png
+SHA1-Digest: 4Vxxe5evlH0TjCk7fxT/qGLf+YQ=
+
+Name: assets/Effects/SkillEffect/sharingan2.png
+SHA1-Digest: j+XGaHDcNpWaCS6U3PxnvA/25P8=
+
+Name: assets/Effects/SkillEffect/sharingan3.png
+SHA1-Digest: A12djJ2DmY1cg3b18NTh8O67Y0w=
+
+Name: assets/Effects/SkillEffect/sharingan4.png
+SHA1-Digest: 4G1wyEr9hf5aTxZQ2vm2PFMfhy8=
+
+Name: assets/Effects/SkillEffect/smk_01.png
+SHA1-Digest: nxDgszke3vPEfVr5rmcJas1PSxM=
+
+Name: assets/Effects/SkillEffect/smk_02.png
+SHA1-Digest: 44HOB/DzLDpi4L7woXBEYy82ojg=
+
+Name: assets/Effects/SkillEffect/smk_03.png
+SHA1-Digest: oeZuccCfiDaKJRnWQUpI91ZwziQ=
+
+Name: assets/Effects/SkillEffect/smk_04.png
+SHA1-Digest: p/fedmM+D7tK3GSfw/C/FWJGFDc=
+
+Name: assets/Effects/SkillEffect/smk_05.png
+SHA1-Digest: Q2SOBBsiUvWcQ9EI1v7P56mVEAE=
+
 Name: assets/Element/Akamaru/Akamaru [Darmianto].png
 SHA1-Digest: NlqI0DZmMRzB/E1zMIOvSQMQWyw=
 
 Name: assets/Element/Akamaru/Akamaru.plist
 SHA1-Digest: +RRkb9nsRpuFGYWGBH/Sdv8b44w=
+
+Name: assets/Element/Akamaru/Akamaru.png
+SHA1-Digest: Lakww54AcO61xOK2tFx/9AditwM=
 
 Name: assets/Element/Akamaru/Akamaru.xml
 SHA1-Digest: SVMqrv0jUWqXk7+imDyWYU/NFNo=
@@ -2553,7 +2526,7 @@ Name: assets/Element/AnimalPath/AnimalPath.png
 SHA1-Digest: LlkIAcbNibuC8Qiw/Do4UWyECaA=
 
 Name: assets/Element/AnimalPath/AnimalPath.xml
-SHA1-Digest: OxuGZGPqWeGdyGby2OKiYb1MtRA=
+SHA1-Digest: fqWK23G0s+pNojWpEVDzJXOJwJI=
 
 Name: assets/Element/AsuraPath/AsuraPath.plist
 SHA1-Digest: aIgwkDeMH0bvjbY3Aw8Xn/38rsk=
@@ -2562,10 +2535,10 @@ Name: assets/Element/AsuraPath/AsuraPath.png
 SHA1-Digest: Y9s9RLtQ0OONqxfcjtGL0loX6dc=
 
 Name: assets/Element/AsuraPath/AsuraPath.xml
-SHA1-Digest: ehxX4V8Fzr6Xqpb1yvbBWYG7IdI=
+SHA1-Digest: 0iq669fEx6rOT3rwyN0lCxqrw9c=
 
 Name: assets/Element/Bullet/Amaterasu.xml
-SHA1-Digest: xd0fEylbw0QHMEnxqgsvZ9KxUH8=
+SHA1-Digest: b0UCntpkav2IzDX8om319VViwh0=
 
 Name: assets/Element/Bullet/Bone.xml
 SHA1-Digest: anaqjfktRlHilzZAT75aufcxSnk=
@@ -2580,7 +2553,7 @@ Name: assets/Element/Bullet/Hadoken.xml
 SHA1-Digest: 1U9YSslRti+r5SBzAYMr6XGMUOo=
 
 Name: assets/Element/Bullet/HasanBo.xml
-SHA1-Digest: BiYrT4HCeKm3fbEXkswPW8a58zU=
+SHA1-Digest: 4//8LNGIjF/6JF+VjPLF2lrRyQk=
 
 Name: assets/Element/Bullet/HiraishinKunai.xml
 SHA1-Digest: T4qSd082iWl3zL7+yXxLJ54bYfE=
@@ -2592,7 +2565,7 @@ Name: assets/Element/Bullet/KarasuSRK.xml
 SHA1-Digest: F9wk1d1mYkcCcnIpk5x1YZVhm3c=
 
 Name: assets/Element/Bullet/Kubi.xml
-SHA1-Digest: oszyp5zNyAApBlOKtoi0J07wgBM=
+SHA1-Digest: 9fJ1iUNdCxCAj2KaDpEB+itaMIo=
 
 Name: assets/Element/Bullet/Kusuri.xml
 SHA1-Digest: p++11vjCSo5WFqqPTN6DU3uKEKs=
@@ -2622,13 +2595,13 @@ Name: assets/Element/Bullet/Shintenshin.xml
 SHA1-Digest: Gmkl2DAUnyBjqD9Rloz63wZatXo=
 
 Name: assets/Element/Bullet/Smkk.xml
-SHA1-Digest: 8CAyMnikFGMskPGFeqTvYFLO8mE=
+SHA1-Digest: 5eKa4XNLqTUlvN25a1pb+EaBM1w=
 
 Name: assets/Element/Bullet/SpcKunai.xml
 SHA1-Digest: Q4lu8jweFc0FfjWVgzBV7SCY2lo=
 
 Name: assets/Element/Bullet/SuiRyuDan.xml
-SHA1-Digest: aV/hCjUpNCa4oDpVvg2P3lYbksg=
+SHA1-Digest: SZaN6G/jjwj8tixREX+eQjROWuc=
 
 Name: assets/Element/Bullet/Suijin.xml
 SHA1-Digest: BrbUbr1ALUusIhPCrNCdHk5Tgiw=
@@ -2640,7 +2613,7 @@ Name: assets/Element/Bullet/TentenSRK.xml
 SHA1-Digest: kWULopdyxkllOFUl9bIIB/76tf8=
 
 Name: assets/Element/Bullet/WaterBom.xml
-SHA1-Digest: Ii77TkoqC5D/aVnx+l/KxPaf784=
+SHA1-Digest: YPwLJjeilmP8AXlhw53DkzYP+Ck=
 
 Name: assets/Element/Bullet/WaterBullet.xml
 SHA1-Digest: T7AE+AEL+JjmYZiJQOOB0lTGmGM=
@@ -2661,7 +2634,7 @@ Name: assets/Element/Deidara/Deidara.png
 SHA1-Digest: W21mxeej2z5VeUtTsNmZ6eWsROg=
 
 Name: assets/Element/Deidara/Deidara.xml
-SHA1-Digest: a7j7HvQZcFFfVNy+8uxIW4csfw4=
+SHA1-Digest: tCz2psR+8kdBB+MOu0jnojCNZQE=
 
 Name: assets/Element/DevaPath/DevaPath.plist
 SHA1-Digest: VIZeB9VZs2uTMHpEld/ubz8Z3kk=
@@ -2670,7 +2643,7 @@ Name: assets/Element/DevaPath/DevaPath.png
 SHA1-Digest: KRm8DpVGXvNLO9u6jBZJu9dWywg=
 
 Name: assets/Element/DevaPath/DevaPath.xml
-SHA1-Digest: bbbgD16OSDifTNS+4meU1Pm6px4=
+SHA1-Digest: ZPF+E4Il8a8J/mqeLwipaM+fb9M=
 
 Name: assets/Element/Flog/FemalePainFlog.plist
 SHA1-Digest: lzrj9A5i1rB5uu59E9k6HiSgPxM=
@@ -2733,7 +2706,7 @@ Name: assets/Element/Fukasaku/Fukasaku.png
 SHA1-Digest: cJ3Uu6Ofw0iIoUIEp2zqaqOtjYo=
 
 Name: assets/Element/Fukasaku/Fukasaku.xml
-SHA1-Digest: eWoGqIHH1x3+HJQlOID2UdLlMRg=
+SHA1-Digest: thl2xRgBpBJk/Bs7gFPE5zyDiiI=
 
 Name: assets/Element/Gaara/Gaara.plist
 SHA1-Digest: i3ULb3lxTqwSNjnEW639aCqIzLw=
@@ -2742,7 +2715,7 @@ Name: assets/Element/Gaara/Gaara.png
 SHA1-Digest: Sdx86NcfmTfxudOR3fJKrUv+zkM=
 
 Name: assets/Element/Gaara/Gaara.xml
-SHA1-Digest: fIhHJ3cTmIp6ku3nRR6H566G/n0=
+SHA1-Digest: K0h2K7DCMIhWtQkHOy6zM7uey04=
 
 Name: assets/Element/Han/Han.plist
 SHA1-Digest: Lu/dzdMyLeKS+x1ge3GxliBlZBA=
@@ -2751,7 +2724,7 @@ Name: assets/Element/Han/Han.png
 SHA1-Digest: dIHTgGnUoU+043j0WOApRFXZXkM=
 
 Name: assets/Element/Han/Han.xml
-SHA1-Digest: EE3nxgfuH/ioGm5QaFJhElRbeOg=
+SHA1-Digest: iqO/tRj4N7OPD/2B5WPmN6ldyM4=
 
 Name: assets/Element/Hidan/Hidan.plist
 SHA1-Digest: H2kAGqEjQqxuyiYJkGZZfg+rI/M=
@@ -2760,7 +2733,7 @@ Name: assets/Element/Hidan/Hidan.png
 SHA1-Digest: 0DW2cZx8X4ma0pcZdfvbYHqI6XY=
 
 Name: assets/Element/Hidan/Hidan.xml
-SHA1-Digest: ObjMKTcgiznGJJ5MrKk0+5GoE1Y=
+SHA1-Digest: wcgmRmRicK7bmhjK3ij/qxxnOuM=
 
 Name: assets/Element/Hinata/Hinata.plist
 SHA1-Digest: 2bk/uEi1Wb9n13f2GmTlSfQcwHE=
@@ -2769,13 +2742,16 @@ Name: assets/Element/Hinata/Hinata.png
 SHA1-Digest: EPEt3sp1T+n4jKJ2BYnqFZAQqUw=
 
 Name: assets/Element/Hinata/Hinata.xml
-SHA1-Digest: NnJpkaa3yvUsHwhwhB1UaVN8Cls=
+SHA1-Digest: kWaMQRJalaCtWAbfezCTw9oZTw0=
 
 Name: assets/Element/Hiruzen/Hiruzen.plist
 SHA1-Digest: Tei+l2lrOIWHiJYySYy81eP1HT8=
 
+Name: assets/Element/Hiruzen/Hiruzen.png
+SHA1-Digest: 2S6fkt/WLDH/7HTGO0fqcsQkW8E=
+
 Name: assets/Element/Hiruzen/Hiruzen.xml
-SHA1-Digest: Unf5OsKyQEedpOo21en3OnuSgZI=
+SHA1-Digest: u6KQ7oOpVF/tUA5DZffjC685Pxo=
 
 Name: assets/Element/Hiruzen/HiruzenArchiv「Anzdrpa」×「ArayArt」
  .png
@@ -2788,7 +2764,7 @@ Name: assets/Element/HokageMinato/HokageMinato.png
 SHA1-Digest: iJhYglO/6Nl6yCowpuRsTJCX3uU=
 
 Name: assets/Element/HokageMinato/HokageMinato.xml
-SHA1-Digest: Dus/yt8cP6t9LpTiiZaX8sA9bIU=
+SHA1-Digest: ONfxG5kBdyHSupgFhlHhKMiMBR8=
 
 Name: assets/Element/Img_md5.xml
 SHA1-Digest: 1TAe7ioHV5nLCXQPH4LRDOGK8dg=
@@ -2800,7 +2776,7 @@ Name: assets/Element/ImmortalSasuke/ImmortalSasuke.png
 SHA1-Digest: B/C+LZHWSd8qESeVO5ay88sACes=
 
 Name: assets/Element/ImmortalSasuke/ImmortalSasuke.xml
-SHA1-Digest: invfVqQNX9SivHz++gaExD+vx8k=
+SHA1-Digest: Bmc1dXGawBerHYr7xTjSojADxJs=
 
 Name: assets/Element/Ino/Ino.plist
 SHA1-Digest: geRTOd1iOeNXUfmKcYA+o7BBBLk=
@@ -2809,7 +2785,7 @@ Name: assets/Element/Ino/Ino.png
 SHA1-Digest: b3rBZwrSfhj9YzcqDM3xOpvwAOc=
 
 Name: assets/Element/Ino/Ino.xml
-SHA1-Digest: xXKMAqsN4BiFR4OExDzYuN19PuY=
+SHA1-Digest: NZpePcOeghMQiH2dlmtVqTKg1LA=
 
 Name: assets/Element/Itachi/Itachi.plist
 SHA1-Digest: PZxIj4kpsTA0Epvn+Gve7cWzJOQ=
@@ -2818,7 +2794,7 @@ Name: assets/Element/Itachi/Itachi.png
 SHA1-Digest: FbE354uglSqGdLrMQ8wEanDu50o=
 
 Name: assets/Element/Itachi/Itachi.xml
-SHA1-Digest: bryWxecQbvdmIFOrs9scC1rRj8Q=
+SHA1-Digest: hue5/3vbpaRMEW/FGc/IqA66yqI=
 
 Name: assets/Element/Jiraiya/Jiraiya.plist
 SHA1-Digest: 9o7OTyq95cza3NVAohZRMQLOGK8=
@@ -2827,7 +2803,7 @@ Name: assets/Element/Jiraiya/Jiraiya.png
 SHA1-Digest: YLXZM6kzFu7ZPTrNQi05pXYzIjc=
 
 Name: assets/Element/Jiraiya/Jiraiya.xml
-SHA1-Digest: Ak2vPjX0775O639Vg3CIKG/JTbM=
+SHA1-Digest: TVXgIPynPr4hfEZ0aXzNd6rR+H4=
 
 Name: assets/Element/Jugo/Jugo.plist
 SHA1-Digest: ts7aO4C7rjm5FJr+9saphkF7YFw=
@@ -2836,7 +2812,7 @@ Name: assets/Element/Jugo/Jugo.png
 SHA1-Digest: tyDPGeB4oXkMzQI519raPU0XXGw=
 
 Name: assets/Element/Jugo/Jugo.xml
-SHA1-Digest: HSu2L9402MDPiI7opIhv4k++SaE=
+SHA1-Digest: jX2ikjTqwwZvDd6BW4ChC2R5lyQ=
 
 Name: assets/Element/Kakashi/Kakashi.plist
 SHA1-Digest: +vWSi/1co7Hs4x5h1AEHiBjZQfE=
@@ -2845,7 +2821,7 @@ Name: assets/Element/Kakashi/Kakashi.png
 SHA1-Digest: vtDcuLJYqY4jlPjjCFoGHGFLI+U=
 
 Name: assets/Element/Kakashi/Kakashi.xml
-SHA1-Digest: Ve7SrqhKYCjhR2b46wN+JaPhFP4=
+SHA1-Digest: YhmNHg8/HlonsiwW4+PA9wdD2Zc=
 
 Name: assets/Element/Kankuro/Kankuro.plist
 SHA1-Digest: KsxdTiIncMGjGgUz7LL9cFYy/pU=
@@ -2854,7 +2830,7 @@ Name: assets/Element/Kankuro/Kankuro.png
 SHA1-Digest: L4nqJuOQcFPZwv7RGojjTjdX7Yg=
 
 Name: assets/Element/Kankuro/Kankuro.xml
-SHA1-Digest: rl0seQBoGJXBNqFaplmbxBotKsY=
+SHA1-Digest: f5bRudOftECnPeHcYtJIi3mpVZg=
 
 Name: assets/Element/Karasu/Karasu.plist
 SHA1-Digest: xVJzGpKOeRWhzHJFOV9CGjfpZQU=
@@ -2863,7 +2839,7 @@ Name: assets/Element/Karasu/Karasu.png
 SHA1-Digest: PMWoyRSRTg3kC3xwRjd5Wrzae6E=
 
 Name: assets/Element/Karasu/Karasu.xml
-SHA1-Digest: NBeMeNYDlBVmz1Gm7EPwhfFdm8Y=
+SHA1-Digest: OBX9IrFCiG6FlkBziQnQRU3rUuo=
 
 Name: assets/Element/Karasu/kuilei.png
 SHA1-Digest: WL/LyA9ueE0iKt3zwc78pceOuy4=
@@ -2875,7 +2851,7 @@ Name: assets/Element/Karin/Karin.png
 SHA1-Digest: H3RSkH/iL6MVS+SvrnXHqjJSTr0=
 
 Name: assets/Element/Karin/Karin.xml
-SHA1-Digest: Z6Px5dYvx9P84rZN9dcH34l/3Sk=
+SHA1-Digest: ucjfdjPnEk1btbBYvkrkE2ct5J8=
 
 Name: assets/Element/Kiba/Kiba War [Darmianto].png
 SHA1-Digest: BBkC4acGTu7Gk1LqlPr7zbiZW00=
@@ -2883,8 +2859,11 @@ SHA1-Digest: BBkC4acGTu7Gk1LqlPr7zbiZW00=
 Name: assets/Element/Kiba/Kiba.plist
 SHA1-Digest: b2d6xfiRCbogvH0LM/NUV0fhbkA=
 
+Name: assets/Element/Kiba/Kiba.png
+SHA1-Digest: nAZcekWI4DJElnT2uVVbASEXcJQ=
+
 Name: assets/Element/Kiba/Kiba.xml
-SHA1-Digest: RiwqKO6x/fasEvvGyOk3sQEgA1Y=
+SHA1-Digest: Lp3qTCO3mBOuP5eaRSP85wBlM/E=
 
 Name: assets/Element/Kimimaro/Kimimaro.plist
 SHA1-Digest: VHXoMrv+oaLKLgMZn6q/AUqYY5k=
@@ -2893,7 +2872,7 @@ Name: assets/Element/Kimimaro/Kimimaro.png
 SHA1-Digest: KEQm1HmYYzsrbM1WumbplD2q4J4=
 
 Name: assets/Element/Kimimaro/Kimimaro.xml
-SHA1-Digest: TFi6VXEIMK7zMfOZafbD01C7F0U=
+SHA1-Digest: yeYbLn6Si8PK75UV2KbUetoPboc=
 
 Name: assets/Element/Kisame/Kisame.plist
 SHA1-Digest: O+QclcoQaKMVBgRSwhABZBc74rU=
@@ -2902,7 +2881,7 @@ Name: assets/Element/Kisame/Kisame.png
 SHA1-Digest: tqLsJdGgtGbLOPXXIPh8BMmDqXk=
 
 Name: assets/Element/Kisame/Kisame.xml
-SHA1-Digest: c53Kb3/nfRosMz+Qj8nncIuBpzI=
+SHA1-Digest: zJoRApWNmLYTsDhaGn/qkvqytPQ=
 
 Name: assets/Element/Konan/Konan.plist
 SHA1-Digest: m/8N5l1gFrbqRqYBKIrlZdbo51Y=
@@ -2911,7 +2890,7 @@ Name: assets/Element/Konan/Konan.png
 SHA1-Digest: zo4N+/PWn9IjTol2j9K+l/NXkF8=
 
 Name: assets/Element/Konan/Konan.xml
-SHA1-Digest: KxkhBXtfVEnrGEblyYDPdiAFlWM=
+SHA1-Digest: xm6g5UH8KdRdEEStlPECwfLz5g8=
 
 Name: assets/Element/Lee/Lee.plist
 SHA1-Digest: 17A3VORopb0PZxEoh3Ma7IyDz7M=
@@ -2920,7 +2899,7 @@ Name: assets/Element/Lee/Lee.png
 SHA1-Digest: Bira2W+7zXeV/QuJluaFEl3eqLo=
 
 Name: assets/Element/Lee/Lee.xml
-SHA1-Digest: ipOZCnk125x/n103cXEmSUtsym4=
+SHA1-Digest: HonYJwDtP21WVyxwb4z8+4RhTGw=
 
 Name: assets/Element/Minato/Minato.plist
 SHA1-Digest: RCamf0AvVNw/O77OjHO22PGG6Ic=
@@ -2929,16 +2908,16 @@ Name: assets/Element/Minato/Minato.png
 SHA1-Digest: 3ZKfQbllvibDfxMBpQbSvFkEqSE=
 
 Name: assets/Element/Minato/Minato.xml
-SHA1-Digest: BfOrPkBpZTjJgrIcp2sDhGyov2U=
+SHA1-Digest: oFKjtTm2PM/g3XmJackicDVRpfk=
 
 Name: assets/Element/Monster/Amaterasub.xml
-SHA1-Digest: q+ail9xHq3+XkZGBcz9Yt4xjCZI=
+SHA1-Digest: bIjoSdnsbxfRVfcUUXhdd7NZp5g=
 
 Name: assets/Element/Monster/Bug.xml
-SHA1-Digest: dEf3uvWihoGUAFuOBPXJENCwC/c=
+SHA1-Digest: 4ZiyfnzDy6Y5UKp4YrABNg/H86k=
 
 Name: assets/Element/Monster/BugPillar.xml
-SHA1-Digest: PIycTLjtvtyMaw/4zenEuPzB8dM=
+SHA1-Digest: +gUmtTve/ichI53iZIsdc5Mkzn0=
 
 Name: assets/Element/Monster/C3.xml
 SHA1-Digest: VUMvuRhgXEOxPyIorlU8lieKaUw=
@@ -2950,37 +2929,37 @@ Name: assets/Element/Monster/Centipede.xml
 SHA1-Digest: 5H+/VEiBEHV8aseVcrSa2lTiENM=
 
 Name: assets/Element/Monster/ChuiDi.xml
-SHA1-Digest: 6/iTbH980CkxX0/ivA15yJDj4oQ=
+SHA1-Digest: VQm8A6Khhpphg+LOELyzgWFlqHY=
 
 Name: assets/Element/Monster/CircleMark.xml
 SHA1-Digest: fd9r9CbI0fDuicAax197ky/0gwY=
 
 Name: assets/Element/Monster/DeidaraBom.xml
-SHA1-Digest: UWsPqzmltZX2Uy6IE1cRLyez9i0=
+SHA1-Digest: KLIfk4i8s6cBwOMs4H93M5zMOpQ=
 
 Name: assets/Element/Monster/Dogs.xml
 SHA1-Digest: optal92payMM8ocXGMiBzq5OmX0=
 
 Name: assets/Element/Monster/FakeDeidara.xml
-SHA1-Digest: SDLptGhOPjgrtmoyWLIFHx/0cIA=
+SHA1-Digest: gqtfpAcAy2ZeVAweqA9EOvfIUDg=
 
 Name: assets/Element/Monster/FakeKisame.xml
 SHA1-Digest: IKlvWxhaIgCDCFxjtatyVnHcJmg=
 
 Name: assets/Element/Monster/FakeMinato.xml
-SHA1-Digest: mzPGT1JZl44rG1d/Rut/L/RUEDU=
+SHA1-Digest: ZN//D3jJU1SXcio0dU/jiwyUkzU=
 
 Name: assets/Element/Monster/FakeNaruto.xml
-SHA1-Digest: fNaFr661+dBrWHopW9tJji6GJJU=
+SHA1-Digest: LMrqfYU2awruMIe0h/74mppCZAw=
 
 Name: assets/Element/Monster/FakeShino.xml
-SHA1-Digest: 3TaAd7UXfnbkcRWUO7k9ocrnkk8=
+SHA1-Digest: ZrDucs60zQbpLoZVynJFCqHRHD0=
 
 Name: assets/Element/Monster/FireRain.xml
 SHA1-Digest: NEV14CIqdzkIAe9SOMsXPhg3Dtc=
 
 Name: assets/Element/Monster/FudonSRK.xml
-SHA1-Digest: HmYUxnlxG+Wh6lucXFjgIUybQ/U=
+SHA1-Digest: 0JNwI0DMCsSeMmLf6NDgXmDiVFc=
 
 Name: assets/Element/Monster/Hasan.xml
 SHA1-Digest: do9HzGmWvx2UZCuWZmyW3l/GZAc=
@@ -2989,34 +2968,34 @@ Name: assets/Element/Monster/HiraishinMark.xml
 SHA1-Digest: aPuVfQ5w/6kFez/2xJ7S5yGROJE=
 
 Name: assets/Element/Monster/InkBird.xml
-SHA1-Digest: ajoY3eoPx2RuaKtyp5SzI7o0K+Y=
+SHA1-Digest: rK+L0LQBBd8sIObyUaNKtReniDc=
 
 Name: assets/Element/Monster/ItachiSusano.xml
 SHA1-Digest: xLuIRjHghFkqr6WJuWypb4OlOCU=
 
 Name: assets/Element/Monster/Jibaku.xml
-SHA1-Digest: YjjBhrZuKKPM67l1VL8gHwUF6a0=
+SHA1-Digest: o0EwYtZOg4jCzPVU5dNU4/X9jcQ=
 
 Name: assets/Element/Monster/JibakuEX.xml
-SHA1-Digest: 4ShwBpe6BlUyaeFdZDsIWcqLs/Q=
+SHA1-Digest: YeckbKKIoM9yyQWAhwPXIAjB38E=
 
 Name: assets/Element/Monster/Jiuwei.xml
-SHA1-Digest: 5LgPxvJJBnTbHcnKqPFEBYbMZGM=
+SHA1-Digest: p45Ny089jBNgyNVRWXOXOTCHbXE=
 
 Name: assets/Element/Monster/Jiuweibak.xml
-SHA1-Digest: 2+FU2CxhLmoEk0Cq9dGOMfHbAA4=
+SHA1-Digest: cSJHfs8KTxcMYCB7b83C8Gygr7w=
 
 Name: assets/Element/Monster/Kage.xml
 SHA1-Digest: JEL8VtS/8dNKjByUaoEomfDJuPA=
 
 Name: assets/Element/Monster/KageBom.xml
-SHA1-Digest: fxzr6Dk0a/3MAtxkmxoV8hu8Nlg=
+SHA1-Digest: A5xSwXvCdWwajHhT/IhxUO2Ucgc=
 
 Name: assets/Element/Monster/KageHand.xml
 SHA1-Digest: WEo8bwsf5f48e5ot0JX+4uqb4UA=
 
 Name: assets/Element/Monster/Kuroari.xml
-SHA1-Digest: MV3wGpNuOot1mQuPnKi7hCucTas=
+SHA1-Digest: xharCPLxgo1FnRkE95r4P/UgA5E=
 
 Name: assets/Element/Monster/Mine.xml
 SHA1-Digest: yI3RltZZSP6oz6ye7oOrkgilxKk=
@@ -3034,7 +3013,7 @@ Name: assets/Element/Monster/PaperRain.xml
 SHA1-Digest: 0z9LEHWOQ3dh2X7dCDUDh8kQ9EQ=
 
 Name: assets/Element/Monster/Qilin.xml
-SHA1-Digest: SASAybBchEU2IYqcdSzrY7LvfOI=
+SHA1-Digest: mCnGkLeqlrsqULy7By5MoC7tYvI=
 
 Name: assets/Element/Monster/Qilinbak.xml
 SHA1-Digest: hwW52+aduTMnvR6TqCacmuZJrec=
@@ -3052,19 +3031,19 @@ Name: assets/Element/Monster/SakuraBom.xml
 SHA1-Digest: QjN7ZKwg8EKSedJ/lp+jYxpzNKE=
 
 Name: assets/Element/Monster/SandBall.xml
-SHA1-Digest: Mxt6WIivlLFJXR8L7M/XV6Dey60=
+SHA1-Digest: mqa8nQhJKTOi4y4ICu3ic5Rjt7M=
 
 Name: assets/Element/Monster/SandHand.xml
-SHA1-Digest: XTAw+M0eTSKLqTs7Yy9Zouj762A=
+SHA1-Digest: UiZJm4SFG5OFQcDMrDy95R0Nru8=
 
 Name: assets/Element/Monster/SansyoBlue.xml
-SHA1-Digest: B3FrpYKmWzyL5ocPdddy25iT2W0=
+SHA1-Digest: M3vKWxer5Ha3SnBhsMhSMgyKtn4=
 
 Name: assets/Element/Monster/SansyoGreen.xml
-SHA1-Digest: wwOv2tmzrCJ5FdWYQN03Dh8huw0=
+SHA1-Digest: lf1ipUAtnXlsipY87kE2w4+WJPA=
 
 Name: assets/Element/Monster/SansyoRed.xml
-SHA1-Digest: UjKB1Z0CyvuioIXRjQDNmYIuyMg=
+SHA1-Digest: 9aRJZrIEpC2b/iuxNm3GYNsnGGY=
 
 Name: assets/Element/Monster/SasukeSusano.xml
 SHA1-Digest: uClUVRrfwejeP4+Pc4bOiYZdHus=
@@ -3088,19 +3067,19 @@ Name: assets/Element/Monster/Snake.xml
 SHA1-Digest: dGF4VH+CkJmSLYP0uadRMM4MEuE=
 
 Name: assets/Element/Monster/Spider.xml
-SHA1-Digest: 0+q5wtCNNNiMzcbTyDDtdHEM1oA=
+SHA1-Digest: S+M41fQnSlF8O3Jaee/S2cgJ/Vs=
 
 Name: assets/Element/Monster/Stream.xml
-SHA1-Digest: O0qityCTDIwgqJbUyAzGcARYuq4=
+SHA1-Digest: aDYfTZi+JJVVNnSMGdwoZIXpw9o=
 
 Name: assets/Element/Monster/SuiRyuDan.xml
-SHA1-Digest: Xavwb2ViNjJcq+TjHt+DGxUvOio=
+SHA1-Digest: V4PbnY0OtPHpX7Om2IWf6fDOJwI=
 
 Name: assets/Element/Monster/Suijin.xml
 SHA1-Digest: inqHoaPKvs0hpp+7iyaCyQzWzTE=
 
 Name: assets/Element/Monster/TamaBomb.xml
-SHA1-Digest: RS76iX1A7GXy4XFL8u2yfSkETZk=
+SHA1-Digest: FBUtv4zQLBmhObDs+cB11A/i47Q=
 
 Name: assets/Element/Monster/Tiger.xml
 SHA1-Digest: Gu2Bhx5Jg1cADP4ppcuf9bqAZcA=
@@ -3109,7 +3088,7 @@ Name: assets/Element/Monster/TodonPillar.xml
 SHA1-Digest: gGrq/8W395HkIEf405QnYOoEaYQ=
 
 Name: assets/Element/Monster/Tuji.xml
-SHA1-Digest: o02oaT2YWidjmmDzYrOKm00Brtk=
+SHA1-Digest: UFTtiAC+z0FemPLCFRRWIr5C3a0=
 
 Name: assets/Element/Monster/Tuji2.xml
 SHA1-Digest: DLoSSR+TEulizMfmdJv5h01c8R0=
@@ -3117,14 +3096,8 @@ SHA1-Digest: DLoSSR+TEulizMfmdJv5h01c8R0=
 Name: assets/Element/Monster/Yataikuzu.xml
 SHA1-Digest: Ks7sFOs+CWwJTdm9x4Z+zz9Na2o=
 
-Name: assets/Element/Monster/Yataikuzu.xml.bak
-SHA1-Digest: WW33NIO5ty+AqlT1sE+/Bsr2Oqs=
-
 Name: assets/Element/Monster/Yominuma.xml
 SHA1-Digest: Brhp81M+no+71OIrJ8ZZvp5b0z0=
-
-Name: assets/Element/Monster/ts.xml
-SHA1-Digest: wyQwzmSlUnFGsrD3lvavm2Ihb2U=
 
 Name: assets/Element/Nagato/Nagato.plist
 SHA1-Digest: e7oT941sCbcDkdwyS6gUCWxdq9c=
@@ -3133,13 +3106,13 @@ Name: assets/Element/Nagato/Nagato.png
 SHA1-Digest: ttZpN7+VqY4niAY1JKSbcMq3zxs=
 
 Name: assets/Element/Nagato/Nagato.xml
-SHA1-Digest: fGgryXCPrZ4B4HKz9NR1bgFfvw4=
+SHA1-Digest: Ke+opssq8YQ0eCnYt6n9o9Q/rsI=
 
 Name: assets/Element/Naruto/Naruto.plist
 SHA1-Digest: CDCoZy8wHinELr5eOG9hUAMFD94=
 
 Name: assets/Element/Naruto/Naruto.xml
-SHA1-Digest: +GyIDurYSlk2tX28rtq7qjahZ0U=
+SHA1-Digest: eQ7r4VWab42Nk8fSjgMxyR8jrYM=
 
 Name: assets/Element/Naruto/NarutoUzumakiByRps.png
 SHA1-Digest: I2ZjOA0CJGI5oQtOUhyOty4fAvM=
@@ -3151,7 +3124,7 @@ Name: assets/Element/Neji/Neji.png
 SHA1-Digest: 2NB6sBFPO8MZP3YXFhFNFUAasgU=
 
 Name: assets/Element/Neji/Neji.xml
-SHA1-Digest: UmClqDsfyf9teLDOytSFcheNVrI=
+SHA1-Digest: xapQGta0u1bMKt6tRJUgqHx3gT4=
 
 Name: assets/Element/Orochimaru/Orochimaru.plist
 SHA1-Digest: Cfg9wkIpkmNWzciN6tPrbdZqKhI=
@@ -3160,7 +3133,7 @@ Name: assets/Element/Orochimaru/Orochimaru.png
 SHA1-Digest: JE3mIT08Q1LH2qBa1tr4qNi5Gds=
 
 Name: assets/Element/Orochimaru/Orochimaru.xml
-SHA1-Digest: /AfWez9KkR1egvpIr7xNcWETbKQ=
+SHA1-Digest: ZBae6KEpMBWf0ua+ABtYuwYvFR0=
 
 Name: assets/Element/Pain/Pain.plist
 SHA1-Digest: hxoloafC3WJcil58mEn0zb2C0LQ=
@@ -3178,7 +3151,7 @@ Name: assets/Element/Roshi/Roshi.png
 SHA1-Digest: jvwSDpYi1XZlAXIT/JhAMfT1FP4=
 
 Name: assets/Element/Roshi/Roshi.xml
-SHA1-Digest: JwtKUONVFaph6A41Do+SLsdZKTo=
+SHA1-Digest: SF1vHE29uDklY+KbIjEEvJ0pJfs=
 
 Name: assets/Element/SageJiraiya/SageJiraiya.plist
 SHA1-Digest: FTsORp+qesJIvBC3M9VFI54g1fk=
@@ -3187,7 +3160,7 @@ Name: assets/Element/SageJiraiya/SageJiraiya.png
 SHA1-Digest: 6zF7xN2Aa2NgIISXKUrzzAgRoXU=
 
 Name: assets/Element/SageJiraiya/SageJiraiya.xml
-SHA1-Digest: C7EhSMT0Fn8GoP/aKcOkM9sZMN0=
+SHA1-Digest: 4fEfHU6sH+0UOsJfY/PEFb/d8gg=
 
 Name: assets/Element/SageNaruto/SageNaruto.plist
 SHA1-Digest: 5El1KxFzLJSnczWy4NrgXmEeiPA=
@@ -3196,7 +3169,7 @@ Name: assets/Element/SageNaruto/SageNaruto.png
 SHA1-Digest: rI4HdMu+PSzobuor6eVpy6+C22Y=
 
 Name: assets/Element/SageNaruto/SageNaruto.xml
-SHA1-Digest: Xm3ze1UefiRi/Awp77UOmWvhau4=
+SHA1-Digest: rcbadf8mwg6Oz/0SM7gywKfYGsE=
 
 Name: assets/Element/Sai/Sai.plist
 SHA1-Digest: Za293o6QZMuy7x5/3aW/E05HTck=
@@ -3205,7 +3178,7 @@ Name: assets/Element/Sai/Sai.png
 SHA1-Digest: ywiEfV50aor5djnaFHucU0MTmHI=
 
 Name: assets/Element/Sai/Sai.xml
-SHA1-Digest: 7FhHX5RpFj7wqrlMSU6665pus/8=
+SHA1-Digest: r+dpb22yk3588Z318ZqbkK7KGkI=
 
 Name: assets/Element/Sakura/Sakura War.png
 SHA1-Digest: 01+19rN9nb6HTaIl1oR3YG6PGss=
@@ -3214,7 +3187,10 @@ Name: assets/Element/Sakura/Sakura.plist
 SHA1-Digest: OMDnOPXIHU0zh53cFOlR22p0Ojc=
 
 Name: assets/Element/Sakura/Sakura.xml
-SHA1-Digest: 7LsYGs816eEQzpfm4ETkxBfxcAc=
+SHA1-Digest: N4k/u2MbSls9dYyaxFuf0LsclNQ=
+
+Name: assets/Element/Sanshouuo/Han.png
+SHA1-Digest: dIHTgGnUoU+043j0WOApRFXZXkM=
 
 Name: assets/Element/Sanshouuo/Sanshouuo.plist
 SHA1-Digest: ysutAn0c8EqikO+LDGGlZHQqK4c=
@@ -3232,7 +3208,7 @@ Name: assets/Element/Saso/Saso.png
 SHA1-Digest: WL/LyA9ueE0iKt3zwc78pceOuy4=
 
 Name: assets/Element/Saso/Saso.xml
-SHA1-Digest: 1TIsBjSCb1SruBA/3ccTUiP5sw0=
+SHA1-Digest: hfkhAdojing3WrYnlI/y81i/InA=
 
 Name: assets/Element/Sasuke/Sasuke.plist
 SHA1-Digest: 4F2HMEUKJ/j7QFbph7/Cus72gLo=
@@ -3241,7 +3217,7 @@ Name: assets/Element/Sasuke/Sasuke.png
 SHA1-Digest: copRdMJFdcy0FCckrKBGxdJRFgs=
 
 Name: assets/Element/Sasuke/Sasuke.xml
-SHA1-Digest: uqJuJJUsomQMkel6RvY7Z5H5bRk=
+SHA1-Digest: lf9rAknEs7ugwkoTDaR3DcJ8Z8o=
 
 Name: assets/Element/Shikamaru/Shikamaru.plist
 SHA1-Digest: Oqancvg6WsAS+VdHofF2ZyXqDzU=
@@ -3250,7 +3226,7 @@ Name: assets/Element/Shikamaru/Shikamaru.png
 SHA1-Digest: o4+gLgu4giQ8xmlqYHmm2AMmWec=
 
 Name: assets/Element/Shikamaru/Shikamaru.xml
-SHA1-Digest: GpdWPBGE3s2Ckc3bOcjav8Sc+7Y=
+SHA1-Digest: S44sS13UTWnBlbmKjbovNpK5qWY=
 
 Name: assets/Element/Shino/Shino.plist
 SHA1-Digest: JGWXvQ+cH6slD5T3qlnEFoi7GjI=
@@ -3259,7 +3235,7 @@ Name: assets/Element/Shino/Shino.png
 SHA1-Digest: hgePTEzOSigyUjo0CbRlN467rPc=
 
 Name: assets/Element/Shino/Shino.xml
-SHA1-Digest: BB2oJ3mXflbUU++t6zve89i0/zE=
+SHA1-Digest: EIgDlHcMmt5GwDOKW8t1W7GwIKU=
 
 Name: assets/Element/Skills/Choji_Skill.plist
 SHA1-Digest: wGIlkZZZZYC4Tlth5NVgqfBrbtg=
@@ -3297,6 +3273,9 @@ SHA1-Digest: MuNDwRkqMy6WkBu1bvEfUxaa654=
 
 Name: assets/Element/Skills/Hiruzen_Skill.plist
 SHA1-Digest: 56stFjBuYuJGnZUMMhjRe3+DiSA=
+
+Name: assets/Element/Skills/Hiruzen_Skill.png
+SHA1-Digest: U28YzDF/x2UyALAKXIIock+S3EI=
 
 Name: assets/Element/Skills/Ino_Skill.plist
 SHA1-Digest: yoLhenjiCp/n/Q5yLJkZKYuLpeA=
@@ -3458,7 +3437,7 @@ Name: assets/Element/Suigetsu/Suigetsu.png
 SHA1-Digest: GoXZxV3VFijmXF8tleq1rVD9uDY=
 
 Name: assets/Element/Suigetsu/Suigetsu.xml
-SHA1-Digest: 0HBAyAoR12F/PV1F25b9DOU8lVA=
+SHA1-Digest: mSfrCBY+CBE1KcnwkmIlS+h+ouc=
 
 Name: assets/Element/Tenten/Tenten.plist
 SHA1-Digest: tGo4FY+G1CC05YWKrB1Rda/7Heo=
@@ -3467,7 +3446,7 @@ Name: assets/Element/Tenten/Tenten.png
 SHA1-Digest: f7N3SLzdu/+npcY+Tr7FxwzFgHo=
 
 Name: assets/Element/Tenten/Tenten.xml
-SHA1-Digest: 1gndzGbFf7Yp/uguAoW4T7PSAx0=
+SHA1-Digest: Dmup6ovUWywdLDTMjFzHQnsexe0=
 
 Name: assets/Element/Tobi/Tobi.plist
 SHA1-Digest: Fz+IElh8ZzfwRcy9kfJPWGL2ZC0=
@@ -3476,7 +3455,7 @@ Name: assets/Element/Tobi/Tobi.png
 SHA1-Digest: McFyfPLze85dcqirqzLkCqBHmW8=
 
 Name: assets/Element/Tobi/Tobi.xml
-SHA1-Digest: UIOq4LqHEv7NzNXMPiDnv/lb80E=
+SHA1-Digest: uP3Ly92/lsnpKLxfDlnZDp1agHE=
 
 Name: assets/Element/Tobirama/Tobirama.plist
 SHA1-Digest: xF3WfC0SwQYhoJAN0FcZykY6dJ8=
@@ -3485,7 +3464,7 @@ Name: assets/Element/Tobirama/Tobirama.png
 SHA1-Digest: CId0Cel5svMdm6g4h8Q9Gyx99OY=
 
 Name: assets/Element/Tobirama/Tobirama.xml
-SHA1-Digest: W+KnitMAS6bSVFU4IHQjeIdyck0=
+SHA1-Digest: zprWiJAawoN4kwON0BFPGwrEpJ8=
 
 Name: assets/Element/Tower/CenterDate.xml
 SHA1-Digest: pa6QwVccnk8eQnJQwg5JNsQFO2o=
@@ -3518,7 +3497,7 @@ Name: assets/Element/Tsunade/Tsunade.png
 SHA1-Digest: RuYWS4YC9GyMqxQUdxYqYfzCfn8=
 
 Name: assets/Element/Tsunade/Tsunade.xml
-SHA1-Digest: iO0FWF3y8vB+jOAkDsxv8UtOh3k=
+SHA1-Digest: H2MNFbRj8WQ9q0h27i6KcHXc9t0=
 
 Name: assets/Element/hpBar/flogBar.plist
 SHA1-Digest: DhpSdPkCTpcTHJVMOi7aPhggzwo=
@@ -3707,7 +3686,7 @@ Name: classes.dex
 SHA1-Digest: K9vUN3UpHd9gOrglMNcrlwAuqLI=
 
 Name: index.html
-SHA1-Digest: VE2rCNWbbJy5w+eFw97vdp0DBqk=
+SHA1-Digest: fscNmEk21EK2vcOPpM9xj+34zBg=
 
 Name: lib/armeabi/libcocklogic.so
 SHA1-Digest: vI2Mz9NWF6CaUYGlkWAG288WsPc=

@@ -90,13 +90,14 @@
             <eventName type="setAttackBox">s_hit</eventName>
             <frameName>Sakura_NAttack_08.png</frameName>
             <eventName type="setAttackBox">b_hit</eventName>
+            <eventName type="setSound">Audio/Sakura/combo2.mp3</eventName>
             <frameName>Sakura_NAttack_09.png</frameName>
             <frameName>Sakura_NAttack_10.png</frameName>
-            <eventName type="setSound">Audio/Sakura/combo2.mp3</eventName>
             <frameName>Sakura_NAttack_11.png</frameName>
             <eventName type="setMove">16</eventName>
-            <eventName type="setSound">Audio/Effect/combo3.mp3v</eventName>
+            <eventName type="setSound">Audio/Sakura/sakura_combo.mp3</eventName>
             <eventName type="setAttackBox">l_hit</eventName>
+            <eventName type="setSound">Audio/Effect/combo3.mp3</eventName>
             <frameName>Sakura_NAttack_12.png</frameName>
             <frameName>Sakura_NAttack_13.png</frameName>
             <frameName>Sakura_NAttack_14.png</frameName>
@@ -122,7 +123,7 @@
             <eventName type="setSound">Audio/Sakura/combo2.mp3</eventName>
             <frameName>Sakura_NAttack_11.png</frameName>
             <eventName type="setMove">16</eventName>
-            <eventName type="setSound">Audio/Effect/combo3.mp3v</eventName>
+            <eventName type="setSound">Audio/Effect/combo3.mp3</eventName>
             <eventName type="setAttackBox">l_hit</eventName>
             <frameName>Sakura_NAttack_12.png</frameName>
             <frameName>Sakura_NAttack_13.png</frameName>
@@ -160,7 +161,6 @@
             <frameName>Sakura_Skill02_13.png</frameName>
             <frameName>Sakura_Skill02_14.png</frameName>
             <frameName>Sakura_Skill02_15.png</frameName>
-            <eventName type="setBuff">1000</eventName>
             <frameName>Sakura_Skill02_16.png</frameName>
         </frame>
     </action>
@@ -190,8 +190,7 @@
             <frameName>Sakura_Skill01_20.png</frameName>
             <eventName type="setMon">Tuji</eventName>
             <eventName type="setDelay">10</eventName>
-            
-
+            <eventName type="setSound">Audio/Sakura/Sakura_skill1.mp3</eventName>
             <frameName>Sakura_Skill02_01.png</frameName>
             <frameName>Sakura_Skill01_10.png</frameName>
             <eventName type="setJump">true</eventName>
@@ -205,16 +204,17 @@
             <frameName>Sakura_Skill01_15.png</frameName>
             <frameName>Sakura_Skill01_01.png</frameName>
             <frameName>Sakura_Skill01_02.png</frameName>
-            <eventName type="setSound">Audio/Sakura/Sakura_skill1.mp3</eventName>
             <frameName>Sakura_Skill01_03.png</frameName>
             <eventName type="setSound">Audio/Sakura/EffectSkill1.mp3</eventName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>Sakura_Skill01_04.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
+            <eventName type="setSound">Audio/Sakura/sakura_skill1_2.mp3</eventName>
             <frameName>Sakura_Skill01_05.png</frameName>
             <eventName type="setAttackBox">ax_hit</eventName>
             <frameName>Sakura_Skill01_06.png</frameName>
             <eventName type="setAttackBox">f2_hit</eventName>
+            <eventName type="setSound">Audio/Sakura/EffectSkill1.mp3</eventName>
             <frameName>Sakura_Skill01_07.png</frameName>
             <frameName>Sakura_Skill01_08.png</frameName>
             <eventName type="setSound">Audio/Sakura/Sakura_skill5_2.mp3</eventName>

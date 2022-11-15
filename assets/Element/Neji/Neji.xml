@@ -116,6 +116,7 @@
         </date>
         <frame>
             <frameName>Neji_Skill01_01.png</frameName>
+            <eventName type="setSound">Audio/Neji/haa.mp3</eventName>
             <frameName>Neji_Skill01_02.png</frameName>
             <frameName>Neji_Skill01_03.png</frameName>
             <frameName>Neji_Skill01_04.png</frameName>

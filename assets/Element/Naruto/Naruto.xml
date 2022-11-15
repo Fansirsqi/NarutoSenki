@@ -88,61 +88,42 @@
     </date>
     <frame>
       <frameName>Naruto_NAttack_01.png</frameName>
-      
       <frameName>Naruto_NAttack_02.png</frameName>
-      
       <eventName type="setSound">Audio/Naruto/combo1.mp3</eventName>
       <eventName type="setSound">Audio/Naruto/Bijudama.wav</eventName>
       <eventName type="setAttackBox">l_hit</eventName>
       <frameName>Naruto_NAttack_03.png</frameName>
-      
       <frameName>Naruto_NAttack_04.png</frameName>
-      
       <eventName type="setCharge">8</eventName>
       <frameName>Naruto_NAttack_05.png</frameName>
-      
       <eventName type="setAttackBox">l_hit</eventName>
       <frameName>Naruto_NAttack_06.png</frameName>
-      
       <frameName>Naruto_NAttack_07.png</frameName>
-      
       <eventName type="setSound">Audio/Naruto/combo2.mp3</eventName>
       <eventName type="setSound">Audio/Naruto/Bijudama.wav</eventName>
       <eventName type="setAttackBox">l_hit</eventName>
       <frameName>Naruto_NAttack_08.png</frameName>
-      
       <eventName type="setCharge">8</eventName>
       <frameName>Naruto_NAttack_09.png</frameName>
-      
       <eventName type="setAttackBox">l_hit</eventName>
       <frameName>Naruto_NAttack_10.png</frameName>
-      
       <frameName>Naruto_NAttack_11.png</frameName>
-      
       <frameName>Naruto_NAttack_12.png</frameName>
-      
       <eventName type="setSound">Audio/Naruto/naruto_combo.mp3</eventName>
       <frameName>Naruto_NAttack_13.png</frameName>
-      
       <frameName>Naruto_NAttack_14.png</frameName>
-      
       <eventName type="setAttackBox">n_hit</eventName>
       <eventName type="setAttackBox">ac_hit</eventName>
       <eventName type="setSound">Audio/Naruto/combo3.mp3</eventName>
       <eventName type="setSound">Audio/Naruto/Bijudama.wav</eventName>
       <eventName type="setCharge">8</eventName>
       <frameName>Naruto_NAttack_15.png</frameName>
-      
       <eventName type="setAttackBox">ac_hit</eventName>
       <frameName>Naruto_NAttack_16.png</frameName>
-      
       <eventName type="setAttackBox">b_hit</eventName>
       <frameName>Naruto_NAttack_17.png</frameName>
-      
       <frameName>Naruto_NAttack_18.png</frameName>
-      
       <frameName>Naruto_NAttack_19.png</frameName>
-      
     </frame>
   </action>
 
@@ -469,7 +450,7 @@
   <action value="skill05">
     <date>
       <dateName type="attackType">abAttack</dateName>
-      <dateName type="attackValue">1300</dateName>
+      <dateName type="attackValue">700</dateName>
       <dateName type="attackRangeX">0</dateName>
       <dateName type="attackRangeY">48</dateName>
       <coldName type="coldDown">1</coldName>

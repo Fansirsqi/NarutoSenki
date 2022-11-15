@@ -65,13 +65,14 @@
             <frameName>ImmortalSasuke_Skill04_02.png</frameName>
             <eventName type="setSkillEffect">sharingan4</eventName>
             <frameName>ImmortalSasuke_Skill04_03.png</frameName>
-            <eventName type="setSound">Audio/ImmortalSasuke/ImmortalSasuke_skill4.mp3</eventName>
+            <eventName type="setSound">Audio/ImmortalSasuke/tz.mp3</eventName>
             <eventName type="setDelay">5</eventName>
             <frameName>ImmortalSasuke_Skill04_04.png</frameName>
             <eventName type="setTrap">Amaterasu</eventName>
             <eventName type="setSound">Audio/Effect/srg.mp3</eventName>
             <frameName>ImmortalSasuke_Skill04_05.png</frameName>
             <eventName type="setCommand">findTarget</eventName>
+            <eventName type="setMon">Amaterasub</eventName>
             <eventName type="setCommand">setTransport</eventName>
             <frameName>ImmortalSasuke_Skill04_06.png</frameName>
             <frameName>ImmortalSasuke_Skill04_07.png</frameName>
@@ -234,31 +235,14 @@
             <frameName>ImmortalSasuke_Skill04_02.png</frameName>
             <eventName type="setSkillEffect">sharingan4</eventName>
             <frameName>ImmortalSasuke_Skill04_03.png</frameName>
-            <eventName type="setSound">Audio/ImmortalSasuke/ImmortalSasuke_skill4.mp3</eventName>
+            <eventName type="setSound">Audio/ImmortalSasuke/tz.mp3</eventName>
             <eventName type="setDelay">5</eventName>
             <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            
             <eventName type="setMon">Amaterasub</eventName>
-            
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            
-            <eventName type="setMon">Amaterasub</eventName>
-            
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            
-            <eventName type="setMon">Amaterasub</eventName>
-            
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            
-            <eventName type="setMon">Amaterasub</eventName>
-            
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            
-            <eventName type="setMon">Amaterasub</eventName>
-            
             <eventName type="setSound">Audio/Effect/srg.mp3</eventName>
             <frameName>ImmortalSasuke_Skill04_05.png</frameName>
             <eventName type="setCommand">findTarget</eventName>
+            <eventName type="setTrap">Amaterasu</eventName>
             <eventName type="setCommand">setTransport</eventName>
             <frameName>ImmortalSasuke_Skill04_06.png</frameName>
             <frameName>ImmortalSasuke_Skill04_07.png</frameName>
@@ -275,7 +259,7 @@
             <frameName>ImmortalSasuke_Skill03_03.png</frameName>
             <eventName type="setDelay">5</eventName>
             <frameName>ImmortalSasuke_Skill03_04.png</frameName>
-            <eventName type="setDelay">0</eventName>
+
             <eventName type="setBuff">17</eventName>
         </frame>
     </action>
@@ -292,87 +276,25 @@
             <eventName type="setCommand">addHP</eventName>
             <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
             <frameName>ImmortalSasuke_Skill04_01.png</frameName>
-            <eventName type="setTrap">Amaterasu</eventName>
+            <eventName type="setSound">Audio/Effect/srg.mp3</eventName>
             <frameName>ImmortalSasuke_Skill04_02.png</frameName>
             <eventName type="setSkillEffect">sharingan4</eventName>
             <frameName>ImmortalSasuke_Skill04_03.png</frameName>
-            <eventName type="setSound">Audio/ImmortalSasuke/ImmortalSasuke_skill4.mp3</eventName>
+            <eventName type="setSound">Audio/ImmortalSasuke/tz.mp3</eventName>
             <eventName type="setDelay">5</eventName>
             <frameName>ImmortalSasuke_Skill04_04.png</frameName>
             <eventName type="setTrap">Amaterasu</eventName>
-            <eventName type="setDelay">5</eventName>
+            <eventName type="setDelay">15</eventName>
             <frameName>ImmortalSasuke_Skill04_04.png</frameName>
             <eventName type="setTrap">Amaterasu</eventName>
-            <eventName type="setDelay">5</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setCommand">setCounter</eventName>
-            <eventName type="setTrap">Amaterasu</eventName>
-            <eventName type="setDelay">5</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setTrap">Amaterasu</eventName>
-            <eventName type="setDelay">5</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setTrap">Amaterasu</eventName>
-            <eventName type="setSound">Audio/Effect/srg.mp3</eventName>
-            <eventName type="setDelay">5</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setTrap">Amaterasu</eventName>
-            <eventName type="setDelay">5</eventName>
+            <eventName type="setDelay">15</eventName>
             <eventName type="setCommand">setCounter</eventName>
             <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setTrap">Amaterasu</eventName>
-            <eventName type="setDelay">5</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setTrap">Amaterasu</eventName>
-            <eventName type="setDelay">5</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setTrap">Amaterasu</eventName>
-            <eventName type="setDelay">5</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setTrap">Amaterasu</eventName>
-            <eventName type="setDelay">5</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setTrap">Amaterasu</eventName>
-            <eventName type="setDelay">5</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setTrap">Amaterasu</eventName>
-            <eventName type="setDelay">5</eventName>
-            <eventName type="setSound">Audio/Effect/srg.mp3</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setTrap">Amaterasu</eventName>
-            <eventName type="setDelay">5</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setTrap">Amaterasu</eventName>
-            <eventName type="setDelay">5</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setTrap">Amaterasu</eventName>
-            <eventName type="setDelay">5</eventName>
-            <eventName type="setCommand">setCounter</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setTrap">Amaterasu</eventName>
-            <eventName type="setDelay">5</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setTrap">Amaterasu</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
             <eventName type="setMon">Amaterasub</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
+            <eventName type="setDelay">15</eventName>
+             <frameName>ImmortalSasuke_Skill04_04.png</frameName>
             <eventName type="setMon">Amaterasub</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setMon">Amaterasub</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setMon">Amaterasub</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setMon">Amaterasub</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setMon">Amaterasub</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setMon">Amaterasub</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setMon">Amaterasub</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setMon">Amaterasub</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setMon">Amaterasub</eventName>
+            <eventName type="setDelay">15</eventName>
             <eventName type="setCommand">setCounter</eventName>
         </frame>
     </action>
@@ -386,17 +308,10 @@
         </date>
         <frame>
             <frameName>ImmortalSasuke_Skill04_01.png</frameName>
+            <eventName type="setSound">Audio/ImmortalSasuke/susana.mp3</eventName>
             <frameName>ImmortalSasuke_Skill04_02.png</frameName>
             <eventName type="setSkillEffect">sharingan4</eventName>
             <frameName>ImmortalSasuke_Skill04_03.png</frameName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setTrap">Amaterasu</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setTrap">Amaterasu</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setTrap">Amaterasu</eventName>
-            <frameName>ImmortalSasuke_Skill04_04.png</frameName>
-            <eventName type="setTrap">Amaterasu</eventName>
             <frameName>ImmortalSasuke_Skill04_04.png</frameName>
             <eventName type="setTrap">Amaterasu</eventName>
             <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
@@ -406,19 +321,13 @@
             <eventName type="setCommand">setInvincible</eventName>
             <frameName>ImmortalSasuke_Skill05_03.png</frameName>
             <eventName type="setOugis">10</eventName>
-            
             <eventName type="setCommand">findTarget</eventName>
             <eventName type="setCommand">setTransport</eventName>
             <eventName type="setMon">Jibaku</eventName>
             <frameName>ImmortalSasuke_Skill05_04.png</frameName>
-            <eventName type="setMon">Amaterasub</eventName>
-            <eventName type="setTrap">Amaterasu</eventName>
             <frameName>ImmortalSasuke_Skill05_05.png</frameName>
-            <eventName type="setMon">Amaterasub</eventName>
-            <eventName type="setTrap">Amaterasu</eventName>
             <frameName>ImmortalSasuke_Skill05_06.png</frameName>
             <eventName type="setMon">Amaterasub</eventName>
-            <eventName type="setTrap">Amaterasu</eventName>
             <frameName>ImmortalSasuke_Skill05_07.png</frameName>
             <eventName type="setBuff">18</eventName>
             <eventName type="setSound">Audio/Itachi/itachi_skill5_1.mp3</eventName>
@@ -453,7 +362,6 @@
             <frameName>ImmortalSasuke_Skill10_02.png</frameName>
             <eventName type="setSound">Audio/Sasuke/sasuke_skill10.mp3</eventName>
             <frameName>ImmortalSasuke_Skill10_03.png</frameName>
-            <eventName type="setMon">Amaterasub</eventName>
             <eventName type="setTrap">Amaterasu</eventName>
             <eventName type="setAttackBox">b_hit</eventName>
             <frameName>ImmortalSasuke_Skill10_04.png</frameName>
@@ -470,16 +378,16 @@
         <frame>
             <eventName type="setMonAttack">1</eventName>
             <frameName>ImmortalSasuke_Skill11_01.png</frameName>
-            <eventName type="setDelay">0</eventName>
+
             <eventName type="setMonAttack">1</eventName>
             <frameName>ImmortalSasuke_Skill11_02.png</frameName>
-            <eventName type="setDelay">0</eventName>
+
             <frameName>ImmortalSasuke_Skill11_03.png</frameName>
-            <eventName type="setDelay">0</eventName>
+
             <eventName type="setMon">Amaterasub</eventName>
             <eventName type="setTrap">Amaterasu</eventName>
             <frameName>ImmortalSasuke_Skill11_02.png</frameName>
-            <eventName type="setDelay">0</eventName>
+
             <eventName type="setAttackBox">ac_hit</eventName>
             <eventName type="setSound">Audio/Effect/damage_l.mp3</eventName>
             <eventName type="setDelay">1</eventName>
@@ -497,19 +405,17 @@
             <frameName>ImmortalSasuke_Skill12_01.png</frameName>
             <eventName type="setMove">16</eventName>
             <frameName>ImmortalSasuke_Skill12_02.png</frameName>
-            <eventName type="setDelay">0</eventName>
+
             <eventName type="setMove">16</eventName>
             <frameName>ImmortalSasuke_Skill12_03.png</frameName>
-            <eventName type="setDelay">0</eventName>
+
             <eventName type="setMove">16</eventName>
             <frameName>ImmortalSasuke_Skill12_04.png</frameName>
-            <eventName type="setDelay">0</eventName>
+
             <eventName type="setMove">16</eventName>
             <frameName>ImmortalSasuke_Skill12_05.png</frameName>
             <eventName type="setDelay">1</eventName>
             <eventName type="setMove">16</eventName>
-            <eventName type="setMon">Amaterasub</eventName>
-            <eventName type="setTrap">Amaterasu</eventName>
             <frameName>ImmortalSasuke_Skill12_06.png</frameName>
             <eventName type="setDelay">1</eventName>
         </frame>

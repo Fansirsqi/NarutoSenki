@@ -19,7 +19,7 @@
         <frameName>Spider_Walk_01.png</frameName>
         <frameName>Spider_Walk_02.png</frameName>
         <frameName>Spider_Walk_03.png</frameName>
-          <frameName>Spider_Walk_04.png</frameName>
+        <frameName>Spider_Walk_04.png</frameName>
       </frame>
     </action>
    
@@ -59,7 +59,7 @@
       </date>
       <frame>
         <frameName>bom_01.png</frameName>
-        <eventName type="setAttackBox">a_hit</eventName>
+        <eventName type="setAttackBox">b_hit</eventName>
         <frameName>bom_02.png</frameName>
         <frameName>bom_03.png</frameName>
         <frameName>bom_04.png</frameName>
