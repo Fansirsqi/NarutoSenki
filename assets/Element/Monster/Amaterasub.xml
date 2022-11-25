@@ -55,572 +55,119 @@
         <frame>
             <eventName type="setCommand">findTarget</eventName>
             <eventName type="setCommand">setTransport</eventName>
+            
             <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setCharge">-10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <eventName type="setCharge">10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setCharge">-10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setCommand">findTarget</eventName>
-            <eventName type="setCommand">setTransport</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
+            
             <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setCharge">10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <eventName type="setCharge">-10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setCharge">10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
+            
             <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setCharge">-10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <eventName type="setCharge">10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setCharge">-10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
+            
             <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setCharge">10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <eventName type="setCharge">-10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setCharge">10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
+            
             <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setCharge">-10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <eventName type="setCharge">10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setCharge">-10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
+            
             <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setCharge">10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <eventName type="setCharge">-10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setCharge">10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
+            
             <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setCharge">-10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setCommand">findTarget</eventName>
-            <eventName type="setCommand">setTransport</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <eventName type="setCharge">10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setCharge">10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
+            
             <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setCharge">-10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <eventName type="setCharge">10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setCharge">-10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
+            
             <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setCharge">10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <eventName type="setCharge">-10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setCharge">10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
+            
             <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setCharge">-10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <eventName type="setCharge">10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setCharge">-10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setCommand">findTarget</eventName>
-            <eventName type="setCommand">setTransport</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
+            
             <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setCharge">10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <eventName type="setCharge">-10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setCharge">10</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <eventName type="setCommand">findTarget</eventName>
-            <eventName type="setCommand">setTransport</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
+            
             <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
+            
             <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
+            
             <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
+            
             <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
+            
             <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <eventName type="setCommand">findTarget</eventName>
-            <eventName type="setCommand">setTransport</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">ct_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">ct_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">ct_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">ct_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">ct_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">ct_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">ct_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">ct_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">ct_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">ct_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">ct_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <eventName type="setCommand">findTarget</eventName>
-            <eventName type="setCommand">setTransport</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">ct_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">ct_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">ct_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">ct_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">ct_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">ct_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">ct_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">ct_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">ct_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">ct_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">a_hit</eventName>
-            <eventName type="setCommand">findTarget</eventName>
-            <eventName type="setCommand">setTransport</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_01.png</frameName>
-            <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setAttackBox">o_hit</eventName>
-            <frameName>Amaterasu_Move_02.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
-            <frameName>Amaterasu_Move_03.png</frameName>
-            <eventName type="setAttackBox">ac_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
+            <eventName type="setDetonation">0</eventName>
             <eventName type="setDetonation">0</eventName>
         </frame>
     </action>

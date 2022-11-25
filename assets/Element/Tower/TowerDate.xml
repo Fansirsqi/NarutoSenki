@@ -4,7 +4,7 @@
     <action value="Idle">
       <date>
         <dateName type="attackType">Tower</dateName>
-        <dateName type="attackValue">35000</dateName>
+        <dateName type="attackValue">85000</dateName>
         <dateName type="attackRangeX">102</dateName>
         <dateName type="attackRangeY">100</dateName>
         <coldName type="coldDown">0</coldName>

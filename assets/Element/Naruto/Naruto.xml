@@ -113,14 +113,14 @@
       <frameName>Naruto_NAttack_13.png</frameName>
       <frameName>Naruto_NAttack_14.png</frameName>
       <eventName type="setAttackBox">n_hit</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
+      <eventName type="setAttackBox">a_hit</eventName>
       <eventName type="setSound">Audio/Naruto/combo3.mp3</eventName>
       <eventName type="setSound">Audio/Naruto/Bijudama.wav</eventName>
       <eventName type="setCharge">8</eventName>
       <frameName>Naruto_NAttack_15.png</frameName>
-      <eventName type="setAttackBox">ac_hit</eventName>
+      <eventName type="setAttackBox">a_hit</eventName>
       <frameName>Naruto_NAttack_16.png</frameName>
-      <eventName type="setAttackBox">b_hit</eventName>
+      <eventName type="setAttackBox">a_hit</eventName>
       <frameName>Naruto_NAttack_17.png</frameName>
       <frameName>Naruto_NAttack_18.png</frameName>
       <frameName>Naruto_NAttack_19.png</frameName>
@@ -130,7 +130,7 @@
   <action value="skill01">
     <date>
       <dateName type="attackType">aAttack</dateName>
-      <dateName type="attackValue">450</dateName>
+      <dateName type="attackValue">150</dateName>
       <dateName type="attackRangeX">48</dateName>
       <dateName type="attackRangeY">48</dateName>
       <coldName type="coldDown">13</coldName>
@@ -222,7 +222,7 @@
   <action value="skill03">
     <date>
       <dateName type="attackType">aAttack</dateName>
-      <dateName type="attackValue">900</dateName>
+      <dateName type="attackValue">500</dateName>
       <dateName type="attackRangeX">32</dateName>
       <dateName type="attackRangeY">48</dateName>
       <coldName type="coldDown">25</coldName>
@@ -341,7 +341,7 @@
   <action value="skill04">
     <date>
       <dateName type="attackType">abAttack</dateName>
-      <dateName type="attackValue">1000</dateName>
+      <dateName type="attackValue">1600</dateName>
       <dateName type="attackRangeX">64</dateName>
       <dateName type="attackRangeY">48</dateName>
       <coldName type="coldDown">1</coldName>

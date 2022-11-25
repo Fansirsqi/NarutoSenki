@@ -4,10 +4,10 @@
     <action value="Idle">
 	 <date>
 	    <dateName type="attackType">Centipede</dateName>
-        <dateName type="attackValue">6000</dateName>
+        <dateName type="attackValue">5000</dateName>
         <dateName type="attackRangeX">126</dateName>
         <dateName type="attackRangeY">76</dateName>
-        <coldName type="coldDown">224</coldName>
+        <coldName type="coldDown">214</coldName>
       </date>
       <frame>
         <frameName>Centipede_Idle_01.png</frameName>
@@ -55,7 +55,7 @@
     <action value="nAttack">
       <date>
 	    <dateName type="attackType">nAttack</dateName>
-        <dateName type="attackValue">200</dateName>
+        <dateName type="attackValue">100</dateName>
         <dateName type="attackRangeX">32</dateName>
         <dateName type="attackRangeY">16</dateName>
         <coldName type="coldDown">0</coldName>

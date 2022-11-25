@@ -81,7 +81,7 @@
             <eventName type="setAttackBox">n_hit</eventName>
             <frameName>Hinata_NAttack_03.png</frameName>
             <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
-            <eventName type="setAttackBox">b_hit</eventName>
+            <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>Hinata_NAttack_04.png</frameName>
             <frameName>Hinata_NAttack_05.png</frameName>
             <eventName type="setAttackBox">n_hit</eventName>

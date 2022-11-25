@@ -13,7 +13,6 @@
         <frameName>Kiba_Idle_001.png</frameName>
         <frameName>Kiba_Idle_002.png</frameName>
         <frameName>Kiba_Idle_003.png</frameName>
-   
       </frame>
     </action>
    
@@ -132,7 +131,7 @@
     <action value="skill02">
         <date>
           <dateName type="attackType">aAttack</dateName>
-          <dateName type="attackValue">150</dateName>
+          <dateName type="attackValue">750</dateName>
           <dateName type="attackRangeX">56</dateName>
           <dateName type="attackRangeY">62</dateName>
           <coldName type="coldDown">15</coldName>
@@ -145,18 +144,18 @@
 <eventName type="setChargeB">500</eventName>
       <frameName>Kiba_Skill03_05.png</frameName>
           <eventName type="setSound">Audio/Kiba/S1.mp3</eventName>
-          <eventName type="setAttackBox">b_hit</eventName>
+          <eventName type="setAttackBox">bl_hit</eventName>
           <eventName type="setSound">Audio/Kiba/RayQamaitazhiSlash.mp3</eventName>
       <frameName>Kiba_Skill03_06.png</frameName>
           <eventName type="setAttackBox">a_hit</eventName>
       <frameName>Kiba_Skill03_07.png</frameName>
-          <eventName type="setAttackBox">b_hit</eventName>
+          <eventName type="setAttackBox">bl_hit</eventName>
       <frameName>Kiba_Skill03_08.png</frameName>
-          <eventName type="setAttackBox">c_hit</eventName>
+          <eventName type="setAttackBox">bl_hit</eventName>
       <frameName>Kiba_Skill03_09.png</frameName>
           <eventName type="setAttackBox">b_hit</eventName>
       <frameName>Kiba_Skill03_10.png</frameName>
-          <eventName type="setAttackBox">ac_hit</eventName>
+          <eventName type="setAttackBox">l_hit</eventName>
       <frameName>Kiba_Skill03_11.png</frameName>
         <eventName type="setMonAttack">1</eventName>
        
@@ -712,16 +711,14 @@
         </date>
         <frame>
           <frameName>Kiba_NAttack_01.png</frameName>
-          <eventName type="setSound">Audio/Kiba/S1.mp3</eventName>
           <frameName>Kiba_NAttack_02.png</frameName>
-          <eventName type="setSound">Audio/Kiba/Sword3.wav</eventName>
           <frameName>Kiba_NAttack_03.png</frameName>
+          <eventName type="setSound">Audio/Kiba/S1.mp3</eventName>
+          <eventName type="setSound">Audio/Kiba/Sword3.wav</eventName>
           <eventName type="setAttackBox">c_hit</eventName>
           <frameName>Kiba_NAttack_04.png</frameName>
           <eventName type="setAttackBox">n_hit</eventName>
           <frameName>Kiba_NAttack_05.png</frameName>
-          <eventName type="setSound">Audio/Kiba/S1.mp3</eventName>
-          <eventName type="setSound">Audio/Kiba/Sword3.wav</eventName>
           <frameName>Kiba_NAttack_06.png</frameName>
           <eventName type="setAttackBox">c_hit</eventName>
           <frameName>Kiba_NAttack_07.png</frameName>

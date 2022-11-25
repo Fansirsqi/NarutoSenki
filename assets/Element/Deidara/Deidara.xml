@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+    <?xml version="1.0" encoding="utf-8"?>
  <animation>
    
     <action value="Idle">
@@ -123,6 +123,7 @@
         <frameName>Deidara_Skill01_03.png</frameName>
         <eventName type="setDelay">10</eventName>
         <eventName type="setMon">Spider</eventName>
+        <eventName type="setMon">Spider</eventName>
         <eventName type="setBuff">17</eventName>
      </frame>
    </action>
@@ -146,6 +147,8 @@
           <frameName>Deidara_Skill02_07.png</frameName>
           <frameName>Deidara_Skill02_08.png</frameName>
             <eventName type="setDelay">10</eventName>
+            <eventName type="setMon">Centipede</eventName>
+            <eventName type="setMon">Centipede</eventName>
             <eventName type="setMon">Centipede</eventName>
         </frame>
     </action>

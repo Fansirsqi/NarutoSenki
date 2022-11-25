@@ -1,250 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <animation>
-
-  <action value="Idle">
-    <date>
-      <dateName type="attackType">Jibaku</dateName>
-      <dateName type="attackValue">0</dateName>
-      <dateName type="attackRangeX">51</dateName>
-      <dateName type="attackRangeY">11</dateName>
-      <coldName type="coldDown">224</coldName>
-    </date>
-    <frame>
-      <frameName>all_use.png</frameName>
-    </frame>
-  </action>
-
-  <action value="Walk">
-    <frame>
-      <frameName>all_use.png</frameName>
-    </frame>
-  </action>
-
-  <action value="Hurt">
-    <frame>
-    </frame>
-  </action>
-
-  <action value="AirHurt">
-    <frame>
-
-    </frame>
-  </action>
-
-  <action value="KnockDown">
-    <frame>
-    </frame>
-  </action>
-
-  <action value="Float">
-    <frame>
-    </frame>
-  </action>
-
-  <action value="Dead">
-    <frame>
-      <frameName>all_use.png</frameName>
-    </frame>
-  </action>
-
-  <action value="nAttack">
-    <date>
-      <dateName type="attackType">aAttack</dateName>
-      <dateName type="attackValue">120</dateName>
-      <dateName type="attackRangeX">128</dateName>
-      <dateName type="attackRangeY">72</dateName>
-      <coldName type="coldDown">0</coldName>
-    </date>
-    <frame>
-      <eventName type="setMove">-32</eventName>
-      <frameName>all_use.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setMove">16</eventName>
-      <frameName>Jibaku_Move_01.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <eventName type="setMove">16</eventName>
-      <frameName>Jibaku_Move_02.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <eventName type="setMove">16</eventName>
-      <frameName>Jibaku_Move_03.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <eventName type="setMove">16</eventName>
-      <frameName>Jibaku_Move_04.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <eventName type="setMove">16</eventName>
-      <frameName>Jibaku_Move_05.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <eventName type="setMove">16</eventName>
-      <frameName>Jibaku_Move_06.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <eventName type="setMove">16</eventName>
-      <frameName>Jibaku_Move_07.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <eventName type="setMove">12</eventName>
-      <frameName>Jibaku_Move_08.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <eventName type="setMove">8</eventName>
-      <frameName>Jibaku_Move_09.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <eventName type="setMove">4</eventName>
-      <frameName>Jibaku_Move_10.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <eventName type="setMove">2</eventName>
-      <frameName>Jibaku_Move_11.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <frameName>Jibaku_Move_12.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <frameName>Jibaku_Move_13.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <frameName>Jibaku_Move_14.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <frameName>Jibaku_Move_15.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <frameName>Jibaku_Move_16.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <frameName>Jibaku_Move_17.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <frameName>Jibaku_Move_18.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <frameName>Jibaku_Move_19.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <frameName>Jibaku_Move_20.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <eventName type="setSound">Audio/Pain/jibaku2.mp3</eventName>
-      <frameName>Jibaku_Move_21.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <frameName>Jibaku_Move_22.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <frameName>Jibaku_Move_23.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <frameName>Jibaku_Move_24.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <frameName>Jibaku_Move_25.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <frameName>Jibaku_Move_26.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <frameName>Jibaku_Move_27.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <frameName>Jibaku_Move_28.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <frameName>Jibaku_Move_29.png</frameName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ab_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <eventName type="setDelay">10</eventName>
-      <frameName>Jibaku_Move_30.png</frameName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <frameName>Jibaku_Move_31.png</frameName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <frameName>Jibaku_Move_32.png</frameName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <frameName>JibakuRuin_Move_01.png</frameName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <frameName>JibakuRuin_Move_02.png</frameName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <frameName>JibakuRuin_Move_03.png</frameName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <frameName>JibakuRuin_Move_04.png</frameName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <frameName>JibakuRuin_Move_05.png</frameName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <frameName>JibakuRuin_Move_06.png</frameName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <frameName>JibakuRuin_Move_07.png</frameName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <frameName>JibakuRuin_Move_08.png</frameName>
-      <eventName type="setAttackBox">ac_hit</eventName>
-      <eventName type="setDetonation">0</eventName>
-    </frame>
-  </action>
-
+    <action value="Idle">
+        <date>
+            <dateName type="attackType">jibaku</dateName>
+            <dateName type="attackValue">0</dateName>
+            <dateName type="attackRangeX">51</dateName>
+            <dateName type="attackRangeY">11</dateName>
+            <coldName type="coldDown">224</coldName>
+        </date>
+        <frame>
+            <frameName>Jibaku_Set_01.png</frameName>
+        </frame>
+    </action>
+    <action value="Walk">
+        <frame>
+            <frameName>Jibaku_Set_01.png</frameName>
+        </frame>
+    </action>
+    <action value="Hurt">
+        <frame>
+        </frame>
+    </action>
+    <action value="AirHurt">
+        <frame>
+        </frame>
+    </action>
+    <action value="KnockDown">
+        <frame>
+        </frame>
+    </action>
+    <action value="Float">
+        <frame>
+        </frame>
+    </action>
+    <action value="Dead">
+        <frame>
+        </frame>
+    </action>
+    <action value="nAttack">
+        <date>
+            <dateName type="attackType">aAttack</dateName>
+            <dateName type="attackValue">250</dateName>
+            <dateName type="attackRangeX">128</dateName>
+            <dateName type="attackRangeY">164</dateName>
+            <coldName type="coldDown">0</coldName>
+        </date>
+        <frame>
+            <eventName type="setSound">Audio/Effect/Jibaku_effect_01.mp3</eventName>
+            <frameName>Jibaku_Set_01.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>Jibaku_Set_02.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>Jibaku_Set_03.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>Jibaku_Set_04.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <eventName type="setSound">Audio/Effect/Jibaku_effect_02.mp3</eventName>
+            <frameName>Jibaku_Set_05.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>Jibaku_Set_06.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>Jibaku_Set_07.png</frameName>
+            <frameName>Jibaku_Set_08.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>Jibaku_Set_09.png</frameName>
+            <frameName>Jibaku_Set_10.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>Jibaku_Set_11.png</frameName>
+            <frameName>Jibaku_Set_12.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>Jibaku_Set_13.png</frameName>
+            <frameName>Jibaku_Set_14.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>Jibaku_Set_15.png</frameName>
+            <frameName>Jibaku_Set_16.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>Jibaku_Set_17.png</frameName>
+            <eventName type="setSound">Audio/Effect/Jibaku_effect_03.mp3</eventName>
+            <eventName type="setDetonation">0</eventName>
+        </frame>
+    </action>
 </animation>

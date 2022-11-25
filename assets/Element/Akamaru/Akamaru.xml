@@ -59,7 +59,7 @@
     <action value="nAttack">
       <date>
 	    <dateName type="attackType">nAttack</dateName>
-        <dateName type="attackValue">130</dateName>
+        <dateName type="attackValue">170</dateName>
         <dateName type="attackRangeX">16</dateName>
         <dateName type="attackRangeY">32</dateName>
         <coldName type="coldDown">10</coldName>
@@ -70,9 +70,9 @@
           <eventName type="setSound">Audio/Kiba/pedang2.mp3</eventName>
           <eventName type="setAttackBox">a_hit</eventName>
           <frameName>Akamaru_Nattack_003.png</frameName>
-          <eventName type="setAttackBox">ac_hit</eventName>
+          <eventName type="setAttackBox">a_hit</eventName>
           <frameName>Akamaru_Nattack_004.png</frameName>
-          <eventName type="setAttackBox">ac_hit</eventName>
+          <eventName type="setAttackBox">a_hit</eventName>
           <frameName>Akamaru_Nattack_005.png</frameName>
           <eventName type="setAttackBox">n_hit</eventName>
           <frameName>Akamaru_Nattack_006.png</frameName>
