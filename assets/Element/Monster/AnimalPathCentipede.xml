@@ -113,7 +113,7 @@
     <action value="nAttack">
         <date>
             <dateName type="attackType">aAttack</dateName>
-            <dateName type="attackValue">100</dateName>
+            <dateName type="attackValue">50</dateName>
             <dateName type="attackRangeX">16</dateName>
             <dateName type="attackRangeY">48</dateName>
             <coldName type="coldDown">0</coldName>
