@@ -161,7 +161,7 @@
             <eventName type="setDelay">10</eventName>
             <frameName>SageJiraiya_Skill02_04.png</frameName>
             <eventName type="setDelay">30</eventName>
-            <eventName type="setMon">Yominuma</eventName>
+            <eventName type="setMon">Nominuma</eventName>
         </frame>
     </action>
 

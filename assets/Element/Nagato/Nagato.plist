@@ -7,750 +7,1374 @@
             <key>Nagato_AirHurt_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3950,905},{49,62}}</string>
+                <string>{{74,83},{38,74}}</string>
                 <key>offset</key>
-                <string>{2,0}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{49,62}}</string>
+                <string>{{0,0},{38,74}}</string>
                 <key>sourceSize</key>
-                <string>{49,62}</string>
+                <string>{38,74}</string>
             </dict>
             <key>Nagato_Float_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{40,500},{41,80}}</string>
+                <string>{{113,95},{43,62}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{41,80}}</string>
+                <string>{{0,0},{43,62}}</string>
                 <key>sourceSize</key>
-                <string>{41,80}</string>
+                <string>{43,62}</string>
             </dict>
             <key>Nagato_Float_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{890,569},{45,65}}</string>
+                <string>{{157,62},{76,43}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{45,65}}</string>
+                <string>{{0,0},{76,43}}</string>
                 <key>sourceSize</key>
-                <string>{45,65}</string>
+                <string>{76,43}</string>
             </dict>
             <key>Nagato_Float_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3900,216},{79,40}}</string>
+                <string>{{158,106},{64,46}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{79,40}}</string>
+                <string>{{0,0},{64,46}}</string>
                 <key>sourceSize</key>
-                <string>{79,40}</string>
+                <string>{64,46}</string>
             </dict>
             <key>Nagato_Hurt_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{238,500},{45,79}}</string>
+                <string>{{0,82},{35,77}}</string>
                 <key>offset</key>
-                <string>{0.5,0}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{45,79}}</string>
+                <string>{{0,0},{35,77}}</string>
                 <key>sourceSize</key>
-                <string>{45,79}</string>
+                <string>{35,77}</string>
             </dict>
             <key>Nagato_Hurt_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{363,500},{49,70}}</string>
+                <string>{{36,84},{37,74}}</string>
                 <key>offset</key>
-                <string>{-2,0}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{49,70}}</string>
+                <string>{{0,0},{37,74}}</string>
                 <key>sourceSize</key>
-                <string>{49,70}</string>
-            </dict>
-            <key>Nagato_Hurt_03.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{3889,874},{51,62}}</string>
-                <key>offset</key>
-                <string>{-3,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{51,62}}</string>
-                <key>sourceSize</key>
-                <string>{51,62}</string>
+                <string>{37,74}</string>
             </dict>
             <key>Nagato_Idle_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{890,702},{32,83}}</string>
+                <string>{{0,0},{50,81}}</string>
                 <key>offset</key>
-                <string>{3.5,0}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{32,83}}</string>
+                <string>{{0,0},{50,81}}</string>
                 <key>sourceSize</key>
-                <string>{32,83}</string>
+                <string>{50,81}</string>
             </dict>
             <key>Nagato_Idle_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{890,785},{32,83}}</string>
+                <string>{{50,0},{50,81}}</string>
                 <key>offset</key>
-                <string>{3.5,0}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{32,83}}</string>
+                <string>{{0,0},{50,81}}</string>
                 <key>sourceSize</key>
-                <string>{32,83}</string>
+                <string>{50,81}</string>
             </dict>
             <key>Nagato_Idle_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3967,256},{33,83}}</string>
+                <string>{{100,0},{50,81}}</string>
                 <key>offset</key>
-                <string>{4,0}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{33,83}}</string>
+                <string>{{0,0},{50,81}}</string>
                 <key>sourceSize</key>
-                <string>{33,83}</string>
-            </dict>
-            <key>Nagato_Idle_04.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{890,785},{32,83}}</string>
-                <key>offset</key>
-                <string>{3.5,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{32,83}}</string>
-                <key>sourceSize</key>
-                <string>{32,83}</string>
-            </dict>
-            <key>Nagato_Idle_05.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,265},{32,83}}</string>
-                <key>offset</key>
-                <string>{1,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{2,0},{32,83}}</string>
-                <key>sourceSize</key>
-                <string>{34,83}</string>
-            </dict>
-            <key>Nagato_Idle_06.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{87,262},{32,83}}</string>
-                <key>offset</key>
-                <string>{1,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{2,0},{32,83}}</string>
-                <key>sourceSize</key>
-                <string>{34,83}</string>
-            </dict>
-            <key>Nagato_Idle_07.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{172,252},{32,83}}</string>
-                <key>offset</key>
-                <string>{1,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{2,0},{32,83}}</string>
-                <key>sourceSize</key>
-                <string>{34,83}</string>
-            </dict>
-            <key>Nagato_Idle_08.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{87,262},{32,83}}</string>
-                <key>offset</key>
-                <string>{1,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{2,0},{32,83}}</string>
-                <key>sourceSize</key>
-                <string>{34,83}</string>
-            </dict>
-            <key>Nagato_Idle_09.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{87,262},{32,83}}</string>
-                <key>offset</key>
-                <string>{1,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{2,0},{32,83}}</string>
-                <key>sourceSize</key>
-                <string>{34,83}</string>
+                <string>{50,81}</string>
             </dict>
             <key>Nagato_KnockDown_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3900,101},{81,39}}</string>
+                <string>{{234,63},{80,41}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{81,39}}</string>
+                <string>{{0,0},{80,41}}</string>
                 <key>sourceSize</key>
-                <string>{81,39}</string>
+                <string>{80,41}</string>
             </dict>
             <key>Nagato_KnockDown_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3900,66},{85,35}}</string>
+                <string>{{227,122},{80,23}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{85,35}}</string>
+                <string>{{0,0},{80,23}}</string>
                 <key>sourceSize</key>
-                <string>{85,35}</string>
+                <string>{80,23}</string>
             </dict>
             <key>Nagato_KnockDown_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3897,500},{62,45}}</string>
+                <string>{{315,63},{69,44}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{62,45}}</string>
+                <string>{{0,0},{69,44}}</string>
                 <key>sourceSize</key>
-                <string>{62,45}</string>
+                <string>{69,44}</string>
             </dict>
-            <key>Nagato_KnockDown_04.png</key>
+            <key>Nagato_F0_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3897,821},{53,53}}</string>
+                <string>{{0,240},{100,100}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{53,53}}</string>
+                <string>{{0,0},{100,100}}</string>
                 <key>sourceSize</key>
-                <string>{53,53}</string>
+                <string>{100,100}</string>
             </dict>
-            <key>Nagato_KnockDown_05.png</key>
+            <key>Nagato_F0_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{890,634},{39,68}}</string>
+                <string>{{100,240},{100,100}}</string>
+                <key>offset</key>
+                <string>{1.5,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{100,100}}</string>
+                <key>sourceSize</key>
+                <string>{100,100}</string>
+            </dict>
+            <key>Nagato_F0_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{200,240},{100,100}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{39,68}}</string>
+                <string>{{0,0},{100,100}}</string>
                 <key>sourceSize</key>
-                <string>{39,68}</string>
+                <string>{100,100}</string>
+            </dict>
+            <key>Nagato_F0_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{300,240},{100,100}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{100,100}}</string>
+                <key>sourceSize</key>
+                <string>{100,100}</string>
+            </dict>
+            <key>Nagato_F0_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{400,240},{100,100}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{100,100}}</string>
+                <key>sourceSize</key>
+                <string>{100,100}</string>
+            </dict>
+            <key>Nagato_F0_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{384,61},{100,100}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{100,100}}</string>
+                <key>sourceSize</key>
+                <string>{100,100}</string>
             </dict>
             <key>Nagato_NAttack_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{283,500},{40,79}}</string>
+                <string>{{512,0},{180,120}}</string>
+                <key>offset</key>
+                <string>{32,25}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{180,120}}</string>
+                <key>sourceSize</key>
+                <string>{0,48}</string>
+            </dict>
+            <key>Nagato_NAttack_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{692,0},{180,120}}</string>
+                <key>offset</key>
+                <string>{32,-11}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{180,120}}</string>
+                <key>sourceSize</key>
+                <string>{0,120}</string>
+            </dict>
+            <key>Nagato_NAttack_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{872,0},{180,120}}</string>
+                <key>offset</key>
+                <string>{32,49}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{180,120}}</string>
+                <key>sourceSize</key>
+                <string>{0,0}</string>
+            </dict>
+            <key>Nagato_NAttack_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1052,0},{180,120}}</string>
+                <key>offset</key>
+                <string>{32,25}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{180,120}}</string>
+                <key>sourceSize</key>
+                <string>{0,48}</string>
+            </dict>
+            <key>Nagato_NAttack_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1232,0},{180,120}}</string>
+                <key>offset</key>
+                <string>{32,-11}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{180,120}}</string>
+                <key>sourceSize</key>
+                <string>{0,120}</string>
+            </dict>
+            <key>Nagato_NAttack_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1412,0},{180,120}}</string>
+                <key>offset</key>
+                <string>{32,49}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{180,120}}</string>
+                <key>sourceSize</key>
+                <string>{0,0}</string>
+            </dict>
+            <key>Nagato_NAttack_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{512,120},{180,130}}</string>
+                <key>offset</key>
+                <string>{32,29}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{180,130}}</string>
+                <key>sourceSize</key>
+                <string>{0,48}</string>
+            </dict>
+            <key>Nagato_NAttack_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{692,120},{180,130}}</string>
+                <key>offset</key>
+                <string>{32,-12}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{180,130}}</string>
+                <key>sourceSize</key>
+                <string>{0,130}</string>
+            </dict>
+            <key>Nagato_NAttack_09.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{872,120},{180,130}}</string>
+                <key>offset</key>
+                <string>{32,-12}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{180,130}}</string>
+                <key>sourceSize</key>
+                <string>{0,130}</string>
+            </dict>
+            <key>Nagato_NAttack_10.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1052,120},{180,130}}</string>
+                <key>offset</key>
+                <string>{32,29}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{180,130}}</string>
+                <key>sourceSize</key>
+                <string>{0,48}</string>
+            </dict>
+            <key>Nagato_NAttack_11.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1232,120},{180,130}}</string>
+                <key>offset</key>
+                <string>{32,-12}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{180,130}}</string>
+                <key>sourceSize</key>
+                <string>{0,130}</string>
+            </dict>
+            <key>Nagato_NAttack_12.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1412,120},{180,130}}</string>
+                <key>offset</key>
+                <string>{32,-12}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{180,130}}</string>
+                <key>sourceSize</key>
+                <string>{0,130}</string>
+            </dict>
+            <key>Nagato_NAttack_13.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{512,250},{180,130}}</string>
+                <key>offset</key>
+                <string>{32,-12}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{180,130}}</string>
+                <key>sourceSize</key>
+                <string>{0,130}</string>
+            </dict>
+            <key>Nagato_NAttack_14.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{692,250},{180,130}}</string>
+                <key>offset</key>
+                <string>{32,29}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{180,130}}</string>
+                <key>sourceSize</key>
+                <string>{0,48}</string>
+            </dict>
+            <key>Nagato_NAttack_15.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{872,250},{180,130}}</string>
+                <key>offset</key>
+                <string>{32,-12}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{180,130}}</string>
+                <key>sourceSize</key>
+                <string>{0,130}</string>
+            </dict>
+            <key>Nagato_NAttack_16.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1052,250},{180,130}}</string>
+                <key>offset</key>
+                <string>{32,-12}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{180,130}}</string>
+                <key>sourceSize</key>
+                <string>{0,130}</string>
+            </dict>
+            <key>Nagato_NAttack_17.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1232,250},{180,130}}</string>
+                <key>offset</key>
+                <string>{32,-12}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{180,130}}</string>
+                <key>sourceSize</key>
+                <string>{0,130}</string>
+            </dict>
+            <key>Nagato_NAttack_18.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1412,250},{180,130}}</string>
+                <key>offset</key>
+                <string>{32,-12}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{180,130}}</string>
+                <key>sourceSize</key>
+                <string>{0,130}</string>
+            </dict>
+            <key>Nagato_Skill00_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,160},{50,74}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{40,79}}</string>
+                <string>{{0,0},{50,74}}</string>
                 <key>sourceSize</key>
-                <string>{40,79}</string>
+                <string>{50,74}</string>
             </dict>
-            <key>Nagato_NAttack_02.png</key>
+            <key>Nagato_Skill00_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3900,256},{67,53}}</string>
+                <string>{{50,160},{50,74}}</string>
                 <key>offset</key>
-                <string>{-10.5,0}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{67,53}}</string>
+                <string>{{0,0},{50,74}}</string>
                 <key>sourceSize</key>
-                <string>{67,53}</string>
+                <string>{50,74}</string>
             </dict>
-            <key>Nagato_NAttack_03.png</key>
+            <key>Nagato_Skill00_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3900,0},{95,66}}</string>
+                <string>{{100,160},{50,74}}</string>
                 <key>offset</key>
-                <string>{-1.5,0}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{95,66}}</string>
+                <string>{{0,0},{50,74}}</string>
                 <key>sourceSize</key>
-                <string>{95,66}</string>
+                <string>{50,74}</string>
             </dict>
-            <key>Nagato_NAttack_04.png</key>
+            <key>Nagato_Skill00_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{412,470},{175,99}}</string>
+                <string>{{150,160},{50,74}}</string>
                 <key>offset</key>
-                <string>{-0.5,-5}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{175,99}}</string>
+                <string>{{0,0},{50,74}}</string>
                 <key>sourceSize</key>
-                <string>{175,99}</string>
+                <string>{50,74}</string>
             </dict>
-            <key>Nagato_NAttack_05.png</key>
+            <key>Nagato_Skill00_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{587,470},{175,99}}</string>
+                <string>{{200,160},{50,74}}</string>
                 <key>offset</key>
-                <string>{-0.5,-5}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{175,99}}</string>
+                <string>{{0,0},{50,74}}</string>
                 <key>sourceSize</key>
-                <string>{175,99}</string>
+                <string>{50,74}</string>
             </dict>
-            <key>Nagato_NAttack_06.png</key>
+            <key>Nagato_Skill00_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{762,470},{175,99}}</string>
+                <string>{{250,160},{50,74}}</string>
                 <key>offset</key>
-                <string>{-0.5,-5}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{175,99}}</string>
+                <string>{{0,0},{50,74}}</string>
                 <key>sourceSize</key>
-                <string>{175,99}</string>
-            </dict>
-            <key>Nagato_NAttack_07.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{308,3872},{175,99}}</string>
-                <key>offset</key>
-                <string>{-0.5,-5}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{175,99}}</string>
-                <key>sourceSize</key>
-                <string>{175,99}</string>
-            </dict>
-            <key>Nagato_NAttack_08.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{139,500},{51,79}}</string>
-                <key>offset</key>
-                <string>{-2,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{51,79}}</string>
-                <key>sourceSize</key>
-                <string>{51,79}</string>
-            </dict>
-            <key>Nagato_NAttack_09.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{81,500},{58,79}}</string>
-                <key>offset</key>
-                <string>{-0.5,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{58,79}}</string>
-                <key>sourceSize</key>
-                <string>{58,79}</string>
-            </dict>
-            <key>Nagato_NAttack_10.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{650,569},{240,160}}</string>
-                <key>offset</key>
-                <string>{-24.5,-16}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{240,160}}</string>
-                <key>sourceSize</key>
-                <string>{240,160}</string>
-            </dict>
-            <key>Nagato_NAttack_11.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{650,729},{240,160}}</string>
-                <key>offset</key>
-                <string>{-24.5,-16}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{240,160}}</string>
-                <key>sourceSize</key>
-                <string>{240,160}</string>
-            </dict>
-            <key>Nagato_NAttack_12.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{650,889},{240,160}}</string>
-                <key>offset</key>
-                <string>{-24.5,-16}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{240,160}}</string>
-                <key>sourceSize</key>
-                <string>{240,160}</string>
-            </dict>
-            <key>Nagato_NAttack_13.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{650,1049},{240,160}}</string>
-                <key>offset</key>
-                <string>{-24.5,-16}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{240,160}}</string>
-                <key>sourceSize</key>
-                <string>{240,160}</string>
-            </dict>
-            <key>Nagato_NAttack_14.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{650,1209},{240,160}}</string>
-                <key>offset</key>
-                <string>{-24.5,-16}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{240,160}}</string>
-                <key>sourceSize</key>
-                <string>{240,160}</string>
-            </dict>
-            <key>Nagato_NAttack_15.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{650,1369},{240,160}}</string>
-                <key>offset</key>
-                <string>{-24.5,-16}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{240,160}}</string>
-                <key>sourceSize</key>
-                <string>{240,160}</string>
-            </dict>
-            <key>Nagato_NAttack_16.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{650,1529},{240,160}}</string>
-                <key>offset</key>
-                <string>{-24.5,-16}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{240,160}}</string>
-                <key>sourceSize</key>
-                <string>{240,160}</string>
-            </dict>
-            <key>Nagato_NAttack_17.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{650,1689},{240,160}}</string>
-                <key>offset</key>
-                <string>{-24.5,-16}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{240,160}}</string>
-                <key>sourceSize</key>
-                <string>{240,160}</string>
+                <string>{50,74}</string>
             </dict>
             <key>Nagato_Skill01_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3967,339},{33,81}}</string>
+                <string>{{0,340},{80,80}}</string>
                 <key>offset</key>
-                <string>{2.5,0}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{33,81}}</string>
+                <string>{{0,0},{80,80}}</string>
                 <key>sourceSize</key>
-                <string>{33,81}</string>
+                <string>{80,80}</string>
             </dict>
             <key>Nagato_Skill01_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{889,1880},{134,180}}</string>
+                <string>{{100,340},{80,80}}</string>
                 <key>offset</key>
-                <string>{11.5,-1}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{134,180}}</string>
+                <string>{{0,0},{80,80}}</string>
                 <key>sourceSize</key>
-                <string>{134,180}</string>
+                <string>{80,80}</string>
             </dict>
             <key>Nagato_Skill01_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1023,1880},{134,180}}</string>
+                <string>{{200,340},{80,80}}</string>
                 <key>offset</key>
-                <string>{11.5,-1}</string>
+                <string>{0,-9}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{134,180}}</string>
+                <string>{{0,0},{80,80}}</string>
                 <key>sourceSize</key>
-                <string>{134,180}</string>
+                <string>{80,98}</string>
             </dict>
             <key>Nagato_Skill01_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1157,1880},{134,180}}</string>
+                <string>{{512,380},{200,130}}</string>
                 <key>offset</key>
-                <string>{11.5,-1}</string>
+                <string>{60,-10}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{134,180}}</string>
+                <string>{{0,0},{200,130}}</string>
                 <key>sourceSize</key>
-                <string>{134,180}</string>
+                <string>{200,130}</string>
             </dict>
             <key>Nagato_Skill01_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1291,1880},{134,180}}</string>
+                <string>{{712,380},{200,130}}</string>
                 <key>offset</key>
-                <string>{11.5,-1}</string>
+                <string>{60,-10}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{134,180}}</string>
+                <string>{{0,0},{200,130}}</string>
                 <key>sourceSize</key>
-                <string>{134,180}</string>
+                <string>{200,130}</string>
             </dict>
             <key>Nagato_Skill01_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{650,1849},{239,240}}</string>
+                <string>{{912,380},{200,130}}</string>
                 <key>offset</key>
-                <string>{-1,-45}</string>
+                <string>{60,-10}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{239,240}}</string>
+                <string>{{0,0},{200,130}}</string>
                 <key>sourceSize</key>
-                <string>{239,240}</string>
+                <string>{200,130}</string>
             </dict>
             <key>Nagato_Skill01_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3675,2040},{239,240}}</string>
+                <string>{{1112,380},{200,130}}</string>
                 <key>offset</key>
-                <string>{-1,-45}</string>
+                <string>{60,-10}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{239,240}}</string>
+                <string>{{0,0},{200,130}}</string>
                 <key>sourceSize</key>
-                <string>{239,240}</string>
+                <string>{200,130}</string>
             </dict>
             <key>Nagato_Skill01_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3675,2280},{239,240}}</string>
+                <string>{{1312,380},{200,130}}</string>
                 <key>offset</key>
-                <string>{-1,-45}</string>
+                <string>{60,-10}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{239,240}}</string>
+                <string>{{0,0},{200,130}}</string>
                 <key>sourceSize</key>
-                <string>{239,240}</string>
+                <string>{200,130}</string>
             </dict>
-            <key>Nagato_Skill01_09.png</key>
+             <key>Nagato_D1_1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3675,2520},{239,240}}</string>
+                <string>{{1900,250},{50,100}}</string>
                 <key>offset</key>
-                <string>{-1,-45}</string>
+                <string>{-5,33}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{239,240}}</string>
+                <string>{{0,0},{50,100}}</string>
                 <key>sourceSize</key>
-                <string>{239,240}</string>
+                <string>{50,100}</string>
             </dict>
-            <key>Nagato_Skill01_10.png</key>
+             <key>Nagato_D1_2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3652,2760},{239,240}}</string>
+                <string>{{1950,250},{50,100}}</string>
                 <key>offset</key>
-                <string>{-1,-45}</string>
+                <string>{-5,33}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{239,240}}</string>
+                <string>{{0,0},{50,100}}</string>
                 <key>sourceSize</key>
-                <string>{239,240}</string>
+                <string>{50,100}</string>
             </dict>
-            <key>Nagato_Skill01_11.png</key>
+             <key>Nagato_D1_3.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2708,3508},{239,240}}</string>
+                <string>{{2000,250},{50,100}}</string>
                 <key>offset</key>
-                <string>{-1,-45}</string>
+                <string>{-5,33}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{239,240}}</string>
+                <string>{{0,0},{50,100}}</string>
                 <key>sourceSize</key>
-                <string>{239,240}</string>
+                <string>{50,100}</string>
             </dict>
-            <key>Nagato_Skill01_12.png</key>
+             <key>Nagato_D1_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2804,3748},{239,240}}</string>
+                <string>{{0,420},{180,50}}</string>
                 <key>offset</key>
-                <string>{-1,-45}</string>
+                <string>{-8,33}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{239,240}}</string>
+                <string>{{0,0},{180,50}}</string>
                 <key>sourceSize</key>
-                <string>{239,240}</string>
+                <string>{180,50}</string>
             </dict>
-            <key>Nagato_Skill01_13.png</key>
+             <key>Nagato_D1_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2947,3508},{239,240}}</string>
+                <string>{{180,420},{180,50}}</string>
                 <key>offset</key>
-                <string>{-1,-45}</string>
+                <string>{-8,33}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{239,240}}</string>
+                <string>{{0,0},{180,50}}</string>
                 <key>sourceSize</key>
-                <string>{239,240}</string>
+                <string>{180,50}</string>
             </dict>
-            <key>Nagato_Skill01_14.png</key>
+             <key>Nagato_D1_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3043,3748},{239,240}}</string>
+                <string>{{300,350},{180,50}}</string>
                 <key>offset</key>
-                <string>{-1,-45}</string>
+                <string>{-8,33}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{239,240}}</string>
+                <string>{{0,0},{180,50}}</string>
                 <key>sourceSize</key>
-                <string>{239,240}</string>
+                <string>{180,50}</string>
             </dict>
-            <key>Nagato_Skill01_15.png</key>
+             <key>Nagato_D1_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3186,3508},{239,240}}</string>
+                <string>{{0,470},{180,50}}</string>
                 <key>offset</key>
-                <string>{-1,-45}</string>
+                <string>{-8,33}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{239,240}}</string>
+                <string>{{0,0},{180,50}}</string>
                 <key>sourceSize</key>
-                <string>{239,240}</string>
+                <string>{180,50}</string>
             </dict>
-            <key>Nagato_Skill01_16.png</key>
+             <key>Nagato_D1_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3282,3748},{239,240}}</string>
+                <string>{{180,470},{180,50}}</string>
                 <key>offset</key>
-                <string>{-1,-45}</string>
+                <string>{-8,33}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{239,240}}</string>
+                <string>{{0,0},{180,50}}</string>
                 <key>sourceSize</key>
-                <string>{239,240}</string>
+                <string>{180,50}</string>
             </dict>
-            <key>Nagato_Skill01_17.png</key>
+             <key>Nagato_D1_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3204,3239},{239,240}}</string>
+                <string>{{0,520},{300,200}}</string>
                 <key>offset</key>
-                <string>{-1,-45}</string>
+                <string>{30,-36}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{239,240}}</string>
+                <string>{{0,0},{300,200}}</string>
                 <key>sourceSize</key>
-                <string>{239,240}</string>
+                <string>{100,200}</string>
             </dict>
-            <key>Nagato_Skill01_18.png</key>
+             <key>Nagato_D1_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3425,3479},{239,240}}</string>
+                <string>{{300,520},{300,200}}</string>
                 <key>offset</key>
-                <string>{-1,-45}</string>
+                <string>{30,-36}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{239,240}}</string>
+                <string>{{0,0},{300,200}}</string>
                 <key>sourceSize</key>
-                <string>{239,240}</string>
+                <string>{100,200}</string>
             </dict>
-            <key>Nagato_Skill01_19.png</key>
+             <key>Nagato_D1_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3443,3239},{239,240}}</string>
+                <string>{{600,520},{300,200}}</string>
                 <key>offset</key>
-                <string>{-1,-45}</string>
+                <string>{30,-36}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{239,240}}</string>
+                <string>{{0,0},{300,200}}</string>
                 <key>sourceSize</key>
-                <string>{239,240}</string>
+                <string>{100,200}</string>
             </dict>
-            <key>Nagato_Skill01_20.png</key>
+             <key>Nagato_D1_09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3962,420},{38,81}}</string>
+                <string>{{900,520},{300,200}}</string>
+                <key>offset</key>
+                <string>{30,-36}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{300,200}}</string>
+                <key>sourceSize</key>
+                <string>{100,200}</string>
+            </dict>
+             <key>Nagato_D1_10.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1200,520},{300,200}}</string>
+                <key>offset</key>
+                <string>{30,-36}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{300,200}}</string>
+                <key>sourceSize</key>
+                <string>{100,200}</string>
+            </dict>
+             <key>Nagato_D1_11.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1500,520},{300,200}}</string>
+                <key>offset</key>
+                <string>{30,-36}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{300,200}}</string>
+                <key>sourceSize</key>
+                <string>{100,200}</string>
+            </dict>
+             <key>Nagato_D1_12.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1800,520},{300,200}}</string>
+                <key>offset</key>
+                <string>{30,-36}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{300,200}}</string>
+                <key>sourceSize</key>
+                <string>{100,200}</string>
+            </dict>
+             <key>Nagato_D1_13.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2100,520},{300,200}}</string>
+                <key>offset</key>
+                <string>{30,-36}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{300,200}}</string>
+                <key>sourceSize</key>
+                <string>{100,200}</string>
+            </dict>
+           <key>Nagato_F2_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1600,360},{100,80}}</string>
+                <key>offset</key>
+                <string>{0,-6}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{100,80}}</string>
+                <key>sourceSize</key>
+                <string>{55,80}</string>
+            </dict>
+           <key>Nagato_F2_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1700,360},{100,80}}</string>
+                <key>offset</key>
+                <string>{0,-6}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{100,80}}</string>
+                <key>sourceSize</key>
+                <string>{55,80}</string>
+            </dict>
+           <key>Nagato_F2_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1800,360},{100,80}}</string>
+                <key>offset</key>
+                <string>{0,-6}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{100,80}}</string>
+                <key>sourceSize</key>
+                <string>{55,80}</string>
+            </dict>
+           <key>Nagato_F2_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1900,360},{100,80}}</string>
+                <key>offset</key>
+                <string>{2,-6}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{100,80}}</string>
+                <key>sourceSize</key>
+                <string>{55,80}</string>
+            </dict>
+           <key>Nagato_F2_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2000,360},{100,80}}</string>
+                <key>offset</key>
+                <string>{2,-6}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{100,80}}</string>
+                <key>sourceSize</key>
+                <string>{55,80}</string>
+            </dict>
+           <key>Nagato_F2_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2100,360},{100,80}}</string>
+                <key>offset</key>
+                <string>{2,-6}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{100,80}}</string>
+                <key>sourceSize</key>
+                <string>{55,80}</string>
+            </dict>
+           <key>Nagato_F2_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2200,360},{100,80}}</string>
+                <key>offset</key>
+                <string>{0,-6}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{100,80}}</string>
+                <key>sourceSize</key>
+                <string>{55,80}</string>
+            </dict>
+           <key>Nagato_F2_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2300,360},{100,80}}</string>
+                <key>offset</key>
+                <string>{0,-6}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{100,80}}</string>
+                <key>sourceSize</key>
+                <string>{55,80}</string>
+            </dict>
+           <key>Nagato_Xiongmao_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,1320},{140,150}}</string>
+                <key>offset</key>
+                <string>{0,15}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{140,150}}</string>
+                <key>sourceSize</key>
+                <string>{90,150}</string>
+            </dict>
+           <key>Nagato_Xiongmao_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{140,1320},{140,150}}</string>
+                <key>offset</key>
+                <string>{0,5}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{140,150}}</string>
+                <key>sourceSize</key>
+                <string>{90,150}</string>
+            </dict>
+           <key>Nagato_Xiongmao_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{280,1320},{140,150}}</string>
+                <key>offset</key>
+                <string>{0,-5}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{140,150}}</string>
+                <key>sourceSize</key>
+                <string>{90,150}</string>
+            </dict>
+           <key>Nagato_Xiongmao_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,1470},{200,150}}</string>
+                <key>offset</key>
+                <string>{0,-15}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,150}}</string>
+                <key>sourceSize</key>
+                <string>{90,150}</string>
+            </dict>
+           <key>Nagato_Xiongmao_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{200,1470},{200,150}}</string>
+                <key>offset</key>
+                <string>{0,-15}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,150}}</string>
+                <key>sourceSize</key>
+                <string>{90,150}</string>
+            </dict>
+           <key>Nagato_Xiongmao_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{400,1470},{200,150}}</string>
+                <key>offset</key>
+                <string>{0,-15}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,150}}</string>
+                <key>sourceSize</key>
+                <string>{90,150}</string>
+            </dict>
+           <key>Nagato_Xiongmao_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{600,1470},{200,150}}</string>
+                <key>offset</key>
+                <string>{0,-15}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,150}}</string>
+                <key>sourceSize</key>
+                <string>{90,150}</string>
+            </dict>
+           <key>Nagato_Xiongmao_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{800,1470},{200,150}}</string>
+                <key>offset</key>
+                <string>{0,-15}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,150}}</string>
+                <key>sourceSize</key>
+                <string>{90,150}</string>
+            </dict>
+           <key>Nagato_Xiongmao_09.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1000,1470},{200,150}}</string>
+                <key>offset</key>
+                <string>{0,-15}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,150}}</string>
+                <key>sourceSize</key>
+                <string>{90,150}</string>
+            </dict>
+           <key>Nagato_Xiongmao_10.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{420,1320},{140,150}}</string>
+                <key>offset</key>
+                <string>{0,-15}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{140,150}}</string>
+                <key>sourceSize</key>
+                <string>{90,150}</string>
+            </dict>
+           <key>Nagato_Xiongmao_11.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{560,1320},{140,150}}</string>
+                <key>offset</key>
+                <string>{0,-15}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{140,150}}</string>
+                <key>sourceSize</key>
+                <string>{90,150}</string>
+            </dict>
+           <key>Nagato_Xiongmao_12.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{700,1320},{140,150}}</string>
+                <key>offset</key>
+                <string>{0,-15}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{140,150}}</string>
+                <key>sourceSize</key>
+                <string>{90,150}</string>
+            </dict>
+           <key>Nagato_Xiongmao_13.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{840,1320},{140,150}}</string>
+                <key>offset</key>
+                <string>{0,-15}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{140,150}}</string>
+                <key>sourceSize</key>
+                <string>{90,150}</string>
+            </dict>
+           <key>Nagato_Xiongmao_14.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{980,1320},{140,150}}</string>
+                <key>offset</key>
+                <string>{0,-15}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{140,150}}</string>
+                <key>sourceSize</key>
+                <string>{90,150}</string>
+            </dict>
+           <key>Nagato_Xiongmao_15.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1120,1320},{140,150}}</string>
+                <key>offset</key>
+                <string>{0,-15}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{140,150}}</string>
+                <key>sourceSize</key>
+                <string>{90,150}</string>
+            </dict>
+           <key>Nagato_Xiongmao_16.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1260,1320},{140,150}}</string>
+                <key>offset</key>
+                <string>{0,-15}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{140,150}}</string>
+                <key>sourceSize</key>
+                <string>{90,150}</string>
+            </dict>
+           <key>Nagato_Xiongmao_17.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1400,1320},{140,150}}</string>
+                <key>offset</key>
+                <string>{0,-15}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{140,150}}</string>
+                <key>sourceSize</key>
+                <string>{90,150}</string>
+            </dict>
+           <key>Nagato_Xiongmao_18.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1540,1320},{140,150}}</string>
+                <key>offset</key>
+                <string>{0,-15}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{140,150}}</string>
+                <key>sourceSize</key>
+                <string>{90,150}</string>
+            </dict>
+           <key>Nagato_Skill02_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,1620},{200,130}}</string>
+                <key>offset</key>
+                <string>{54,-13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,130}}</string>
+                <key>sourceSize</key>
+                <string>{50,130}</string>
+            </dict>
+           <key>Nagato_Skill02_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{200,1620},{200,130}}</string>
+                <key>offset</key>
+                <string>{54,-13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,130}}</string>
+                <key>sourceSize</key>
+                <string>{50,130}</string>
+            </dict>
+           <key>Nagato_Skill02_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{400,1620},{200,130}}</string>
+                <key>offset</key>
+                <string>{54,-13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,130}}</string>
+                <key>sourceSize</key>
+                <string>{50,130}</string>
+            </dict>
+           <key>Nagato_Skill02_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{600,1620},{200,130}}</string>
+                <key>offset</key>
+                <string>{54,-13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,130}}</string>
+                <key>sourceSize</key>
+                <string>{50,130}</string>
+            </dict>
+           <key>Nagato_Skill02_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{800,1620},{200,130}}</string>
+                <key>offset</key>
+                <string>{54,-13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,130}}</string>
+                <key>sourceSize</key>
+                <string>{50,130}</string>
+            </dict>
+           <key>Nagato_Skill02_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1000,1620},{200,130}}</string>
+                <key>offset</key>
+                <string>{54,-13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,130}}</string>
+                <key>sourceSize</key>
+                <string>{50,130}</string>
+            </dict>
+           <key>Nagato_Skill02_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1200,1620},{200,130}}</string>
+                <key>offset</key>
+                <string>{54,-13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,130}}</string>
+                <key>sourceSize</key>
+                <string>{50,130}</string>
+            </dict>
+           <key>Nagato_Skill02_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1400,1620},{200,130}}</string>
+                <key>offset</key>
+                <string>{54,-13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,130}}</string>
+                <key>sourceSize</key>
+                <string>{50,130}</string>
+            </dict>
+           <key>Nagato_Skill02_09.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1600,1620},{200,130}}</string>
+                <key>offset</key>
+                <string>{54,-13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,130}}</string>
+                <key>sourceSize</key>
+                <string>{50,130}</string>
+            </dict>
+           <key>Nagato_Skill02_10.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1800,1620},{200,130}}</string>
+                <key>offset</key>
+                <string>{54,-13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,130}}</string>
+                <key>sourceSize</key>
+                <string>{50,130}</string>
+            </dict>
+           <key>Nagato_Skill02_11.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2000,1620},{200,130}}</string>
+                <key>offset</key>
+                <string>{54,-13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,130}}</string>
+                <key>sourceSize</key>
+                <string>{50,130}</string>
+            </dict>
+           <key>Nagato_Skill02_12.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2200,1620},{200,130}}</string>
+                <key>offset</key>
+                <string>{54,-13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,130}}</string>
+                <key>sourceSize</key>
+                <string>{50,130}</string>
+            </dict>
+            <key>Nagato_Skill03_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2080,260},{42,81}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{42,81}}</string>
+                <key>sourceSize</key>
+                <string>{42,81}</string>
+            </dict>
+            <key>Nagato_Skill03_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2123,260},{38,81}}</string>
+                <key>offset</key>
+                <string>{-2,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
@@ -758,1331 +1382,850 @@
                 <key>sourceSize</key>
                 <string>{38,81}</string>
             </dict>
-            <key>Nagato_Skill02_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{190,500},{48,79}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{48,79}}</string>
-                <key>sourceSize</key>
-                <string>{48,79}</string>
-            </dict>
-            <key>Nagato_Skill02_02.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{3537,841},{352,269}}</string>
-                <key>offset</key>
-                <string>{53.5,-47}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{352,269}}</string>
-                <key>sourceSize</key>
-                <string>{352,269}</string>
-            </dict>
-            <key>Nagato_Skill02_03.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1700,2350},{352,269}}</string>
-                <key>offset</key>
-                <string>{53.5,-47}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{352,269}}</string>
-                <key>sourceSize</key>
-                <string>{352,269}</string>
-            </dict>
-            <key>Nagato_Skill02_04.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1700,2619},{352,269}}</string>
-                <key>offset</key>
-                <string>{53.5,-47}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{352,269}}</string>
-                <key>sourceSize</key>
-                <string>{352,269}</string>
-            </dict>
-            <key>Nagato_Skill02_05.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1300,3620},{352,269}}</string>
-                <key>offset</key>
-                <string>{53.5,-47}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{352,269}}</string>
-                <key>sourceSize</key>
-                <string>{352,269}</string>
-            </dict>
-            <key>Nagato_Skill02_06.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1652,3620},{352,269}}</string>
-                <key>offset</key>
-                <string>{53.5,-47}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{352,269}}</string>
-                <key>sourceSize</key>
-                <string>{352,269}</string>
-            </dict>
-            <key>Nagato_Skill02_07.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1700,3000},{352,269}}</string>
-                <key>offset</key>
-                <string>{53.5,-47}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{352,269}}</string>
-                <key>sourceSize</key>
-                <string>{352,269}</string>
-            </dict>
-            <key>Nagato_Skill02_08.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1700,3269},{352,269}}</string>
-                <key>offset</key>
-                <string>{53.5,-47}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{352,269}}</string>
-                <key>sourceSize</key>
-                <string>{352,269}</string>
-            </dict>
-            <key>Nagato_Skill02_09.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2004,3538},{352,269}}</string>
-                <key>offset</key>
-                <string>{53.5,-47}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{352,269}}</string>
-                <key>sourceSize</key>
-                <string>{352,269}</string>
-            </dict>
-            <key>Nagato_Skill02_10.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2052,3000},{352,269}}</string>
-                <key>offset</key>
-                <string>{53.5,-47}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{352,269}}</string>
-                <key>sourceSize</key>
-                <string>{352,269}</string>
-            </dict>
-            <key>Nagato_Skill02_11.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2052,3269},{352,269}}</string>
-                <key>offset</key>
-                <string>{53.5,-47}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{352,269}}</string>
-                <key>sourceSize</key>
-                <string>{352,269}</string>
-            </dict>
-            <key>Nagato_Skill02_12.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2356,3538},{352,269}}</string>
-                <key>offset</key>
-                <string>{53.5,-47}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{352,269}}</string>
-                <key>sourceSize</key>
-                <string>{352,269}</string>
-            </dict>
-            <key>Nagato_Skill02_13.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2804,2810},{352,269}}</string>
-                <key>offset</key>
-                <string>{53.5,-47}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{352,269}}</string>
-                <key>sourceSize</key>
-                <string>{352,269}</string>
-            </dict>
-            <key>Nagato_Skill02_14.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2452,2810},{352,269}}</string>
-                <key>offset</key>
-                <string>{53.5,-47}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{352,269}}</string>
-                <key>sourceSize</key>
-                <string>{352,269}</string>
-            </dict>
-            <key>Nagato_Skill02_15.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{3156,2970},{352,269}}</string>
-                <key>offset</key>
-                <string>{53.5,-47}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{352,269}}</string>
-                <key>sourceSize</key>
-                <string>{352,269}</string>
-            </dict>
-            <key>Nagato_Skill02_16.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2804,3079},{352,269}}</string>
-                <key>offset</key>
-                <string>{53.5,-47}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{352,269}}</string>
-                <key>sourceSize</key>
-                <string>{352,269}</string>
-            </dict>
-            <key>Nagato_Skill02_17.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2404,3079},{352,269}}</string>
-                <key>offset</key>
-                <string>{53.5,-47}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{352,269}}</string>
-                <key>sourceSize</key>
-                <string>{352,269}</string>
-            </dict>
-            <key>Nagato_Skill03_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{890,868},{26,83}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{26,83}}</string>
-                <key>sourceSize</key>
-                <string>{26,83}</string>
-            </dict>
-            <key>Nagato_Skill03_02.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{3950,821},{50,84}}</string>
-                <key>offset</key>
-                <string>{11.5,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{50,84}}</string>
-                <key>sourceSize</key>
-                <string>{50,84}</string>
-            </dict>
             <key>Nagato_Skill03_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3275,1880},{200,160}}</string>
+                <string>{{2199,260},{36,81}}</string>
                 <key>offset</key>
-                <string>{3,-25}</string>
+                <string>{-1,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{200,160}}</string>
+                <string>{{0,0},{36,81}}</string>
                 <key>sourceSize</key>
-                <string>{200,160}</string>
+                <string>{36,81}</string>
             </dict>
             <key>Nagato_Skill03_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2004,3807},{200,160}}</string>
+                <string>{{2162,260},{36,81}}</string>
                 <key>offset</key>
-                <string>{3,-25}</string>
+                <string>{-1,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{200,160}}</string>
+                <string>{{0,0},{36,81}}</string>
                 <key>sourceSize</key>
-                <string>{200,160}</string>
+                <string>{36,81}</string>
             </dict>
-            <key>Nagato_Skill03_05.png</key>
+            <key>Nagato_D3_1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2204,3807},{200,160}}</string>
+                <string>{{0,920},{200,200}}</string>
                 <key>offset</key>
-                <string>{3,-25}</string>
+                <string>{-70,-16}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{200,160}}</string>
+                <string>{{0,0},{200,200}}</string>
                 <key>sourceSize</key>
-                <string>{200,160}</string>
+                <string>{200,200}</string>
             </dict>
-            <key>Nagato_Skill03_06.png</key>
+            <key>Nagato_D3_2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2052,2810},{200,160}}</string>
+                <string>{{200,920},{200,200}}</string>
                 <key>offset</key>
-                <string>{3,-25}</string>
+                <string>{-70,-16}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{200,160}}</string>
+                <string>{{0,0},{200,200}}</string>
                 <key>sourceSize</key>
-                <string>{200,160}</string>
+                <string>{200,200}</string>
             </dict>
-            <key>Nagato_Skill03_07.png</key>
+            <key>Nagato_D3_3.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2252,2810},{200,160}}</string>
+                <string>{{400,920},{200,200}}</string>
                 <key>offset</key>
-                <string>{3,-25}</string>
+                <string>{-70,-16}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{200,160}}</string>
+                <string>{{0,0},{200,200}}</string>
                 <key>sourceSize</key>
-                <string>{200,160}</string>
+                <string>{200,200}</string>
             </dict>
-            <key>Nagato_Skill03_08.png</key>
+            <key>Nagato_D3_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2404,3807},{200,160}}</string>
+                <string>{{0,720},{200,200}}</string>
                 <key>offset</key>
-                <string>{3,-25}</string>
+                <string>{-70,-16}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{200,160}}</string>
+                <string>{{0,0},{200,200}}</string>
                 <key>sourceSize</key>
-                <string>{200,160}</string>
+                <string>{200,200}</string>
             </dict>
-            <key>Nagato_Skill03_09.png</key>
+            <key>Nagato_D3_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2604,3807},{200,160}}</string>
+                <string>{{200,720},{200,200}}</string>
                 <key>offset</key>
-                <string>{3,-25}</string>
+                <string>{-70,-16}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{200,160}}</string>
+                <string>{{0,0},{200,200}}</string>
                 <key>sourceSize</key>
-                <string>{200,160}</string>
+                <string>{200,200}</string>
             </dict>
-            <key>Nagato_Skill03_10.png</key>
+            <key>Nagato_D3_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2404,3348},{200,160}}</string>
+                <string>{{400,720},{200,200}}</string>
                 <key>offset</key>
-                <string>{3,-25}</string>
+                <string>{-70,-16}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{200,160}}</string>
+                <string>{{0,0},{200,200}}</string>
                 <key>sourceSize</key>
-                <string>{200,160}</string>
+                <string>{200,200}</string>
             </dict>
-            <key>Nagato_Skill03_11.png</key>
+            <key>Nagato_D3_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2604,3348},{200,160}}</string>
+                <string>{{600,720},{200,200}}</string>
                 <key>offset</key>
-                <string>{3,-25}</string>
+                <string>{-70,-16}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{200,160}}</string>
+                <string>{{0,0},{200,200}}</string>
                 <key>sourceSize</key>
-                <string>{200,160}</string>
+                <string>{200,200}</string>
             </dict>
-            <key>Nagato_Skill03_12.png</key>
+            <key>Nagato_D3_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2804,3348},{200,160}}</string>
+                <string>{{800,720},{200,200}}</string>
                 <key>offset</key>
-                <string>{3,-25}</string>
+                <string>{-70,-16}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{200,160}}</string>
+                <string>{{0,0},{200,200}}</string>
                 <key>sourceSize</key>
-                <string>{200,160}</string>
+                <string>{200,200}</string>
             </dict>
-            <key>Nagato_Skill03_13.png</key>
+            <key>Nagato_D3_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3004,3348},{200,160}}</string>
+                <string>{{1000,720},{200,200}}</string>
                 <key>offset</key>
-                <string>{3,-25}</string>
+                <string>{-70,-16}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{200,160}}</string>
+                <string>{{0,0},{200,200}}</string>
                 <key>sourceSize</key>
-                <string>{200,160}</string>
+                <string>{200,200}</string>
             </dict>
-            <key>Nagato_Skill03_14.png</key>
+            <key>Nagato_D3_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3508,3000},{200,160}}</string>
+                <string>{{1200,720},{200,200}}</string>
                 <key>offset</key>
-                <string>{3,-25}</string>
+                <string>{-70,-16}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{200,160}}</string>
+                <string>{{0,0},{200,200}}</string>
                 <key>sourceSize</key>
-                <string>{200,160}</string>
+                <string>{200,200}</string>
             </dict>
-            <key>Nagato_Skill03_15.png</key>
+            <key>Nagato_D3_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3708,3000},{200,160}}</string>
+                <string>{{1400,720},{200,200}}</string>
                 <key>offset</key>
-                <string>{3,-25}</string>
+                <string>{-70,-16}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{200,160}}</string>
+                <string>{{0,0},{200,200}}</string>
                 <key>sourceSize</key>
-                <string>{200,160}</string>
+                <string>{200,200}</string>
             </dict>
-            <key>Nagato_Skill03_16.png</key>
+            <key>Nagato_D3_09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3682,3160},{200,160}}</string>
+                <string>{{1600,720},{200,200}}</string>
                 <key>offset</key>
-                <string>{3,-25}</string>
+                <string>{-70,-16}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{200,160}}</string>
+                <string>{{0,0},{200,200}}</string>
                 <key>sourceSize</key>
-                <string>{200,160}</string>
+                <string>{200,200}</string>
             </dict>
-            <key>Nagato_Skill03_17.png</key>
+            <key>Nagato_D3_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3682,3320},{200,160}}</string>
+                <string>{{1800,720},{200,200}}</string>
                 <key>offset</key>
-                <string>{3,-25}</string>
+                <string>{-70,-16}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{200,160}}</string>
+                <string>{{0,0},{200,200}}</string>
                 <key>sourceSize</key>
-                <string>{200,160}</string>
+                <string>{200,200}</string>
             </dict>
-            <key>Nagato_Skill03_18.png</key>
+            <key>Nagato_D3_11.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3521,3719},{200,160}}</string>
+                <string>{{2000,720},{200,200}}</string>
                 <key>offset</key>
-                <string>{3,-25}</string>
+                <string>{-70,-16}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{200,160}}</string>
+                <string>{{0,0},{200,200}}</string>
                 <key>sourceSize</key>
-                <string>{200,160}</string>
+                <string>{200,200}</string>
+            </dict>
+            <key>Nagato_D3_12.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2200,720},{200,200}}</string>
+                <key>offset</key>
+                <string>{-70,-16}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,200}}</string>
+                <key>sourceSize</key>
+                <string>{200,200}</string>
+            </dict>
+            <key>Nagato_D3_13.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,1120},{200,200}}</string>
+                <key>offset</key>
+                <string>{-70,-16}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,200}}</string>
+                <key>sourceSize</key>
+                <string>{200,200}</string>
+            </dict>
+            <key>Nagato_D3_14.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{200,1120},{200,200}}</string>
+                <key>offset</key>
+                <string>{-70,-16}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,200}}</string>
+                <key>sourceSize</key>
+                <string>{200,200}</string>
+            </dict>
+            <key>Nagato_D3_15.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{400,1120},{200,200}}</string>
+                <key>offset</key>
+                <string>{-70,-16}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,200}}</string>
+                <key>sourceSize</key>
+                <string>{200,200}</string>
+            </dict>
+            <key>Nagato_D3_16.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{600,920},{300,200}}</string>
+                <key>offset</key>
+                <string>{-20,-16}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{300,200}}</string>
+                <key>sourceSize</key>
+                <string>{300,200}</string>
+            </dict>
+            <key>Nagato_D3_17.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{900,920},{300,200}}</string>
+                <key>offset</key>
+                <string>{-20,-16}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{300,200}}</string>
+                <key>sourceSize</key>
+                <string>{300,200}</string>
+            </dict>
+            <key>Nagato_D3_18.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1200,920},{300,200}}</string>
+                <key>offset</key>
+                <string>{-20,-16}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{300,200}}</string>
+                <key>sourceSize</key>
+                <string>{300,200}</string>
+            </dict>
+            <key>Nagato_D3_19.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1500,920},{300,200}}</string>
+                <key>offset</key>
+                <string>{-20,-16}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{300,200}}</string>
+                <key>sourceSize</key>
+                <string>{300,200}</string>
+            </dict>
+            <key>Nagato_D3_20.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1800,920},{300,200}}</string>
+                <key>offset</key>
+                <string>{-20,-16}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{300,200}}</string>
+                <key>sourceSize</key>
+                <string>{300,200}</string>
+            </dict>
+            <key>Nagato_D3_21.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2100,920},{300,200}}</string>
+                <key>offset</key>
+                <string>{-20,-16}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{300,200}}</string>
+                <key>sourceSize</key>
+                <string>{300,200}</string>
+            </dict>
+            <key>Nagato_D3_22.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{600,1120},{200,200}}</string>
+                <key>offset</key>
+                <string>{-70,-16}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,200}}</string>
+                <key>sourceSize</key>
+                <string>{200,200}</string>
+            </dict>
+            <key>Nagato_D3_23.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{800,1120},{200,200}}</string>
+                <key>offset</key>
+                <string>{-70,-16}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,200}}</string>
+                <key>sourceSize</key>
+                <string>{200,200}</string>
+            </dict>
+            <key>Nagato_D3_24.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1000,1120},{200,200}}</string>
+                <key>offset</key>
+                <string>{-70,-16}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,200}}</string>
+                <key>sourceSize</key>
+                <string>{200,200}</string>
+            </dict>
+            <key>Nagato_D3_25.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1200,1120},{200,200}}</string>
+                <key>offset</key>
+                <string>{-70,-16}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,200}}</string>
+                <key>sourceSize</key>
+                <string>{200,200}</string>
+            </dict>
+            <key>Nagato_D3_26.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1400,1120},{200,200}}</string>
+                <key>offset</key>
+                <string>{-70,-16}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,200}}</string>
+                <key>sourceSize</key>
+                <string>{200,200}</string>
+            </dict>
+            <key>Nagato_D3_27.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1600,1120},{200,200}}</string>
+                <key>offset</key>
+                <string>{-70,-16}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,200}}</string>
+                <key>sourceSize</key>
+                <string>{200,200}</string>
+            </dict>
+            <key>Nagato_D3_28.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1800,1120},{200,200}}</string>
+                <key>offset</key>
+                <string>{-70,-16}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,200}}</string>
+                <key>sourceSize</key>
+                <string>{200,200}</string>
+            </dict>
+            <key>Nagato_D3_29.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2000,1120},{200,200}}</string>
+                <key>offset</key>
+                <string>{-70,-16}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,200}}</string>
+                <key>sourceSize</key>
+                <string>{200,200}</string>
+            </dict>
+            <key>Nagato_D3_30.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2200,1120},{200,200}}</string>
+                <key>offset</key>
+                <string>{-70,-16}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{200,200}}</string>
+                <key>sourceSize</key>
+                <string>{200,200}</string>
             </dict>
             <key>Nagato_Skill04_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{323,500},{40,79}}</string>
+                <string>{{1200,1470},{130,150}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{0,-9}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{40,79}}</string>
+                <string>{{0,0},{130,150}}</string>
                 <key>sourceSize</key>
-                <string>{40,79}</string>
+                <string>{50,150}</string>
             </dict>
             <key>Nagato_Skill04_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3900,309},{67,53}}</string>
+                <string>{{1330,1470},{130,150}}</string>
                 <key>offset</key>
-                <string>{-10.5,0}</string>
+                <string>{0,-9}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{67,53}}</string>
+                <string>{{0,0},{130,150}}</string>
                 <key>sourceSize</key>
-                <string>{67,53}</string>
+                <string>{50,150}</string>
             </dict>
             <key>Nagato_Skill04_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3900,140},{80,76}}</string>
+                <string>{{1460,1470},{130,150}}</string>
                 <key>offset</key>
-                <string>{-3,0}</string>
+                <string>{0,-9}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{80,76}}</string>
+                <string>{{0,0},{130,150}}</string>
                 <key>sourceSize</key>
-                <string>{80,76}</string>
+                <string>{50,150}</string>
             </dict>
             <key>Nagato_Skill04_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3664,3480},{165,150}}</string>
+                <string>{{1590,1470},{130,150}}</string>
                 <key>offset</key>
-                <string>{17.5,0}</string>
+                <string>{0,-9}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{165,150}}</string>
+                <string>{{0,0},{130,150}}</string>
                 <key>sourceSize</key>
-                <string>{165,150}</string>
+                <string>{50,150}</string>
             </dict>
             <key>Nagato_Skill04_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3829,3480},{165,150}}</string>
+                <string>{{1720,1470},{130,150}}</string>
                 <key>offset</key>
-                <string>{17.5,0}</string>
+                <string>{0,-9}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{165,150}}</string>
+                <string>{{0,0},{130,150}}</string>
                 <key>sourceSize</key>
-                <string>{165,150}</string>
+                <string>{50,150}</string>
             </dict>
             <key>Nagato_Skill04_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3721,3630},{165,150}}</string>
+                <string>{{1850,1470},{130,150}}</string>
                 <key>offset</key>
-                <string>{17.5,0}</string>
+                <string>{0,-9}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{165,150}}</string>
+                <string>{{0,0},{130,150}}</string>
                 <key>sourceSize</key>
-                <string>{165,150}</string>
+                <string>{50,150}</string>
             </dict>
             <key>Nagato_Skill04_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3721,3780},{165,150}}</string>
+                <string>{{1980,1470},{130,150}}</string>
                 <key>offset</key>
-                <string>{17.5,0}</string>
+                <string>{0,-1009}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{165,150}}</string>
+                <string>{{0,0},{130,150}}</string>
                 <key>sourceSize</key>
-                <string>{165,150}</string>
+                <string>{50,2150}</string>
             </dict>
             <key>Nagato_Skill04_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{0,3872},{154,119}}</string>
+                <string>{{2110,1470},{130,150}}</string>
                 <key>offset</key>
-                <string>{14.5,0}</string>
+                <string>{0,-9}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{154,119}}</string>
+                <string>{{0,0},{130,150}}</string>
                 <key>sourceSize</key>
-                <string>{154,119}</string>
+                <string>{50,150}</string>
             </dict>
             <key>Nagato_Skill04_09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{154,3872},{154,119}}</string>
+                <string>{{1600,0},{150,150}}</string>
                 <key>offset</key>
-                <string>{14.5,0}</string>
+                <string>{30,-9}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{154,119}}</string>
+                <string>{{0,0},{150,150}}</string>
                 <key>sourceSize</key>
-                <string>{154,119}</string>
+                <string>{50,150}</string>
             </dict>
             <key>Nagato_Skill04_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3516,1110},{400,310}}</string>
+                <string>{{1750,0},{150,150}}</string>
                 <key>offset</key>
-                <string>{-5.5,-53}</string>
+                <string>{30,-9}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{400,310}}</string>
+                <string>{{0,0},{150,150}}</string>
                 <key>sourceSize</key>
-                <string>{400,310}</string>
+                <string>{50,150}</string>
             </dict>
             <key>Nagato_Skill04_11.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3490,1420},{400,310}}</string>
+                <string>{{1900,0},{150,150}}</string>
                 <key>offset</key>
-                <string>{-5.5,-53}</string>
+                <string>{30,-9}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{400,310}}</string>
+                <string>{{0,0},{150,150}}</string>
                 <key>sourceSize</key>
-                <string>{400,310}</string>
+                <string>{50,150}</string>
             </dict>
             <key>Nagato_Skill04_12.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3490,1730},{400,310}}</string>
+                <string>{{2050,0},{150,150}}</string>
                 <key>offset</key>
-                <string>{-5.5,-53}</string>
+                <string>{30,-9}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{400,310}}</string>
+                <string>{{0,0},{150,150}}</string>
                 <key>sourceSize</key>
-                <string>{400,310}</string>
+                <string>{50,150}</string>
             </dict>
             <key>Nagato_Skill04_13.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2075,1880},{400,310}}</string>
+                <string>{{2200,0},{150,150}}</string>
                 <key>offset</key>
-                <string>{-5.5,-53}</string>
+                <string>{30,-9}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{400,310}}</string>
+                <string>{{0,0},{150,150}}</string>
                 <key>sourceSize</key>
-                <string>{400,310}</string>
+                <string>{50,150}</string>
             </dict>
             <key>Nagato_Skill04_14.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2475,1880},{400,310}}</string>
+                <string>{{2250,1470},{150,150}}</string>
                 <key>offset</key>
-                <string>{-5.5,-53}</string>
+                <string>{30,-9}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{400,310}}</string>
+                <string>{{0,0},{150,150}}</string>
                 <key>sourceSize</key>
-                <string>{400,310}</string>
+                <string>{50,150}</string>
             </dict>
-            <key>Nagato_Skill04_15.png</key>
+            <key>Nagato_Skill04_14_1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2875,1880},{400,310}}</string>
+                <string>{{1700,1320},{150,150}}</string>
                 <key>offset</key>
-                <string>{-5.5,-53}</string>
+                <string>{30,-9}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{400,310}}</string>
+                <string>{{0,0},{150,150}}</string>
                 <key>sourceSize</key>
-                <string>{400,310}</string>
+                <string>{50,150}</string>
             </dict>
-            <key>Nagato_Skill04_16.png</key>
+            <key>Nagato_Skill04_14_2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3275,2040},{400,310}}</string>
+                <string>{{1850,1320},{150,150}}</string>
                 <key>offset</key>
-                <string>{-5.5,-53}</string>
+                <string>{30,-9}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{400,310}}</string>
+                <string>{{0,0},{150,150}}</string>
                 <key>sourceSize</key>
-                <string>{400,310}</string>
+                <string>{50,150}</string>
             </dict>
-            <key>Nagato_Skill04_17.png</key>
+            <key>Nagato_Skill04_14_3.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2075,2190},{400,310}}</string>
+                <string>{{2000,1320},{150,150}}</string>
                 <key>offset</key>
-                <string>{-5.5,-53}</string>
+                <string>{30,-9}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{400,310}}</string>
+                <string>{{0,0},{150,150}}</string>
                 <key>sourceSize</key>
-                <string>{400,310}</string>
+                <string>{50,150}</string>
             </dict>
-            <key>Nagato_Skill04_18.png</key>
+            <key>Nagato_Skill04_14_4.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1300,2350},{400,310}}</string>
+                <string>{{2150,1320},{150,150}}</string>
                 <key>offset</key>
-                <string>{-5.5,-53}</string>
+                <string>{30,-9}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{400,310}}</string>
+                <string>{{0,0},{150,150}}</string>
                 <key>sourceSize</key>
-                <string>{400,310}</string>
+                <string>{50,150}</string>
             </dict>
-            <key>Nagato_Skill04_19.png</key>
+            <key>Nagato_Skill04_15_1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2475,2190},{400,310}}</string>
+                <string>{{1600,150},{70,80}}</string>
                 <key>offset</key>
-                <string>{-5.5,-53}</string>
+                <string>{3,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{400,310}}</string>
+                <string>{{0,0},{70,80}}</string>
                 <key>sourceSize</key>
-                <string>{400,310}</string>
+                <string>{60,80}</string>
             </dict>
-            <key>Nagato_Skill04_20.png</key>
+            <key>Nagato_Skill04_15_2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2875,2190},{400,310}}</string>
+                <string>{{1670,150},{70,80}}</string>
                 <key>offset</key>
-                <string>{-5.5,-53}</string>
+                <string>{3,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{400,310}}</string>
+                <string>{{0,0},{70,80}}</string>
                 <key>sourceSize</key>
-                <string>{400,310}</string>
+                <string>{60,80}</string>
             </dict>
-            <key>Nagato_Skill04_21.png</key>
+            <key>Nagato_Skill04_15_3.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3275,2350},{400,310}}</string>
+                <string>{{1740,150},{70,80}}</string>
                 <key>offset</key>
-                <string>{-5.5,-53}</string>
+                <string>{3,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{400,310}}</string>
+                <string>{{0,0},{70,80}}</string>
                 <key>sourceSize</key>
-                <string>{400,310}</string>
+                <string>{60,80}</string>
             </dict>
-            <key>Nagato_Skill04_22.png</key>
+            <key>Nagato_Skill04_15_4.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2052,2500},{400,310}}</string>
+                <string>{{1810,150},{70,80}}</string>
                 <key>offset</key>
-                <string>{-5.5,-53}</string>
+                <string>{3,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{400,310}}</string>
+                <string>{{0,0},{70,80}}</string>
                 <key>sourceSize</key>
-                <string>{400,310}</string>
+                <string>{60,80}</string>
             </dict>
-            <key>Nagato_Skill04_23.png</key>
+            <key>Nagato_Skill04_15_5.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1300,2660},{400,310}}</string>
+                <string>{{1880,150},{70,80}}</string>
                 <key>offset</key>
-                <string>{-5.5,-53}</string>
+                <string>{3,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{400,310}}</string>
+                <string>{{0,0},{70,80}}</string>
                 <key>sourceSize</key>
-                <string>{400,310}</string>
+                <string>{60,80}</string>
             </dict>
-            <key>Nagato_Skill04_24.png</key>
+            <key>Nagato_Skill05_1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2452,2500},{400,310}}</string>
+                <string>{{1970,170},{50,52}}</string>
                 <key>offset</key>
-                <string>{-5.5,-53}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{400,310}}</string>
+                <string>{{0,0},{50,52}}</string>
                 <key>sourceSize</key>
-                <string>{400,310}</string>
-            </dict>
-            <key>Nagato_Skill04_25.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2852,2500},{400,310}}</string>
-                <key>offset</key>
-                <string>{-5.5,-53}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{400,310}}</string>
-                <key>sourceSize</key>
-                <string>{400,310}</string>
-            </dict>
-            <key>Nagato_Skill04_26.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{3252,2660},{400,310}}</string>
-                <key>offset</key>
-                <string>{-5.5,-53}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{400,310}}</string>
-                <key>sourceSize</key>
-                <string>{400,310}</string>
-            </dict>
-            <key>Nagato_Skill04_27.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1300,3000},{400,310}}</string>
-                <key>offset</key>
-                <string>{-5.5,-53}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{400,310}}</string>
-                <key>sourceSize</key>
-                <string>{400,310}</string>
-            </dict>
-            <key>Nagato_Skill04_28.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1300,3310},{400,310}}</string>
-                <key>offset</key>
-                <string>{-5.5,-53}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{400,310}}</string>
-                <key>sourceSize</key>
-                <string>{400,310}</string>
-            </dict>
-            <key>Nagato_Skill05_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{3962,501},{37,81}}</string>
-                <key>offset</key>
-                <string>{-3.5,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{37,81}}</string>
-                <key>sourceSize</key>
-                <string>{37,81}</string>
-            </dict>
-            <key>Nagato_Skill05_02.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{0,500},{40,81}}</string>
-                <key>offset</key>
-                <string>{-2.5,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{40,81}}</string>
-                <key>sourceSize</key>
-                <string>{40,81}</string>
-            </dict>
-            <key>Nagato_Skill05_03.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{3900,418},{62,82}}</string>
-                <key>offset</key>
-                <string>{10,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{62,82}}</string>
-                <key>sourceSize</key>
-                <string>{62,82}</string>
-            </dict>
-            <key>Nagato_Skill05_04.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1566,940},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_05.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2216,940},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_06.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2866,940},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_07.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{0,1992},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_08.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{0,2462},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_09.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{0,2932},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_10.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{0,3402},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_11.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{890,1410},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_12.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1540,1410},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_13.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2190,1410},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_14.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2840,1410},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_15.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{650,2089},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_16.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{650,2559},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_17.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{650,3029},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_18.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{650,3499},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_19.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1425,1880},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_20.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_21.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{650,0},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_22.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1300,0},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_23.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1950,0},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_24.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2600,0},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_25.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{3250,0},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_26.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{0,582},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_27.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{937,470},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_28.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1587,470},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_29.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2237,470},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>.
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_30.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2887,470},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_31.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{916,940},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_32.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{0,1052},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
-            </dict>
-            <key>Nagato_Skill05_33.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{0,1522},{650,470}}</string>
-                <key>offset</key>
-                <string>{129,-49}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{650,470}}</string>
-                <key>sourceSize</key>
-                <string>{650,470}</string>
+                <string>{50,52}</string>
             </dict>
             <key>Nagato_Walk_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3897,768},{58,53}}</string>
+                <string>{{150,0},{60,62}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{58,53}}</string>
+                <string>{{0,0},{60,62}}</string>
                 <key>sourceSize</key>
-                <string>{58,53}</string>
+                <string>{60,62}</string>
             </dict>
             <key>Nagato_Walk_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3897,545},{60,56}}</string>
+                <string>{{210,0},{60,62}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{60,56}}</string>
+                <string>{{0,0},{60,62}}</string>
                 <key>sourceSize</key>
-                <string>{60,56}</string>
+                <string>{60,62}</string>
             </dict>
             <key>Nagato_Walk_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3897,601},{59,56}}</string>
+                <string>{{270,0},{60,62}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{59,56}}</string>
+                <string>{{0,0},{60,62}}</string>
                 <key>sourceSize</key>
-                <string>{59,56}</string>
+                <string>{60,62}</string>
             </dict>
             <key>Nagato_Walk_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3897,712},{58,56}}</string>
+                <string>{{330,0},{60,62}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{58,56}}</string>
+                <string>{{0,0},{60,62}}</string>
                 <key>sourceSize</key>
-                <string>{58,56}</string>
+                <string>{60,62}</string>
             </dict>
             <key>Nagato_Walk_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3900,362},{63,56}}</string>
+                <string>{{390,0},{60,62}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{63,56}}</string>
+                <string>{{0,0},{60,62}}</string>
                 <key>sourceSize</key>
-                <string>{63,56}</string>
+                <string>{60,62}</string>
             </dict>
             <key>Nagato_Walk_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3897,657},{59,55}}</string>
+                <string>{{450,0},{60,62}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{59,55}}</string>
+                <string>{{0,0},{60,62}}</string>
                 <key>sourceSize</key>
-                <string>{59,55}</string>
+                <string>{60,62}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -2092,9 +2235,9 @@
             <key>realTextureFileName</key>
             <string>Nagato.png</string>
             <key>size</key>
-            <string>{4000,3991}</string>
+            <string>{4096,4096}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:da5085e9d6ff2755b96ef0e4aa4a70be$</string>
+            <string>$TexturePacker:SmartUpdate:8051cdc445df618a95fa3cdbf0e24c1e$</string>
             <key>textureFileName</key>
             <string>Nagato.png</string>
         </dict>

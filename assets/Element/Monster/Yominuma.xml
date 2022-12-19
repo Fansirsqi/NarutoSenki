@@ -3,24 +3,42 @@
 
     <action value="Idle">
         <date>
-            <dateName type="attackType">Tiger</dateName>
+            <dateName type="attackType">Mine</dateName>
             <dateName type="attackValue">0</dateName>
-            <dateName type="attackRangeX">29</dateName>
-            <dateName type="attackRangeY">15</dateName>
-            <coldName type="coldDown">224</coldName>
+            <dateName type="attackRangeX">51</dateName>
+            <dateName type="attackRangeY">11</dateName>
+            <coldName type="coldDown">0</coldName>
         </date>
         <frame>
-            <eventName type="setCommand">findTarget</eventName>
-            <eventName type="setCommand">setTransport</eventName>
-            <frameName>Yominuma_Move_01.png</frameName>
+            <frameName>Nagato_D1_01.png</frameName>
+            <eventName type="setDelay">-10</eventName>
+            <eventName type="setMove">64</eventName>
+            <eventName type="setBullet">NagatoKuosan</eventName>
+            <frameName>Nagato_D1_02.png</frameName>
+            <eventName type="setDelay">-10</eventName>
+            <eventName type="setMove">64</eventName>
+            <eventName type="setBullet">NagatoKuosan</eventName>
+            <frameName>Nagato_D1_03.png</frameName>
+            <eventName type="setDelay">-10</eventName>
+            <eventName type="setMove">64</eventName>
+            <eventName type="setBullet">NagatoKuosan</eventName>
+            <frameName>Nagato_D1_04.png</frameName>
+            <eventName type="setDelay">-10</eventName>
+            <eventName type="setMove">64</eventName>
+            <eventName type="setBullet">NagatoKuosan</eventName>
+            <frameName>Nagato_D1_05.png</frameName>
+            <eventName type="setDelay">-10</eventName>
+            <eventName type="setMove">64</eventName>
+            <eventName type="setBullet">NagatoKuosan</eventName>
+            <frameName>all_use.png</frameName>
+            <eventName type="setDelay">-10</eventName>
+            <eventName type="setDetonation">0</eventName>
         </frame>
     </action>
 
     <action value="Walk">
         <frame>
-            <eventName type="setCommand">findTarget</eventName>
-            <eventName type="setCommand">setTransport</eventName>
-            <frameName>Yominuma_Move_01.png</frameName>
+            <frameName>Nagato_D1_01.png</frameName>
         </frame>
     </action>
 
@@ -31,6 +49,7 @@
 
     <action value="AirHurt">
         <frame>
+
         </frame>
     </action>
 
@@ -52,19 +71,27 @@
     <action value="nAttack">
         <date>
             <dateName type="attackType">aAttack</dateName>
-            <dateName type="attackValue">7800</dateName>
+            <dateName type="attackValue">5400</dateName>
             <dateName type="attackRangeX">48</dateName>
             <dateName type="attackRangeY">32</dateName>
             <coldName type="coldDown">0</coldName>
         </date>
         <frame>
-            <eventName type="setCommand">findTarget</eventName>
-            <eventName type="setCommand">setTransport</eventName>
-            <frameName>Yominuma_Move_01.png</frameName>
-            <eventName type="setAttackBox">ct_hit</eventName>
-            <frameName>Yominuma_Move_01.png</frameName>
-            <eventName type="setDelay">310</eventName>
+            <eventName type="setSound">Audio/Nagato/Bo2.mp3</eventName>
+            <frameName>Nagato_D1_06.png</frameName>
+            <eventName type="setAttackBox">f_hit</eventName>
+            <frameName>Nagato_D1_07.png</frameName>
+            <frameName>Nagato_D1_08.png</frameName>
+            <eventName type="setAttackBox">f2_hit</eventName>
+            <frameName>Nagato_D1_09.png</frameName>
+            <eventName type="setAttackBox">f2_hit</eventName>
+            <frameName>Nagato_D1_10.png</frameName>
+            <frameName>Nagato_D1_11.png</frameName>
+            <eventName type="setAttackBox">f2_hit</eventName>
+            <frameName>Nagato_D1_12.png</frameName>
+            <frameName>Nagato_D1_13.png</frameName>
             <eventName type="setDetonation">0</eventName>
         </frame>
     </action>
+
 </animation>

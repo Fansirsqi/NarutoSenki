@@ -47,13 +47,31 @@
     <action value="Walk">
         <frame>
             <frameName>Pain_Walk_01.png</frameName>
+            
+            <eventName type="setChargeB">10</eventName>
+
             <frameName>Pain_Walk_02.png</frameName>
             <eventName type="setSound">Audio/Effect/Walk01.mp3</eventName>
+            
+            <eventName type="setChargeB">10</eventName>
+
             <frameName>Pain_Walk_03.png</frameName>
+            
+            <eventName type="setChargeB">10</eventName>
+
             <frameName>Pain_Walk_04.png</frameName>
+            
+            <eventName type="setChargeB">10</eventName>
+
             <frameName>Pain_Walk_05.png</frameName>
+            
+            <eventName type="setChargeB">10</eventName>
+
             <eventName type="setSound">Audio/Effect/Walk02.mp3</eventName>
             <frameName>Pain_Walk_06.png</frameName>
+            
+            <eventName type="setChargeB">10</eventName>
+
         </frame>
     </action>
     <action value="Hurt">
@@ -156,9 +174,9 @@
             <!-- 转身准备戳 -->
             <frameName>Pain_Skill01_07.png</frameName>
             <frameName>Pain_Skill01_08.png</frameName>
-            
+
             <eventName type="setBuff">100</eventName>
-            
+
             <frameName>Pain_Skill01_09.png</frameName>
             <frameName>Pain_Skill01_10.png</frameName>
             <frameName>Pain_Skill01_11.png</frameName>
@@ -195,7 +213,7 @@
             <dateName type="attackValue">100</dateName>
             <dateName type="attackRangeX">16</dateName>
             <dateName type="attackRangeY">48</dateName>
-            <coldName type="coldDown">15</coldName>
+            <coldName type="coldDown">1</coldName>
         </date>
         <frame>
             <frameName>Pain_Skill02_01.png</frameName>
@@ -235,7 +253,7 @@
             <dateName type="attackValue">100</dateName>
             <dateName type="attackRangeX">16</dateName>
             <dateName type="attackRangeY">16</dateName>
-            <coldName type="coldDown">25</coldName>
+            <coldName type="coldDown">2</coldName>
         </date>
         <frame>
 
@@ -304,7 +322,7 @@
             <eventName type="setCommand">setInvincible</eventName>
             <frameName>Pain_Skill04_09.png</frameName>
             <eventName type="setAttackBox">f2_hit</eventName>
-            <eventName type="setMon">Jibaku</eventName>
+            <eventName type="setMon">JibakuEX</eventName>
             <eventName type="setAttackBox">l_hit</eventName>
             <frameName>Pain_Skill04_10.png</frameName>
             <frameName>Pain_Skill04_11.png</frameName>
@@ -429,6 +447,9 @@
             <eventName type="setCommand">reInvincible</eventName>
             <frameName>Pain_Skill05_41.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
+            <eventName type="setMon">SuperPain</eventName>
+            <eventName type="setDelay">300</eventName>
+            <eventName type="setTransform">40</eventName>
         </frame>
     </action>
     <action value="skill06">

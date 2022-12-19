@@ -4,461 +4,862 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>Tendo_Skill04_01.png</key>
+            <key>DevaPath_Idle_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{0,0},{560,200}}</string>
+                <string>{{764,1165},{24,77}}</string>
                 <key>offset</key>
-                <string>{3,-15}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{560,200}}</string>
+                <string>{{0,0},{24,77}}</string>
                 <key>sourceSize</key>
-                <string>{560,200}</string>
+                <string>{24,77}</string>
             </dict>
-            <key>Tendo_Skill04_02.png</key>
+            <key>DevaPath_NAttack_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1425,696},{560,200}}</string>
+                <string>{{982,1025},{32,77}}</string>
                 <key>offset</key>
-                <string>{3,-15}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{560,200}}</string>
+                <string>{{0,0},{32,77}}</string>
                 <key>sourceSize</key>
-                <string>{560,200}</string>
+                <string>{32,77}</string>
             </dict>
-            <key>Tendo_Skill04_03.png</key>
+            <key>DevaPath_NAttack_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{610,1200},{560,200}}</string>
+                <string>{{764,1098},{65,77}}</string>
                 <key>offset</key>
-                <string>{3,-15}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{560,200}}</string>
+                <string>{{0,0},{65,77}}</string>
                 <key>sourceSize</key>
-                <string>{560,200}</string>
+                <string>{65,77}</string>
             </dict>
-            <key>Tendo_Skill04_04.png</key>
+            <key>DevaPath_NAttack_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1170,1296},{560,200}}</string>
+                <string>{{301,859},{32,77}}</string>
                 <key>offset</key>
-                <string>{3,-15}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{560,200}}</string>
+                <string>{{0,0},{32,77}}</string>
                 <key>sourceSize</key>
-                <string>{560,200}</string>
+                <string>{32,77}</string>
             </dict>
-            <key>Tendo_Skill04_05.png</key>
+            <key>DevaPath_NAttack_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{610,1400},{560,200}}</string>
+                <string>{{764,1191},{23,77}}</string>
                 <key>offset</key>
-                <string>{3,-15}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{560,200}}</string>
+                <string>{{0,0},{23,77}}</string>
                 <key>sourceSize</key>
-                <string>{560,200}</string>
+                <string>{23,77}</string>
             </dict>
-            <key>Tendo_Skill04_06.png</key>
+            <key>DevaPath_Skill01_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{305,1600},{560,200}}</string>
+                <string>{{887,805},{34,77}}</string>
                 <key>offset</key>
-                <string>{3,-15}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{560,200}}</string>
+                <string>{{0,0},{34,77}}</string>
                 <key>sourceSize</key>
-                <string>{560,200}</string>
+                <string>{34,77}</string>
             </dict>
-            <key>Tendo_Skill04_07.png</key>
+            <key>DevaPath_Skill01_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{305,1800},{560,200}}</string>
+                <string>{{988,946},{28,77}}</string>
                 <key>offset</key>
-                <string>{3,-15}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{560,200}}</string>
+                <string>{{0,0},{28,77}}</string>
                 <key>sourceSize</key>
-                <string>{560,200}</string>
+                <string>{28,77}</string>
             </dict>
-            <key>Tendo_Skill04_08.png</key>
+            <key>DevaPath_Skill01_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{865,1800},{560,200}}</string>
+                <string>{{793,910},{38,49}}</string>
                 <key>offset</key>
-                <string>{3,-15}</string>
+                <string>{-3,-35}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{560,200}}</string>
+                <string>{{46,70},{38,49}}</string>
                 <key>sourceSize</key>
-                <string>{560,200}</string>
+                <string>{136,119}</string>
             </dict>
-            <key>Tendo_Skill04_09.png</key>
+            <key>DevaPath_Skill01_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1425,1800},{560,200}}</string>
+                <string>{{80,1117},{1,1}}</string>
                 <key>offset</key>
-                <string>{3,-15}</string>
+                <string>{-67.5,59}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{560,200}}</string>
+                <string>{{0,0},{1,1}}</string>
                 <key>sourceSize</key>
-                <string>{560,200}</string>
+                <string>{136,119}</string>
             </dict>
-            <key>Tendo_Skill04_010.png</key>
+            <key>DevaPath_Walk_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{560,0},{560,200}}</string>
+                <string>{{789,575},{63,60}}</string>
                 <key>offset</key>
-                <string>{3,-15}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{560,200}}</string>
+                <string>{{0,0},{63,60}}</string>
                 <key>sourceSize</key>
-                <string>{560,200}</string>
+                <string>{63,60}</string>
             </dict>
-            <key>Tendo_Skill04_011.png</key>
+            <key>DevaPath_Walk_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1120,0},{560,200}}</string>
+                <string>{{851,722},{66,59}}</string>
                 <key>offset</key>
-                <string>{3,-15}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{560,200}}</string>
+                <string>{{0,0},{66,59}}</string>
                 <key>sourceSize</key>
-                <string>{560,200}</string>
+                <string>{66,59}</string>
             </dict>
-            <key>Tendo_Skill04_012.png</key>
+            <key>DevaPath_Walk_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{0,200},{560,200}}</string>
+                <string>{{395,942},{50,62}}</string>
                 <key>offset</key>
-                <string>{3,-15}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{560,200}}</string>
+                <string>{{0,0},{50,62}}</string>
                 <key>sourceSize</key>
-                <string>{560,200}</string>
+                <string>{50,62}</string>
             </dict>
-            <key>Tendo_Skill04_013.png</key>
+            <key>DevaPath_Walk_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{560,200},{560,200}}</string>
+                <string>{{459,890},{60,57}}</string>
                 <key>offset</key>
-                <string>{3,-15}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{560,200}}</string>
+                <string>{{0,0},{60,57}}</string>
                 <key>sourceSize</key>
-                <string>{560,200}</string>
+                <string>{60,57}</string>
             </dict>
-            <key>Tendo_Skill04_014.png</key>
+            <key>DevaPath_Walk_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1120,200},{560,200}}</string>
+                <string>{{789,506},{67,60}}</string>
                 <key>offset</key>
-                <string>{3,-15}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{560,200}}</string>
+                <string>{{0,0},{67,60}}</string>
                 <key>sourceSize</key>
-                <string>{560,200}</string>
+                <string>{67,60}</string>
             </dict>
-            <key>Tendo_Skill04_015.png</key>
+            <key>DevaPath_Walk_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{0,400},{560,200}}</string>
+                <string>{{395,890},{50,62}}</string>
                 <key>offset</key>
-                <string>{3,-15}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{560,200}}</string>
+                <string>{{0,0},{50,62}}</string>
                 <key>sourceSize</key>
-                <string>{560,200}</string>
+                <string>{50,62}</string>
             </dict>
-            <key>Tendo_Skill04_016.png</key>
+            <key>Centipede_Move_001.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{560,400},{560,200}}</string>
+                <string>{{242,859},{57,33}}</string>
                 <key>offset</key>
-                <string>{3,-15}</string>
+                <string>{-82,-40}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{560,200}}</string>
+                <string>{{0,80},{57,33}}</string>
                 <key>sourceSize</key>
-                <string>{560,200}</string>
+                <string>{221,113}</string>
             </dict>
-            <key>Tendo_Skill04_017.png</key>
+            <key>Centipede_Move_002.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1120,400},{560,200}}</string>
+                <string>{{828,784},{57,55}}</string>
                 <key>offset</key>
-                <string>{3,-15}</string>
+                <string>{-82,-29}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{560,200}}</string>
+                <string>{{0,58},{57,55}}</string>
                 <key>sourceSize</key>
-                <string>{560,200}</string>
+                <string>{221,113}</string>
             </dict>
-            <key>Tendo_Skill04_018.png</key>
+            <key>Centipede_Move_003.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{305,600},{560,200}}</string>
+                <string>{{769,992},{57,73}}</string>
                 <key>offset</key>
-                <string>{3,-15}</string>
+                <string>{-82,-20}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{560,200}}</string>
+                <string>{{0,40},{57,73}}</string>
                 <key>sourceSize</key>
-                <string>{560,200}</string>
+                <string>{221,113}</string>
             </dict>
-            <key>Tendo_Skill04_019.png</key>
+            <key>Centipede_Move_004.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{865,600},{560,200}}</string>
+                <string>{{698,841},{67,89}}</string>
                 <key>offset</key>
-                <string>{3,-15}</string>
+                <string>{-77,-12}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{560,200}}</string>
+                <string>{{0,24},{67,89}}</string>
                 <key>sourceSize</key>
-                <string>{560,200}</string>
+                <string>{221,113}</string>
             </dict>
-            <key>Tendo_Skill04_020.png</key>
+            <key>Centipede_Move_005.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{305,800},{560,200}}</string>
+                <string>{{522,830},{81,101}}</string>
                 <key>offset</key>
-                <string>{3,-15}</string>
+                <string>{-70,-6}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{560,200}}</string>
+                <string>{{0,12},{81,101}}</string>
                 <key>sourceSize</key>
-                <string>{560,200}</string>
+                <string>{221,113}</string>
             </dict>
-            <key>Tendo_Skill04_021.png</key>
+            <key>Centipede_Move_006.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{865,800},{560,200}}</string>
+                <string>{{280,520},{107,111}}</string>
                 <key>offset</key>
-                <string>{3,-15}</string>
+                <string>{-57,-1}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{560,200}}</string>
+                <string>{{0,2},{107,111}}</string>
                 <key>sourceSize</key>
-                <string>{560,200}</string>
+                <string>{221,113}</string>
             </dict>
-            <key>Tendo_Skill04_022.png</key>
+            <key>Centipede_Move_007.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1425,896},{560,200}}</string>
+                <string>{{332,1111},{125,113}}</string>
                 <key>offset</key>
-                <string>{3,-15}</string>
+                <string>{-48,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{560,200}}</string>
+                <string>{{0,0},{125,113}}</string>
                 <key>sourceSize</key>
-                <string>{560,200}</string>
+                <string>{221,113}</string>
             </dict>
-            <key>Tendo_Skill04_023.png</key>
+            <key>Centipede_Move_008.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{305,1000},{560,200}}</string>
+                <string>{{177,1117},{153,111}}</string>
                 <key>offset</key>
-                <string>{3,-15}</string>
+                <string>{-34,-1}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{560,200}}</string>
+                <string>{{0,2},{153,111}}</string>
                 <key>sourceSize</key>
-                <string>{560,200}</string>
+                <string>{221,113}</string>
             </dict>
-            <key>Tendo_Skill04_024.png</key>
+            <key>Centipede_Move_009.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{865,1000},{560,200}}</string>
+                <string>{{2,1124},{173,105}}</string>
                 <key>offset</key>
-                <string>{3,-15}</string>
+                <string>{-24,-4}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{560,200}}</string>
+                <string>{{0,8},{173,105}}</string>
                 <key>sourceSize</key>
-                <string>{560,200}</string>
+                <string>{221,113}</string>
             </dict>
-            <key>Tendo_Skill04_025.png</key>
+            <key>Centipede_Move_010.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1425,1096},{560,200}}</string>
+                <string>{{395,994},{191,103}}</string>
                 <key>offset</key>
-                <string>{3,-15}</string>
+                <string>{-15,-5}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{560,200}}</string>
+                <string>{{0,10},{191,103}}</string>
                 <key>sourceSize</key>
-                <string>{560,200}</string>
+                <string>{221,113}</string>
             </dict>
-            <key>Tendo_Skill04_026.png</key>
+            <key>Centipede_Move_011.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1680,0},{305,232}}</string>
+                <string>{{389,520},{205,103}}</string>
                 <key>offset</key>
-                <string>{38.5,-47}</string>
+                <string>{-8,-5}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{305,232}}</string>
+                <string>{{0,10},{205,103}}</string>
                 <key>sourceSize</key>
-                <string>{305,232}</string>
+                <string>{221,113}</string>
             </dict>
-            <key>Tendo_Skill04_027.png</key>
+            <key>Centipede_Move_012.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1680,232},{305,232}}</string>
+                <string>{{290,894},{215,103}}</string>
                 <key>offset</key>
-                <string>{38.5,-47}</string>
+                <string>{-3,-5}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{305,232}}</string>
+                <string>{{0,10},{215,103}}</string>
                 <key>sourceSize</key>
-                <string>{305,232}</string>
+                <string>{221,113}</string>
             </dict>
-            <key>Tendo_Skill04_028.png</key>
+            <key>Centipede_Move_013.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1680,464},{305,232}}</string>
+                <string>{{242,636},{221,103}}</string>
                 <key>offset</key>
-                <string>{38.5,-47}</string>
+                <string>{0,-5}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{305,232}}</string>
+                <string>{{0,10},{221,103}}</string>
                 <key>sourceSize</key>
-                <string>{305,232}</string>
+                <string>{221,113}</string>
             </dict>
-            <key>Tendo_Skill04_029.png</key>
+            <key>Centipede_Move_014.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{0,696},{305,232}}</string>
+                <string>{{185,894},{221,103}}</string>
                 <key>offset</key>
-                <string>{38.5,-47}</string>
+                <string>{0,-5}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{305,232}}</string>
+                <string>{{0,10},{221,103}}</string>
                 <key>sourceSize</key>
-                <string>{305,232}</string>
+                <string>{221,113}</string>
             </dict>
-            <key>Tendo_Skill04_030.png</key>
+            <key>Centipede_Move_015.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{0,928},{305,232}}</string>
+                <string>{{80,894},{221,103}}</string>
                 <key>offset</key>
-                <string>{38.5,-47}</string>
+                <string>{0,-5}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{305,232}}</string>
+                <string>{{0,10},{221,103}}</string>
                 <key>sourceSize</key>
-                <string>{305,232}</string>
+                <string>{221,113}</string>
             </dict>
-            <key>Tendo_Skill04_031.png</key>
+            <key>Centipede_Move_016.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{0,1160},{305,232}}</string>
+                <string>{{520,625},{203,103}}</string>
                 <key>offset</key>
-                <string>{38.5,-47}</string>
+                <string>{9,-5}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{305,232}}</string>
+                <string>{{18,10},{203,103}}</string>
                 <key>sourceSize</key>
-                <string>{305,232}</string>
+                <string>{221,113}</string>
             </dict>
-            <key>Tendo_Skill04_032.png</key>
+            <key>Centipede_Move_017.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{0,1392},{305,232}}</string>
+                <string>{{596,510},{191,103}}</string>
                 <key>offset</key>
-                <string>{38.5,-47}</string>
+                <string>{15,-5}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{305,232}}</string>
+                <string>{{30,10},{191,103}}</string>
                 <key>sourceSize</key>
-                <string>{305,232}</string>
+                <string>{221,113}</string>
             </dict>
-            <key>Tendo_Skill04_033.png</key>
+            <key>Centipede_Move_018.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{0,1624},{305,232}}</string>
+                <string>{{588,993},{179,103}}</string>
                 <key>offset</key>
-                <string>{38.5,-47}</string>
+                <string>{21,-5}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{305,232}}</string>
+                <string>{{42,10},{179,103}}</string>
                 <key>sourceSize</key>
-                <string>{305,232}</string>
+                <string>{221,113}</string>
             </dict>
-            <key>Tendo_Skill04_034.png</key>
+            <key>Centipede_Move_019.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{305,1296},{305,232}}</string>
+                <string>{{848,841},{167,103}}</string>
                 <key>offset</key>
-                <string>{38.5,-47}</string>
+                <string>{27,-5}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{305,232}}</string>
+                <string>{{54,10},{167,103}}</string>
                 <key>sourceSize</key>
-                <string>{305,232}</string>
+                <string>{221,113}</string>
+            </dict>
+            <key>Centipede_Move_020.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{852,475},{149,103}}</string>
+                <key>offset</key>
+                <string>{36,-5}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{72,10},{149,103}}</string>
+                <key>sourceSize</key>
+                <string>{221,113}</string>
+            </dict>
+            <key>Centipede_Move_021.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{659,1098},{123,103}}</string>
+                <key>offset</key>
+                <string>{49,-5}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{98,10},{123,103}}</string>
+                <key>sourceSize</key>
+                <string>{221,113}</string>
+            </dict>
+            <key>Centipede_Move_022.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{843,1122},{99,99}}</string>
+                <key>offset</key>
+                <string>{61,-7}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{122,14},{99,99}}</string>
+                <key>sourceSize</key>
+                <string>{221,113}</string>
+            </dict>
+            <key>Centipede_Move_023.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{919,722},{81,85}}</string>
+                <key>offset</key>
+                <string>{70,-14}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{140,28},{81,85}}</string>
+                <key>sourceSize</key>
+                <string>{221,113}</string>
+            </dict>
+            <key>Centipede_Move_024.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{625,841},{69,71}}</string>
+                <key>offset</key>
+                <string>{76,-21}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{152,42},{69,71}}</string>
+                <key>sourceSize</key>
+                <string>{221,113}</string>
+            </dict>
+            <key>Centipede_Move_025.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{789,841},{57,67}}</string>
+                <key>offset</key>
+                <string>{82,-23}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{164,46},{57,67}}</string>
+                <key>sourceSize</key>
+                <string>{221,113}</string>
+            </dict>
+            <key>Centipede_Move_026.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{769,784},{57,55}}</string>
+                <key>offset</key>
+                <string>{82,-29}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{164,58},{57,55}}</string>
+                <key>sourceSize</key>
+                <string>{221,113}</string>
+            </dict>
+            <key>Centipede_Move_027.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{459,949},{57,35}}</string>
+                <key>offset</key>
+                <string>{82,-39}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{164,78},{57,35}}</string>
+                <key>sourceSize</key>
+                <string>{221,113}</string>
+            </dict>
+            <key>Chameleon_Move_001.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{844,946},{142,76}}</string>
+                <key>offset</key>
+                <string>{-46,-5}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{4,11},{142,76}}</string>
+                <key>sourceSize</key>
+                <string>{242,88}</string>
+            </dict>
+            <key>Chameleon_Move_002.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{659,912},{132,78}}</string>
+                <key>offset</key>
+                <string>{-52,3}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{3,2},{132,78}}</string>
+                <key>sourceSize</key>
+                <string>{242,88}</string>
+            </dict>
+            <key>Chameleon_Move_003.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{852,399},{154,74}}</string>
+                <key>offset</key>
+                <string>{-44,1}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,6},{154,74}}</string>
+                <key>sourceSize</key>
+                <string>{242,88}</string>
+            </dict>
+            <key>Chameleon_Move_004.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,894},{228,76}}</string>
+                <key>offset</key>
+                <string>{2,-4}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{9,10},{228,76}}</string>
+                <key>sourceSize</key>
+                <string>{242,88}</string>
+            </dict>
+            <key>Chameleon_Move_005.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{521,913},{136,78}}</string>
+                <key>offset</key>
+                <string>{-34,-4}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{19,9},{136,78}}</string>
+                <key>sourceSize</key>
+                <string>{242,88}</string>
+            </dict>
+            <key>Chameleon_Move_006.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{625,763},{142,76}}</string>
+                <key>offset</key>
+                <string>{-46,-5}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{4,11},{142,76}}</string>
+                <key>sourceSize</key>
+                <string>{242,88}</string>
+            </dict>
+            <key>Chameleon_Move_007.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{773,640},{142,76}}</string>
+                <key>offset</key>
+                <string>{-46,-5}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{4,11},{142,76}}</string>
+                <key>sourceSize</key>
+                <string>{242,88}</string>
+            </dict>
+            <key>Diyu_Dog_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{681,304},{200,169}}</string>
+                <key>offset</key>
+                <string>{-7,5}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,9},{200,169}}</string>
+                <key>sourceSize</key>
+                <string>{214,197}</string>
+            </dict>
+            <key>Diyu_Dog_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{459,1099},{198,127}}</string>
+                <key>offset</key>
+                <string>{-8,26}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,9},{198,127}}</string>
+                <key>sourceSize</key>
+                <string>{214,197}</string>
+            </dict>
+            <key>Diyu_Dog_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{347,633},{210,171}}</string>
+                <key>offset</key>
+                <string>{-2,13}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{210,171}}</string>
+                <key>sourceSize</key>
+                <string>{214,197}</string>
+            </dict>
+            <key>Diyu_Dog_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{280,304},{214,197}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{214,197}}</string>
+                <key>sourceSize</key>
+                <string>{214,197}</string>
+            </dict>
+            <key>Diyu_Dog_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{354,2},{350,300}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{350,300}}</string>
+                <key>sourceSize</key>
+                <string>{350,300}</string>
+            </dict>
+            <key>Diyu_Dog_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,304},{330,276}}</string>
+                <key>offset</key>
+                <string>{0,-4}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{10,16},{330,276}}</string>
+                <key>sourceSize</key>
+                <string>{350,300}</string>
+            </dict>
+            <key>Diyu_Dog_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{706,2},{310,300}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{20,0},{310,300}}</string>
+                <key>sourceSize</key>
+                <string>{350,300}</string>
+            </dict>
+            <key>Diyu_Dog_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,636},{256,238}}</string>
+                <key>offset</key>
+                <string>{9,-11}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{56,42},{256,238}}</string>
+                <key>sourceSize</key>
+                <string>{350,300}</string>
+            </dict>
+            <key>Diyu_Dog_09.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{479,304},{204,200}}</string>
+                <key>offset</key>
+                <string>{1,-7}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{74,57},{204,200}}</string>
+                <key>sourceSize</key>
+                <string>{350,300}</string>
+            </dict>
+            <key>Diyu_Dog_10.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{350,300}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{350,300}}</string>
+                <key>sourceSize</key>
+                <string>{350,300}</string>
+            </dict>
+            <key>Diyu_Dog_11.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{844,1024},{136,96}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{136,96}}</string>
+                <key>sourceSize</key>
+                <string>{136,96}</string>
+            </dict>
+            <key>Panda_Move_00.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{80,1117},{1,1}}</string>
+                <key>offset</key>
+                <string>{-49.5,99.5}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{1,1}}</string>
+                <key>sourceSize</key>
+                <string>{100,200}</string>
+            </dict>
+            <key>Panda_Move_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{852,304},{93,159}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{93,159}}</string>
+                <key>sourceSize</key>
+                <string>{93,159}</string>
+            </dict>
+            <key>Panda_Move_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{625,615},{146,146}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{146,146}}</string>
+                <key>sourceSize</key>
+                <string>{146,146}</string>
+            </dict>
+            <key>Panda_Move_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{851,580},{140,146}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{3,0},{140,146}}</string>
+                <key>sourceSize</key>
+                <string>{146,146}</string>
+            </dict>
+            <key>Panda_Move_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{380,845},{140,43}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{140,43}}</string>
+                <key>sourceSize</key>
+                <string>{140,43}</string>
             </dict>
         </dict>
         <key>metadata</key>
         <dict>
             <key>format</key>
             <integer>2</integer>
-            <key>pixelFormat</key>
-            <string>RGBA8888</string>
-            <key>premultiplyAlpha</key>
-            <false/>
             <key>realTextureFileName</key>
             <string>DevaPath.png</string>
             <key>size</key>
-            <string>{1985,2000}</string>
+            <string>{1018,1231}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:422c3bbe582c45828ba01fb11973c45a$</string>
             <key>textureFileName</key>
             <string>DevaPath.png</string>
         </dict>

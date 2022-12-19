@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation>
+
+    <action value="Idle">
+        <date>
+            <dateName type="attackType">Snake</dateName>
+            <dateName type="attackValue">0</dateName>
+            <dateName type="attackRangeX">51</dateName>
+            <dateName type="attackRangeY">11</dateName>
+            <coldName type="coldDown">999</coldName>
+        </date>
+        <frame>
+            <eventName type="setCommand">findTarget</eventName>
+            <eventName type="setCommand">setTransport</eventName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <eventName type="setDetonation">0</eventName>
+        </frame>
+    </action>
+
+    <action value="Walk">
+        <frame>
+            <eventName type="setCommand">findTarget</eventName>
+            <eventName type="setCommand">setTransport</eventName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <frameName>all_use.png</frameName>
+            <eventName type="setDetonation">0</eventName>
+        </frame>
+    </action>
+
+    <action value="Hurt">
+        <frame>
+        </frame>
+    </action>
+
+    <action value="AirHurt">
+        <frame>
+
+        </frame>
+    </action>
+
+    <action value="KnockDown">
+        <frame>
+        </frame>
+    </action>
+
+    <action value="Float">
+        <frame>
+        </frame>
+    </action>
+
+    <action value="Dead">
+        <frame>
+        </frame>
+    </action>
+
+    <action value="nAttack">
+        <date>
+            <dateName type="attackType">aAttack</dateName>
+            <dateName type="attackValue">300</dateName>
+            <dateName type="attackRangeX">16</dateName>
+            <dateName type="attackRangeY">48</dateName>
+            <coldName type="coldDown">0</coldName>
+        </date>
+        <frame>
+            <eventName type="setCommand">findTarget</eventName>
+            <eventName type="setCommand">setTransport</eventName>
+            <frameName>Diyu_Dog_01.png</frameName>
+            <frameName>Diyu_Dog_02.png</frameName>
+            <eventName type="setAttackBox">f_hit</eventName>
+            <frameName>Diyu_Dog_03.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Diyu_Dog_04.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Diyu_Dog_05.png</frameName>
+            <frameName>Diyu_Dog_06.png</frameName>
+            <frameName>Diyu_Dog_07.png</frameName>
+            <frameName>Diyu_Dog_08.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Diyu_Dog_09.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Diyu_Dog_10.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Diyu_Dog_11.png</frameName>
+            <eventName type="setDetonation">0</eventName>
+        </frame>
+    </action>
+
+</animation>

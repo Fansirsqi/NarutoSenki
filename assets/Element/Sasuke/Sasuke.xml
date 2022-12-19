@@ -394,8 +394,9 @@
             <frameName>Sasuke_Skill05_26.png</frameName>
             <frameName>Sasuke_Skill05_27.png</frameName>
             <eventName type="setDelay">100</eventName>
-            <eventName type="setTransform">40</eventName>
+            
             <eventName type="setCommand">reInvincible</eventName>
+            <eventName type="setTransform">40</eventName>
         </frame>
     </action>
     <action value="skill06">

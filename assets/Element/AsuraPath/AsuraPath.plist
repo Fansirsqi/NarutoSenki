@@ -4,317 +4,200 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>Six_Path_Of_Pain_01.png</key>
+            <key>AsuraPath_Idle_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{0,0},{298,207}}</string>
+                <string>{{85,138},{32,81}}</string>
                 <key>offset</key>
-                <string>{-3,0}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{298,207}}</string>
+                <string>{{0,0},{32,81}}</string>
                 <key>sourceSize</key>
-                <string>{298,207}</string>
+                <string>{32,81}</string>
             </dict>
-            <key>Six_Path_Of_Pain_02.png</key>
+            <key>AsuraPath_NAttack_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{300,0},{398,257}}</string>
+                <string>{{2,121},{35,81}}</string>
                 <key>offset</key>
-                <string>{-3,0}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{398,257}}</string>
+                <string>{{0,0},{35,81}}</string>
                 <key>sourceSize</key>
-                <string>{398,257}</string>
+                <string>{35,81}</string>
             </dict>
-            <key>Six_Path_Of_Pain_03.png</key>
+            <key>AsuraPath_NAttack_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{700,0},{498,307}}</string>
+                <string>{{174,2},{34,79}}</string>
                 <key>offset</key>
-                <string>{-3,0}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{498,307}}</string>
+                <string>{{0,0},{34,79}}</string>
                 <key>sourceSize</key>
-                <string>{498,307}</string>
+                <string>{34,79}</string>
             </dict>
-            <key>Six_Path_Of_Pain_04.png</key>
+            <key>AsuraPath_NAttack_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1211,0},{192,241}}</string>
+                <string>{{2,2},{75,84}}</string>
                 <key>offset</key>
-                <string>{82,0}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{192,241}}</string>
+                <string>{{0,0},{75,84}}</string>
                 <key>sourceSize</key>
-                <string>{192,241}</string>
+                <string>{75,84}</string>
             </dict>
-            <key>Six_Path_Of_Pain_05.png</key>
+            <key>AsuraPath_NAttack_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1422,0},{400,201}}</string>
+                <string>{{88,2},{69,84}}</string>
                 <key>offset</key>
-                <string>{-52,0}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{400,201}}</string>
+                <string>{{0,0},{69,84}}</string>
                 <key>sourceSize</key>
-                <string>{400,201}</string>
+                <string>{69,84}</string>
             </dict>
-            <key>Six_Path_Of_Pain_06.png</key>
+            <key>AsuraPath_Skill01_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{0,300},{346,320}}</string>
+                <string>{{173,123},{36,81}}</string>
                 <key>offset</key>
-                <string>{-29,-159}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{346,320}}</string>
+                <string>{{0,0},{36,81}}</string>
                 <key>sourceSize</key>
-                <string>{346,320}</string>
+                <string>{36,81}</string>
             </dict>
-            <key>Six_Path_Of_Pain_07.png</key>
+            <key>AsuraPath_Skill01_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{360,292},{266,423}}</string>
+                <string>{{2,79},{40,82}}</string>
                 <key>offset</key>
-                <string>{-19,-119}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{266,423}}</string>
+                <string>{{0,0},{40,82}}</string>
                 <key>sourceSize</key>
-                <string>{266,423}</string>
+                <string>{40,82}</string>
             </dict>
-            <key>Six_Path_Of_Pain_08.png</key>
+            <key>AsuraPath_Skill01_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{661,342},{225,400}}</string>
+                <string>{{88,73},{63,83}}</string>
                 <key>offset</key>
-                <string>{-28.5,-146}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{225,400}}</string>
+                <string>{{0,0},{63,83}}</string>
                 <key>sourceSize</key>
-                <string>{225,400}</string>
+                <string>{63,83}</string>
             </dict>
-            <key>Six_Path_Of_Pain_09.png</key>
+            <key>AsuraPath_Skill01_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{937,348},{165,310}}</string>
+                <string>{{174,38},{70,83}}</string>
                 <key>offset</key>
-                <string>{-28.5,-106}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{165,310}}</string>
+                <string>{{0,0},{70,83}}</string>
                 <key>sourceSize</key>
-                <string>{165,310}</string>
+                <string>{70,83}</string>
             </dict>
-            <key>Six_Path_Of_Pain_10.png</key>
+            <key>AsuraPath_Walk_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1146,367},{180,222}}</string>
+                <string>{{2,223},{57,64}}</string>
                 <key>offset</key>
-                <string>{9,-68}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{180,222}}</string>
+                <string>{{0,0},{57,64}}</string>
                 <key>sourceSize</key>
-                <string>{180,222}</string>
+                <string>{57,64}</string>
             </dict>
-            <key>Six_Path_Of_Pain_11.png</key>
+            <key>AsuraPath_Walk_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1352,274},{257,228}}</string>
+                <string>{{168,161},{64,62}}</string>
                 <key>offset</key>
-                <string>{17.5,-108}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{257,228}}</string>
+                <string>{{0,0},{64,62}}</string>
                 <key>sourceSize</key>
-                <string>{257,228}</string>
+                <string>{64,62}</string>
             </dict>
-            <key>Six_Path_Of_Pain_12.png</key>
+            <key>AsuraPath_Walk_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1626,306},{301,207}}</string>
+                <string>{{197,225},{56,60}}</string>
                 <key>offset</key>
-                <string>{45.5,-47}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{301,207}}</string>
+                <string>{{0,0},{56,60}}</string>
                 <key>sourceSize</key>
-                <string>{301,207}</string>
+                <string>{56,60}</string>
             </dict>
-            <key>Six_Path_Of_Pain_13.png</key>
+            <key>AsuraPath_Walk_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{0,633},{213,367}}</string>
+                <string>{{69,172},{57,64}}</string>
                 <key>offset</key>
-                <string>{-28.5,-167}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{213,367}}</string>
+                <string>{{0,0},{57,64}}</string>
                 <key>sourceSize</key>
-                <string>{213,367}</string>
+                <string>{57,64}</string>
             </dict>
-            <key>Six_Path_Of_Pain_14.png</key>
+            <key>AsuraPath_Walk_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{248,746},{210,320}}</string>
+                <string>{{2,158},{65,63}}</string>
                 <key>offset</key>
-                <string>{91,-147}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{210,320}}</string>
+                <string>{{0,0},{65,63}}</string>
                 <key>sourceSize</key>
-                <string>{210,320}</string>
+                <string>{65,63}</string>
             </dict>
-            <key>Six_Path_Of_Pain_15.png</key>
+            <key>AsuraPath_Walk_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{459,768},{286,273}}</string>
+                <string>{{135,225},{56,60}}</string>
                 <key>offset</key>
-                <string>{3,-60}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{286,273}}</string>
+                <string>{{0,0},{56,60}}</string>
                 <key>sourceSize</key>
-                <string>{286,273}</string>
-            </dict>
-            <key>Six_Path_Of_Pain_16.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{793,726},{259,200}}</string>
-                <key>offset</key>
-                <string>{19.5,-10}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{259,200}}</string>
-                <key>sourceSize</key>
-                <string>{259,200}</string>
-            </dict>
-            <key>Six_Path_Of_Pain_17.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1101,727},{217,249}}</string>
-                <key>offset</key>
-                <string>{29,-99}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{217,249}}</string>
-                <key>sourceSize</key>
-                <string>{217,249}</string>
-            </dict>
-            <key>Six_Path_Of_Pain_18.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1359,537},{213,251}}</string>
-                <key>offset</key>
-                <string>{1.5,-59}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{213,251}}</string>
-                <key>sourceSize</key>
-                <string>{213,251}</string>
-            </dict>
-            <key>Six_Path_Of_Pain_19.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1626,560},{233,276}}</string>
-                <key>offset</key>
-                <string>{-38.5,-34}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{233,276}}</string>
-                <key>sourceSize</key>
-                <string>{233,276}</string>
-            </dict>
-            <key>Six_Path_Of_Pain_20.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{65,1152},{294,174}}</string>
-                <key>offset</key>
-                <string>{-57.5,-74}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{294,174}}</string>
-                <key>sourceSize</key>
-                <string>{294,174}</string>
-            </dict>
-            <key>Six_Path_Of_Pain_21.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{491,1112},{199,254}}</string>
-                <key>offset</key>
-                <string>{19.5,-114}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{199,254}}</string>
-                <key>sourceSize</key>
-                <string>{199,254}</string>
-            </dict>
-            <key>Six_Path_Of_Pain_22.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{760,1072},{145,299}}</string>
-                <key>offset</key>
-                <string>{-37.5,-119}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{145,299}}</string>
-                <key>sourceSize</key>
-                <string>{145,299}</string>
-            </dict>
-            <key>Six_Path_Of_Pain_23.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{981,1032},{146,220}}</string>
-                <key>offset</key>
-                <string>{-38,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{146,220}}</string>
-                <key>sourceSize</key>
-                <string>{146,220}</string>
-            </dict>
-            <key>Six_Path_Of_Pain_24.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1078,1169},{49,83}}</string>
-                <key>offset</key>
-                <string>{10.5,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{49,83}}</string>
-                <key>sourceSize</key>
-                <string>{49,83}</string>
+                <string>{56,60}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -324,9 +207,9 @@
             <key>realTextureFileName</key>
             <string>AsuraPath.png</string>
             <key>size</key>
-            <string>{2000,1500}</string>
+            <string>{256,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:c3d33bfd5761a85936b473c1e2b20804$</string>
+            <string>$TexturePacker:SmartUpdate:c607ea28f18f9ce5c1aa355121fdb996$</string>
             <key>textureFileName</key>
             <string>AsuraPath.png</string>
         </dict>

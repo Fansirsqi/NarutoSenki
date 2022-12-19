@@ -4,722 +4,2358 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>Pain_Skill05_26.png</key>
+            <key>Banteng_Move_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{0,0},{604,621}}</string>
+                <string>{{1642,1581},{159,171}}</string>
                 <key>offset</key>
-                <string>{228,-99}</string>
+                <string>{10,-38}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{604,621}}</string>
+                <string>{{0,0},{159,171}}</string>
                 <key>sourceSize</key>
-                <string>{604,621}</string>
+                <string>{295,291}</string>
             </dict>
-            <key>Pain_Skill05_27.png</key>
+            <key>Banteng_Move_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{0,621},{604,621}}</string>
+                <string>{{3266,1150},{277,225}}</string>
                 <key>offset</key>
-                <string>{228,-99}</string>
+                <string>{25,-35}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{604,621}}</string>
+                <string>{{0,0},{277,225}}</string>
                 <key>sourceSize</key>
-                <string>{604,621}</string>
+                <string>{295,291}</string>
             </dict>
-            <key>Pain_Skill05_28.png</key>
+            <key>Banteng_Move_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{0,1242},{604,621}}</string>
+                <string>{{2411,1752},{275,225}}</string>
                 <key>offset</key>
-                <string>{228,-99}</string>
+                <string>{25,-35}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{604,621}}</string>
+                <string>{{0,0},{275,225}}</string>
                 <key>sourceSize</key>
-                <string>{604,621}</string>
+                <string>{295,291}</string>
             </dict>
-            <key>Pain_Skill05_29.png</key>
+            <key>Banteng_Move_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{0,1863},{604,621}}</string>
+                <string>{{2175,1111},{277,251}}</string>
                 <key>offset</key>
-                <string>{228,-99}</string>
+                <string>{25,-40}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{604,621}}</string>
+                <string>{{0,0},{277,251}}</string>
                 <key>sourceSize</key>
-                <string>{604,621}</string>
+                <string>{295,291}</string>
             </dict>
-            <key>Pain_Skill05_30.png</key>
+            <key>Banteng_Move_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{0,2484},{604,621}}</string>
+                <string>{{2128,1752},{287,283}}</string>
                 <key>offset</key>
-                <string>{228,-99}</string>
+                <string>{19,-48}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{604,621}}</string>
+                <string>{{0,0},{287,283}}</string>
                 <key>sourceSize</key>
-                <string>{604,621}</string>
+                <string>{295,291}</string>
             </dict>
-            <key>Pain_Skill05_31.png</key>
+            <key>Banteng_Move_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{0,3105},{604,621}}</string>
+                <string>{{3567,635},{289,289}}</string>
                 <key>offset</key>
-                <string>{228,-99}</string>
+                <string>{20,-47}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{604,621}}</string>
+                <string>{{0,0},{289,289}}</string>
                 <key>sourceSize</key>
-                <string>{604,621}</string>
+                <string>{295,291}</string>
             </dict>
-
-            
-            <key>Pain_Skill04_22.png</key>
+            <key>Banteng_Move_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{0,3726},{533,363}}</string>
+                <string>{{1548,1752},{295,291}}</string>
                 <key>offset</key>
-                <string>{4,-86}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{533,363}}</string>
+                <string>{{0,0},{295,291}}</string>
                 <key>sourceSize</key>
-                <string>{533,363}</string>
+                <string>{295,291}</string>
             </dict>
-            <key>Pain_Skill04_23.png</key>
+            <key>Banteng_Move_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{533,3726},{533,363}}</string>
+                <string>{{2977,1160},{275,224}}</string>
                 <key>offset</key>
-                <string>{4,-86}</string>
+                <string>{25,-1}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{533,363}}</string>
+                <string>{{0,0},{275,224}}</string>
                 <key>sourceSize</key>
-                <string>{533,363}</string>
+                <string>{275,224}</string>
             </dict>
-            <key>Pain_Skill05_32.png</key>
+            <key>Banteng_Move_09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1066,0},{604,621}}</string>
+                <string>{{2689,1381},{275,227}}</string>
                 <key>offset</key>
-                <string>{228,-99}</string>
+                <string>{25,-1}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{604,621}}</string>
+                <string>{{0,0},{275,227}}</string>
                 <key>sourceSize</key>
-                <string>{604,621}</string>
+                <string>{275,227}</string>
             </dict>
-            <key>Pain_Skill02_11.png</key>
+            <key>Banteng_Move_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{604,0},{376,272}}</string>
+                <string>{{1782,1242},{312,186}}</string>
                 <key>offset</key>
-                <string>{146,-72}</string>
+                <string>{25,10}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{376,272}}</string>
+                <string>{{0,0},{312,186}}</string>
                 <key>sourceSize</key>
-                <string>{376,272}</string>
+                <string>{312,186}</string>
             </dict>
-            <key>Pain_Skill02_12.png</key>
+            <key>Banteng_Move_11.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{604,272},{376,272}}</string>
+                <string>{{2770,342},{331,202}}</string>
                 <key>offset</key>
-                <string>{146,-72}</string>
+                <string>{25,5}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{376,272}}</string>
+                <string>{{0,0},{331,202}}</string>
                 <key>sourceSize</key>
-                <string>{376,272}</string>
+                <string>{331,202}</string>
             </dict>
-            <key>Pain_Skill02_13.png</key>
+            <key>Banteng_Move_12.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{604,544},{376,272}}</string>
+                <string>{{542,1754},{293,199}}</string>
                 <key>offset</key>
-                <string>{146,-72}</string>
+                <string>{25,5}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{376,272}}</string>
+                <string>{{0,0},{293,199}}</string>
                 <key>sourceSize</key>
-                <string>{376,272}</string>
+                <string>{293,199}</string>
             </dict>
-            <key>Pain_Skill05_33.png</key>
+            <key>Banteng_Move_13.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1670,0},{604,621}}</string>
+                <string>{{1358,1752},{296,190}}</string>
                 <key>offset</key>
-                <string>{228,-99}</string>
+                <string>{25,-1}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{604,621}}</string>
+                <string>{{0,0},{296,190}}</string>
                 <key>sourceSize</key>
-                <string>{604,621}</string>
+                <string>{296,190}</string>
             </dict>
-            <key>Pain_Skill05_34.png</key>
+            <key>Banteng_Move_14.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2274,0},{604,621}}</string>
+                <string>{{2964,1384},{275,225}}</string>
                 <key>offset</key>
-                <string>{228,-99}</string>
+                <string>{25,-34}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{604,621}}</string>
+                <string>{{0,0},{275,225}}</string>
                 <key>sourceSize</key>
-                <string>{604,621}</string>
+                <string>{295,291}</string>
             </dict>
-            <key>Pain_Skill05_35.png</key>
+            <key>Banteng_Move_15.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2878,0},{604,621}}</string>
+                <string>{{2702,1156},{275,225}}</string>
                 <key>offset</key>
-                <string>{228,-99}</string>
+                <string>{25,-34}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{604,621}}</string>
+                <string>{{0,0},{275,225}}</string>
                 <key>sourceSize</key>
-                <string>{604,621}</string>
+                <string>{295,291}</string>
             </dict>
-            <key>Pain_Skill05_36.png</key>
+            <key>Banteng_Move_16.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3482,0},{604,621}}</string>
+                <string>{{3543,1175},{277,227}}</string>
                 <key>offset</key>
-                <string>{228,-99}</string>
+                <string>{24,-35}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{604,621}}</string>
+                <string>{{0,0},{277,227}}</string>
                 <key>sourceSize</key>
-                <string>{604,621}</string>
+                <string>{295,291}</string>
             </dict>
-            <key>Pain_Skill05_37.png</key>
+            <key>Banteng_Move_17.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{604,816},{604,621}}</string>
+                <string>{{3544,924},{277,251}}</string>
                 <key>offset</key>
-                <string>{228,-99}</string>
+                <string>{25,-40}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{604,621}}</string>
+                <string>{{0,0},{277,251}}</string>
                 <key>sourceSize</key>
-                <string>{604,621}</string>
+                <string>{295,291}</string>
             </dict>
-            <key>Pain_Skill05_38.png</key>
+            <key>Banteng_Move_18.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{980,1437},{604,621}}</string>
+                <string>{{2981,875},{285,285}}</string>
                 <key>offset</key>
-                <string>{228,-99}</string>
+                <string>{20,-47}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{604,621}}</string>
+                <string>{{0,0},{285,285}}</string>
                 <key>sourceSize</key>
-                <string>{604,621}</string>
+                <string>{295,291}</string>
             </dict>
-            <key>Pain_Skill02_14.png</key>
+            <key>Banteng_Move_19.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{604,1437},{376,272}}</string>
+                <string>{{1839,1752},{289,289}}</string>
                 <key>offset</key>
-                <string>{146,-72}</string>
+                <string>{20,-47}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{376,272}}</string>
+                <string>{{0,0},{289,289}}</string>
                 <key>sourceSize</key>
-                <string>{376,272}</string>
+                <string>{295,291}</string>
             </dict>
-            <key>Pain_Skill05_39.png</key>
+            <key>Banteng_Move_20.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1208,621},{604,621}}</string>
+                <string>{{1063,1754},{295,291}}</string>
                 <key>offset</key>
-                <string>{228,-99}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{604,621}}</string>
+                <string>{{0,0},{295,291}}</string>
                 <key>sourceSize</key>
-                <string>{604,621}</string>
+                <string>{295,291}</string>
             </dict>
-            <key>Pain_Skill05_40.png</key>
+            <key>HumanPath_Idle_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{604,2058},{604,621}}</string>
+                <string>{{3983,158},{40,87}}</string>
                 <key>offset</key>
-                <string>{228,-99}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{604,621}}</string>
+                <string>{{0,0},{40,87}}</string>
                 <key>sourceSize</key>
-                <string>{604,621}</string>
+                <string>{40,87}</string>
             </dict>
-            <key>Pain_Skill05_41.png</key>
+            <key>HumanPath_NAttack_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{604,2679},{604,621}}</string>
+                <string>{{3727,1681},{54,81}}</string>
                 <key>offset</key>
-                <string>{228,-99}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{604,621}}</string>
+                <string>{{0,0},{54,81}}</string>
                 <key>sourceSize</key>
-                <string>{604,621}</string>
+                <string>{54,81}</string>
             </dict>
-            <key>Pain_Skill03_01.png</key>
+            <key>HumanPath_NAttack_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{604,3300},{471,286}}</string>
+                <string>{{3837,1968},{65,78}}</string>
                 <key>offset</key>
-                <string>{-2,-51}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{471,286}}</string>
+                <string>{{0,0},{65,78}}</string>
                 <key>sourceSize</key>
-                <string>{471,286}</string>
+                <string>{65,78}</string>
             </dict>
-            <key>Pain_Skill03_02.png</key>
+            <key>HumanPath_NAttack_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1066,3586},{471,286}}</string>
+                <string>{{1248,1362},{67,78}}</string>
                 <key>offset</key>
-                <string>{-2,-51}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{471,286}}</string>
+                <string>{{0,0},{67,78}}</string>
                 <key>sourceSize</key>
-                <string>{471,286}</string>
+                <string>{67,78}</string>
             </dict>
-            <key>Pain_Skill03_03.png</key>
+            <key>HumanPath_NAttack_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1075,3300},{471,286}}</string>
+                <string>{{3983,0},{48,83}}</string>
                 <key>offset</key>
-                <string>{-6,-51}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{471,286}}</string>
+                <string>{{0,0},{48,83}}</string>
                 <key>sourceSize</key>
-                <string>{471,286}</string>
+                <string>{48,83}</string>
             </dict>
-            <key>Pain_Skill01_05.png</key>
+            <key>HumanPath_NAttack_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1066,3872},{534,215}}</string>
+                <string>{{3832,1889},{54,79}}</string>
                 <key>offset</key>
-                <string>{6,-63}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{534,215}}</string>
+                <string>{{0,0},{54,79}}</string>
                 <key>sourceSize</key>
-                <string>{534,215}</string>
+                <string>{54,79}</string>
             </dict>
-            <key>Pain_Skill03_04.png</key>
+            <key>HumanPath_NAttack_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1537,3586},{471,286}}</string>
+                <string>{{3730,1735},{80,80}}</string>
                 <key>offset</key>
-                <string>{-6,-51}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{471,286}}</string>
+                <string>{{0,0},{80,80}}</string>
                 <key>sourceSize</key>
-                <string>{471,286}</string>
+                <string>{80,80}</string>
             </dict>
-            <key>Pain_Skill03_05.png</key>
+            <key>HumanPath_NAttack_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2008,3586},{471,286}}</string>
+                <string>{{2309,1526},{80,80}}</string>
                 <key>offset</key>
-                <string>{-6,-51}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{471,286}}</string>
+                <string>{{0,0},{80,80}}</string>
                 <key>sourceSize</key>
-                <string>{471,286}</string>
+                <string>{80,80}</string>
             </dict>
-            <key>Pain_Skill03_06.png</key>
+            <key>HumanPath_NAttack_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2479,3586},{471,286}}</string>
+                <string>{{2981,544},{47,81}}</string>
                 <key>offset</key>
-                <string>{-6,-51}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{471,286}}</string>
+                <string>{{0,0},{47,81}}</string>
                 <key>sourceSize</key>
-                <string>{471,286}</string>
+                <string>{47,81}</string>
             </dict>
-            <key>Pain_Skill01_06.png</key>
+            <key>HumanPath_NAttack_09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1600,3872},{534,215}}</string>
+                <string>{{3635,1856},{58,86}}</string>
                 <key>offset</key>
-                <string>{6,-63}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{534,215}}</string>
+                <string>{{0,0},{58,86}}</string>
                 <key>sourceSize</key>
-                <string>{534,215}</string>
+                <string>{58,86}</string>
             </dict>
-            <key>Pain_Skill01_08.png</key>
+            <key>HumanPath_NAttack_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2134,3872},{533,215}}</string>
+                <string>{{3893,1677},{66,78}}</string>
                 <key>offset</key>
-                <string>{19,-61}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{533,215}}</string>
+                <string>{{0,0},{66,78}}</string>
                 <key>sourceSize</key>
-                <string>{533,215}</string>
+                <string>{66,78}</string>
             </dict>
-            <key>Pain_Skill01_09.png</key>
+            <key>HumanPath_NAttack_11.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2667,3872},{533,215}}</string>
+                <string>{{3810,1751},{64,78}}</string>
                 <key>offset</key>
-                <string>{19,-61}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{533,215}}</string>
+                <string>{{0,0},{64,78}}</string>
                 <key>sourceSize</key>
-                <string>{533,215}</string>
+                <string>{64,78}</string>
             </dict>
-            <key>Pain_Skill01_10.png</key>
+            <key>HumanPath_Skill01_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3200,621},{533,215}}</string>
+                <string>{{3983,83},{48,75}}</string>
                 <key>offset</key>
-                <string>{19.5,-61}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{533,215}}</string>
+                <string>{{0,0},{48,75}}</string>
                 <key>sourceSize</key>
-                <string>{533,215}</string>
+                <string>{48,75}</string>
             </dict>
-            <key>Pain_Skill01_11.png</key>
+            <key>HumanPath_Skill01_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3200,836},{533,215}}</string>
+                <string>{{3812,1815},{74,74}}</string>
                 <key>offset</key>
-                <string>{9,-63}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{533,215}}</string>
+                <string>{{0,0},{74,74}}</string>
                 <key>sourceSize</key>
-                <string>{533,215}</string>
+                <string>{74,74}</string>
             </dict>
-            <key>Pain_Skill01_12.png</key>
+            <key>HumanPath_Skill01_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3200,1051},{533,215}}</string>
+                <string>{{3812,1602},{100,75}}</string>
                 <key>offset</key>
-                <string>{4,-63}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{533,215}}</string>
+                <string>{{0,0},{100,75}}</string>
                 <key>sourceSize</key>
-                <string>{533,215}</string>
+                <string>{100,75}</string>
             </dict>
-            <key>Pain_Skill01_13.png</key>
+            <key>HumanPath_Skill01_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3200,1266},{533,215}}</string>
+                <string>{{3730,1815},{82,75}}</string>
                 <key>offset</key>
-                <string>{9.5,-63}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{533,215}}</string>
+                <string>{{0,0},{82,75}}</string>
                 <key>sourceSize</key>
-                <string>{533,215}</string>
+                <string>{82,75}</string>
             </dict>
-            <key>Pain_Skill01_14.png</key>
+            <key>HumanPath_Skill01_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3200,1481},{533,215}}</string>
+                <string>{{3812,1677},{81,74}}</string>
                 <key>offset</key>
-                <string>{10,-63}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{533,215}}</string>
+                <string>{{0,0},{81,74}}</string>
                 <key>sourceSize</key>
-                <string>{533,215}</string>
+                <string>{81,74}</string>
             </dict>
-            <key>Pain_Skill01_15.png</key>
+            <key>HumanPath_Skill01_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3200,1696},{533,215}}</string>
+                <string>{{3938,1510},{83,74}}</string>
                 <key>offset</key>
-                <string>{10,-63}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{533,215}}</string>
+                <string>{{0,0},{83,74}}</string>
                 <key>sourceSize</key>
-                <string>{533,215}</string>
+                <string>{83,74}</string>
             </dict>
-            <key>Pain_Skill01_16.png</key>
+            <key>HumanPath_Walk_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3200,1911},{533,215}}</string>
+                <string>{{862,1379},{59,54}}</string>
                 <key>offset</key>
-                <string>{10,-63}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{533,215}}</string>
+                <string>{{0,0},{59,54}}</string>
                 <key>sourceSize</key>
-                <string>{533,215}</string>
+                <string>{59,54}</string>
             </dict>
-            <key>Pain_Skill01_17.png</key>
+            <key>HumanPath_Walk_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3200,2126},{533,215}}</string>
+                <string>{{2118,1108},{60,57}}</string>
                 <key>offset</key>
-                <string>{10,-63}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{533,215}}</string>
+                <string>{{0,0},{60,57}}</string>
                 <key>sourceSize</key>
-                <string>{533,215}</string>
+                <string>{60,57}</string>
             </dict>
-            <key>Pain_Skill01_18.png</key>
+            <key>HumanPath_Walk_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3200,2341},{533,215}}</string>
+                <string>{{3974,1584},{60,56}}</string>
                 <key>offset</key>
-                <string>{10,-63}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{533,215}}</string>
+                <string>{{0,0},{60,56}}</string>
                 <key>sourceSize</key>
-                <string>{533,215}</string>
+                <string>{60,56}</string>
             </dict>
-            <key>Pain_Skill01_19.png</key>
+            <key>HumanPath_Walk_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{3200,2556},{533,215}}</string>
+                <string>{{2118,1168},{59,57}}</string>
                 <key>offset</key>
-                <string>{10,-63}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{533,215}}</string>
+                <string>{{0,0},{59,57}}</string>
                 <key>sourceSize</key>
-                <string>{533,215}</string>
+                <string>{59,57}</string>
             </dict>
-            <key>Pain_Skill03_07.png</key>
+            <key>HumanPath_Walk_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1208,2771},{471,286}}</string>
+                <string>{{3932,869},{66,56}}</string>
                 <key>offset</key>
-                <string>{-6,-51}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{471,286}}</string>
+                <string>{{0,0},{66,56}}</string>
                 <key>sourceSize</key>
-                <string>{471,286}</string>
+                <string>{66,56}</string>
             </dict>
-            <key>Pain_Skill01_20.png</key>
+            <key>HumanPath_Walk_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1208,3057},{533,215}}</string>
+                <string>{{807,1379},{61,55}}</string>
                 <key>offset</key>
-                <string>{10,-63}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{533,215}}</string>
+                <string>{{0,0},{61,55}}</string>
                 <key>sourceSize</key>
-                <string>{533,215}</string>
+                <string>{61,55}</string>
             </dict>
-            <key>Pain_Skill03_08.png</key>
+            <key>JibakuEX_Boom_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1679,2771},{471,286}}</string>
+                <string>{{1563,908},{21,20}}</string>
                 <key>offset</key>
-                <string>{-6,-51}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{471,286}}</string>
+                <string>{{0,0},{21,20}}</string>
                 <key>sourceSize</key>
-                <string>{471,286}</string>
+                <string>{31,100}</string>
             </dict>
-            <key>Pain_Skill03_09.png</key>
+            <key>JibakuEX_Boom_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2150,2771},{471,286}}</string>
+                <string>{{3884,584},{42,45}}</string>
                 <key>offset</key>
-                <string>{-6,-51}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{471,286}}</string>
+                <string>{{0,0},{42,45}}</string>
                 <key>sourceSize</key>
-                <string>{471,286}</string>
+                <string>{42,109}</string>
             </dict>
-            <key>Pain_Skill03_10.png</key>
+            <key>JibakuEX_Boom_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1546,3272},{471,286}}</string>
+                <string>{{3583,358},{49,41}}</string>
                 <key>offset</key>
-                <string>{-6,-51}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{471,286}}</string>
+                <string>{{0,0},{49,41}}</string>
                 <key>sourceSize</key>
-                <string>{471,286}</string>
+                <string>{49,109}</string>
             </dict>
-            <key>Pain_Skill01_21.png</key>
+            <key>JibakuEX_Boom_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1741,3057},{533,215}}</string>
+                <string>{{3768,1890},{90,64}}</string>
                 <key>offset</key>
-                <string>{9,-63}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{533,215}}</string>
+                <string>{{0,0},{90,64}}</string>
                 <key>sourceSize</key>
-                <string>{533,215}</string>
+                <string>{92,116}</string>
             </dict>
-            <key>Pain_Skill03_11.png</key>
+            <key>JibakuEX_Boom_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2017,3272},{471,286}}</string>
+                <string>{{3750,1402},{110,68}}</string>
                 <key>offset</key>
-                <string>{-6,-51}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{471,286}}</string>
+                <string>{{0,0},{110,68}}</string>
                 <key>sourceSize</key>
-                <string>{471,286}</string>
+                <string>{116,120}</string>
             </dict>
-            <key>Pain_Skill03_12.png</key>
+            <key>JibakuEX_Boom_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2621,621},{471,286}}</string>
+                <string>{{3544,1848},{91,68}}</string>
                 <key>offset</key>
-                <string>{-6,-51}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{471,286}}</string>
+                <string>{{0,0},{91,68}}</string>
                 <key>sourceSize</key>
-                <string>{471,286}</string>
+                <string>{93,120}</string>
             </dict>
-            <key>Pain_Skill03_13.png</key>
+            <key>JibakuEX_Boom_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2621,907},{471,286}}</string>
+                <string>{{3888,1755},{70,62}}</string>
                 <key>offset</key>
-                <string>{-6,-51}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{471,286}}</string>
+                <string>{{0,0},{70,62}}</string>
                 <key>sourceSize</key>
-                <string>{471,286}</string>
+                <string>{70,120}</string>
             </dict>
-            <key>Pain_Skill03_14.png</key>
+            <key>JibakuEX_Boom_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2621,1193},{471,286}}</string>
+                <string>{{3583,358},{49,41}}</string>
                 <key>offset</key>
-                <string>{-6,-51}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{471,286}}</string>
+                <string>{{0,0},{49,41}}</string>
                 <key>sourceSize</key>
-                <string>{471,286}</string>
+                <string>{145,121}</string>
             </dict>
-            <key>Pain_Skill03_15.png</key>
+            <key>JibakuEX_Boom_09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2621,1479},{471,286}}</string>
+                <string>{{3705,1914},{91,63}}</string>
                 <key>offset</key>
-                <string>{-6,-51}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{471,286}}</string>
+                <string>{{0,0},{91,63}}</string>
                 <key>sourceSize</key>
-                <string>{471,286}</string>
+                <string>{145,121}</string>
             </dict>
-            <key>Pain_Skill03_16.png</key>
+            <key>JibakuEX_Boom_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2621,1765},{471,286}}</string>
+                <string>{{3959,925},{109,67}}</string>
                 <key>offset</key>
-                <string>{-6,-51}</string>
+                <string>{21,-47}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{471,286}}</string>
+                <string>{{0,0},{109,67}}</string>
                 <key>sourceSize</key>
-                <string>{471,286}</string>
+                <string>{145,121}</string>
             </dict>
-            <key>Pain_Skill03_17.png</key>
+            <key>JibakuEX_Boom_11.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2621,2051},{471,286}}</string>
+                <string>{{3959,1087},{91,67}}</string>
                 <key>offset</key>
-                <string>{-6,-51}</string>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{91,67}}</string>
+                <key>sourceSize</key>
+                <string>{145,121}</string>
+            </dict>
+            <key>JibakuEX_Boom_12.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2118,1045},{71,63}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{471,286}}</string>
+                <string>{{0,0},{71,63}}</string>
                 <key>sourceSize</key>
-                <string>{471,286}</string>
+                <string>{145,121}</string>
+            </dict>
+            <key>JibakuEX_Move_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{364,1405},{5,6}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{5,6}}</string>
+                <key>sourceSize</key>
+                <string>{5,100}</string>
+            </dict>
+            <key>JibakuEX_Move_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1243,929},{16,16}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{16,16}}</string>
+                <key>sourceSize</key>
+                <string>{16,100}</string>
+            </dict>
+            <key>JibakuEX_Move_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1968,1535},{19,18}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{19,18}}</string>
+                <key>sourceSize</key>
+                <string>{19,100}</string>
+            </dict>
+            <key>JibakuEX_Move_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3721,1890},{25,24}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{25,24}}</string>
+                <key>sourceSize</key>
+                <string>{25,100}</string>
+            </dict>
+            <key>JibakuEX_Move_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3584,2016},{31,32}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{31,32}}</string>
+                <key>sourceSize</key>
+                <string>{31,100}</string>
+            </dict>
+            <key>JibakuEX_Move_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1319,240},{17,17}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{17,17}}</string>
+                <key>sourceSize</key>
+                <string>{145,121}</string>
+            </dict>
+            <key>JibakuEX_Move_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1782,1554},{19,19}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{19,19}}</string>
+                <key>sourceSize</key>
+                <string>{145,121}</string>
+            </dict>
+            <key>JibakuEX_Move_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{708,1379},{61,99}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{61,99}}</string>
+                <key>sourceSize</key>
+                <string>{145,121}</string>
+            </dict>
+            <key>JibakuEX_Move_09.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3374,1927},{75,121}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{75,121}}</string>
+                <key>sourceSize</key>
+                <string>{145,121}</string>
+            </dict>
+            <key>JibakuEX_Move_10.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3297,1927},{77,121}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{77,121}}</string>
+                <key>sourceSize</key>
+                <string>{145,121}</string>
+            </dict>
+            <key>JibakuEX_Move_11.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1259,1261},{73,101}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{73,101}}</string>
+                <key>sourceSize</key>
+                <string>{145,121}</string>
+            </dict>
+            <key>JibakuEX_Move_12.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3818,1525},{77,103}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{77,103}}</string>
+                <key>sourceSize</key>
+                <string>{145,121}</string>
+            </dict>
+            <key>JibakuEX_Move_13.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3638,1914},{67,101}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{67,101}}</string>
+                <key>sourceSize</key>
+                <string>{145,121}</string>
+            </dict>
+            <key>JibakuRuin_Move_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2719,872},{284,262}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{284,262}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>JibakuRuin_Move_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3261,598},{306,276}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{306,276}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>JibakuRuin_Move_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{702,1440},{314,316}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{314,316}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>JibakuRuin_Move_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1243,595},{334,320}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{334,320}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>JibakuRuin_Move_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{388,712},{334,320}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{334,320}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>JibakuRuin_Move_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1585,908},{334,292}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{334,292}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>JibakuRuin_Move_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1880,240},{334,248}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{334,248}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>JibakuRuin_Move_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1332,1261},{326,240}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{326,240}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2433,548},{308,324}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{308,324}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1563,574},{316,334}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{316,334}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{364,1410},{338,344}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{338,344}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{909,612},{348,334}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{348,334}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1216,257},{338,338}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{338,338}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1554,240},{326,334}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{326,334}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1879,574},{326,310}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{326,310}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,681},{388,364}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{388,364}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_09.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{544,266},{352,346}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{352,346}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_10.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{374,1046},{334,364}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{334,364}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_11.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{921,960},{338,342}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{338,342}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_12.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1259,929},{332,326}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{332,326}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_13.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2446,240},{308,324}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{308,324}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_14.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,1405},{364,364}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{364,364}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_15.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3263,0},{358,366}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{358,366}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_16.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,307},{390,374}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{390,374}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_17.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,1045},{374,360}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{374,360}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_18.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1018,1440},{314,314}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{314,314}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_19.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3266,874},{278,276}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{278,276}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_20.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2189,545},{328,244}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{328,244}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_21.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2981,591},{280,284}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{280,284}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_22.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2128,225},{318,320}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{318,320}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_23.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3629,0},{354,346}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{354,346}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_24.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2893,0},{370,342}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{370,342}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_25.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,1769},{368,240}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{368,240}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_26.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2509,0},{384,240}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{384,240}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_27.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1719,0},{390,240}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{390,240}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_28.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1319,0},{400,240}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{400,240}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_29.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2741,548},{322,240}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{322,240}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_30.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3261,358},{322,240}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{322,240}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_31.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{741,1754},{322,292}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{322,292}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>Jibaku_Move_32.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2189,873},{238,240}}</string>
+                <key>offset</key>
+                <string>{21,-47}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{238,240}}</string>
+                <key>sourceSize</key>
+                <string>{400,400}</string>
+            </dict>
+            <key>PainTendo_Skill04_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,2009},{26,83}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{26,83}}</string>
+                <key>sourceSize</key>
+                <string>{26,83}</string>
+            </dict>
+            <key>PainTendo_Skill04_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3641,1738},{89,118}}</string>
+                <key>offset</key>
+                <string>{12,-23}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{89,118}}</string>
+                <key>sourceSize</key>
+                <string>{257,148}</string>
+            </dict>
+            <key>PainTendo_Skill04_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3820,1310},{205,100}}</string>
+                <key>offset</key>
+                <string>{69,-24}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{205,100}}</string>
+                <key>sourceSize</key>
+                <string>{257,148}</string>
+            </dict>
+            <key>PainTendo_Skill04_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3549,1916},{89,100}}</string>
+                <key>offset</key>
+                <string>{11,-24}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{89,100}}</string>
+                <key>sourceSize</key>
+                <string>{257,148}</string>
+            </dict>
+            <key>PainTendo_Skill04_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3444,1848},{79,100}}</string>
+                <key>offset</key>
+                <string>{6,-24}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{79,100}}</string>
+                <key>sourceSize</key>
+                <string>{257,148}</string>
+            </dict>
+            <key>PainTendo_Skill04_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3103,1609},{257,138}}</string>
+                <key>offset</key>
+                <string>{43,-43}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{257,138}}</string>
+                <key>sourceSize</key>
+                <string>{257,148}</string>
+            </dict>
+            <key>PainTendo_Skill04_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2175,1388},{257,138}}</string>
+                <key>offset</key>
+                <string>{43,-43}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{257,138}}</string>
+                <key>sourceSize</key>
+                <string>{257,148}</string>
+            </dict>
+            <key>PainTendo_Skill04_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3821,925},{257,138}}</string>
+                <key>offset</key>
+                <string>{43,-43}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{257,138}}</string>
+                <key>sourceSize</key>
+                <string>{257,148}</string>
+            </dict>
+            <key>PainTendo_Skill04_09.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3727,1581},{85,100}}</string>
+                <key>offset</key>
+                <string>{12,-24}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{85,100}}</string>
+                <key>sourceSize</key>
+                <string>{257,148}</string>
+            </dict>
+            <key>PainTendo_Skill04_10.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3938,1410},{93,100}}</string>
+                <key>offset</key>
+                <string>{16,-24}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{93,100}}</string>
+                <key>sourceSize</key>
+                <string>{257,148}</string>
+            </dict>
+            <key>PainTendo_Skill04_11.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3449,1927},{115,100}}</string>
+                <key>offset</key>
+                <string>{26,-24}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{115,100}}</string>
+                <key>sourceSize</key>
+                <string>{257,148}</string>
+            </dict>
+            <key>PainTendo_Skill04_12.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2770,240},{117,100}}</string>
+                <key>offset</key>
+                <string>{27,-24}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{117,100}}</string>
+                <key>sourceSize</key>
+                <string>{257,148}</string>
+            </dict>
+            <key>PainTendo_Skill04_13.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2529,1606},{127,100}}</string>
+                <key>offset</key>
+                <string>{32,-24}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{127,100}}</string>
+                <key>sourceSize</key>
+                <string>{257,148}</string>
+            </dict>
+            <key>PainTendo_Skill04_14.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3476,1738},{165,110}}</string>
+                <key>offset</key>
+                <string>{38,-19}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{165,110}}</string>
+                <key>sourceSize</key>
+                <string>{257,148}</string>
+            </dict>
+            <key>PainTendo_Skill04_15.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3297,1827},{147,100}}</string>
+                <key>offset</key>
+                <string>{43,-24}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{147,100}}</string>
+                <key>sourceSize</key>
+                <string>{257,148}</string>
+            </dict>
+            <key>PainTendo_Skill04_16.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{544,612},{147,100}}</string>
+                <key>offset</key>
+                <string>{43,-24}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{147,100}}</string>
+                <key>sourceSize</key>
+                <string>{257,148}</string>
+            </dict>
+            <key>PainTendo_Skill04_17.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3818,1410},{115,120}}</string>
+                <key>offset</key>
+                <string>{27,-24}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{115,120}}</string>
+                <key>sourceSize</key>
+                <string>{257,148}</string>
+            </dict>
+            <key>PainTendo_Skill04_18.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{390,307},{405,154}}</string>
+                <key>offset</key>
+                <string>{10,45}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{405,154}}</string>
+                <key>sourceSize</key>
+                <string>{405,354}</string>
+            </dict>
+            <key>PainTendo_Skill04_19.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{921,1302},{327,138}}</string>
+                <key>offset</key>
+                <string>{3,-11}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{327,138}}</string>
+                <key>sourceSize</key>
+                <string>{405,354}</string>
+            </dict>
+            <key>PainTendo_Skill04_20.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3820,1182},{211,128}}</string>
+                <key>offset</key>
+                <string>{2,-76}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{211,128}}</string>
+                <key>sourceSize</key>
+                <string>{405,354}</string>
+            </dict>
+            <key>PainTendo_Skill04_21.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3101,342},{249,160}}</string>
+                <key>offset</key>
+                <string>{2,-152}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{249,160}}</string>
+                <key>sourceSize</key>
+                <string>{405,354}</string>
+            </dict>
+            <key>PainTendo_Skill04_22.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2636,1859},{249,174}}</string>
+                <key>offset</key>
+                <string>{1,-145}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{249,174}}</string>
+                <key>sourceSize</key>
+                <string>{405,354}</string>
+            </dict>
+            <key>PainTendo_Skill04_23.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3252,1375},{249,176}}</string>
+                <key>offset</key>
+                <string>{1,-144}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{249,176}}</string>
+                <key>sourceSize</key>
+                <string>{405,354}</string>
+            </dict>
+            <key>PainTendo_Skill04_24.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3241,1551},{249,178}}</string>
+                <key>offset</key>
+                <string>{1,-143}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{249,178}}</string>
+                <key>sourceSize</key>
+                <string>{405,354}</string>
+            </dict>
+            <key>PainTendo_Skill04_25.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3501,1402},{249,170}}</string>
+                <key>offset</key>
+                <string>{1,-147}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{249,170}}</string>
+                <key>sourceSize</key>
+                <string>{405,354}</string>
+            </dict>
+            <key>PainTendo_Skill04_26.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3490,1572},{237,166}}</string>
+                <key>offset</key>
+                <string>{2,-146}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{237,166}}</string>
+                <key>sourceSize</key>
+                <string>{405,354}</string>
+            </dict>
+            <key>PainTendo_Skill04_27.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2885,1808},{237,190}}</string>
+                <key>offset</key>
+                <string>{2,-134}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{237,190}}</string>
+                <key>sourceSize</key>
+                <string>{405,354}</string>
+            </dict>
+            <key>PainTendo_Skill04_28.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3241,1729},{235,98}}</string>
+                <key>offset</key>
+                <string>{2,-177}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{235,98}}</string>
+                <key>sourceSize</key>
+                <string>{405,354}</string>
+            </dict>
+            <key>PainTendo_Skill04_29.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3935,346},{235,96}}</string>
+                <key>offset</key>
+                <string>{2,-178}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{235,96}}</string>
+                <key>sourceSize</key>
+                <string>{405,354}</string>
+            </dict>
+            <key>PretaPath_Idle_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3884,511},{45,73}}</string>
+                <key>offset</key>
+                <string>{2,-178}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{45,73}}</string>
+                <key>sourceSize</key>
+                <string>{45,73}</string>
+            </dict>
+            <key>PretaPath_Skill01_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3959,1034},{53,72}}</string>
+                <key>offset</key>
+                <string>{2,-178}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{53,72}}</string>
+                <key>sourceSize</key>
+                <string>{53,72}</string>
+            </dict>
+            <key>PretaPath_Skill01_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3886,1817},{68,69}}</string>
+                <key>offset</key>
+                <string>{2,-178}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{68,69}}</string>
+                <key>sourceSize</key>
+                <string>{68,69}</string>
+            </dict>
+            <key>PretaPath_Skill01_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3750,1512},{68,69}}</string>
+                <key>offset</key>
+                <string>{2,-178}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{68,69}}</string>
+                <key>sourceSize</key>
+                <string>{68,69}</string>
+            </dict>
+            <key>PretaPath_Skill01_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3932,581},{288,80}}</string>
+                <key>offset</key>
+                <string>{2,-178}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{288,80}}</string>
+                <key>sourceSize</key>
+                <string>{306,82}</string>
+            </dict>
+            <key>PretaPath_Skill01_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3856,635},{290,76}}</string>
+                <key>offset</key>
+                <string>{2,-178}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{290,76}}</string>
+                <key>sourceSize</key>
+                <string>{306,82}</string>
+            </dict>
+            <key>PretaPath_Skill01_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3629,346},{306,82}}</string>
+                <key>offset</key>
+                <string>{2,-178}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{306,82}}</string>
+                <key>sourceSize</key>
+                <string>{306,82}</string>
+            </dict>
+            <key>PretaPath_Walk_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3886,1885},{68,65}}</string>
+                <key>offset</key>
+                <string>{2,-178}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{68,65}}</string>
+                <key>sourceSize</key>
+                <string>{68,65}</string>
+            </dict>
+            <key>PretaPath_Walk_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3959,1670},{59,67}}</string>
+                <key>offset</key>
+                <string>{2,-178}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{59,67}}</string>
+                <key>sourceSize</key>
+                <string>{59,67}</string>
+            </dict>
+            <key>PretaPath_Walk_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3902,1950},{59,68}}</string>
+                <key>offset</key>
+                <string>{2,-178}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{59,68}}</string>
+                <key>sourceSize</key>
+                <string>{59,68}</string>
+            </dict>
+            <key>PretaPath_Walk_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3912,1602},{62,68}}</string>
+                <key>offset</key>
+                <string>{2,-178}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{62,68}}</string>
+                <key>sourceSize</key>
+                <string>{62,68}</string>
+            </dict>
+            <key>PretaPath_Walk_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3768,1980},{69,68}}</string>
+                <key>offset</key>
+                <string>{2,-178}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{69,68}}</string>
+                <key>sourceSize</key>
+                <string>{69,68}</string>
+            </dict>
+            <key>PretaPath_Walk_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3959,1737},{60,67}}</string>
+                <key>offset</key>
+                <string>{2,-178}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{60,67}}</string>
+                <key>sourceSize</key>
+                <string>{60,67}</string>
+            </dict>
+            <key>Rocket_Move_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1585,1242},{73,19}}</string>
+                <key>offset</key>
+                <string>{0,24}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{73,19}}</string>
+                <key>sourceSize</key>
+                <string>{73,67}</string>
+            </dict>
+            <key>Rocket_Move_01_1.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{691,612},{67,17}}</string>
+                <key>offset</key>
+                <string>{3,25}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{6,0},{67,17}}</string>
+                <key>sourceSize</key>
+                <string>{73,67}</string>
+            </dict>
+            <key>Rocket_Move_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3075,1808},{29,28}}</string>
+                <key>offset</key>
+                <string>{0,17}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{22,9},{29,28}}</string>
+                <key>sourceSize</key>
+                <string>{73,80}</string>
+            </dict>
+            <key>Rocket_Move_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2389,1526},{43,38}}</string>
+                <key>offset</key>
+                <string>{1,18}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{16,3},{43,38}}</string>
+                <key>sourceSize</key>
+                <string>{73,80}</string>
+            </dict>
+            <key>Rocket_Move_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{498,266},{41,42}}</string>
+                <key>offset</key>
+                <string>{2,14}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{18,5},{41,42}}</string>
+                <key>sourceSize</key>
+                <string>{73,80}</string>
+            </dict>
+            <key>Rocket_Move_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3549,2016},{35,32}}</string>
+                <key>offset</key>
+                <string>{-1,18}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{18,6},{35,32}}</string>
+                <key>sourceSize</key>
+                <string>{73,80}</string>
+            </dict>
+            <key>Six_Path_Of_Pain_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1968,1237},{298,207}}</string>
+                <key>offset</key>
+                <string>{-3,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{298,207}}</string>
+                <key>sourceSize</key>
+                <string>{298,207}</string>
+            </dict>
+            <key>Six_Path_Of_Pain_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{921,0},{398,257}}</string>
+                <key>offset</key>
+                <string>{-3,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{398,257}}</string>
+                <key>sourceSize</key>
+                <string>{398,257}</string>
+            </dict>
+            <key>Six_Path_Of_Pain_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,0},{498,307}}</string>
+                <key>offset</key>
+                <string>{-3,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{498,307}}</string>
+                <key>sourceSize</key>
+                <string>{498,307}</string>
+            </dict>
+            <key>Six_Path_Of_Pain_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1877,1045},{192,241}}</string>
+                <key>offset</key>
+                <string>{82,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{192,241}}</string>
+                <key>sourceSize</key>
+                <string>{192,241}</string>
+            </dict>
+            <key>Six_Path_Of_Pain_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{708,612},{400,201}}</string>
+                <key>offset</key>
+                <string>{-52,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{400,201}}</string>
+                <key>sourceSize</key>
+                <string>{400,201}</string>
+            </dict>
+            <key>Six_Path_Of_Pain_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{896,266},{346,320}}</string>
+                <key>offset</key>
+                <string>{-29,-159}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{346,320}}</string>
+                <key>sourceSize</key>
+                <string>{346,320}</string>
+            </dict>
+            <key>Six_Path_Of_Pain_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{498,0},{266,423}}</string>
+                <key>offset</key>
+                <string>{-19,-119}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{266,423}}</string>
+                <key>sourceSize</key>
+                <string>{266,423}</string>
+            </dict>
+            <key>Six_Path_Of_Pain_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2109,0},{225,400}}</string>
+                <key>offset</key>
+                <string>{-28,-146}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{225,400}}</string>
+                <key>sourceSize</key>
+                <string>{225,400}</string>
+            </dict>
+            <key>Six_Path_Of_Pain_09.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1332,1587},{165,310}}</string>
+                <key>offset</key>
+                <string>{-28,-106}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{165,310}}</string>
+                <key>sourceSize</key>
+                <string>{165,310}</string>
+            </dict>
+            <key>Six_Path_Of_Pain_10.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3075,1866},{180,222}}</string>
+                <key>offset</key>
+                <string>{9,-68}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{180,222}}</string>
+                <key>sourceSize</key>
+                <string>{180,222}</string>
+            </dict>
+            <key>Six_Path_Of_Pain_11.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2432,1378},{257,228}}</string>
+                <key>offset</key>
+                <string>{17,-108}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{257,228}}</string>
+                <key>sourceSize</key>
+                <string>{257,228}</string>
+            </dict>
+            <key>Six_Path_Of_Pain_12.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3583,428},{301,207}}</string>
+                <key>offset</key>
+                <string>{45,-47}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{301,207}}</string>
+                <key>sourceSize</key>
+                <string>{301,207}</string>
+            </dict>
+            <key>Six_Path_Of_Pain_13.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{708,1012},{213,367}}</string>
+                <key>offset</key>
+                <string>{-28,-167}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{213,367}}</string>
+                <key>sourceSize</key>
+                <string>{213,367}</string>
+            </dict>
+            <key>Six_Path_Of_Pain_14.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1572,1261},{210,320}}</string>
+                <key>offset</key>
+                <string>{91,-147}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{210,320}}</string>
+                <key>sourceSize</key>
+                <string>{210,320}</string>
+            </dict>
+            <key>Six_Path_Of_Pain_15.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2433,872},{286,273}}</string>
+                <key>offset</key>
+                <string>{3,-60}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{286,273}}</string>
+                <key>sourceSize</key>
+                <string>{286,273}</string>
+            </dict>
+            <key>Six_Path_Of_Pain_16.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1801,1554},{259,198}}</string>
+                <key>offset</key>
+                <string>{19,-11}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{259,198}}</string>
+                <key>sourceSize</key>
+                <string>{259,200}</string>
+            </dict>
+            <key>Six_Path_Of_Pain_17.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2060,1535},{217,249}}</string>
+                <key>offset</key>
+                <string>{29,-99}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{217,249}}</string>
+                <key>sourceSize</key>
+                <string>{217,249}</string>
+            </dict>
+            <key>Six_Path_Of_Pain_18.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2636,1608},{213,251}}</string>
+                <key>offset</key>
+                <string>{1,-59}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{213,251}}</string>
+                <key>sourceSize</key>
+                <string>{213,251}</string>
+            </dict>
+            <key>Six_Path_Of_Pain_19.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2426,1145},{233,276}}</string>
+                <key>offset</key>
+                <string>{-38,-34}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{233,276}}</string>
+                <key>sourceSize</key>
+                <string>{233,276}</string>
+            </dict>
+            <key>Six_Path_Of_Pain_20.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{368,1754},{294,174}}</string>
+                <key>offset</key>
+                <string>{-57,-74}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{294,174}}</string>
+                <key>sourceSize</key>
+                <string>{294,174}</string>
+            </dict>
+            <key>Six_Path_Of_Pain_21.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2849,1609},{199,254}}</string>
+                <key>offset</key>
+                <string>{19,-114}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{199,254}}</string>
+                <key>sourceSize</key>
+                <string>{199,254}</string>
+            </dict>
+            <key>Six_Path_Of_Pain_22.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1879,900},{145,299}}</string>
+                <key>offset</key>
+                <string>{-37,-119}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{145,299}}</string>
+                <key>sourceSize</key>
+                <string>{145,299}</string>
+            </dict>
+            <key>Six_Path_Of_Pain_23.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2309,1606},{146,220}}</string>
+                <key>offset</key>
+                <string>{-38,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{146,220}}</string>
+                <key>sourceSize</key>
+                <string>{146,220}</string>
+            </dict>
+            <key>Six_Path_Of_Pain_24.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3884,428},{49,83}}</string>
+                <key>offset</key>
+                <string>{10,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{49,83}}</string>
+                <key>sourceSize</key>
+                <string>{49,83}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -729,9 +2365,9 @@
             <key>realTextureFileName</key>
             <string>Pain_Skill.png</string>
             <key>size</key>
-            <string>{4086,4089}</string>
+            <string>{4031,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:2232e9feb0cdebda3cc4210877a4bec8$</string>
+            <string>Author:MadeByseven$SmartUpdate:Mon Dec 12 14:34:11 2022$</string>
             <key>textureFileName</key>
             <string>Pain_Skill.png</string>
         </dict>
