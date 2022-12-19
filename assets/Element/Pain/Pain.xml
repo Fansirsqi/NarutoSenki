@@ -26,6 +26,7 @@
             <frameName>Pain_Idle_07.png</frameName>
             <frameName>Pain_Idle_08.png</frameName>
             <frameName>Pain_Idle_01.png</frameName>
+            <eventName type="setSound">Audio/Pain/yitamiyoxile.mp3</eventName>
             <frameName>Pain_Idle_02.png</frameName>
             <frameName>Pain_Idle_03.png</frameName>
             <frameName>Pain_Idle_04.png</frameName>
@@ -47,29 +48,29 @@
     <action value="Walk">
         <frame>
             <frameName>Pain_Walk_01.png</frameName>
-            
+
             <eventName type="setChargeB">10</eventName>
 
             <frameName>Pain_Walk_02.png</frameName>
             <eventName type="setSound">Audio/Effect/Walk01.mp3</eventName>
-            
+
             <eventName type="setChargeB">10</eventName>
 
             <frameName>Pain_Walk_03.png</frameName>
-            
+
             <eventName type="setChargeB">10</eventName>
 
             <frameName>Pain_Walk_04.png</frameName>
-            
+
             <eventName type="setChargeB">10</eventName>
 
             <frameName>Pain_Walk_05.png</frameName>
-            
+
             <eventName type="setChargeB">10</eventName>
 
             <eventName type="setSound">Audio/Effect/Walk02.mp3</eventName>
             <frameName>Pain_Walk_06.png</frameName>
-            
+
             <eventName type="setChargeB">10</eventName>
 
         </frame>
@@ -304,6 +305,8 @@
             <coldName type="coldDown">1</coldName>
         </date>
         <frame>
+            <eventName type="setSound">Audio/Pain/yitamiyoxile.mp3</eventName>
+            <eventName type="setDelay">30</eventName>
             <frameName>Pain_Skill04_01.png</frameName>
             <frameName>Pain_Skill04_02.png</frameName>
             <eventName type="setSound">Audio/Pain/Pain_wxtyEx.mp3</eventName>

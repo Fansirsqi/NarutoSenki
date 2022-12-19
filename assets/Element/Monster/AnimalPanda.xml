@@ -127,6 +127,7 @@
             <eventName type="setCommand">setTransport</eventName>
             <frameName>Panda_Move_00.png</frameName>
             <frameName>Panda_Move_01.png</frameName>
+            <eventName type="setSound">Audio/Nagato/Panda.mp3</eventName>
             <frameName>Panda_Move_02.png</frameName>
             <eventName type="setAttackBox">b_hit</eventName>
             <frameName>Panda_Move_03.png</frameName>

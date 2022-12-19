@@ -102,7 +102,6 @@
         <frame>
             <frameName>Nagato_KnockDown_01.png</frameName>
             <frameName>Nagato_KnockDown_02.png</frameName>
-            <eventName type="setSound">Audio/Nagato/Nagato_dead.mp3</eventName>
             <eventName type="setBullet">setRelive</eventName>
             <eventName type="setSound">Audio/Nagato/relive.mp3</eventName>
         </frame>
@@ -278,7 +277,7 @@
             <frameName>Nagato_Skill01_01.png</frameName>
             <frameName>Nagato_Skill01_02.png</frameName>
             <frameName>Nagato_Skill01_03.png</frameName>
-            <eventName type="setSound">Audio/Nagato/Skill1.mp3</eventName>
+            <eventName type="setSound">Audio/Nagato/saseka.mp3</eventName>
             <frameName>Nagato_Skill01_04.png</frameName>
             <eventName type="setMon">Yominuma</eventName>
             <frameName>Nagato_Skill01_05.png</frameName>

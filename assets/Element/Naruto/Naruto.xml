@@ -90,7 +90,7 @@
             <frameName>Naruto_NAttack_01.png</frameName>
             <frameName>Naruto_NAttack_02.png</frameName>
             <eventName type="setSound">Audio/Naruto/combo1.mp3</eventName>
-            <eventName type="setSound">Audio/Naruto/Bijudama.wav</eventName>
+            <eventName type="setSound">Audio/Naruto/Bijudamamp3</eventName>
             <eventName type="setAttackBox">n_hit</eventName>
             <frameName>Naruto_NAttack_03.png</frameName>
             <frameName>Naruto_NAttack_04.png</frameName>
@@ -100,7 +100,7 @@
             <frameName>Naruto_NAttack_06.png</frameName>
             <frameName>Naruto_NAttack_07.png</frameName>
             <eventName type="setSound">Audio/Naruto/combo2.mp3</eventName>
-            <eventName type="setSound">Audio/Naruto/Bijudama.wav</eventName>
+            <eventName type="setSound">Audio/Naruto/Bijudamamp3</eventName>
             <eventName type="setAttackBox">n_hit</eventName>
             <frameName>Naruto_NAttack_08.png</frameName>
             <eventName type="setCharge">8</eventName>
@@ -115,7 +115,7 @@
             <eventName type="setAttackBox">n_hit</eventName>
             <eventName type="setAttackBox">a_hit</eventName>
             <eventName type="setSound">Audio/Naruto/combo3.mp3</eventName>
-            <eventName type="setSound">Audio/Naruto/Bijudama.wav</eventName>
+            <eventName type="setSound">Audio/Naruto/Bijudamamp3</eventName>
             <eventName type="setCharge">8</eventName>
             <frameName>Naruto_NAttack_15.png</frameName>
             <eventName type="setAttackBox">a_hit</eventName>
@@ -302,7 +302,7 @@
 
             <!-- 究极突进 -->
             <frameName>NarutoRasenShurikenBurts_01.png</frameName>
-            <eventName type="setSound">Audio/Naruto/Rasen1.wav</eventName>
+            <eventName type="setSound">Audio/Naruto/Rasen1mp3</eventName>
             <eventName type="setAttackBox">b_hit</eventName>
             <frameName>NarutoRasenShurikenBurts_02.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
@@ -323,10 +323,10 @@
             <eventName type="setSound">Audio/Naruto/break_sound3.mp3</eventName>
             <eventName type="setAttackBox">ab_hit</eventName>
             <frameName>NarutoRasenShurikenExp_02.png</frameName>
-            <eventName type="setSound">Audio/Naruto/Rasen.wav</eventName>
+            <eventName type="setSound">Audio/Naruto/Rasenmp3</eventName>
             <eventName type="setAttackBox">s_hit</eventName>
             <frameName>NarutoRasenShurikenExp_03.png</frameName>
-            <eventName type="setSound">Audio/Naruto/Rasen2.wav</eventName>
+            <eventName type="setSound">Audio/Naruto/Rasen2mp3</eventName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>NarutoRasenShurikenExp_04.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
@@ -364,7 +364,7 @@
             <frameName>NarutoGettingKyubi_07.png</frameName>
             <!-- 冲刺 -->
             <frameName>NarutoKyubiDash_01.png</frameName>
-            <eventName type="setSound">Audio/Naruto/Ciah.wav</eventName>
+            <eventName type="setSound">Audio/Naruto/Ciahmp3</eventName>
             <eventName type="setCharge">100</eventName>
             <!-- 狂暴7连击 -->
             <frameName>NarutoKyubiChakraAttack_01.png</frameName>
@@ -390,7 +390,7 @@
             <!--
       <eventName type="setSound">Audio/Naruto/Teleport.mp3</eventName>
       <frameName>NarutoKyubiSmallBijuDamaIsComing_01.png</frameName>
-      <eventName type="setSound">Audio/Naruto/Monster.wav</eventName>
+      <eventName type="setSound">Audio/Naruto/Monstermp3</eventName>
       <eventName type="setAttackBox">o_hit</eventName>
       <frameName>NarutoKyubiSmallBijuDamaIsComing_02.png</frameName>
       <eventName type="setAttackBox">o_hit</eventName>
@@ -401,7 +401,7 @@
       <frameName>NarutoKyubiSmallBijuDamaIsComing_06.png</frameName>
 
       <frameName>NarutoKyubiSmallBijuDama_01.png</frameName>
-      <eventName type="setSound">Audio/Naruto/EffSkill08.wav</eventName>
+      <eventName type="setSound">Audio/Naruto/EffSkill08mp3</eventName>
       <eventName type="setAttackBox">ab_hit</eventName>
       <frameName>NarutoKyubiSmallBijuDama_02.png</frameName>
       <eventName type="setAttackBox">ab_hit</eventName>
@@ -414,7 +414,7 @@
       <frameName>NarutoKyubiSmallBijuDama_06.png</frameName>
       <eventName type="setAttackBox">b_hit</eventName>
       <frameName>NarutoKyubiSmallBijuDamaComingToExp_01.png</frameName>
-      <eventName type="setSound">Audio/Naruto/EffSkill01.wav</eventName>
+      <eventName type="setSound">Audio/Naruto/EffSkill01mp3</eventName>
       <eventName type="setAttackBox">o_hit</eventName>
       <frameName>NarutoKyubiSmallBijuDamaComingToExp_02.png</frameName>
       <eventName type="setAttackBox">o_hit</eventName>
@@ -423,7 +423,7 @@
       <frameName>NarutoKyubiSmallBijuDamaComingToExp_04.png</frameName>
       <frameName>NarutoKyubiSmallBijuDamaExp1to2_01.png</frameName>
       <eventName type="setAttackBox">b_hit</eventName>
-      <eventName type="setSound">Audio/Naruto/Deg.wav</eventName>
+      <eventName type="setSound">Audio/Naruto/Degmp3</eventName>
       <frameName>NarutoKyubiSmallBijuDamaExp1to2_02.png</frameName>
       <eventName type="setAttackBox">b_hit</eventName>
       <eventName type="setSound">Audio/Naruto/break_sound3.mp3</eventName>
@@ -464,9 +464,9 @@
             <frameName>NarutoHabdSeal_03.png</frameName>
             <frameName>NarutoHabdSeal_04.png</frameName>
             <frameName>NarutoFiveBunshin_01.png</frameName>
-            <eventName type="setSound">Audio/Naruto/BreakSound01.wav</eventName>
+            <eventName type="setSound">Audio/Naruto/BreakSound01mp3</eventName>
             <eventName type="setAttackBox">a_hit</eventName>
-            <eventName type="setSound">Audio/Naruto/BreakSound02.wav</eventName>
+            <eventName type="setSound">Audio/Naruto/BreakSound02mp3</eventName>
             <frameName>NarutoFiveBunshin_02.png</frameName>
             <eventName type="setAttackBox">b_hit</eventName>
             <frameName>NarutoFiveBunshin_03.png</frameName>

@@ -906,11 +906,11 @@
                 <key>frame</key>
                 <string>{{2719,872},{284,262}}</string>
                 <key>offset</key>
-                <string>{21,-47}</string>
+                <string>{58,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{284,262}}</string>
+                <string>{{0,0},{400,400}}</string>
                 <key>sourceSize</key>
                 <string>{400,400}</string>
             </dict>
@@ -919,11 +919,11 @@
                 <key>frame</key>
                 <string>{{3261,598},{306,276}}</string>
                 <key>offset</key>
-                <string>{21,-47}</string>
+                <string>{0,58}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{306,276}}</string>
+                <string>{{0,0},{400,400}}</string>
                 <key>sourceSize</key>
                 <string>{400,400}</string>
             </dict>
@@ -932,11 +932,11 @@
                 <key>frame</key>
                 <string>{{702,1440},{314,316}}</string>
                 <key>offset</key>
-                <string>{21,-47}</string>
+                <string>{58,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{314,316}}</string>
+                <string>{{0,0},{400,400}}</string>
                 <key>sourceSize</key>
                 <string>{400,400}</string>
             </dict>
@@ -945,11 +945,11 @@
                 <key>frame</key>
                 <string>{{1243,595},{334,320}}</string>
                 <key>offset</key>
-                <string>{21,-47}</string>
+               <string>{58,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{334,320}}</string>
+                <string>{{0,0},{400,400}}</string>
                 <key>sourceSize</key>
                 <string>{400,400}</string>
             </dict>
@@ -958,11 +958,11 @@
                 <key>frame</key>
                 <string>{{388,712},{334,320}}</string>
                 <key>offset</key>
-                <string>{21,-47}</string>
+                <string>{58,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{334,320}}</string>
+                <string>{{0,0},{400,400}}</string>
                 <key>sourceSize</key>
                 <string>{400,400}</string>
             </dict>
@@ -971,11 +971,11 @@
                 <key>frame</key>
                 <string>{{1585,908},{334,292}}</string>
                 <key>offset</key>
-                <string>{21,-47}</string>
+                <string>{58,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{334,292}}</string>
+                <string>{{0,0},{400,400}}</string>
                 <key>sourceSize</key>
                 <string>{400,400}</string>
             </dict>
@@ -984,11 +984,11 @@
                 <key>frame</key>
                 <string>{{1880,240},{334,248}}</string>
                 <key>offset</key>
-                <string>{21,-47}</string>
+               <string>{58,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{334,248}}</string>
+                <string>{{0,0},{400,400}}</string>
                 <key>sourceSize</key>
                 <string>{400,400}</string>
             </dict>
@@ -997,11 +997,11 @@
                 <key>frame</key>
                 <string>{{1332,1261},{326,240}}</string>
                 <key>offset</key>
-                <string>{21,-47}</string>
+               <string>{58,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{326,240}}</string>
+                <string>{{0,0},{400,400}}</string>
                 <key>sourceSize</key>
                 <string>{400,400}</string>
             </dict>
