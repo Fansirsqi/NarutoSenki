@@ -24,29 +24,29 @@
     <action value="Walk">
         <frame>
             <frameName>Nagato_Walk_01.png</frameName>
-            
+
             <eventName type="setChargeB">10</eventName>
 
             <frameName>Nagato_Walk_02.png</frameName>
-            
+
             <eventName type="setChargeB">10</eventName>
 
             <eventName type="setSound">Audio/Effect/Walk02.mp3</eventName>
             <frameName>Nagato_Walk_03.png</frameName>
-            
+
             <eventName type="setChargeB">10</eventName>
 
             <frameName>Nagato_Walk_04.png</frameName>
-            
+
             <eventName type="setChargeB">10</eventName>
 
             <frameName>Nagato_Walk_05.png</frameName>
-            
+
             <eventName type="setChargeB">10</eventName>
 
             <eventName type="setSound">Audio/Effect/Walk01.mp3</eventName>
             <frameName>Nagato_Walk_06.png</frameName>
-            
+
             <eventName type="setChargeB">10</eventName>
 
 
@@ -83,6 +83,7 @@
             <eventName type="setDelay">160</eventName>
             <frameName>Nagato_KnockDown_03.png</frameName>
             <frameName>Nagato_Skill00_05.png</frameName>
+            <eventName type="setMon">AnimalPathBanteng</eventName>
             <frameName>Nagato_Skill00_06.png</frameName>
             <eventName type="setCommand">addHP</eventName>
         </frame>
@@ -116,17 +117,9 @@
             <coldName type="coldDown">0</coldName>
         </date>
         <frame>
-
-
-
-
-
-            <!-- <eventName type="setMon">PretaPath</eventName> -->
-            <!-- <eventName type="setMon">HumanPath</eventName> -->
             <frameName>Nagato_F0_01.png</frameName>
             <frameName>Nagato_NAttack_01.png</frameName>
             <eventName type="setSound">Audio/Nagato/A1.mp3</eventName>
-
             <frameName>Nagato_NAttack_02.png</frameName>
             <frameName>Nagato_NAttack_03.png</frameName>
             <frameName>Nagato_F0_02.png</frameName>
@@ -135,7 +128,6 @@
             <frameName>Nagato_F0_01.png</frameName>
             <eventName type="setSound">Audio/Nagato/A2.mp3</eventName>
             <frameName>Nagato_NAttack_04.png</frameName>
-            <eventName type="setMon">AnimalPathBanteng</eventName>
             <frameName>Nagato_NAttack_05.png</frameName>
             <frameName>Nagato_NAttack_06.png</frameName>
             <eventName type="setAttackBox">n_hit</eventName>
@@ -148,34 +140,30 @@
             <frameName>Nagato_NAttack_07.png</frameName>
             <eventName type="setDelay">0</eventName>
             <eventName type="setCharge">20</eventName>
-
-
             <eventName type="setSound">Audio/Nagato/A3.mp3</eventName>
             <frameName>Nagato_NAttack_08.png</frameName>
-            <eventName type="setAttackBox">n_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <eventName type="setDelay">0</eventName>
             <eventName type="setCharge">20</eventName>
             <frameName>Nagato_NAttack_09.png</frameName>
             <eventName type="setDelay">0</eventName>
             <eventName type="setCharge">20</eventName>
             <frameName>Nagato_NAttack_10.png</frameName>
-            <eventName type="setAttackBox">n_hit</eventName>
+            <eventName type="setAttackBox">b_hit</eventName>
             <eventName type="setDelay">0</eventName>
             <eventName type="setCharge">20</eventName>
-
-
             <frameName>Nagato_NAttack_11.png</frameName>
             <eventName type="setDelay">0</eventName>
             <eventName type="setCharge">20</eventName>
             <frameName>Nagato_NAttack_12.png</frameName>
-            <eventName type="setAttackBox">n_hit</eventName>
+            <eventName type="setAttackBox">bl_hit</eventName>
             <eventName type="setDelay">0</eventName>
             <eventName type="setCharge">20</eventName>
             <frameName>Nagato_NAttack_13.png</frameName>
             <eventName type="setDelay">0</eventName>
             <eventName type="setCharge">10</eventName>
             <frameName>Nagato_NAttack_14.png</frameName>
-            <eventName type="setAttackBox">n_hit</eventName>
+            <eventName type="setAttackBox">b_hit</eventName>
             <eventName type="setDelay">0</eventName>
             <frameName>Nagato_NAttack_15.png</frameName>
             <eventName type="setDelay">0</eventName>
@@ -183,13 +171,189 @@
             <eventName type="setAttackBox">n_hit</eventName>
             <eventName type="setDelay">0</eventName>
             <frameName>Nagato_NAttack_17.png</frameName>
+            <eventName type="setAttackBox">b_hit</eventName>
+            <eventName type="setDelay">0</eventName>
+            <frameName>Nagato_NAttack_18.png</frameName>
             <eventName type="setAttackBox">n_hit</eventName>
+            <eventName type="setDelay">0</eventName>
+            <frameName>Nagato_F0_01.png</frameName>
+            <frameName>Nagato_NAttack_01.png</frameName>
+            <eventName type="setSound">Audio/Nagato/A1.mp3</eventName>
+            <frameName>Nagato_NAttack_02.png</frameName>
+            <frameName>Nagato_NAttack_03.png</frameName>
+            <frameName>Nagato_F0_02.png</frameName>
+            <frameName>Nagato_F0_03.png</frameName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <frameName>Nagato_F0_01.png</frameName>
+            <eventName type="setSound">Audio/Nagato/A2.mp3</eventName>
+            <frameName>Nagato_NAttack_04.png</frameName>
+            <frameName>Nagato_NAttack_05.png</frameName>
+            <frameName>Nagato_NAttack_06.png</frameName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <frameName>Nagato_F0_04.png</frameName>
+            <frameName>Nagato_F0_05.png</frameName>
+            <eventName type="setDelay">0</eventName>
+            <frameName>Nagato_F0_06.png</frameName>
+            <eventName type="setDelay">0</eventName>
+            <eventName type="setCharge">20</eventName>
+            <frameName>Nagato_NAttack_07.png</frameName>
+            <eventName type="setDelay">0</eventName>
+            <eventName type="setCharge">20</eventName>
+            <eventName type="setSound">Audio/Nagato/A3.mp3</eventName>
+            <frameName>Nagato_NAttack_08.png</frameName>
+            <eventName type="setAttackBox">bl_hit</eventName>
+            <eventName type="setDelay">0</eventName>
+            <eventName type="setCharge">20</eventName>
+            <frameName>Nagato_NAttack_09.png</frameName>
+            <eventName type="setDelay">0</eventName>
+            <eventName type="setCharge">20</eventName>
+            <frameName>Nagato_NAttack_10.png</frameName>
+            <eventName type="setAttackBox">b_hit</eventName>
+            <eventName type="setDelay">0</eventName>
+            <eventName type="setCharge">20</eventName>
+            <frameName>Nagato_NAttack_11.png</frameName>
+            <eventName type="setDelay">0</eventName>
+            <eventName type="setCharge">20</eventName>
+            <frameName>Nagato_NAttack_12.png</frameName>
+            <eventName type="setAttackBox">bl_hit</eventName>
+            <eventName type="setDelay">0</eventName>
+            <eventName type="setCharge">20</eventName>
+            <frameName>Nagato_NAttack_13.png</frameName>
+            <eventName type="setDelay">0</eventName>
+            <eventName type="setCharge">10</eventName>
+            <frameName>Nagato_NAttack_14.png</frameName>
+            <eventName type="setAttackBox">b_hit</eventName>
+            <eventName type="setDelay">0</eventName>
+            <frameName>Nagato_NAttack_15.png</frameName>
+            <eventName type="setDelay">0</eventName>
+            <frameName>Nagato_NAttack_16.png</frameName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <eventName type="setDelay">0</eventName>
+            <frameName>Nagato_NAttack_17.png</frameName>
+            <eventName type="setAttackBox">b_hit</eventName>
+            <eventName type="setDelay">0</eventName>
+            <frameName>Nagato_NAttack_18.png</frameName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <eventName type="setDelay">0</eventName>
+            <frameName>Nagato_F0_01.png</frameName>
+            <frameName>Nagato_NAttack_01.png</frameName>
+            <eventName type="setSound">Audio/Nagato/A1.mp3</eventName>
+            <frameName>Nagato_NAttack_02.png</frameName>
+            <frameName>Nagato_NAttack_03.png</frameName>
+            <frameName>Nagato_F0_02.png</frameName>
+            <frameName>Nagato_F0_03.png</frameName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <frameName>Nagato_F0_01.png</frameName>
+            <eventName type="setSound">Audio/Nagato/A2.mp3</eventName>
+            <frameName>Nagato_NAttack_04.png</frameName>
+            <frameName>Nagato_NAttack_05.png</frameName>
+            <frameName>Nagato_NAttack_06.png</frameName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <frameName>Nagato_F0_04.png</frameName>
+            <frameName>Nagato_F0_05.png</frameName>
+            <eventName type="setDelay">0</eventName>
+            <frameName>Nagato_F0_06.png</frameName>
+            <eventName type="setDelay">0</eventName>
+            <eventName type="setCharge">20</eventName>
+            <frameName>Nagato_NAttack_07.png</frameName>
+            <eventName type="setDelay">0</eventName>
+            <eventName type="setCharge">20</eventName>
+            <eventName type="setSound">Audio/Nagato/A3.mp3</eventName>
+            <frameName>Nagato_NAttack_08.png</frameName>
+            <eventName type="setAttackBox">bl_hit</eventName>
+            <eventName type="setDelay">0</eventName>
+            <eventName type="setCharge">20</eventName>
+            <frameName>Nagato_NAttack_09.png</frameName>
+            <eventName type="setDelay">0</eventName>
+            <eventName type="setCharge">20</eventName>
+            <frameName>Nagato_NAttack_10.png</frameName>
+            <eventName type="setAttackBox">b_hit</eventName>
+            <eventName type="setDelay">0</eventName>
+            <eventName type="setCharge">20</eventName>
+            <frameName>Nagato_NAttack_11.png</frameName>
+            <eventName type="setDelay">0</eventName>
+            <eventName type="setCharge">20</eventName>
+            <frameName>Nagato_NAttack_12.png</frameName>
+            <eventName type="setAttackBox">bl_hit</eventName>
+            <eventName type="setDelay">0</eventName>
+            <eventName type="setCharge">20</eventName>
+            <frameName>Nagato_NAttack_13.png</frameName>
+            <eventName type="setDelay">0</eventName>
+            <eventName type="setCharge">10</eventName>
+            <frameName>Nagato_NAttack_14.png</frameName>
+            <eventName type="setAttackBox">b_hit</eventName>
+            <eventName type="setDelay">0</eventName>
+            <frameName>Nagato_NAttack_15.png</frameName>
+            <eventName type="setDelay">0</eventName>
+            <frameName>Nagato_NAttack_16.png</frameName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <eventName type="setDelay">0</eventName>
+            <frameName>Nagato_NAttack_17.png</frameName>
+            <eventName type="setAttackBox">b_hit</eventName>
+            <eventName type="setDelay">0</eventName>
+            <frameName>Nagato_NAttack_18.png</frameName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <eventName type="setDelay">0</eventName>
+            <frameName>Nagato_F0_01.png</frameName>
+            <frameName>Nagato_NAttack_01.png</frameName>
+            <eventName type="setSound">Audio/Nagato/A1.mp3</eventName>
+            <frameName>Nagato_NAttack_02.png</frameName>
+            <frameName>Nagato_NAttack_03.png</frameName>
+            <frameName>Nagato_F0_02.png</frameName>
+            <frameName>Nagato_F0_03.png</frameName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <frameName>Nagato_F0_01.png</frameName>
+            <eventName type="setSound">Audio/Nagato/A2.mp3</eventName>
+            <frameName>Nagato_NAttack_04.png</frameName>
+            <frameName>Nagato_NAttack_05.png</frameName>
+            <frameName>Nagato_NAttack_06.png</frameName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <frameName>Nagato_F0_04.png</frameName>
+            <frameName>Nagato_F0_05.png</frameName>
+            <eventName type="setDelay">0</eventName>
+            <frameName>Nagato_F0_06.png</frameName>
+            <eventName type="setDelay">0</eventName>
+            <eventName type="setCharge">20</eventName>
+            <frameName>Nagato_NAttack_07.png</frameName>
+            <eventName type="setDelay">0</eventName>
+            <eventName type="setCharge">20</eventName>
+            <eventName type="setSound">Audio/Nagato/A3.mp3</eventName>
+            <frameName>Nagato_NAttack_08.png</frameName>
+            <eventName type="setAttackBox">bl_hit</eventName>
+            <eventName type="setDelay">0</eventName>
+            <eventName type="setCharge">20</eventName>
+            <frameName>Nagato_NAttack_09.png</frameName>
+            <eventName type="setDelay">0</eventName>
+            <eventName type="setCharge">20</eventName>
+            <frameName>Nagato_NAttack_10.png</frameName>
+            <eventName type="setAttackBox">b_hit</eventName>
+            <eventName type="setDelay">0</eventName>
+            <eventName type="setCharge">20</eventName>
+            <frameName>Nagato_NAttack_11.png</frameName>
+            <eventName type="setDelay">0</eventName>
+            <eventName type="setCharge">20</eventName>
+            <frameName>Nagato_NAttack_12.png</frameName>
+            <eventName type="setAttackBox">bl_hit</eventName>
+            <eventName type="setDelay">0</eventName>
+            <eventName type="setCharge">20</eventName>
+            <frameName>Nagato_NAttack_13.png</frameName>
+            <eventName type="setDelay">0</eventName>
+            <eventName type="setCharge">10</eventName>
+            <frameName>Nagato_NAttack_14.png</frameName>
+            <eventName type="setAttackBox">b_hit</eventName>
+            <eventName type="setDelay">0</eventName>
+            <frameName>Nagato_NAttack_15.png</frameName>
+            <eventName type="setDelay">0</eventName>
+            <frameName>Nagato_NAttack_16.png</frameName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <eventName type="setDelay">0</eventName>
+            <frameName>Nagato_NAttack_17.png</frameName>
+            <eventName type="setAttackBox">b_hit</eventName>
             <eventName type="setDelay">0</eventName>
             <frameName>Nagato_NAttack_18.png</frameName>
             <eventName type="setAttackBox">n_hit</eventName>
             <eventName type="setDelay">0</eventName>
             <eventName type="setMon">AnimalPathCentipede</eventName>
-
         </frame>
     </action>
 
@@ -223,10 +387,10 @@
     <action value="skill02">
         <date>
             <dateName type="attackType">abAttack</dateName>
-            <dateName type="attackValue">5880</dateName>
+            <dateName type="attackValue">1880</dateName>
             <dateName type="attackRangeX">300</dateName>
             <dateName type="attackRangeY">32</dateName>
-            <coldName type="coldDown">5</coldName>
+            <coldName type="coldDown">15</coldName>
         </date>
         <frame>
             <eventName type="setCommand">setInvincible</eventName>
@@ -271,7 +435,7 @@
             <dateName type="attackValue">0</dateName>
             <dateName type="attackRangeX">0</dateName>
             <dateName type="attackRangeY">0</dateName>
-            <coldName type="coldDown">5</coldName>
+            <coldName type="coldDown">12</coldName>
         </date>
         <frame>
             <frameName>Nagato_Skill01_01.png</frameName>
@@ -293,7 +457,7 @@
     <action value="skill04">
         <date>
             <dateName type="attackType">oAttack</dateName>
-            <dateName type="attackValue">250</dateName>
+            <dateName type="attackValue">170</dateName>
             <dateName type="attackRangeX">48</dateName>
             <dateName type="attackRangeY">48</dateName>
             <coldName type="coldDown">1</coldName>
@@ -374,61 +538,63 @@
             <coldName type="coldDown">1</coldName>
         </date>
         <frame>
-            <frameName>Nagato_Skill03_01.png</frameName>
-            <frameName>Nagato_Skill03_02.png</frameName>
-            <frameName>Nagato_Skill03_03.png</frameName>
+            <!-- <frameName>Nagato_Skill03_01.png</frameName> -->
+            <!-- <frameName>Nagato_Skill03_02.png</frameName> -->
+            <!-- <frameName>Nagato_Skill03_03.png</frameName> -->
+            <!-- <eventName type="setCommand">setInvincible</eventName> -->
+            <!-- <frameName>Nagato_Skill03_04.png</frameName> -->
+            <!-- <eventName type="setOugis">10</eventName> -->
+            <!-- <eventName type="setDelay">10</eventName> -->
+            <!-- <frameName>Nagato_Skill00_06.png</frameName> -->
+            <!-- <frameName>Nagato_Skill05_1.png</frameName> -->
+            <!-- <eventName type="setDelay">10</eventName> -->
+            <!-- <frameName>Nagato_Skill05_01.png</frameName> -->
+            <!-- <frameName>Nagato_Skill05_02.png</frameName> -->
+            <!-- <frameName>Nagato_Skill05_03.png</frameName> -->
+            <!-- <frameName>Nagato_Skill05_04.png</frameName> -->
+            <!-- <frameName>Nagato_Skill05_05.png</frameName> -->
+            <!-- <eventName type="setDelay">30</eventName> -->
+            <!-- <frameName>Nagato_Skill05_06.png</frameName> -->
+            <!-- <eventName type="setAttackBox">c_hit</eventName> -->
+            <!-- <eventName type="setSound">Audio/Effect/water_effect.mp3</eventName> -->
+            <!-- <frameName>Nagato_Skill05_07.png</frameName> -->
+            <!-- <eventName type="setAttackBox">c_hit</eventName> -->
+            <!-- <frameName>Nagato_Skill05_08.png</frameName> -->
+            <!-- <eventName type="setAttackBox">c_hit</eventName> -->
+            <!-- <frameName>Nagato_Skill05_09.png</frameName> -->
+            <!-- <eventName type="setAttackBox">c_hit</eventName> -->
+            <!-- <frameName>Nagato_Skill05_10.png</frameName> -->
+            <!-- <eventName type="setAttackBox">c_hit</eventName> -->
+            <!-- <frameName>Nagato_Skill05_11.png</frameName> -->
+            <!-- <eventName type="setAttackBox">c_hit</eventName> -->
+            <!-- <frameName>Nagato_Skill05_12.png</frameName> -->
+            <!-- <eventName type="setAttackBox">c_hit</eventName> -->
+            <!-- <frameName>Nagato_Skill05_13.png</frameName> -->
+            <!-- <eventName type="setAttackBox">c_hit</eventName> -->
+            <!-- <frameName>Nagato_Skill05_14.png</frameName> -->
+            <!-- <eventName type="setAttackBox">c_hit</eventName> -->
+            <!-- <frameName>Nagato_Skill05_15.png</frameName> -->
+            <!-- <eventName type="setAttackBox">c_hit</eventName> -->
+            <!-- <frameName>Nagato_Skill05_16.png</frameName> -->
+            <!-- <eventName type="setAttackBox">c_hit</eventName> -->
+            <!-- <frameName>Nagato_Skill05_17.png</frameName> -->
+            <!-- <eventName type="setAttackBox">c_hit</eventName> -->
+            <!-- <frameName>Nagato_Skill05_18.png</frameName> -->
+            <!-- <eventName type="setAttackBox">c_hit</eventName> -->
+            <!-- <frameName>Nagato_Skill05_19.png</frameName> -->
+            <!-- <eventName type="setAttackBox">c_hit</eventName> -->
+            <!-- <frameName>Nagato_Skill05_20.png</frameName> -->
+            <!-- <eventName type="setAttackBox">c_hit</eventName> -->
+            <!-- <frameName>Nagato_Skill05_21.png</frameName> -->
+            <!-- <frameName>Nagato_Skill05_05.png</frameName> -->
+            <!-- <eventName type="setDelay">10</eventName> -->
+            <!-- <eventName type="setDelay">20</eventName> -->
+            <!-- <frameName>Nagato_Skill05_04.png</frameName> -->
+            <!-- <frameName>Nagato_Skill05_03.png</frameName> -->
+            <!-- <frameName>Nagato_Skill05_02.png</frameName> -->
+            <!-- <frameName>Nagato_Skill05_01.png</frameName> -->
+
             <eventName type="setCommand">setInvincible</eventName>
-            <frameName>Nagato_Skill03_04.png</frameName>
-            <eventName type="setOugis">10</eventName>
-            <eventName type="setDelay">10</eventName>
-            <frameName>Nagato_Skill00_06.png</frameName>
-            <frameName>Nagato_Skill05_1.png</frameName>
-            <eventName type="setDelay">10</eventName>
-            <frameName>Nagato_Skill05_01.png</frameName>
-            <frameName>Nagato_Skill05_02.png</frameName>
-            <frameName>Nagato_Skill05_03.png</frameName>
-            <frameName>Nagato_Skill05_04.png</frameName>
-            <frameName>Nagato_Skill05_05.png</frameName>
-            <eventName type="setDelay">30</eventName>
-            <frameName>Nagato_Skill05_06.png</frameName>
-            <eventName type="setAttackBox">c_hit</eventName>
-            <eventName type="setSound">Audio/Effect/water_effect.mp3</eventName>
-            <frameName>Nagato_Skill05_07.png</frameName>
-            <eventName type="setAttackBox">c_hit</eventName>
-            <frameName>Nagato_Skill05_08.png</frameName>
-            <eventName type="setAttackBox">c_hit</eventName>
-            <frameName>Nagato_Skill05_09.png</frameName>
-            <eventName type="setAttackBox">c_hit</eventName>
-            <frameName>Nagato_Skill05_10.png</frameName>
-            <eventName type="setAttackBox">c_hit</eventName>
-            <frameName>Nagato_Skill05_11.png</frameName>
-            <eventName type="setAttackBox">c_hit</eventName>
-            <frameName>Nagato_Skill05_12.png</frameName>
-            <eventName type="setAttackBox">c_hit</eventName>
-            <frameName>Nagato_Skill05_13.png</frameName>
-            <eventName type="setAttackBox">c_hit</eventName>
-            <frameName>Nagato_Skill05_14.png</frameName>
-            <eventName type="setAttackBox">c_hit</eventName>
-            <frameName>Nagato_Skill05_15.png</frameName>
-            <eventName type="setAttackBox">c_hit</eventName>
-            <frameName>Nagato_Skill05_16.png</frameName>
-            <eventName type="setAttackBox">c_hit</eventName>
-            <frameName>Nagato_Skill05_17.png</frameName>
-            <eventName type="setAttackBox">c_hit</eventName>
-            <frameName>Nagato_Skill05_18.png</frameName>
-            <eventName type="setAttackBox">c_hit</eventName>
-            <frameName>Nagato_Skill05_19.png</frameName>
-            <eventName type="setAttackBox">c_hit</eventName>
-            <frameName>Nagato_Skill05_20.png</frameName>
-            <eventName type="setAttackBox">c_hit</eventName>
-            <frameName>Nagato_Skill05_21.png</frameName>
-            <frameName>Nagato_Skill05_05.png</frameName>
-            <eventName type="setDelay">10</eventName>
-            <eventName type="setDelay">20</eventName>
-            <frameName>Nagato_Skill05_04.png</frameName>
-            <frameName>Nagato_Skill05_03.png</frameName>
-            <frameName>Nagato_Skill05_02.png</frameName>
-            <frameName>Nagato_Skill05_01.png</frameName>
             <frameName>Nagato_Skill05_1.png</frameName>
             <eventName type="setSkillEffect">Kujiyose</eventName>
             <eventName type="setMon">SuperPain</eventName>

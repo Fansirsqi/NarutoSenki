@@ -192,6 +192,7 @@
             <eventName type="setMon">Rocket</eventName>
             <frameName>PainTendo_Skill04_17.png</frameName>
             <frameName>all_use.png</frameName>
+            <eventName type="setDelay">180</eventName>
             <frameName>all_use.png</frameName>
 
             <eventName type="setCommand">findTarget</eventName>

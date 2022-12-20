@@ -4,7 +4,7 @@
     <action value="Idle">
         <date>
             <dateName type="attackType">AsuraPath</dateName>
-            <dateName type="attackValue">10000</dateName>
+            <dateName type="attackValue">20000</dateName>
             <dateName type="attackRangeX">34</dateName>
             <dateName type="attackRangeY">83</dateName>
             <coldName type="coldDown">224</coldName>
@@ -71,7 +71,7 @@
     <action value="nAttack">
         <date>
             <dateName type="attackType">nAttack</dateName>
-            <dateName type="attackValue">120</dateName>
+            <dateName type="attackValue">420</dateName>
             <dateName type="attackRangeX">0</dateName>
             <dateName type="attackRangeY">16</dateName>
             <coldName type="coldDown">0</coldName>

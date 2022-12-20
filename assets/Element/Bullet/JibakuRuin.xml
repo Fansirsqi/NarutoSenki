@@ -1,87 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <animation>
 
-  <action value="Idle">
-    <date>
-      <dateName type="attackType">Deidara</dateName>
-      <dateName type="attackValue">0</dateName>
-      <dateName type="attackRangeX">0</dateName>
-      <dateName type="attackRangeY">0</dateName>
-      <coldName type="coldDown">0</coldName>
-    </date>
-    <frame>
-      <frameName>all_use.png</frameName>
-    </frame>
-  </action>
+    <action value="Idle">
+        <date>
+            <dateName type="attackType">Deidara</dateName>
+            <dateName type="attackValue">0</dateName>
+            <dateName type="attackRangeX">0</dateName>
+            <dateName type="attackRangeY">0</dateName>
+            <coldName type="coldDown">0</coldName>
+        </date>
+        <frame>
+            <frameName>all_use.png</frameName>
+        </frame>
+    </action>
 
-  <action value="Walk">
-    <frame>
-      <frameName>all_use.png</frameName>
-    </frame>
-  </action>
+    <action value="Walk">
+        <frame>
+            <frameName>all_use.png</frameName>
+        </frame>
+    </action>
 
-  <action value="Hurt">
-    <frame>
-    </frame>
-  </action>
+    <action value="Hurt">
+        <frame>
+        </frame>
+    </action>
 
-  <action value="AirHurt">
-    <frame>
+    <action value="AirHurt">
+        <frame>
 
-    </frame>
-  </action>
+        </frame>
+    </action>
 
-  <action value="KnockDown">
-    <frame>
-    </frame>
-  </action>
+    <action value="KnockDown">
+        <frame>
+        </frame>
+    </action>
 
-  <action value="Float">
-    <frame>
-    </frame>
-  </action>
+    <action value="Float">
+        <frame>
+        </frame>
+    </action>
 
-  <action value="Dead">
-    <frame>
-    </frame>
-  </action>
+    <action value="Dead">
+        <frame>
+        </frame>
+    </action>
 
-  <action value="nAttack">
-    <date>
-      <dateName type="attackType">aAttack</dateName>
-      <dateName type="attackValue">100</dateName>
-      <dateName type="attackRangeX">0</dateName>
-      <dateName type="attackRangeY">0</dateName>
-      <coldName type="coldDown">0</coldName>
-    </date>
-    <frame>
-      <eventName type="setMove">185</eventName>
-      <frameName>all_use.png</frameName>
-      <eventName type="setDelay">20</eventName>
-      <eventName type="setMove">-9.5</eventName>
-      <frameName>JibakuRuin_Move_01.png</frameName>
-      <eventName type="setMove">-9.5</eventName>
-      <eventName type="setAttackBox">c_hit</eventName>
-      <eventName type="setSound">Audio/Effect/bom3.ogg</eventName>
-      <frameName>JibakuRuin_Move_02.png</frameName>
-      <eventName type="setMove">-9.5</eventName>
-      <eventName type="setAttackBox">c_hit</eventName>
-      <frameName>JibakuRuin_Move_03.png</frameName>
-      <eventName type="setMove">-9.5</eventName>
-      <eventName type="setAttackBox">c_hit</eventName>
-      <frameName>JibakuRuin_Move_04.png</frameName>
-      <eventName type="setMove">-9.5</eventName>
-      <eventName type="setAttackBox">c_hit</eventName>
-      <frameName>JibakuRuin_Move_05.png</frameName>
-      <eventName type="setMove">-9.5</eventName>
-      <eventName type="setAttackBox">c_hit</eventName>
-      <frameName>JibakuRuin_Move_06.png</frameName>
-      <eventName type="setMove">-9.5</eventName>
-      <frameName>JibakuRuin_Move_07.png</frameName>
-      <eventName type="setMove">-9.5</eventName>
-      <frameName>JibakuRuin_Move_08.png</frameName>
-      <eventName type="setDetonation">0</eventName>
-    </frame>
-  </action>
+    <action value="nAttack">
+        <date>
+            <dateName type="attackType">aAttack</dateName>
+            <dateName type="attackValue">100</dateName>
+            <dateName type="attackRangeX">0</dateName>
+            <dateName type="attackRangeY">0</dateName>
+            <coldName type="coldDown">0</coldName>
+        </date>
+        <frame>
+            <eventName type="setMove">185</eventName>
+            <frameName>all_use.png</frameName>
+            <eventName type="setDelay">20</eventName>
+            <eventName type="setMove">-18</eventName>
+            <frameName>JibakuRuin_Move_01.png</frameName>
+            <eventName type="setMove">-18</eventName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <eventName type="setSound">Audio/Effect/bom3.ogg</eventName>
+            <frameName>JibakuRuin_Move_02.png</frameName>
+            <eventName type="setMove">-18</eventName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>JibakuRuin_Move_03.png</frameName>
+            <eventName type="setMove">-18</eventName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>JibakuRuin_Move_04.png</frameName>
+            <eventName type="setMove">-18</eventName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>JibakuRuin_Move_05.png</frameName>
+            <eventName type="setMove">-18</eventName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>JibakuRuin_Move_06.png</frameName>
+            <eventName type="setMove">-18</eventName>
+            <frameName>JibakuRuin_Move_07.png</frameName>
+            <eventName type="setMove">-18</eventName>
+            <frameName>JibakuRuin_Move_08.png</frameName>
+            <eventName type="setDetonation">0</eventName>
+        </frame>
+    </action>
 
 </animation>

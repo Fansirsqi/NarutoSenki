@@ -214,7 +214,7 @@
             <dateName type="attackValue">100</dateName>
             <dateName type="attackRangeX">16</dateName>
             <dateName type="attackRangeY">48</dateName>
-            <coldName type="coldDown">1</coldName>
+            <coldName type="coldDown">12</coldName>
         </date>
         <frame>
             <frameName>Pain_Skill02_01.png</frameName>
@@ -254,7 +254,7 @@
             <dateName type="attackValue">100</dateName>
             <dateName type="attackRangeX">16</dateName>
             <dateName type="attackRangeY">16</dateName>
-            <coldName type="coldDown">2</coldName>
+            <coldName type="coldDown">18</coldName>
         </date>
         <frame>
 
