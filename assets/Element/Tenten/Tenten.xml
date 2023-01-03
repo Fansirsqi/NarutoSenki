@@ -1,320 +1,589 @@
 <?xml version="1.0" encoding="utf-8"?>
- <animation>
-   
+<animation>
     <action value="Idle">
-	 <date>
-	    <dateName type="attackType">Tenten</dateName>
-        <dateName type="attackValue">5000</dateName>
-        <dateName type="attackRangeX">51</dateName>
-        <dateName type="attackRangeY">71</dateName>
-        <coldName type="coldDown">224</coldName>
-      </date>
-      <frame>
-        <frameName>Tenten_Idle_01.png</frameName>
-        <frameName>Tenten_Idle_02.png</frameName>
-        <frameName>Tenten_Idle_03.png</frameName>
-        <frameName>Tenten_Idle_04.png</frameName>
-      </frame>
+        <date>
+            <dateName type="attackType">Tenten</dateName>
+            <dateName type="attackValue">9000</dateName>
+            <dateName type="attackRangeX">51</dateName>
+            <dateName type="attackRangeY">71</dateName>
+            <coldName type="coldDown">224</coldName>
+        </date>
+        <frame>
+            <frameName>IchiReIchiZero_Idle_001.png</frameName>
+            <frameName>IchiReIchiZero_Idle_002.png</frameName>
+            <frameName>IchiReIchiZero_Idle_003.png</frameName>
+            <frameName>IchiReIchiZero_Idle_004.png</frameName>
+        </frame>
     </action>
-   
     <action value="Walk">
-      <frame>
-        <frameName>Tenten_Walk_01.png</frameName>
-        <frameName>Tenten_Walk_02.png</frameName>
-        <frameName>Tenten_Walk_03.png</frameName>
-        <frameName>Tenten_Walk_04.png</frameName>
-        <frameName>Tenten_Walk_05.png</frameName>
-        <frameName>Tenten_Walk_06.png</frameName>
-      </frame>
+        <frame>
+            <frameName>Tenten_Walk_01.png</frameName>
+            <frameName>Tenten_Walk_02.png</frameName>
+            <frameName>Tenten_Walk_03.png</frameName>
+            <frameName>Tenten_Walk_04.png</frameName>
+            <frameName>Tenten_Walk_05.png</frameName>
+            <frameName>Tenten_Walk_06.png</frameName>
+        </frame>
     </action>
-   
     <action value="Hurt">
-      <frame>
-        <eventName type="setMove">32</eventName>
-        <frameName>Tenten_Hurt_01.png</frameName>
-        <frameName>Tenten_Hurt_02.png</frameName>
-        <eventName type="setSound">Audio/Tenten/tenten_hurt.mp3</eventName>
-      </frame>
+        <frame>
+            <eventName type="setMove">32</eventName>
+            <frameName>Tenten_Hurt_01.png</frameName>
+            <frameName>Tenten_Hurt_02.png</frameName>
+            <eventName type="setSound">Audio/Tenten/Tenten_Hurt.mp3</eventName>
+        </frame>
     </action>
-   
-   <action value="AirHurt">
-     <frame>
-         <frameName>Tenten_AirHurt_01.png</frameName>
-     </frame>
-   </action>
-   
-   <action value="KnockDown">
-      <frame>
-          <frameName>Tenten_KnockDown_01.png</frameName>
-          <eventName type="setDelay">10</eventName>
-          <frameName>Tenten_KnockDown_02.png</frameName>
-          <eventName type="setDelay">60</eventName>
-          <frameName>Tenten_KnockDown_03.png</frameName>
-          <frameName>Tenten_KnockDown_04.png</frameName>
-          <frameName>Tenten_KnockDown_05.png</frameName>
-      </frame>
+    <action value="AirHurt">
+        <frame>
+            <frameName>Tenten_AirHurt_01.png</frameName>
+        </frame>
     </action>
-   
+    <action value="KnockDown">
+        <frame>
+            <frameName>Tenten_KnockDown_01.png</frameName>
+            <eventName type="setDelay">10</eventName>
+            <frameName>Tenten_KnockDown_02.png</frameName>
+            <eventName type="setDelay">60</eventName>
+            <frameName>Tenten_KnockDown_03.png</frameName>
+            <frameName>Tenten_KnockDown_04.png</frameName>
+            <frameName>Tenten_KnockDown_05.png</frameName>
+        </frame>
+    </action>
     <action value="Float">
-      <frame>
-          <frameName>Tenten_Float_01.png</frameName>
-          <eventName type="setDelay">10</eventName>
-          <frameName>Tenten_Float_02.png</frameName>
-          <eventName type="setDelay">10</eventName>
-          <frameName>Tenten_Float_03.png</frameName>
-      </frame>
+        <frame>
+            <frameName>Tenten_Float_01.png</frameName>
+            <eventName type="setDelay">10</eventName>
+            <frameName>Tenten_Float_02.png</frameName>
+            <eventName type="setDelay">10</eventName>
+            <frameName>Tenten_Float_03.png</frameName>
+        </frame>
     </action>
-   
     <action value="Dead">
-      <frame>
-          <frameName>Tenten_KnockDown_01.png</frameName>
-          <frameName>Tenten_KnockDown_02.png</frameName>
-          <eventName type="setSound">Audio/Tenten/tenten_dead.mp3</eventName>
-      </frame>
+        <frame>
+            <frameName>Tenten_KnockDown_01.png</frameName>
+            <frameName>Tenten_KnockDown_02.png</frameName>
+            <eventName type="setSound">Audio/Tenten/Tenten_Death.mp3</eventName>
+        </frame>
     </action>
-   
     <action value="nAttack">
-      <date>
-	    <dateName type="attackType">nAttack</dateName>
-        <dateName type="attackValue">60</dateName>
-        <dateName type="attackRangeX">0</dateName>
-        <dateName type="attackRangeY">16</dateName>
-        <coldName type="coldDown">0</coldName>
-      </date>
-      <frame>
-        <frameName>Tenten_NAttack_01.png</frameName>
-        <frameName>Tenten_NAttack_02.png</frameName>
-        <eventName type="setSound">Audio/Effect/combo1.mp3</eventName>
-        <frameName>Tenten_NAttack_03.png</frameName>
-        <eventName type="setAttackBox">n_hit</eventName>
-        <frameName>Tenten_NAttack_04.png</frameName>
-        <frameName>Tenten_NAttack_05.png</frameName>
-        <eventName type="setMove">8</eventName>
-        <frameName>Tenten_NAttack_06.png</frameName>
-        <eventName type="setDelay">10</eventName>
-        <eventName type="setSound">Audio/Effect/combo2.mp3</eventName>
-        <eventName type="setAttackBox">n_hit</eventName>
-        <frameName>Tenten_NAttack_07.png</frameName>
-        <frameName>Tenten_NAttack_08.png</frameName>
-        <eventName type="setSound">Audio/Tenten/tenten_combo.mp3</eventName>
-        <frameName>Tenten_NAttack_09.png</frameName>
-        <frameName>Tenten_NAttack_10.png</frameName>
-        <eventName type="setSound">Audio/Effect/kong.mp3</eventName>
-        <eventName type="setAttackBox">bl_hit</eventName>
-        <eventName type="setMove">16</eventName>
-        <frameName>Tenten_NAttack_11.png</frameName>
-        <frameName>Tenten_NAttack_12.png</frameName>
-        <frameName>Tenten_NAttack_13.png</frameName>
-        <frameName>Tenten_NAttack_14.png</frameName>
-      </frame>
-    </action>
-
-   <action value="skill01">
-     <date>
-	   <dateName type="attackType">summon</dateName>
-       <dateName type="attackValue">0</dateName>
-       <dateName type="attackRangeX">0</dateName>
-       <dateName type="attackRangeY">10</dateName>
-       <coldName type="coldDown">10</coldName>
-     </date>
-     <frame>
-      <frameName>Tenten_Skill01_01.png</frameName>
-      <eventName type="setSound">Audio/Tenten/tenten_skill1.mp3</eventName>
-      <frameName>Tenten_Skill01_02.png</frameName>
-      <eventName type="setDelay">10</eventName>
-      <frameName>Tenten_Skill01_03.png</frameName>
-      <eventName type="setMove">16</eventName>
-      <eventName type="setDelay">10</eventName>
-      <frameName>Tenten_Skill01_04.png</frameName>
-      <eventName type="setMon">Mine</eventName>
-      <eventName type="setDelay">10</eventName>
-      <frameName>Tenten_Skill01_05.png</frameName>
-      <frameName>Tenten_Skill01_06.png</frameName>
-     </frame>
-   </action>
-
-    <action value="skill02">
         <date>
-		    <dateName type="attackType">bullet</dateName>
-            <dateName type="attackValue">0</dateName>
-            <dateName type="attackRangeX">0</dateName>
-            <dateName type="attackRangeY">0</dateName>
-            <coldName type="coldDown">20</coldName>
-        </date>
-        <frame>
-            <frameName>Tenten_Skill02_01.png</frameName>
-            <eventName type="setDelay">10</eventName>
-            <frameName>Tenten_Skill02_02.png</frameName>
-            <eventName type="setSound">Audio/Tenten/tenten_skill2.mp3</eventName>
-            <frameName>Tenten_Skill02_03.png</frameName>
-            <eventName type="setBullet">FlyKnife</eventName>
-            <eventName type="setDelay">10</eventName>
-            <frameName>Tenten_Skill02_04.png</frameName>
-            <frameName>Tenten_Skill02_05.png</frameName>
-            <frameName>Tenten_Skill02_06.png</frameName>
-            <eventName type="setMove">16</eventName>
-            <frameName>Tenten_Skill02_07.png</frameName>
-            <eventName type="setSound">Audio/Tenten/tenten_skill2_1.mp3</eventName>
-            <eventName type="setDelay">10</eventName>
-            <eventName type="setBullet">FlyKnife</eventName>
-            <eventName type="setDelay">20</eventName>
-        </frame>
-    </action>
-
-    <action value="skill03">
-        <date>
-			<dateName type="attackType">cBuff</dateName>
-            <dateName type="attackValue">0</dateName>
-            <dateName type="attackRangeX">0</dateName>
-            <dateName type="attackRangeY">5</dateName>
-            <coldName type="coldDown">25</coldName>
-        </date>
-        <frame>
-            <frameName>Tenten_Skill03_01.png</frameName>
-            <eventName type="setSound">Audio/Tenten/tenten_skill3.mp3</eventName>
-            <frameName>Tenten_Skill03_02.png</frameName>
-            <eventName type="setDelay">10</eventName>
-            <frameName>Tenten_Skill03_03.png</frameName>
-            <eventName type="setDelay">20</eventName>
-            <eventName type="setBuff">17</eventName>
-        </frame>
-    </action>
-
-   <action value="skill04">
-     <date>
-       <dateName type="attackType">aAttack</dateName>
-       <dateName type="attackValue">300</dateName>
-       <dateName type="attackRangeX">64</dateName>
-       <dateName type="attackRangeY">32</dateName>
-       <coldName type="coldDown">1</coldName>
-     </date>
-     <frame>
-          <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
-          <frameName>Tenten_Skill04_01.png</frameName>
-          <eventName type="setAttackBox">f_hit</eventName>
-         <eventName type="setSound">Audio/Tenten/tenten_skill4.mp3</eventName>
-          <frameName>Tenten_Skill04_02.png</frameName>
-          <eventName type="setJump">true</eventName>
-          <frameName>Tenten_Skill04_03.png</frameName>
-          <eventName type="setAttackBox">l_hit</eventName>
-          <eventName type="setDelay">10</eventName>
-          <frameName>Tenten_Skill04_04.png</frameName>
-          <eventName type="setAttackBox">l_hit</eventName>
-          <eventName type="setDelay">10</eventName>
-          <frameName>Tenten_Skill04_05.png</frameName>
-          <eventName type="setAttackBox">l_hit</eventName>
-          <eventName type="setDelay">10</eventName>
-          <frameName>Tenten_Skill04_06.png</frameName>
-          <eventName type="setDelay">10</eventName>
-          <frameName>Tenten_Skill04_07.png</frameName>
-           <eventName type="setDelay">10</eventName>
-          <frameName>Tenten_Skill04_08.png</frameName>
-         <eventName type="setSound">Audio/Tenten/tenten_skill4_1.mp3</eventName>
-          <eventName type="setAttackBox">fb_hit</eventName>
-          <eventName type="setJump">true</eventName>
-          <frameName>Tenten_Skill04_09.png</frameName>
-          <eventName type="setAttackBox">bl_hit</eventName>
-          <frameName>Tenten_Skill04_10.png</frameName>
-          <frameName>Tenten_Skill04_11.png</frameName>
-          <eventName type="setAttackBox">bl_hit</eventName>
-          <frameName>Tenten_Skill04_12.png</frameName>
-          <frameName>Tenten_Skill04_13.png</frameName>
-          <eventName type="setAttackBox">bl_hit</eventName>
-          <frameName>Tenten_Skill04_14.png</frameName>
-          <frameName>Tenten_Skill04_15.png</frameName>
-          <eventName type="setAttackBox">bl_hit</eventName>
-          <frameName>Tenten_Skill04_16.png</frameName>
-          <eventName type="setDelay">20</eventName>
-     </frame>
-   </action>
-
-    <action value="skill05">
-      <date>
-       <dateName type="attackType">aAttack</dateName>
-       <dateName type="attackValue">1000</dateName>
-       <dateName type="attackRangeX">48</dateName>
-       <dateName type="attackRangeY">48</dateName>
-       <coldName type="coldDown">1</coldName>
-     </date>
-     <frame>
-        <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
-        <frameName>Tenten_Skill05_10.png</frameName>
-        <frameName>Tenten_Skill05_11.png</frameName>
-        <eventName type="setOugis">10</eventName>
-        <frameName>Tenten_Skill05_12.png</frameName>
-        <eventName type="setDelay">10</eventName>
-        <frameName>Tenten_Skill05_11.png</frameName>
-        <eventName type="setCommand">setInvincible</eventName>
-        <frameName>Tenten_Skill05_13.png</frameName>
-        <eventName type="setJump">true</eventName>
-        <frameName>Tenten_Skill05_14.png</frameName>
-        <eventName type="setShadow">10</eventName> 
-        <frameName>Tenten_Skill05_14.png</frameName>
-        <eventName type="setShadow">10</eventName> 
-        <frameName>Tenten_Skill05_14.png</frameName>
-        <eventName type="setShadow">10</eventName> 
-        <frameName>Tenten_Skill05_15.png</frameName>
-        <eventName type="setShadow">10</eventName> 
-        <frameName>Tenten_Skill05_16.png</frameName>
-        <eventName type="setShadow">10</eventName> 
-        <eventName type="setSound">Audio/Tenten/Tenten_skill5_1.mp3</eventName>
-        <eventName type="setAttackBox">f_hit</eventName>
-        <frameName>Tenten_Skill05_17.png</frameName>
-        <eventName type="setShadow">10</eventName> 
-        <frameName>Tenten_Skill05_18.png</frameName>
-        <eventName type="setDelay">10</eventName>
-        <frameName>Tenten_Skill05_11.png</frameName>
-        <frameName>Tenten_Skill05_01.png</frameName>
-        <eventName type="setDelay">10</eventName>
-        <eventName type="setJump">true</eventName>
-        <eventName type="setSound">Audio/Tenten/Tenten_skill5_2.mp3</eventName>
-        <frameName>Tenten_Skill05_02.png</frameName>
-        <eventName type="setShadow">10</eventName> 
-        <eventName type="setDelay">10</eventName>
-        <frameName>Tenten_Skill05_03.png</frameName>
-        <eventName type="setShadow">10</eventName> 
-        <frameName>Tenten_Skill05_04.png</frameName>
-         <eventName type="setSound">Audio/Tenten/Tenten_skill5_3.mp3</eventName>
-        <eventName type="stopJump">90</eventName> 
-        <eventName type="setCommand">addExtern</eventName>
-        <eventName type="setMon">Shoryu</eventName>
-        <frameName>Tenten_Skill05_05.png</frameName>
-        <frameName>Tenten_Skill05_06.png</frameName>
-        <eventName type="setDelay">20</eventName>
-        <frameName>Tenten_Skill05_07.png</frameName>
-        <eventName type="setDelay">10</eventName>
-        <eventName type="setCommand">reInvincible</eventName>
-     </frame>
-    </action>
-    <action value="skill06">
-        <frame></frame>
-    </action>
-    <action value="skill07">
-        <frame></frame>
-    </action>
-    <action value="skill08">
-        <frame></frame>
-    </action>
-    <action value="skill09">
-        <frame></frame>
-    </action>
-    <action value="skill10">
-        <date>
-            <dateName type="attackType">Bullet</dateName>
-            <dateName type="attackValue">0</dateName>
-            <dateName type="attackRangeX">0</dateName>
-            <dateName type="attackRangeY">0</dateName>
+            <dateName type="attackType">nAttack</dateName>
+            <dateName type="attackValue">60</dateName>
+            <dateName type="attackRangeX">16</dateName>
+            <dateName type="attackRangeY">48</dateName>
             <coldName type="coldDown">0</coldName>
         </date>
         <frame>
-          <frameName>Tenten_Skill10_01.png</frameName>
-          <frameName>Tenten_Skill10_02.png</frameName>
-          <frameName>Tenten_Skill10_03.png</frameName>
-          <eventName type="setMove">8</eventName>
-          <frameName>Tenten_Skill10_04.png</frameName>
-          <eventName type="setBullet">TentenSRK</eventName>
+            <frameName>SenJū_NAttack_001.png</frameName>
+            <frameName>SenJū_NAttack_002.png</frameName>
+            <eventName type="setSound">Audio/Effect/T_0-1.mp3</eventName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <frameName>SenJū_NAttack_003.png</frameName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <frameName>SenJū_NAttack_004.png</frameName>
+            <frameName>SenJū_NAttack_005.png</frameName>
+            <frameName>SenJū_NAttack_006.png</frameName>
+            <frameName>SenJū_NAttack_007.png</frameName>
+            <frameName>SenJū_NAttack_008.png</frameName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <eventName type="setSound">Audio/Effect/Phwuw.mp3</eventName>
+            <eventName type="setBullet">FlyKnife</eventName>
+            <frameName>SenJū_NAttack_009.png</frameName>
+            <eventName type="setBullet">FlyKnife</eventName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <frameName>SenJū_NAttack_010.png</frameName>
+            <frameName>SenJū_NAttack_011.png</frameName>
+            <frameName>SenJū_NAttack_012.png</frameName>
+            <frameName>SenJū_NAttack_013.png</frameName>
+            <frameName>SenJū_NAttack_014.png</frameName>
+            <eventName type="setMove">-2</eventName>
+            <frameName>SenJū_NAttack_015.png</frameName>
+            <frameName>SenJū_NAttack_016.png</frameName>
+            <eventName type="setMove">18</eventName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <eventName type="setSound">Audio/Effect/Attack.ogg</eventName>
+            <eventName type="setSound">Audio/Tenten/Tenten_b_1.mp3</eventName>
+            <frameName>SenJū_NAttack_017.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <eventName type="setSound">Audio/Effect/T_0-2.mp3</eventName>
+            <frameName>SenJū_NAttack_018.png</frameName>
+            <frameName>SenJū_NAttack_019.png</frameName>
+            <frameName>SenJū_NAttack_020.png</frameName>
+            <frameName>SenJū_NAttack_021.png</frameName>
+            <frameName>SenJū_NAttack_022.png</frameName>
         </frame>
     </action>
-   
-   
+    <action value="skill01">
+        <date>
+            <dateName type="attackType">aAttack</dateName>
+            <dateName type="attackValue">220</dateName>
+            <dateName type="attackRangeX">32</dateName>
+            <dateName type="attackRangeY">64</dateName>
+            <coldName type="coldDown">10</coldName>
+            <dateName type="combatPoint">1260</dateName>
+        </date>
+        <frame>
+            <frameName>SenJū_Skill01_001.png</frameName>
+            <eventName type="setSound">Audio/Tenten/Tenten_s1_1.mp3</eventName>
+            <frameName>SenJū_Skill01_002.png</frameName>
+            <eventName type="setSound">Audio/Effect/T_1-1.mp3</eventName>
+            <eventName type="setMove">256</eventName>
+            <eventName type="setAttackBox">o_hit</eventName>
+            <frameName>SenJū_Skill01_003.png</frameName>
+            <eventName type="setMove">10</eventName>
+            <frameName>SenJū_Skill01_004.png</frameName>
+            <eventName type="setAttackBox">o2_hit</eventName>
+            <frameName>SenJū_Skill01_005.png</frameName>
+            <eventName type="setAttackBox">b_hit</eventName>
+            <frameName>SenJū_Skill01_006.png</frameName>
+            <eventName type="setAttackBox">b_hit</eventName>
+            <frameName>SenJū_Skill01_007.png</frameName>
+            <eventName type="setAttackBox">b_hit</eventName>
+            <frameName>SenJū_Skill01_008.png</frameName>
+            <eventName type="setAttackBox">b_hit</eventName>
+            <frameName>SenJū_Skill01_009.png</frameName>
+            <frameName>SenJū_Skill01_010.png</frameName>
+            <frameName>SenJū_Skill01_011.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <!-- 转身 -->
+            <eventName type="setFlipped">10</eventName>
+            <frameName>SenJū_Skill01_012.png</frameName>
+            <frameName>SenJū_Skill01_013.png</frameName>
+            <frameName>SenJū_Skill01_014.png</frameName>
+            <frameName>SenJū_Skill01_015.png</frameName>
+            <frameName>SenJū_Skill01_016.png</frameName>
+            <eventName type="setSound">Audio/Effect/Phwuw.mp3</eventName>
+            <eventName type="setMon">Shoryu</eventName>
+            <frameName>SenJū_Skill01_017.png</frameName>
+            <frameName>SenJū_Skill01_018.png</frameName>
+            <eventName type="setDelay">20</eventName>
+            <frameName>SenJū_Skill01_019.png</frameName>
+            <eventName type="setDelay">10</eventName>
+            <frameName>SenJū_Skill01_020.png</frameName>
+            <frameName>SenJū_Skill01_021.png</frameName>
+            <frameName>SenJū_Skill01_022.png</frameName>
+            <eventName type="setSound">Audio/Tenten/Tenten_s1_2.mp3</eventName>
+            <frameName>SenJū_Skill01_023.png</frameName>
+            <eventName type="setSound">Audio/Effect/T_1-2.mp3</eventName>
+            <eventName type="setAttackBox">f_hit</eventName>
+            <frameName>SenJū_Skill01_024.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill01_025.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill01_026.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill01_027.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill01_028.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill01_029.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill01_030.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+        </frame>
+    </action>
+    <action value="skill02">
+        <date>
+            <dateName type="attackType">cAttack</dateName>
+            <dateName type="attackValue">240</dateName>
+            <dateName type="attackRangeX">32</dateName>
+            <dateName type="attackRangeY">16</dateName>
+            <coldName type="coldDown">17</coldName>
+            <dateName type="combatPoint">2080</dateName>
+        </date>
+        <frame>
+            <eventName type="setCommand">setInvincible</eventName>
+            <frameName>SenJū_Skill08_001.png</frameName>
+            <frameName>SenJū_Skill08_002.png</frameName>
+            <eventName type="setSound">Audio/Effect/Poof.mp3</eventName>
+            <frameName>SenJū_Skill08_003.png</frameName>
+            <frameName>SenJū_Skill08_004.png</frameName>
+            <frameName>SenJū_Skill08_005.png</frameName>
+            <frameName>SenJū_Skill08_006.png</frameName>
+            <frameName>SenJū_Skill08_007.png</frameName>
+            <frameName>SenJū_Skill08_008.png</frameName>
+            <frameName>SenJū_Skill08_008.png</frameName>
+            <eventName type="setCommand">reInvincible</eventName>
+            <frameName>SenJū_Skill08_009.png</frameName>
+            <eventName type="setSound">Audio/Tenten/Tenten_s2_1.mp3</eventName>
+            <frameName>SenJū_Skill02_001.png</frameName>
+            <eventName type="setAttackBox">b_hit</eventName>
+            <eventName type="setSound">Audio/Effect/T_2-1.mp3</eventName>
+            <frameName>SenJū_Skill02_002.png</frameName>
+            <eventName type="setAttackBox">b_hit</eventName>
+            <frameName>SenJū_Skill02_003.png</frameName>
+            <eventName type="setAttackBox">b_hit</eventName>
+            <frameName>SenJū_Skill02_004.png</frameName>
+            <eventName type="setAttackBox">b_hit</eventName>
+            <frameName>SenJū_Skill02_005.png</frameName>
+            <eventName type="setAttackBox">b_hit</eventName>
+            <frameName>SenJū_Skill02_006.png</frameName>
+            <eventName type="setAttackBox">b_hit</eventName>
+            <frameName>SenJū_Skill02_007.png</frameName>
+            <eventName type="setAttackBox">b_hit</eventName>
+            <frameName>SenJū_Skill02_008.png</frameName>
+            <eventName type="setSound">Audio/Tenten/Tenten_s2_2.mp3</eventName>
+            <frameName>SenJū_Skill02_009.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <eventName type="setSound">Audio/Effect/T_2-2.mp3</eventName>
+            <frameName>SenJū_Skill02_010.png</frameName>
+            <eventName type="setAttackBox">f_hit</eventName>
+            <frameName>SenJū_Skill02_011.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill02_012.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill02_013.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill02_014.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill02_015.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill02_016.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill08_010.png</frameName>
+            <eventName type="setDelay">10</eventName>
+            <frameName>SenJū_Skill02_017.png</frameName>
+            <eventName type="setSound">Audio/Tenten/Tenten_s2_3.mp3</eventName>
+            <eventName type="setChargeB">280</eventName>
+            <eventName type="setAttackBox">o2_hit</eventName>
+            <eventName type="setSound">Audio/Effect/T_2-3.mp3</eventName>
+            <frameName>SenJū_Skill02_018.png</frameName>
+            <eventName type="setChargeB">128</eventName>
+            <eventName type="setAttackBox">o_hit</eventName>
+            <frameName>SenJū_Skill02_019.png</frameName>
+            <eventName type="setChargeB">32</eventName>
+            <eventName type="setAttackBox">o_hit</eventName>
+            <frameName>SenJū_Skill02_020.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>SenJū_Skill02_021.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>SenJū_Skill02_022.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>SenJū_Skill02_023.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>SenJū_Skill02_024.png</frameName>
+            <eventName type="setSound">Audio/Effect/Poof.mp3</eventName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill02_025.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill08_011.png</frameName>
+            <frameName>SenJū_Skill08_012.png</frameName>
+            <frameName>SenJū_Skill08_013.png</frameName>
+            <frameName>SenJū_Skill08_014.png</frameName>
+        </frame>
+    </action>
+    <action value="skill03">
+        <date>
+            <dateName type="attackType">cBuff</dateName>
+            <dateName type="attackValue">910</dateName>
+            <dateName type="attackRangeX">16</dateName>
+            <dateName type="attackRangeY">64</dateName>
+            <coldName type="coldDown">25</coldName>
+            <dateName type="combatPoint">5600</dateName>
+        </date>
+        <frame>
+            <frameName>SenJū_Skill03_000.png</frameName>
+            <frameName>SenJū_Skill03_000.png</frameName>
+            <eventName type="setSound">Audio/Tenten/Tenten_s3_2.mp3</eventName>
+            <frameName>Tenten_Skill10_01.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>Tenten_Skill10_02.png</frameName>
+            <eventName type="setBullet">TentenSRK</eventName>
+            <frameName>Tenten_Skill10_03.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>Tenten_Skill10_04.png</frameName>
+            <frameName>Tenten_Skill10_05.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>Tenten_Skill10_06.png</frameName>
+            <frameName>Tenten_Skill10_07.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>Tenten_Skill10_08.png</frameName>
+
+            <frameName>SenJū_Skill03_000.png</frameName>
+            <eventName type="setSound">Audio/Tenten/Tenten_s3_1.mp3</eventName>
+            <frameName>SenJū_Skill03_001.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>SenJū_Skill03_002.png</frameName>
+            <eventName type="setAttackBox">o_hit</eventName>
+            <eventName type="setSound">Audio/Effect/T_3-2.mp3</eventName>
+            <frameName>SenJū_Skill03_003.png</frameName>
+            <eventName type="setAttackBox">s_hit</eventName>
+            <frameName>SenJū_Skill03_004.png</frameName>
+            <eventName type="setAttackBox">s_hit</eventName>
+            <frameName>SenJū_Skill03_005.png</frameName>
+            <eventName type="setAttackBox">f_hit</eventName>
+            <frameName>SenJū_Skill03_006.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill03_007.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill03_008.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill03_009.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill03_010.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill03_011.png</frameName>
+            <eventName type="setBuff">17</eventName>
+        </frame>
+    </action>
+    <action value="skill04">
+        <date>
+            <dateName type="attackType">aAttack</dateName>
+            <dateName type="attackValue">300</dateName>
+            <dateName type="attackRangeX">48</dateName>
+            <dateName type="attackRangeY">48</dateName>
+            <coldName type="coldDown">1</coldName>
+            <dateName type="combatPoint">3200</dateName>
+        </date>
+        <frame>
+            <eventName type="setSound">Audio/Effectect/ougis.ogg</eventName>
+            <frameName>SenJū_Skill07_001.png</frameName>
+            <frameName>SenJū_Skill07_002.png</frameName>
+            <frameName>SenJū_Skill07_003.png</frameName>
+            <eventName type="setAttackBox">f_hit</eventName>
+            <frameName>SenJū_Skill07_004.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill07_005.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill04_001.png</frameName>
+            <eventName type="setSound">Audio/Tenten/Tenten_s4_1.mp3</eventName>
+            <eventName type="setSound">Audio/Effect/Poof2.mp3</eventName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>SenJū_Skill04_002.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>SenJū_Skill04_003.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>SenJū_Skill04_004.png</frameName>
+            <eventName type="setCommand">setInvincible</eventName>
+            <frameName>SenJū_Skill04_005.png</frameName>
+            <frameName>SenJū_Skill04_006.png</frameName>
+            <frameName>SenJū_Skill04_007.png</frameName>
+            <frameName>SenJū_Skill04_008.png</frameName>
+            <frameName>SenJū_Skill04_009.png</frameName>
+            <frameName>SenJū_Skill04_010.png</frameName>
+            <frameName>SenJū_Skill04_011.png</frameName>
+            <eventName type="setCommand">reInvincible</eventName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>SenJū_Skill04_012.png</frameName>
+            <eventName type="setSound">Audio/Effect/T_4-1.mp3</eventName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>SenJū_Skill04_013.png</frameName>
+            <eventName type="setAttackBox">f2_hit</eventName>
+            <frameName>SenJū_Skill04_014.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill04_015.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill04_016.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill04_017.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill04_018.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill04_019.png</frameName>
+            <eventName type="setAttackBox">f2_hit</eventName>
+            <eventName type="setSound">Audio/Effect/T_4-2.mp3</eventName>
+            <frameName>SenJū_Skill04_020.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill04_021.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill04_022.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill04_023.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill04_024.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill04_025.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill04_026.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill04_027.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill04_028.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill04_029.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill04_030.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill04_031.png</frameName>
+            <frameName>SenJū_Skill04_032.png</frameName>
+            <frameName>SenJū_Skill07_006.png</frameName>
+            <frameName>SenJū_Skill07_007.png</frameName>
+            <frameName>SenJū_Skill07_008.png</frameName>
+        </frame>
+    </action>
+    <action value="skill05">
+        <date>
+            <dateName type="attackType">cAttack</dateName>
+            <dateName type="attackValue">340</dateName>
+            <dateName type="attackRangeX">48</dateName>
+            <dateName type="attackRangeY">48</dateName>
+            <coldName type="coldDown">1</coldName>
+            <dateName type="combatPoint">8760</dateName>
+        </date>
+        <frame>
+            <eventName type="setSound">Audio/Effectect/ougis.ogg</eventName>
+            <frameName>SenJū_Skill12_001.png</frameName>
+            <eventName type="setCommand">addHP</eventName>
+            <eventName type="setCommand">setCounter</eventName>
+            <frameName>SenJū_Skill12_002.png</frameName>
+            <eventName type="setCommand">addHP</eventName>
+            <eventName type="setCommand">setCounter</eventName>
+            <frameName>SenJū_Skill12_003.png</frameName>
+            <eventName type="setCommand">addHP</eventName>
+            <eventName type="setCommand">setCounter</eventName>
+            <frameName>SenJū_Skill12_004.png</frameName>
+            <eventName type="setCommand">addHP</eventName>
+            <eventName type="setCommand">setCounter</eventName>
+            <frameName>SenJū_Skill12_005.png</frameName>
+            <eventName type="setCommand">addHP</eventName>
+            <eventName type="setCommand">setCounter</eventName>
+            <frameName>SenJū_Skill12_006.png</frameName>
+            <eventName type="setCommand">addHP</eventName>
+            <eventName type="setCommand">setCounter</eventName>
+            <frameName>SenJū_Skill12_007.png</frameName>
+            <eventName type="setCommand">addHP</eventName>
+            <frameName>SenJū_Skill12_008.png</frameName>
+            <frameName>SenJū_Skill12_009.png</frameName>
+            <frameName>SenJū_Skill12_010.png</frameName>
+            <eventName type="setOugis">10</eventName>
+            <frameName>SenJū_Skill05_001.png</frameName>
+            <eventName type="setCommand">setInvincible</eventName>
+            <eventName type="setSound">Audio/Effect/T_5-1.mp3</eventName>
+            <eventName type="setAttackBox">o2_hit</eventName>
+            <frameName>SenJū_Skill05_002.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>SenJū_Skill05_003.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>SenJū_Skill05_004.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>SenJū_Skill05_005.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>SenJū_Skill05_006.png</frameName>
+            <frameName>SenJū_Skill05_007.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>SenJū_Skill05_008.png</frameName>
+            <eventName type="setSound">Audio/Effect/T_5-1.mp3</eventName>
+            <frameName>SenJū_Skill05_009.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>SenJū_Skill05_010.png</frameName>
+            <frameName>SenJū_Skill05_011.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>SenJū_Skill05_012.png</frameName>
+            <frameName>SenJū_Skill05_013.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>SenJū_Skill05_014.png</frameName>
+            <frameName>SenJū_Skill05_015.png</frameName>
+            <eventName type="setSound">Audio/Tenten/Tenten_s5_1.mp3</eventName>
+            <eventName type="setAttackBox">ab_hit</eventName>
+            <frameName>SenJū_Skill05_016.png</frameName>
+            <eventName type="setSound">Audio/Effect/T_5-2.mp3</eventName>
+            <frameName>SenJū_Skill05_017.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>SenJū_Skill05_018.png</frameName>
+            <frameName>SenJū_Skill05_019.png</frameName>
+            <eventName type="setAttackBox">o_hit</eventName>
+            <frameName>SenJū_Skill05_020.png</frameName>
+            <frameName>SenJū_Skill05_021.png</frameName>
+            <eventName type="setAttackBox">o_hit</eventName>
+            <frameName>SenJū_Skill05_022.png</frameName>
+            <eventName type="setAttackBox">o_hit</eventName>
+            <frameName>SenJū_Skill05_023.png</frameName>
+            <frameName>SenJū_Skill05_024.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <eventName type="setSound">Audio/Effect/T_5-1.mp3</eventName>
+            <frameName>SenJū_Skill05_025.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill05_026.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill05_027.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill05_028.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill05_029.png</frameName>
+            <eventName type="setAttackBox">f_hit</eventName>
+            <frameName>SenJū_Skill05_030.png</frameName>
+            <eventName type="setAttackBox">f2_hit</eventName>
+            <eventName type="setSound">Audio/Effect/T_5-3.mp3</eventName>
+            <frameName>SenJū_Skill05_031.png</frameName>
+            <eventName type="setAttackBox">f2_hit</eventName>
+            <frameName>SenJū_Skill05_032.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill05_033.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill05_034.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill05_035.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill05_036.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill05_037.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill05_038.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill05_038.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill05_039.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill05_040.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill05_041.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>SenJū_Skill05_042.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill05_043.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill05_044.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill05_045.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill05_046.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill05_047.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>SenJū_Skill05_048.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <eventName type="setCommand">reInvincible</eventName>
+        </frame>
+    </action>
+    <action value="skill06">
+        <frame />
+    </action>
+    <action value="skill07">
+        <frame />
+    </action>
+    <action value="skill08">
+        <frame />
+    </action>
+    <action value="skill09">
+        <frame />
+    </action>
+    <action value="skill10">
+        <date>
+            <dateName type="attackType">cAttack</dateName>
+            <dateName type="attackValue">220</dateName>
+            <dateName type="attackRangeX">12</dateName>
+            <dateName type="attackRangeY">64</dateName>
+            <coldName type="coldDown">0</coldName>
+        </date>
+        <frame>
+            <frameName>SenJū_Skill03_000.png</frameName>
+            <frameName>SenJū_Skill03_000.png</frameName>
+            <eventName type="setSound">Audio/Tenten/Tenten_s3_2.mp3</eventName>
+            <frameName>Tenten_Skill10_01.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>Tenten_Skill10_02.png</frameName>
+            <eventName type="setBullet">TentenSRK</eventName>
+            <frameName>Tenten_Skill10_03.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>Tenten_Skill10_04.png</frameName>
+            <frameName>Tenten_Skill10_05.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>Tenten_Skill10_06.png</frameName>
+            <frameName>Tenten_Skill10_07.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>Tenten_Skill10_08.png</frameName>
+
+            <eventName type="setActionResume">20</eventName>
+        </frame>
+    </action>
 </animation>

@@ -58,7 +58,7 @@
             <eventName type="setMove">32</eventName>
             <frameName>Nagato_Hurt_01.png</frameName>
             <eventName type="setCommand">setCounter</eventName>
-            <eventName type="setMon">AnimalPathDiyuDog</eventName>
+
             <eventName type="setCommand">setCounter</eventName>
             <frameName>Nagato_Hurt_02.png</frameName>
 
@@ -92,6 +92,7 @@
     <action value="Float">
         <frame>
             <frameName>Nagato_Float_01.png</frameName>
+            <eventName type="setMon">AnimalPathDiyuDog</eventName>
             <eventName type="setDelay">10</eventName>
             <frameName>Nagato_Float_02.png</frameName>
             <eventName type="setDelay">10</eventName>
@@ -103,7 +104,7 @@
         <frame>
             <frameName>Nagato_KnockDown_01.png</frameName>
             <frameName>Nagato_KnockDown_02.png</frameName>
-            <eventName type="setBullet">setRelive</eventName>
+            <!-- <eventName type="setBullet">setRelive</eventName> -->
             <eventName type="setSound">Audio/Nagato/relive.mp3</eventName>
         </frame>
     </action>

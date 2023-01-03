@@ -1,269 +1,779 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-        <key>frames</key>
-        <dict>
-            <key>FlyKnife_Move_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{494,30},{43,9}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{43,9}}</string>
-                <key>sourceSize</key>
-                <string>{43,9}</string>
-            </dict>
-            <key>Mine_Move_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{384,334},{27,21}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{27,21}}</string>
-                <key>sourceSize</key>
-                <string>{27,21}</string>
-            </dict>
-            <key>Mine_NAttack_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{355,334},{27,21}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{27,21}}</string>
-                <key>sourceSize</key>
-                <string>{27,21}</string>
-            </dict>
-            <key>Mine_NAttack_02.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{494,2},{26,13}}</string>
-                <key>offset</key>
-                <string>{0,-4}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,22},{26,13}}</string>
-                <key>sourceSize</key>
-                <string>{26,49}</string>
-            </dict>
-            <key>Mine_NAttack_03.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{242,545},{28,27}}</string>
-                <key>offset</key>
-                <string>{0,1}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,10},{28,27}}</string>
-                <key>sourceSize</key>
-                <string>{28,49}</string>
-            </dict>
-            <key>Mine_NAttack_04.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{304,312},{43,49}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{43,49}}</string>
-                <key>sourceSize</key>
-                <string>{43,49}</string>
-            </dict>
-            <key>Mine_NAttack_05.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{242,438},{40,43}}</string>
-                <key>offset</key>
-                <string>{0,1}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,2},{40,43}}</string>
-                <key>sourceSize</key>
-                <string>{40,49}</string>
-            </dict>
-            <key>Mine_NAttack_06.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{242,480},{32,33}}</string>
-                <key>offset</key>
-                <string>{0,7}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,1},{32,33}}</string>
-                <key>sourceSize</key>
-                <string>{32,49}</string>
-            </dict>
-            <key>Shoryu_Move_001.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{287,479},{122,86}}</string>
-                <key>offset</key>
-                <string>{-2,5}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{119,23},{122,86}}</string>
-                <key>sourceSize</key>
-                <string>{364,142}</string>
-            </dict>
-            <key>Shoryu_Move_002.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{304,357},{192,120}}</string>
-                <key>offset</key>
-                <string>{-5,-1}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{81,12},{192,120}}</string>
-                <key>sourceSize</key>
-                <string>{364,142}</string>
-            </dict>
-            <key>Shoryu_Move_003.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,438},{238,122}}</string>
-                <key>offset</key>
-                <string>{5,-10}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{68,20},{238,122}}</string>
-                <key>sourceSize</key>
-                <string>{364,142}</string>
-            </dict>
-            <key>Shoryu_Move_004.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,312},{300,124}}</string>
-                <key>offset</key>
-                <string>{2,-9}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{34,18},{300,124}}</string>
-                <key>sourceSize</key>
-                <string>{364,142}</string>
-            </dict>
-            <key>Shoryu_Move_005.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{366,2},{330,126}}</string>
-                <key>offset</key>
-                <string>{16,-8}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{33,16},{330,126}}</string>
-                <key>sourceSize</key>
-                <string>{364,142}</string>
-            </dict>
-            <key>Shoryu_Move_006.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,198},{350,112}}</string>
-                <key>offset</key>
-                <string>{6,-15}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{13,30},{350,112}}</string>
-                <key>sourceSize</key>
-                <string>{364,142}</string>
-            </dict>
-            <key>Shoryu_Move_007.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,2},{362,78}}</string>
-                <key>offset</key>
-                <string>{0,-32}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{1,64},{362,78}}</string>
-                <key>sourceSize</key>
-                <string>{364,142}</string>
-            </dict>
-            <key>Shoryu_Move_008.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,140},{362,56}}</string>
-                <key>offset</key>
-                <string>{0,-43}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{1,86},{362,56}}</string>
-                <key>sourceSize</key>
-                <string>{364,142}</string>
-            </dict>
-            <key>Shoryu_Move_009.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,82},{362,56}}</string>
-                <key>offset</key>
-                <string>{0,-43}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{1,86},{362,56}}</string>
-                <key>sourceSize</key>
-                <string>{364,142}</string>
-            </dict>
-            <key>TentenSRK_Move_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{411,479},{27,27}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{27,27}}</string>
-                <key>sourceSize</key>
-                <string>{27,27}</string>
-            </dict>
-            <key>TentenSRK_Move_02.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{242,514},{29,29}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{29,29}}</string>
-                <key>sourceSize</key>
-                <string>{29,29}</string>
-            </dict>
-        </dict>
-        <key>metadata</key>
-        <dict>
-            <key>format</key>
-            <integer>2</integer>
-            <key>realTextureFileName</key>
-            <string>Tenten_Skill.png</string>
-            <key>size</key>
-            <string>{512,1024}</string>
-            <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:fd585011ae3dc131da8dc0e7578c2508$</string>
-            <key>textureFileName</key>
-            <string>Tenten_Skill.png</string>
-        </dict>
-    </dict>
+<dict>
+<key>frames</key>
+<dict>
+<key>SenJū_Skill04_026.png</key>
+<dict>
+<key>frame</key>
+<string>{{0,0},{670,407}}</string>
+<key>offset</key>
+<string>{167,-86}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{670,407}}</string>
+<key>sourceSize</key>
+<string>{670,407}</string>
+</dict>
+<key>SenJū_Skill04_027.png</key>
+<dict>
+<key>frame</key>
+<string>{{0,407},{670,407}}</string>
+<key>offset</key>
+<string>{167,-86}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{670,407}}</string>
+<key>sourceSize</key>
+<string>{670,407}</string>
+</dict>
+<key>SenJū_Skill04_028.png</key>
+<dict>
+<key>frame</key>
+<string>{{670,0},{670,407}}</string>
+<key>offset</key>
+<string>{167,-86}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{670,407}}</string>
+<key>sourceSize</key>
+<string>{670,407}</string>
+</dict>
+<key>SenJū_Skill04_029.png</key>
+<dict>
+<key>frame</key>
+<string>{{0,814},{670,407}}</string>
+<key>offset</key>
+<string>{167,-86}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{670,407}}</string>
+<key>sourceSize</key>
+<string>{670,407}</string>
+</dict>
+<key>SenJū_Skill04_030.png</key>
+<dict>
+<key>frame</key>
+<string>{{670,407},{670,407}}</string>
+<key>offset</key>
+<string>{167,-86}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{670,407}}</string>
+<key>sourceSize</key>
+<string>{670,407}</string>
+</dict>
+<key>SenJū_Skill04_031.png</key>
+<dict>
+<key>frame</key>
+<string>{{1340,0},{670,407}}</string>
+<key>offset</key>
+<string>{167,-86}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{670,407}}</string>
+<key>sourceSize</key>
+<string>{670,407}</string>
+</dict>
+<key>SenJū_Skill04_032.png</key>
+<dict>
+<key>frame</key>
+<string>{{0,1221},{670,407}}</string>
+<key>offset</key>
+<string>{167,-86}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{670,407}}</string>
+<key>sourceSize</key>
+<string>{670,407}</string>
+</dict>
+<key>SenJū_Skill05_002.png</key>
+<dict>
+<key>frame</key>
+<string>{{670,814},{545,372}}</string>
+<key>offset</key>
+<string>{144.5,-51}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{545,372}}</string>
+<key>sourceSize</key>
+<string>{545,372}</string>
+</dict>
+<key>SenJū_Skill05_003.png</key>
+<dict>
+<key>frame</key>
+<string>{{1340,407},{545,372}}</string>
+<key>offset</key>
+<string>{144.5,-51}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{545,372}}</string>
+<key>sourceSize</key>
+<string>{545,372}</string>
+</dict>
+<key>SenJū_Skill05_004.png</key>
+<dict>
+<key>frame</key>
+<string>{{2010,0},{545,372}}</string>
+<key>offset</key>
+<string>{144.5,-51}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{545,372}}</string>
+<key>sourceSize</key>
+<string>{545,372}</string>
+</dict>
+<key>SenJū_Skill05_005.png</key>
+<dict>
+<key>frame</key>
+<string>{{0,1628},{545,372}}</string>
+<key>offset</key>
+<string>{144.5,-51}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{545,372}}</string>
+<key>sourceSize</key>
+<string>{545,372}</string>
+</dict>
+<key>SenJū_Skill05_006.png</key>
+<dict>
+<key>frame</key>
+<string>{{670,1186},{545,372}}</string>
+<key>offset</key>
+<string>{144.5,-51}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{545,372}}</string>
+<key>sourceSize</key>
+<string>{545,372}</string>
+</dict>
+<key>SenJū_Skill05_007.png</key>
+<dict>
+<key>frame</key>
+<string>{{1215,814},{545,372}}</string>
+<key>offset</key>
+<string>{144.5,-51}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{545,372}}</string>
+<key>sourceSize</key>
+<string>{545,372}</string>
+</dict>
+<key>SenJū_Skill05_008.png</key>
+<dict>
+<key>frame</key>
+<string>{{1885,407},{545,372}}</string>
+<key>offset</key>
+<string>{144.5,-51}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{545,372}}</string>
+<key>sourceSize</key>
+<string>{545,372}</string>
+</dict>
+<key>SenJū_Skill05_009.png</key>
+<dict>
+<key>frame</key>
+<string>{{2555,0},{545,372}}</string>
+<key>offset</key>
+<string>{144.5,-51}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{545,372}}</string>
+<key>sourceSize</key>
+<string>{545,372}</string>
+</dict>
+<key>SenJū_Skill05_010.png</key>
+<dict>
+<key>frame</key>
+<string>{{0,2000},{545,372}}</string>
+<key>offset</key>
+<string>{144.5,-51}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{545,372}}</string>
+<key>sourceSize</key>
+<string>{545,372}</string>
+</dict>
+<key>SenJū_Skill05_011.png</key>
+<dict>
+<key>frame</key>
+<string>{{545,1628},{560,377}}</string>
+<key>offset</key>
+<string>{145,-56}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{560,377}}</string>
+<key>sourceSize</key>
+<string>{560,377}</string>
+</dict>
+<key>SenJū_Skill05_012.png</key>
+<dict>
+<key>frame</key>
+<string>{{1215,1186},{560,377}}</string>
+<key>offset</key>
+<string>{145,-56}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{560,377}}</string>
+<key>sourceSize</key>
+<string>{560,377}</string>
+</dict>
+<key>SenJū_Skill05_013.png</key>
+<dict>
+<key>frame</key>
+<string>{{2430,372},{560,377}}</string>
+<key>offset</key>
+<string>{145,-56}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{560,377}}</string>
+<key>sourceSize</key>
+<string>{560,377}</string>
+</dict>
+<key>SenJū_Skill05_014.png</key>
+<dict>
+<key>frame</key>
+<string>{{3100,0},{560,377}}</string>
+<key>offset</key>
+<string>{145,-56}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{560,377}}</string>
+<key>sourceSize</key>
+<string>{560,377}</string>
+</dict>
+<key>SenJū_Skill05_015.png</key>
+<dict>
+<key>frame</key>
+<string>{{0,2372},{560,377}}</string>
+<key>offset</key>
+<string>{145,-56}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{560,377}}</string>
+<key>sourceSize</key>
+<string>{560,377}</string>
+</dict>
+<key>SenJū_Skill05_016.png</key>
+<dict>
+<key>frame</key>
+<string>{{1760,779},{560,377}}</string>
+<key>offset</key>
+<string>{145,-56}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{560,377}}</string>
+<key>sourceSize</key>
+<string>{560,377}</string>
+</dict>
+<key>SenJū_Skill05_017.png</key>
+<dict>
+<key>frame</key>
+<string>{{1105,1563},{560,377}}</string>
+<key>offset</key>
+<string>{145,-56}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{560,377}}</string>
+<key>sourceSize</key>
+<string>{560,377}</string>
+</dict>
+<key>SenJū_Skill05_018.png</key>
+<dict>
+<key>frame</key>
+<string>{{2430,749},{560,377}}</string>
+<key>offset</key>
+<string>{145,-56}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{560,377}}</string>
+<key>sourceSize</key>
+<string>{560,377}</string>
+</dict>
+<key>SenJū_Skill05_019.png</key>
+<dict>
+<key>frame</key>
+<string>{{2990,377},{560,377}}</string>
+<key>offset</key>
+<string>{145,-56}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{560,377}}</string>
+<key>sourceSize</key>
+<string>{560,377}</string>
+</dict>
+<key>SenJū_Skill05_020.png</key>
+<dict>
+<key>frame</key>
+<string>{{0,2749},{560,377}}</string>
+<key>offset</key>
+<string>{145,-56}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{560,377}}</string>
+<key>sourceSize</key>
+<string>{560,377}</string>
+</dict>
+<key>SenJū_Skill05_021.png</key>
+<dict>
+<key>frame</key>
+<string>{{560,2005},{560,377}}</string>
+<key>offset</key>
+<string>{145,-56}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{560,377}}</string>
+<key>sourceSize</key>
+<string>{560,377}</string>
+</dict>
+<key>SenJū_Skill05_022.png</key>
+<dict>
+<key>frame</key>
+<string>{{1775,1156},{560,377}}</string>
+<key>offset</key>
+<string>{145,-56}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{560,377}}</string>
+<key>sourceSize</key>
+<string>{560,377}</string>
+</dict>
+<key>SenJū_Skill05_023.png</key>
+<dict>
+<key>frame</key>
+<string>{{1665,1563},{560,377}}</string>
+<key>offset</key>
+<string>{145,-56}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{560,377}}</string>
+<key>sourceSize</key>
+<string>{560,377}</string>
+</dict>
+<key>SenJū_Skill05_024.png</key>
+<dict>
+<key>frame</key>
+<string>{{2990,754},{673,405}}</string>
+<key>offset</key>
+<string>{197.5,-84}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{673,405}}</string>
+<key>sourceSize</key>
+<string>{673,405}</string>
+</dict>
+<key>SenJū_Skill05_025.png</key>
+<dict>
+<key>frame</key>
+<string>{{0,3126},{673,405}}</string>
+<key>offset</key>
+<string>{197.5,-84}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{673,405}}</string>
+<key>sourceSize</key>
+<string>{673,405}</string>
+</dict>
+<key>SenJū_Skill05_026.png</key>
+<dict>
+<key>frame</key>
+<string>{{1120,1940},{673,405}}</string>
+<key>offset</key>
+<string>{197.5,-84}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{673,405}}</string>
+<key>sourceSize</key>
+<string>{673,405}</string>
+</dict>
+<key>SenJū_Skill05_027.png</key>
+<dict>
+<key>frame</key>
+<string>{{2225,1533},{673,405}}</string>
+<key>offset</key>
+<string>{197.5,-84}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{673,405}}</string>
+<key>sourceSize</key>
+<string>{673,405}</string>
+</dict>
+<key>SenJū_Skill05_028.png</key>
+<dict>
+<key>frame</key>
+<string>{{0,3531},{673,405}}</string>
+<key>offset</key>
+<string>{197.5,-84}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{673,405}}</string>
+<key>sourceSize</key>
+<string>{673,405}</string>
+</dict>
+<key>SenJū_Skill05_029.png</key>
+<dict>
+<key>frame</key>
+<string>{{560,2382},{673,405}}</string>
+<key>offset</key>
+<string>{197.5,-84}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{673,405}}</string>
+<key>sourceSize</key>
+<string>{673,405}</string>
+</dict>
+<key>SenJū_Skill05_030.png</key>
+<dict>
+<key>frame</key>
+<string>{{1793,1940},{673,405}}</string>
+<key>offset</key>
+<string>{197.5,-84}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{673,405}}</string>
+<key>sourceSize</key>
+<string>{673,405}</string>
+</dict>
+<key>SenJū_Skill05_031.png</key>
+<dict>
+<key>frame</key>
+<string>{{2898,1159},{677,405}}</string>
+<key>offset</key>
+<string>{199.5,-84}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{677,405}}</string>
+<key>sourceSize</key>
+<string>{677,405}</string>
+</dict>
+<key>SenJū_Skill05_032.png</key>
+<dict>
+<key>frame</key>
+<string>{{673,2787},{677,405}}</string>
+<key>offset</key>
+<string>{199.5,-84}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{677,405}}</string>
+<key>sourceSize</key>
+<string>{677,405}</string>
+</dict>
+<key>SenJū_Skill05_033.png</key>
+<dict>
+<key>frame</key>
+<string>{{2466,1938},{677,405}}</string>
+<key>offset</key>
+<string>{199.5,-84}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{677,405}}</string>
+<key>sourceSize</key>
+<string>{677,405}</string>
+</dict>
+<key>SenJū_Skill05_034.png</key>
+<dict>
+<key>frame</key>
+<string>{{673,3192},{677,405}}</string>
+<key>offset</key>
+<string>{199.5,-84}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{677,405}}</string>
+<key>sourceSize</key>
+<string>{677,405}</string>
+</dict>
+<key>SenJū_Skill05_035.png</key>
+<dict>
+<key>frame</key>
+<string>{{1233,2345},{677,405}}</string>
+<key>offset</key>
+<string>{199.5,-84}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{677,405}}</string>
+<key>sourceSize</key>
+<string>{677,405}</string>
+</dict>
+<key>SenJū_Skill05_036.png</key>
+<dict>
+<key>frame</key>
+<string>{{2466,2343},{677,405}}</string>
+<key>offset</key>
+<string>{199.5,-84}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{677,405}}</string>
+<key>sourceSize</key>
+<string>{677,405}</string>
+</dict>
+<key>SenJū_Skill05_037.png</key>
+<dict>
+<key>frame</key>
+<string>{{3143,1564},{677,405}}</string>
+<key>offset</key>
+<string>{199.5,-84}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{677,405}}</string>
+<key>sourceSize</key>
+<string>{677,405}</string>
+</dict>
+<key>SenJū_Skill05_038.png</key>
+<dict>
+<key>frame</key>
+<string>{{673,3597},{677,405}}</string>
+<key>offset</key>
+<string>{199.5,-84}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{677,405}}</string>
+<key>sourceSize</key>
+<string>{677,405}</string>
+</dict>
+<key>SenJū_Skill05_039.png</key>
+<dict>
+<key>frame</key>
+<string>{{1350,2750},{677,405}}</string>
+<key>offset</key>
+<string>{199.5,-84}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{677,405}}</string>
+<key>sourceSize</key>
+<string>{677,405}</string>
+</dict>
+<key>SenJū_Skill05_040.png</key>
+<dict>
+<key>frame</key>
+<string>{{3143,1969},{660,401}}</string>
+<key>offset</key>
+<string>{200,-80}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{660,401}}</string>
+<key>sourceSize</key>
+<string>{660,401}</string>
+</dict>
+<key>SenJū_Skill05_041.png</key>
+<dict>
+<key>frame</key>
+<string>{{1350,3155},{660,401}}</string>
+<key>offset</key>
+<string>{200,-80}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{660,401}}</string>
+<key>sourceSize</key>
+<string>{660,401}</string>
+</dict>
+<key>SenJū_Skill05_042.png</key>
+<dict>
+<key>frame</key>
+<string>{{2027,2748},{660,401}}</string>
+<key>offset</key>
+<string>{200,-80}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{660,401}}</string>
+<key>sourceSize</key>
+<string>{660,401}</string>
+</dict>
+<key>SenJū_Skill05_043.png</key>
+<dict>
+<key>frame</key>
+<string>{{3143,2370},{660,401}}</string>
+<key>offset</key>
+<string>{200,-80}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{660,401}}</string>
+<key>sourceSize</key>
+<string>{660,401}</string>
+</dict>
+<key>SenJū_Skill05_044.png</key>
+<dict>
+<key>frame</key>
+<string>{{1350,3556},{660,401}}</string>
+<key>offset</key>
+<string>{200,-80}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{660,401}}</string>
+<key>sourceSize</key>
+<string>{660,401}</string>
+</dict>
+<key>SenJū_Skill05_045.png</key>
+<dict>
+<key>frame</key>
+<string>{{2010,3155},{660,401}}</string>
+<key>offset</key>
+<string>{200,-80}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{660,401}}</string>
+<key>sourceSize</key>
+<string>{660,401}</string>
+</dict>
+<key>SenJū_Skill05_046.png</key>
+<dict>
+<key>frame</key>
+<string>{{2687,2771},{660,401}}</string>
+<key>offset</key>
+<string>{200,-80}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{660,401}}</string>
+<key>sourceSize</key>
+<string>{660,401}</string>
+</dict>
+<key>SenJū_Skill05_047.png</key>
+<dict>
+<key>frame</key>
+<string>{{2010,3556},{660,401}}</string>
+<key>offset</key>
+<string>{200,-80}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{660,401}}</string>
+<key>sourceSize</key>
+<string>{660,401}</string>
+</dict>
+<key>SenJū_Skill05_048.png</key>
+<dict>
+<key>frame</key>
+<string>{{3347,2771},{660,401}}</string>
+<key>offset</key>
+<string>{200,-80}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{660,401}}</string>
+<key>sourceSize</key>
+<string>{660,401}</string>
+</dict>
+<key>SenJū_Skill12_007.png</key>
+<dict>
+<key>frame</key>
+<string>{{3660,0},{202,163}}</string>
+<key>offset</key>
+<string>{3,-25}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{202,163}}</string>
+<key>sourceSize</key>
+<string>{202,163}</string>
+</dict>
+<key>SenJū_Skill12_008.png</key>
+<dict>
+<key>frame</key>
+<string>{{3550,377},{202,163}}</string>
+<key>offset</key>
+<string>{3,-25}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{202,163}}</string>
+<key>sourceSize</key>
+<string>{202,163}</string>
+</dict>
+<key>SenJū_Skill12_009.png</key>
+<dict>
+<key>frame</key>
+<string>{{2335,1126},{202,163}}</string>
+<key>offset</key>
+<string>{3,-25}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{202,163}}</string>
+<key>sourceSize</key>
+<string>{202,163}</string>
+</dict>
+<key>SenJū_Skill12_010.png</key>
+<dict>
+<key>frame</key>
+<string>{{3575,1159},{202,163}}</string>
+<key>offset</key>
+<string>{3,-25}</string>
+<key>rotated</key>
+<false/>
+<key>sourceColorRect</key>
+<string>{{0,0},{202,163}}</string>
+<key>sourceSize</key>
+<string>{202,163}</string>
+</dict>
+
+</dict>
+<key>metadata</key>
+<dict>
+<key>format</key>
+<integer>2</integer>
+<key>realTextureFileName</key>
+<string>Tenten_Skill.png</string>
+<key>size</key>
+<string>{4096,4096}</string>
+<key>smartupdate</key>
+<string>
+$TexturePacker:SmartUpdate:174602a7d6bedba75e9e4d6d40053fad$
+</string>
+<key>textureFileName</key>
+<string>Tenten_Skill.png</string>
+</dict>
+</dict>
 </plist>

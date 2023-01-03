@@ -4,69 +4,1046 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>CircleMark_Move_01.png</key>
+            <key>Hidan_Skill05_008.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,46},{71,14}}</string>
+                <string>{{0,0},{689,413}}</string>
                 <key>offset</key>
-                <string>{0,2}</string>
+                <string>{-9.5,-93}</string>
                 <key>rotated</key>
-                <false/>
+                <false />
                 <key>sourceColorRect</key>
-                <string>{{0,2},{71,14}}</string>
+                <string>{{0,0},{689,413}}</string>
                 <key>sourceSize</key>
-                <string>{71,22}</string>
+                <string>{689,413}</string>
             </dict>
-            <key>CircleMark_Move_02.png</key>
+            <key>Hidan_Skill05_009.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,26},{71,18}}</string>
+                <string>{{0,413},{689,413}}</string>
                 <key>offset</key>
-                <string>{0,2}</string>
+                <string>{-9.5,-93}</string>
                 <key>rotated</key>
-                <false/>
+                <false />
                 <key>sourceColorRect</key>
-                <string>{{0,0},{71,18}}</string>
+                <string>{{0,0},{689,413}}</string>
                 <key>sourceSize</key>
-                <string>{71,22}</string>
+                <string>{689,413}</string>
             </dict>
-            <key>CircleMark_Move_03.png</key>
+            <key>Hidan_Skill05_010.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{75,2},{71,22}}</string>
+                <string>{{689,0},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_011.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{689,413},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_012.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,826},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_013.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{689,826},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_014.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,1239},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_015.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{689,1239},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_016.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1378,0},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_017.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1378,413},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_018.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1378,826},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_019.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1378,1239},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_020.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,1652},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_021.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{689,1652},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_022.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1378,1652},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_023.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,2065},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_024.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{689,2065},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_025.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1378,2065},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_026.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2067,0},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_027.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2067,413},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_028.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2067,826},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_029.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2067,1239},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_030.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2067,1652},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_031.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2067,2065},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_032.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,2478},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_033.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{689,2478},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_034.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1378,2478},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_035.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2067,2478},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_036.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2756,0},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_037.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2756,413},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_038.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2756,826},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_039.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2756,1239},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_040.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2756,1652},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_041.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2756,2065},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_042.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2756,2478},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_043.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,2891},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_044.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{689,2891},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_045.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1378,2891},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_046.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2067,2891},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_047.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2756,2891},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_048.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,3304},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_049.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{689,3304},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_050.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1378,3304},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_051.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2067,3304},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill05_052.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2756,3304},{689,413}}</string>
+                <key>offset</key>
+                <string>{-9.5,-93}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{689,413}}</string>
+                <key>sourceSize</key>
+                <string>{689,413}</string>
+            </dict>
+            <key>Hidan_Skill04_001.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3445,0},{505,373}}</string>
+                <key>offset</key>
+                <string>{-5.5,-92}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{505,373}}</string>
+                <key>sourceSize</key>
+                <string>{505,373}</string>
+            </dict>
+            <key>Hidan_Skill04_002.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3445,373},{505,373}}</string>
+                <key>offset</key>
+                <string>{-5.5,-92}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{505,373}}</string>
+                <key>sourceSize</key>
+                <string>{505,373}</string>
+            </dict>
+            <key>Hidan_Skill04_003.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3445,746},{505,373}}</string>
+                <key>offset</key>
+                <string>{-5.5,-92}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{505,373}}</string>
+                <key>sourceSize</key>
+                <string>{505,373}</string>
+            </dict>
+            <key>Hidan_Skill04_004.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3445,1119},{505,373}}</string>
+                <key>offset</key>
+                <string>{-5.5,-92}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{505,373}}</string>
+                <key>sourceSize</key>
+                <string>{505,373}</string>
+            </dict>
+            <key>Hidan_Skill04_005.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3445,1492},{505,373}}</string>
+                <key>offset</key>
+                <string>{-5.5,-92}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{505,373}}</string>
+                <key>sourceSize</key>
+                <string>{505,373}</string>
+            </dict>
+            <key>Hidan_Skill04_006.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3445,1865},{505,373}}</string>
+                <key>offset</key>
+                <string>{-5.5,-92}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{505,373}}</string>
+                <key>sourceSize</key>
+                <string>{505,373}</string>
+            </dict>
+            <key>Hidan_Skill04_007.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3445,2238},{505,373}}</string>
+                <key>offset</key>
+                <string>{-5.5,-92}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{505,373}}</string>
+                <key>sourceSize</key>
+                <string>{505,373}</string>
+            </dict>
+            <key>Hidan_Skill04_008.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3445,2611},{505,373}}</string>
+                <key>offset</key>
+                <string>{-5.5,-92}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{505,373}}</string>
+                <key>sourceSize</key>
+                <string>{505,373}</string>
+            </dict>
+            <key>Hidan_Skill04_009.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3445,2984},{505,373}}</string>
+                <key>offset</key>
+                <string>{-5.5,-92}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{505,373}}</string>
+                <key>sourceSize</key>
+                <string>{505,373}</string>
+            </dict>
+            <key>Hidan_Skill04_019.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3445,3357},{312,296}}</string>
+                <key>offset</key>
+                <string>{27.5,-86}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{312,296}}</string>
+                <key>sourceSize</key>
+                <string>{312,296}</string>
+            </dict>
+            <key>Hidan_Skill02_026.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3445,3653},{310,228}}</string>
+                <key>offset</key>
+                <string>{-8.5,-68}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{310,228}}</string>
+                <key>sourceSize</key>
+                <string>{310,228}</string>
+            </dict>
+            <key>Hidan_Skill02_027.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,3717},{310,228}}</string>
+                <key>offset</key>
+                <string>{-8.5,-68}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{310,228}}</string>
+                <key>sourceSize</key>
+                <string>{310,228}</string>
+            </dict>
+            <key>Hidan_Skill02_028.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{310,3717},{310,228}}</string>
+                <key>offset</key>
+                <string>{-8.5,-68}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{310,228}}</string>
+                <key>sourceSize</key>
+                <string>{310,228}</string>
+            </dict>
+            <key>Hidan_Skill02_029.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{620,3717},{310,228}}</string>
+                <key>offset</key>
+                <string>{-8.5,-68}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{310,228}}</string>
+                <key>sourceSize</key>
+                <string>{310,228}</string>
+            </dict>
+            <key>Hidan_Skill02_030.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{930,3717},{310,228}}</string>
+                <key>offset</key>
+                <string>{-8.5,-68}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{310,228}}</string>
+                <key>sourceSize</key>
+                <string>{310,228}</string>
+            </dict>
+            <key>Hidan_Skill02_031.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1240,3717},{310,228}}</string>
+                <key>offset</key>
+                <string>{-8.5,-68}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{310,228}}</string>
+                <key>sourceSize</key>
+                <string>{310,228}</string>
+            </dict>
+            <key>Hidan_Skill02_032.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1550,3717},{310,228}}</string>
+                <key>offset</key>
+                <string>{-8.5,-68}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{310,228}}</string>
+                <key>sourceSize</key>
+                <string>{310,228}</string>
+            </dict>
+            <key>Hidan_Skill02_033.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1860,3717},{310,228}}</string>
+                <key>offset</key>
+                <string>{-8.5,-68}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{310,228}}</string>
+                <key>sourceSize</key>
+                <string>{310,228}</string>
+            </dict>
+            <key>Hidan_Skill02_034.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2170,3717},{310,228}}</string>
+                <key>offset</key>
+                <string>{-8.5,-68}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{310,228}}</string>
+                <key>sourceSize</key>
+                <string>{310,228}</string>
+            </dict>
+            <key>Hidan_Skill02_035.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2480,3717},{310,228}}</string>
+                <key>offset</key>
+                <string>{-8.5,-68}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{310,228}}</string>
+                <key>sourceSize</key>
+                <string>{310,228}</string>
+            </dict>
+            <key>Hidan_Skill02_036.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2790,3717},{310,228}}</string>
+                <key>offset</key>
+                <string>{-8.5,-68}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{310,228}}</string>
+                <key>sourceSize</key>
+                <string>{310,228}</string>
+            </dict>
+            <key>Hidan_Skill02_037.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3100,3717},{310,228}}</string>
+                <key>offset</key>
+                <string>{-8.5,-68}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{310,228}}</string>
+                <key>sourceSize</key>
+                <string>{310,228}</string>
+            </dict>
+            <key>Hidan_Skill05_001.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3755,3653},{114,104}}</string>
+                <key>offset</key>
+                <string>{-2.5,0}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{114,104}}</string>
+                <key>sourceSize</key>
+                <string>{114,104}</string>
+            </dict>
+            <key>Hidan_Skill05_002.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3755,3757},{114,104}}</string>
+                <key>offset</key>
+                <string>{-2.5,0}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{114,104}}</string>
+                <key>sourceSize</key>
+                <string>{114,104}</string>
+            </dict>
+            <key>Hidan_Skill05_003.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3757,3357},{114,104}}</string>
+                <key>offset</key>
+                <string>{-2.5,0}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{114,104}}</string>
+                <key>sourceSize</key>
+                <string>{114,104}</string>
+            </dict>
+            <key>Hidan_Skill05_004.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3757,3461},{114,104}}</string>
+                <key>offset</key>
+                <string>{-2.5,0}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{114,104}}</string>
+                <key>sourceSize</key>
+                <string>{114,104}</string>
+            </dict>
+            <key>Hidan_AirHurt_001.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3755,3861},{81,84}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false />
                 <key>sourceColorRect</key>
-                <string>{{0,0},{71,22}}</string>
+                <string>{{0,0},{81,84}}</string>
                 <key>sourceSize</key>
-                <string>{71,22}</string>
+                <string>{81,84}</string>
             </dict>
-            <key>CircleMark_Move_04.png</key>
+            <key>Hidan_Hurt_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{71,22}}</string>
+                <string>{{3836,3861},{84,79}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <false />
                 <key>sourceColorRect</key>
-                <string>{{0,0},{71,22}}</string>
+                <string>{{0,0},{84,79}}</string>
                 <key>sourceSize</key>
-                <string>{71,22}</string>
+                <string>{84,79}</string>
+            </dict>
+            <key>Hidan_Hurt_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3757,3565},{84,79}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{84,79}}</string>
+                <key>sourceSize</key>
+                <string>{84,79}</string>
+            </dict>
+            <key>Hidan_Float_001.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3841,3565},{95,68}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{95,68}}</string>
+                <key>sourceSize</key>
+                <string>{95,68}</string>
+            </dict>
+            <key>Hidan_Walk_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3410,3881},{84,61}}</string>
+                <key>offset</key>
+                <string>{-8.5,0}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{84,61}}</string>
+                <key>sourceSize</key>
+                <string>{84,61}</string>
+            </dict>
+            <key>Hidan_Walk_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3494,3881},{84,61}}</string>
+                <key>offset</key>
+                <string>{-8.5,0}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{84,61}}</string>
+                <key>sourceSize</key>
+                <string>{84,61}</string>
+            </dict>
+            <key>Hidan_Walk_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3578,3881},{84,61}}</string>
+                <key>offset</key>
+                <string>{-8.5,0}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{84,61}}</string>
+                <key>sourceSize</key>
+                <string>{84,61}</string>
+            </dict>
+            <key>Hidan_Walk_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3662,3881},{84,61}}</string>
+                <key>offset</key>
+                <string>{-8.5,0}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{84,61}}</string>
+                <key>sourceSize</key>
+                <string>{84,61}</string>
             </dict>
         </dict>
         <key>metadata</key>
         <dict>
             <key>format</key>
             <integer>2</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false />
             <key>realTextureFileName</key>
             <string>Hidan_Skill.png</string>
             <key>size</key>
-            <string>{128,128}</string>
-            <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:a90b77efd2fbfda65d390218b1090489$</string>
+            <string>{3950,3945}</string>
             <key>textureFileName</key>
             <string>Hidan_Skill.png</string>
         </dict>

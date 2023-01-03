@@ -1,77 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
- <animation>
-   
+<animation>
     <action value="Idle">
-   <date>
-      <dateName type="attackType">Shoryu</dateName>
-        <dateName type="attackValue">0</dateName>
-        <dateName type="attackRangeX">51</dateName>
-        <dateName type="attackRangeY">11</dateName>
-        <coldName type="coldDown">224</coldName>
-      </date>
-      <frame>
-        <frameName>Shoryu_Move_001.png</frameName>
-      </frame>
+        <date>
+            <dateName type="attackType">Shoryu</dateName>
+            <dateName type="attackValue">0</dateName>
+            <dateName type="attackRangeX">51</dateName>
+            <dateName type="attackRangeY">11</dateName>
+            <coldName type="coldDown">224</coldName>
+        </date>
+        <frame>
+            <frameName>Ichi_000.png</frameName>
+        </frame>
     </action>
-   
     <action value="Walk">
-      <frame>
-          <frameName>Shoryu_Move_001.png</frameName>
-      </frame>
+        <frame>
+            <frameName>Ichi_000.png</frameName>
+        </frame>
     </action>
-   
     <action value="Hurt">
-      <frame>
-      </frame>
+        <frame>
+        </frame>
     </action>
-   
-   <action value="AirHurt">
-     <frame>
-
-     </frame>
-   </action>
-   
-   <action value="KnockDown">
-      <frame>
-      </frame>
+    <action value="AirHurt">
+        <frame>
+        </frame>
     </action>
-   
+    <action value="KnockDown">
+        <frame>
+        </frame>
+    </action>
     <action value="Float">
-      <frame>
-      </frame>
+        <frame>
+        </frame>
     </action>
-   
     <action value="Dead">
-      <frame>
-          <frameName>Shoryu_Move_001.png</frameName>
-      </frame>
+        <frame>
+            <frameName>Ichi_000.png</frameName>
+        </frame>
     </action>
-   
     <action value="nAttack">
-      <date>
-      <dateName type="attackType">aAttack</dateName>
-        <dateName type="attackValue">1800</dateName>
-        <dateName type="attackRangeX">48</dateName>
-        <dateName type="attackRangeY">64</dateName>
-        <coldName type="coldDown">0</coldName>
-      </date>
-      <frame>
-        <frameName>Shoryu_Move_001.png</frameName>
-        <frameName>Shoryu_Move_002.png</frameName>
-        <frameName>Shoryu_Move_003.png</frameName>
-        <eventName type="setAttackBox">c_hit</eventName>
-        <frameName>Shoryu_Move_004.png</frameName>
-        <frameName>Shoryu_Move_005.png</frameName>
-        <eventName type="setAttackBox">c_hit</eventName>
-        <frameName>Shoryu_Move_006.png</frameName>
-        <frameName>Shoryu_Move_007.png</frameName>
-        <eventName type="setAttackBox">c_hit</eventName>
-        <frameName>Shoryu_Move_008.png</frameName>
-        <frameName>Shoryu_Move_009.png</frameName>
-        <eventName type="setAttackBox">c_hit</eventName>
-        <eventName type="setDelay">10</eventName>
-        <eventName type="setDetonation">0</eventName>
-      </frame>
+        <date>
+            <dateName type="attackType">aAttack</dateName>
+            <dateName type="attackValue">160</dateName>
+            <dateName type="attackRangeX">32</dateName>
+            <dateName type="attackRangeY">48</dateName>
+            <coldName type="coldDown">0</coldName>
+        </date>
+        <frame>
+            <frameName>Kibaku_Kunai_001.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>Kibaku_Kunai_002.png</frameName>
+            <frameName>Kibaku_Kunai_003.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <frameName>Kibaku_Kunai_004.png</frameName>
+            <eventName type="setSound">Audio/Effect/T_0-2.mp3</eventName>
+            <eventName type="setAttackBox">b_hit</eventName>
+            <frameName>Kibaku_Kunai_005.png</frameName>
+            <eventName type="setSound">Audio/Effect/T_0-2.mp3</eventName>
+            <eventName type="setAttackBox">b_hit</eventName>
+            <frameName>Kibaku_Kunai_006.png</frameName>
+            <eventName type="setSound">Audio/Effect/T_0-2.mp3</eventName>
+            <eventName type="setAttackBox">b_hit</eventName>
+            <frameName>Kibaku_Kunai_007.png</frameName>
+            <frameName>Kibaku_Kunai_008.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <eventName type="setSound">Audio/Effect/2rr.mp3</eventName>
+            <frameName>Kibaku_Kunai_009.png</frameName>
+            <frameName>KibakuKunai_010.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>KibakuKunai_011.png</frameName>
+            <frameName>KibakuKunai_012.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>KibakuKunai_013.png</frameName>
+            <frameName>KibakuKunai_014.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>KibakuKunai_015.png</frameName>
+            <frameName>KibakuKunai_016.png</frameName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>KibakuKunai_017.png</frameName>
+            <frameName>KibakuKunai_018.png</frameName>
+            <eventName type="setAttackBox">a_hit</eventName>
+            <eventName type="setDetonation">0</eventName>
+        </frame>
     </action>
-
 </animation>
