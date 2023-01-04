@@ -104,7 +104,7 @@
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,1},{366,123}}</string>
+                <string>{{0,25},{366,123}}</string>
                 <key>sourceSize</key>
                 <string>{368,125}</string>
             </dict>
