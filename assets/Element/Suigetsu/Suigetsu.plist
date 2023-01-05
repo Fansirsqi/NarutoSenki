@@ -7,1497 +7,1289 @@
             <key>Suigetsu_AirHurt_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{134,622},{49,59}}</string>
+                <string>{{915,74},{74,62}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{74,62}}</string>
+                <key>sourceSize</key>
+                <string>{74,62}</string>
+            </dict>
+            <key>Suigetsu_AirHurt_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{693,973},{48,74}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{49,59}}</string>
+                <string>{{0,0},{48,74}}</string>
                 <key>sourceSize</key>
-                <string>{49,59}</string>
+                <string>{48,74}</string>
             </dict>
             <key>Suigetsu_Float_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{276,576},{59,49}}</string>
+                <string>{{915,138},{62,74}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{59,49}}</string>
+                <string>{{0,0},{62,74}}</string>
                 <key>sourceSize</key>
-                <string>{59,49}</string>
+                <string>{62,74}</string>
             </dict>
             <key>Suigetsu_Float_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{952,525},{70,42}}</string>
+                <string>{{736,753},{77,69}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{70,42}}</string>
+                <string>{{0,0},{77,69}}</string>
                 <key>sourceSize</key>
-                <string>{70,42}</string>
+                <string>{77,69}</string>
             </dict>
             <key>Suigetsu_Float_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{941,666},{74,43}}</string>
+                <string>{{738,578},{69,77}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{74,43}}</string>
+                <string>{{0,0},{69,77}}</string>
                 <key>sourceSize</key>
-                <string>{74,43}</string>
+                <string>{69,77}</string>
             </dict>
             <key>Suigetsu_Hurt_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{940,767},{41,73}}</string>
+                <string>{{915,202},{67,67}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{41,73}}</string>
+                <string>{{0,0},{67,67}}</string>
                 <key>sourceSize</key>
-                <string>{41,73}</string>
+                <string>{67,67}</string>
             </dict>
             <key>Suigetsu_Hurt_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{572,184},{61,71}}</string>
+                <string>{{841,83},{69,65}}</string>
                 <key>offset</key>
-                <string>{0,-1}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,2},{61,71}}</string>
-                <key>sourceSize</key>
-                <string>{61,73}</string>
-            </dict>
-            <key>Suigetsu_Hurt_03.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{431,514},{80,55}}</string>
-                <key>offset</key>
-                <string>{0,-9}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,18},{80,55}}</string>
+                <string>{{0,0},{69,65}}</string>
                 <key>sourceSize</key>
-                <string>{80,73}</string>
+                <string>{69,65}</string>
             </dict>
             <key>Suigetsu_Idle_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{144,513},{50,65}}</string>
+                <string>{{915,335},{63,61}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{50,65}}</string>
+                <string>{{0,0},{63,61}}</string>
                 <key>sourceSize</key>
-                <string>{50,65}</string>
+                <string>{63,61}</string>
             </dict>
             <key>Suigetsu_Idle_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{73,530},{49,65}}</string>
+                <string>{{779,399},{65,62}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{49,65}}</string>
+                <string>{{0,0},{65,62}}</string>
                 <key>sourceSize</key>
-                <string>{49,65}</string>
+                <string>{65,62}</string>
             </dict>
             <key>Suigetsu_Idle_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,542},{48,65}}</string>
+                <string>{{841,260},{66,63}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{48,65}}</string>
+                <string>{{0,0},{66,63}}</string>
                 <key>sourceSize</key>
-                <string>{48,65}</string>
+                <string>{66,63}</string>
             </dict>
             <key>Suigetsu_Idle_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{73,530},{49,65}}</string>
+                <string>{{779,399},{65,62}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{49,65}}</string>
+                <string>{{0,0},{65,62}}</string>
                 <key>sourceSize</key>
-                <string>{49,65}</string>
+                <string>{65,62}</string>
             </dict>
             <key>Suigetsu_KnockDown_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{137,120},{80,33}}</string>
+                <string>{{715,306},{81,50}}</string>
                 <key>offset</key>
-                <string>{0,-13}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,26},{80,33}}</string>
+                <string>{{0,0},{81,50}}</string>
                 <key>sourceSize</key>
-                <string>{80,59}</string>
+                <string>{81,50}</string>
             </dict>
             <key>Suigetsu_KnockDown_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{754,266},{79,19}}</string>
+                <string>{{388,638},{74,54}}</string>
                 <key>offset</key>
-                <string>{0,-20}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,40},{79,19}}</string>
+                <string>{{0,0},{74,54}}</string>
                 <key>sourceSize</key>
-                <string>{79,59}</string>
+                <string>{74,54}</string>
             </dict>
             <key>Suigetsu_KnockDown_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{300,243},{81,11}}</string>
+                <string>{{418,345},{88,26}}</string>
                 <key>offset</key>
-                <string>{0,-24}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,48},{81,11}}</string>
+                <string>{{0,0},{88,26}}</string>
                 <key>sourceSize</key>
-                <string>{81,59}</string>
+                <string>{88,26}</string>
             </dict>
             <key>Suigetsu_KnockDown_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{764,193},{71,25}}</string>
+                <string>{{601,759},{73,52}}</string>
                 <key>offset</key>
-                <string>{0,-17}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,34},{71,25}}</string>
+                <string>{{0,0},{73,52}}</string>
                 <key>sourceSize</key>
-                <string>{71,59}</string>
+                <string>{73,52}</string>
             </dict>
             <key>Suigetsu_KnockDown_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{66,634},{59,45}}</string>
+                <string>{{708,833},{58,62}}</string>
                 <key>offset</key>
-                <string>{0,-7}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,14},{59,45}}</string>
+                <string>{{0,0},{58,62}}</string>
                 <key>sourceSize</key>
-                <string>{59,59}</string>
+                <string>{58,62}</string>
             </dict>
             <key>Suigetsu_KnockDown_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{205,587},{49,59}}</string>
+                <string>{{829,890},{75,63}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{49,59}}</string>
+                <string>{{0,0},{75,63}}</string>
                 <key>sourceSize</key>
-                <string>{49,59}</string>
+                <string>{75,63}</string>
             </dict>
             <key>Suigetsu_NAttack_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{150,398},{49,72}}</string>
+                <string>{{833,332},{62,63}}</string>
                 <key>offset</key>
-                <string>{0,-2}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,5},{49,72}}</string>
+                <string>{{0,0},{62,63}}</string>
                 <key>sourceSize</key>
-                <string>{49,78}</string>
+                <string>{62,63}</string>
             </dict>
             <key>Suigetsu_NAttack_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{812,498},{51,72}}</string>
+                <string>{{764,893},{63,77}}</string>
                 <key>offset</key>
-                <string>{0,-2}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,5},{51,72}}</string>
+                <string>{{0,0},{63,77}}</string>
                 <key>sourceSize</key>
-                <string>{51,78}</string>
+                <string>{63,77}</string>
             </dict>
             <key>Suigetsu_NAttack_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{515,474},{81,60}}</string>
+                <string>{{705,2},{86,77}}</string>
                 <key>offset</key>
-                <string>{0,-8}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,17},{81,60}}</string>
+                <string>{{0,0},{86,77}}</string>
                 <key>sourceSize</key>
-                <string>{81,78}</string>
+                <string>{86,77}</string>
             </dict>
             <key>Suigetsu_NAttack_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{594,576},{67,76}}</string>
+                <string>{{614,895},{79,77}}</string>
                 <key>offset</key>
-                <string>{0,-1}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,2},{67,76}}</string>
+                <string>{{0,0},{79,77}}</string>
                 <key>sourceSize</key>
-                <string>{67,78}</string>
+                <string>{79,77}</string>
             </dict>
             <key>Suigetsu_NAttack_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{351,458},{63,78}}</string>
+                <string>{{772,832},{56,67}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{63,78}}</string>
+                <string>{{0,0},{56,67}}</string>
                 <key>sourceSize</key>
-                <string>{63,78}</string>
+                <string>{56,67}</string>
             </dict>
             <key>Suigetsu_NAttack_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,652},{53,55}}</string>
+                <string>{{730,183},{55,80}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{53,55}}</string>
+                <string>{{0,0},{55,80}}</string>
                 <key>sourceSize</key>
-                <string>{53,55}</string>
+                <string>{55,80}</string>
             </dict>
             <key>Suigetsu_NAttack_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{288,525},{49,61}}</string>
+                <string>{{734,672},{71,79}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{49,61}}</string>
+                <string>{{0,0},{71,79}}</string>
                 <key>sourceSize</key>
-                <string>{49,61}</string>
+                <string>{71,79}</string>
             </dict>
             <key>Suigetsu_NAttack_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{69,581},{51,63}}</string>
+                <string>{{418,231},{112,71}}</string>
                 <key>offset</key>
-                <string>{0,-1}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,2},{51,63}}</string>
+                <string>{{0,0},{112,71}}</string>
                 <key>sourceSize</key>
-                <string>{51,65}</string>
+                <string>{112,71}</string>
             </dict>
             <key>Suigetsu_NAttack_09.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{300,331},{57,93}}</string>
+                <string>{{487,2},{107,71}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{57,93}}</string>
+                <string>{{0,0},{107,71}}</string>
                 <key>sourceSize</key>
-                <string>{57,93}</string>
+                <string>{107,71}</string>
             </dict>
             <key>Suigetsu_NAttack_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{645,224},{54,107}}</string>
+                <string>{{772,832},{56,67}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{54,107}}</string>
+                <string>{{0,0},{56,67}}</string>
                 <key>sourceSize</key>
-                <string>{54,107}</string>
+                <string>{56,67}</string>
             </dict>
             <key>Suigetsu_NAttack_11.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{73,479},{49,69}}</string>
+                <string>{{833,332},{62,63}}</string>
                 <key>offset</key>
-                <string>{0,-1}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,2},{49,69}}</string>
+                <string>{{0,0},{62,63}}</string>
                 <key>sourceSize</key>
-                <string>{49,71}</string>
+                <string>{62,63}</string>
             </dict>
             <key>Suigetsu_NAttack_12.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{76,419},{58,71}}</string>
+                <string>{{485,834},{60,74}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{58,71}}</string>
+                <string>{{0,0},{60,74}}</string>
                 <key>sourceSize</key>
-                <string>{58,71}</string>
+                <string>{60,74}</string>
             </dict>
             <key>Suigetsu_NAttack_13.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{602,440},{81,67}}</string>
+                <string>{{411,488},{148,71}}</string>
                 <key>offset</key>
-                <string>{0,-2}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{1,4},{81,67}}</string>
+                <string>{{0,0},{148,71}}</string>
                 <key>sourceSize</key>
-                <string>{83,71}</string>
+                <string>{148,71}</string>
             </dict>
             <key>Suigetsu_NAttack_14.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{532,313},{99,61}}</string>
+                <string>{{671,94},{87,68}}</string>
                 <key>offset</key>
-                <string>{0,-5}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,10},{99,61}}</string>
+                <string>{{0,0},{87,68}}</string>
                 <key>sourceSize</key>
-                <string>{99,71}</string>
+                <string>{87,68}</string>
             </dict>
             <key>Suigetsu_NAttack_15.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,429},{44,71}}</string>
+                <string>{{708,499},{77,71}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{44,71}}</string>
+                <string>{{0,0},{77,71}}</string>
                 <key>sourceSize</key>
-                <string>{44,71}</string>
+                <string>{77,71}</string>
+            </dict>
+            <key>Suigetsu_Run_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{590,110},{104,79}}</string>
+                <key>offset</key>
+                <string>{-19,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{29,0},{104,79}}</string>
+                <key>sourceSize</key>
+                <string>{200,79}</string>
+            </dict>
+            <key>Suigetsu_Run_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{144,896},{118,79}}</string>
+                <key>offset</key>
+                <string>{-26,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{15,0},{118,79}}</string>
+                <key>sourceSize</key>
+                <string>{200,79}</string>
+            </dict>
+            <key>Suigetsu_Run_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{406,2},{128,79}}</string>
+                <key>offset</key>
+                <string>{-31,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{5,0},{128,79}}</string>
+                <key>sourceSize</key>
+                <string>{200,79}</string>
             </dict>
             <key>Suigetsu_Skill01_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,475},{65,69}}</string>
+                <string>{{767,332},{65,64}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{7,-8}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{65,69}}</string>
+                <string>{{14,16},{65,64}}</string>
                 <key>sourceSize</key>
-                <string>{65,69}</string>
+                <string>{79,80}</string>
             </dict>
             <key>Suigetsu_Skill01_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{149,449},{62,69}}</string>
+                <string>{{627,509},{79,80}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{62,69}}</string>
+                <string>{{0,0},{79,80}}</string>
                 <key>sourceSize</key>
-                <string>{62,69}</string>
+                <string>{79,80}</string>
             </dict>
             <key>Suigetsu_Skill01_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{513,536},{79,57}}</string>
+                <string>{{463,896},{114,69}}</string>
                 <key>offset</key>
-                <string>{1,-6}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{2,12},{79,57}}</string>
+                <string>{{0,0},{114,69}}</string>
                 <key>sourceSize</key>
-                <string>{81,69}</string>
+                <string>{114,69}</string>
             </dict>
             <key>Suigetsu_Skill01_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{172,98},{143,53}}</string>
+                <string>{{458,373},{108,71}}</string>
                 <key>offset</key>
-                <string>{0,-8}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,16},{143,53}}</string>
+                <string>{{0,0},{108,71}}</string>
                 <key>sourceSize</key>
-                <string>{143,69}</string>
+                <string>{108,71}</string>
             </dict>
             <key>Suigetsu_Skill02_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{633,382},{56,96}}</string>
+                <string>{{702,416},{81,75}}</string>
                 <key>offset</key>
-                <string>{0,-1}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,2},{56,96}}</string>
+                <string>{{0,0},{81,75}}</string>
                 <key>sourceSize</key>
-                <string>{56,98}</string>
+                <string>{81,75}</string>
             </dict>
             <key>Suigetsu_Skill02_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{775,319},{56,96}}</string>
+                <string>{{484,483},{106,63}}</string>
                 <key>offset</key>
-                <string>{0,-1}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,2},{56,96}}</string>
+                <string>{{0,0},{106,63}}</string>
                 <key>sourceSize</key>
-                <string>{56,98}</string>
+                <string>{106,63}</string>
             </dict>
             <key>Suigetsu_Skill02_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{896,299},{57,98}}</string>
+                <string>{{525,111},{107,63}}</string>
                 <key>offset</key>
-                <string>{-2,0}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{57,98}}</string>
+                <string>{{0,0},{107,63}}</string>
                 <key>sourceSize</key>
-                <string>{61,98}</string>
+                <string>{107,63}</string>
             </dict>
             <key>Suigetsu_Skill02_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{731,657},{56,74}}</string>
+                <string>{{560,2},{106,63}}</string>
                 <key>offset</key>
-                <string>{0,-12}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,24},{56,74}}</string>
+                <string>{{0,0},{106,63}}</string>
                 <key>sourceSize</key>
-                <string>{56,98}</string>
-            </dict>
-            <key>Suigetsu_Skill02_05.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{794,120},{109,66}}</string>
-                <key>offset</key>
-                <string>{0,-16}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,32},{109,66}}</string>
-                <key>sourceSize</key>
-                <string>{109,98}</string>
+                <string>{106,63}</string>
             </dict>
             <key>Suigetsu_Skill02_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{960,437},{86,62}}</string>
+                <string>{{524,773},{59,75}}</string>
                 <key>offset</key>
-                <string>{0,-18}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,36},{86,62}}</string>
+                <string>{{0,0},{59,75}}</string>
                 <key>sourceSize</key>
-                <string>{86,98}</string>
+                <string>{59,75}</string>
             </dict>
             <key>Suigetsu_Skill02_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,592},{58,62}}</string>
+                <string>{{406,132},{97,58}}</string>
                 <key>offset</key>
-                <string>{0,-18}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,36},{58,62}}</string>
+                <string>{{0,0},{97,58}}</string>
                 <key>sourceSize</key>
-                <string>{58,98}</string>
+                <string>{97,58}</string>
+            </dict>
+            <key>Suigetsu_Skill02_07_boom_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{461,694},{138,61}}</string>
+                <key>offset</key>
+                <string>{44.5,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{138,61}}</string>
+                <key>sourceSize</key>
+                <string>{150,61}</string>
+            </dict>
+            <key>Suigetsu_Skill02_07_boom_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{398,694},{148,61}}</string>
+                <key>offset</key>
+                <string>{47,-1}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{3,0},{148,61}}</string>
+                <key>sourceSize</key>
+                <string>{150,61}</string>
+            </dict>
+            <key>Suigetsu_Skill02_07_boom_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{346,234},{150,70}}</string>
+                <key>offset</key>
+                <string>{48,-12}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{5,0},{150,70}}</string>
+                <key>sourceSize</key>
+                <string>{150,74}</string>
+            </dict>
+            <key>Suigetsu_Skill02_07_boom_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{336,488},{148,73}}</string>
+                <key>offset</key>
+                <string>{49,-13}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{6,0},{148,73}}</string>
+                <key>sourceSize</key>
+                <string>{150,73}</string>
             </dict>
             <key>Suigetsu_Skill02_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{866,483},{82,84}}</string>
+                <string>{{466,132},{96,57}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{82,84}}</string>
+                <string>{{0,0},{96,57}}</string>
                 <key>sourceSize</key>
-                <string>{82,84}</string>
-            </dict>
-            <key>Suigetsu_Skill02_09.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{572,98},{71,84}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{71,84}}</string>
-                <key>sourceSize</key>
-                <string>{71,84}</string>
+                <string>{96,57}</string>
             </dict>
             <key>Suigetsu_Skill02_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{431,466},{46,82}}</string>
+                <string>{{693,894},{77,69}}</string>
                 <key>offset</key>
-                <string>{0,-1}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,2},{46,82}}</string>
+                <string>{{0,0},{77,69}}</string>
                 <key>sourceSize</key>
-                <string>{46,84}</string>
-            </dict>
-            <key>Suigetsu_Skill03_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{812,572},{51,64}}</string>
-                <key>offset</key>
-                <string>{0,-7}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,14},{51,64}}</string>
-                <key>sourceSize</key>
-                <string>{51,78}</string>
+                <string>{77,69}</string>
             </dict>
             <key>Suigetsu_Skill03_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{351,523},{50,64}}</string>
+                <string>{{781,265},{56,65}}</string>
                 <key>offset</key>
-                <string>{0,-7}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,14},{50,64}}</string>
+                <string>{{0,0},{56,65}}</string>
                 <key>sourceSize</key>
-                <string>{50,78}</string>
+                <string>{56,65}</string>
             </dict>
             <key>Suigetsu_Skill03_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{351,390},{66,78}}</string>
+                <string>{{598,676},{58,81}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{66,78}}</string>
+                <string>{{0,0},{58,81}}</string>
                 <key>sourceSize</key>
-                <string>{66,78}</string>
+                <string>{58,81}</string>
             </dict>
             <key>Suigetsu_Skill03_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{942,620},{75,44}}</string>
+                <string>{{375,896},{86,116}}</string>
                 <key>offset</key>
-                <string>{1,-17}</string>
+                <string>{-14,-4}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{2,34},{75,44}}</string>
+                <string>{{3,8},{86,116}}</string>
                 <key>sourceSize</key>
-                <string>{77,78}</string>
+                <string>{120,124}</string>
             </dict>
             <key>Suigetsu_Skill03_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{764,114},{77,28}}</string>
+                <string>{{491,230},{90,110}}</string>
                 <key>offset</key>
-                <string>{0,-25}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,50},{77,28}}</string>
-                <key>sourceSize</key>
-                <string>{77,78}</string>
-            </dict>
-            <key>Suigetsu_Skill03_06.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{302,153},{88,11}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{88,11}}</string>
-                <key>sourceSize</key>
-                <string>{88,11}</string>
-            </dict>
-            <key>Suigetsu_Skill03_07.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{645,280},{103,43}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
+                <string>{-15,-7}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{103,43}}</string>
+                <string>{{0,14},{90,110}}</string>
                 <key>sourceSize</key>
-                <string>{103,43}</string>
-            </dict>
-            <key>Suigetsu_Skill03_08.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{645,114},{108,117}}</string>
-                <key>offset</key>
-                <string>{0,-6}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,12},{108,117}}</string>
-                <key>sourceSize</key>
-                <string>{108,129}</string>
-            </dict>
-            <key>Suigetsu_Skill03_09.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{171,214},{127,127}}</string>
-                <key>offset</key>
-                <string>{0,1}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{127,127}}</string>
-                <key>sourceSize</key>
-                <string>{127,129}</string>
-            </dict>
-            <key>Suigetsu_Skill03_10.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{447,98},{123,113}}</string>
-                <key>offset</key>
-                <string>{0,8}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{123,113}}</string>
-                <key>sourceSize</key>
-                <string>{123,129}</string>
-            </dict>
-            <key>Suigetsu_Skill03_11.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{598,509},{65,79}}</string>
-                <key>offset</key>
-                <string>{-27,-8}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{2,33},{65,79}}</string>
-                <key>sourceSize</key>
-                <string>{123,129}</string>
-            </dict>
-            <key>Suigetsu_Skill03_12.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{130,283},{38,67}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{38,67}}</string>
-                <key>sourceSize</key>
-                <string>{38,67}</string>
-            </dict>
-            <key>Suigetsu_Skill03_13.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{731,416},{40,54}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{40,54}}</string>
-                <key>sourceSize</key>
-                <string>{40,54}</string>
+                <string>{120,124}</string>
             </dict>
             <key>Suigetsu_Skill04_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{517,423},{49,83}}</string>
+                <string>{{841,150},{55,69}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{49,83}}</string>
+                <string>{{0,0},{55,69}}</string>
                 <key>sourceSize</key>
-                <string>{49,83}</string>
+                <string>{55,69}</string>
             </dict>
             <key>Suigetsu_Skill04_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{942,569},{49,75}}</string>
+                <string>{{658,676},{79,74}}</string>
                 <key>offset</key>
-                <string>{0,-4}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,8},{49,75}}</string>
+                <string>{{0,0},{79,74}}</string>
                 <key>sourceSize</key>
-                <string>{49,83}</string>
+                <string>{79,74}</string>
             </dict>
             <key>Suigetsu_Skill04_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{731,606},{49,75}}</string>
+                <string>{{534,896},{78,112}}</string>
                 <key>offset</key>
-                <string>{0,-4}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,8},{49,75}}</string>
+                <string>{{0,0},{78,112}}</string>
                 <key>sourceSize</key>
-                <string>{49,83}</string>
+                <string>{78,112}</string>
             </dict>
             <key>Suigetsu_Skill04_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{679,521},{50,75}}</string>
+                <string>{{531,342},{55,105}}</string>
                 <key>offset</key>
-                <string>{0,-3}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,7},{50,75}}</string>
+                <string>{{0,0},{55,105}}</string>
                 <key>sourceSize</key>
-                <string>{50,83}</string>
+                <string>{55,105}</string>
             </dict>
             <key>Suigetsu_Skill04_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{939,181},{52,83}}</string>
+                <string>{{915,271},{63,62}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{63,62}}</string>
+                <key>sourceSize</key>
+                <string>{63,62}</string>
+            </dict>
+            <key>Suigetsu_Skill04_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{915,2},{70,74}}</string>
+                <key>offset</key>
+                <string>{0,5}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{70,74}}</string>
+                <key>sourceSize</key>
+                <string>{70,84}</string>
+            </dict>
+            <key>Suigetsu_Skill04_12.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{669,216},{59,88}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{59,88}}</string>
+                <key>sourceSize</key>
+                <string>{59,88}</string>
+            </dict>
+            <key>Suigetsu_Skill04_14.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{839,967},{55,74}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{52,83}}</string>
+                <string>{{0,0},{55,74}}</string>
                 <key>sourceSize</key>
-                <string>{52,83}</string>
+                <string>{55,74}</string>
+            </dict>
+            <key>Suigetsu_Skill04_15.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{549,541},{48,76}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{48,76}}</string>
+                <key>sourceSize</key>
+                <string>{48,76}</string>
+            </dict>
+            <key>Suigetsu_Skill04_16.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{561,834},{64,59}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{64,59}}</string>
+                <key>sourceSize</key>
+                <string>{64,59}</string>
+            </dict>
+            <key>Suigetsu_Skill04_16_boom_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{225,896},{148,117}}</string>
+                <key>offset</key>
+                <string>{6,-29}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{14,0},{148,117}}</string>
+                <key>sourceSize</key>
+                <string>{164,117}</string>
+            </dict>
+            <key>Suigetsu_Skill04_16_boom_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{214,396},{149,90}}</string>
+                <key>offset</key>
+                <string>{7,-29}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{15,0},{149,90}}</string>
+                <key>sourceSize</key>
+                <string>{165,90}</string>
+            </dict>
+            <key>Suigetsu_Skill04_16_boom_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{365,386},{100,91}}</string>
+                <key>offset</key>
+                <string>{13,-29}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{37,0},{100,91}}</string>
+                <key>sourceSize</key>
+                <string>{148,91}</string>
+            </dict>
+            <key>Suigetsu_Skill04_17.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{841,207},{67,51}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{67,51}}</string>
+                <key>sourceSize</key>
+                <string>{67,51}</string>
+            </dict>
+            <key>Suigetsu_Skill04_18.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{769,972},{48,68}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{48,68}}</string>
+                <key>sourceSize</key>
+                <string>{48,68}</string>
             </dict>
             <key>Suigetsu_Skill05_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{905,120},{32,79}}</string>
+                <string>{{464,638},{54,48}}</string>
                 <key>offset</key>
-                <string>{0,-4}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,8},{32,79}}</string>
+                <string>{{0,0},{54,48}}</string>
                 <key>sourceSize</key>
-                <string>{32,87}</string>
+                <string>{54,48}</string>
             </dict>
             <key>Suigetsu_Skill05_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{137,202},{32,79}}</string>
+                <string>{{829,890},{75,63}}</string>
                 <key>offset</key>
-                <string>{0,-4}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,8},{32,79}}</string>
+                <string>{{0,0},{75,63}}</string>
                 <key>sourceSize</key>
-                <string>{32,87}</string>
+                <string>{75,63}</string>
             </dict>
             <key>Suigetsu_Skill05_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{556,247},{64,87}}</string>
+                <string>{{625,2},{90,78}}</string>
                 <key>offset</key>
-                <string>{-11,0}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{64,87}}</string>
+                <string>{{0,0},{90,78}}</string>
                 <key>sourceSize</key>
-                <string>{86,87}</string>
+                <string>{90,78}</string>
             </dict>
             <key>Suigetsu_Skill05_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{731,498},{56,79}}</string>
+                <string>{{636,326},{88,77}}</string>
                 <key>offset</key>
-                <string>{12,-4}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{27,8},{56,79}}</string>
+                <string>{{0,0},{88,77}}</string>
                 <key>sourceSize</key>
-                <string>{86,87}</string>
+                <string>{88,77}</string>
             </dict>
             <key>Suigetsu_Skill05_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{968,358},{54,77}}</string>
+                <string>{{514,591},{95,74}}</string>
                 <key>offset</key>
-                <string>{12,-5}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{28,10},{54,77}}</string>
+                <string>{{0,0},{95,74}}</string>
                 <key>sourceSize</key>
-                <string>{86,87}</string>
+                <string>{95,74}</string>
             </dict>
             <key>Suigetsu_Skill05_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{731,556},{48,79}}</string>
+                <string>{{583,220},{104,84}}</string>
                 <key>offset</key>
-                <string>{15,-4}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{34,8},{48,79}}</string>
+                <string>{{0,0},{104,84}}</string>
                 <key>sourceSize</key>
-                <string>{86,87}</string>
+                <string>{104,84}</string>
             </dict>
             <key>Suigetsu_Skill05_07.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{685,440},{44,79}}</string>
+                <string>{{200,694},{200,196}}</string>
                 <key>offset</key>
-                <string>{16,-4}</string>
+                <string>{38,-2}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{37,8},{44,79}}</string>
+                <string>{{95,4},{200,196}}</string>
                 <key>sourceSize</key>
-                <string>{86,87}</string>
+                <string>{314,200}</string>
             </dict>
             <key>Suigetsu_Skill05_08.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{865,696},{73,73}}</string>
+                <string>{{2,694},{196,200}}</string>
                 <key>offset</key>
-                <string>{0,-12}</string>
+                <string>{38,-7}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,24},{73,73}}</string>
+                <string>{{97,14},{196,200}}</string>
                 <key>sourceSize</key>
-                <string>{73,97}</string>
+                <string>{314,214}</string>
+            </dict>
+            <key>Suigetsu_Skill05_09.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,488},{200,204}}</string>
+                <key>offset</key>
+                <string>{35,-6}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{92,12},{200,204}}</string>
+                <key>sourceSize</key>
+                <string>{314,216}</string>
             </dict>
             <key>Suigetsu_Skill05_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{168,116}}</string>
+                <string>{{2,2},{200,250}}</string>
                 <key>offset</key>
-                <string>{-40,-17}</string>
+                <string>{35,-11}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{1,34},{168,116}}</string>
+                <string>{{92,22},{200,250}}</string>
                 <key>sourceSize</key>
-                <string>{250,150}</string>
+                <string>{314,272}</string>
             </dict>
             <key>Suigetsu_Skill05_11.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{645,2},{148,110}}</string>
+                <string>{{204,2},{200,230}}</string>
                 <key>offset</key>
-                <string>{38,0}</string>
+                <string>{35,-10}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{76,0},{148,110}}</string>
+                <string>{{92,20},{200,230}}</string>
                 <key>sourceSize</key>
-                <string>{224,110}</string>
+                <string>{314,250}</string>
             </dict>
             <key>Suigetsu_Skill05_12.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{172,153},{128,59}}</string>
+                <string>{{2,254},{210,232}}</string>
                 <key>offset</key>
-                <string>{16,0}</string>
+                <string>{30,-6}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{52,0},{128,59}}</string>
+                <string>{{82,12},{210,232}}</string>
                 <key>sourceSize</key>
-                <string>{200,59}</string>
+                <string>{314,244}</string>
             </dict>
             <key>Suigetsu_Skill05_13.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{313,283},{116,46}}</string>
+                <string>{{787,171},{52,74}}</string>
                 <key>offset</key>
-                <string>{13,0}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{30,0},{116,46}}</string>
+                <string>{{0,0},{52,74}}</string>
                 <key>sourceSize</key>
-                <string>{150,46}</string>
+                <string>{52,74}</string>
+            </dict>
+            <key>Suigetsu_Skill05_14.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{549,449},{66,90}}</string>
+                <key>offset</key>
+                <string>{17,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{34,0},{66,90}}</string>
+                <key>sourceSize</key>
+                <string>{100,90}</string>
+            </dict>
+            <key>Suigetsu_Skill05_15.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{588,326},{46,90}}</string>
+                <key>offset</key>
+                <string>{7,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{34,0},{46,90}}</string>
+                <key>sourceSize</key>
+                <string>{100,90}</string>
             </dict>
             <key>Suigetsu_Skill05_16.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{672,598},{57,68}}</string>
+                <string>{{204,652},{36,90}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{5,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{57,68}}</string>
+                <string>{{37,0},{36,90}}</string>
                 <key>sourceSize</key>
-                <string>{57,68}</string>
+                <string>{100,90}</string>
             </dict>
             <key>Suigetsu_Skill05_17.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{867,413},{91,68}}</string>
-                <key>offset</key>
-                <string>{-3,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{91,68}}</string>
-                <key>sourceSize</key>
-                <string>{97,68}</string>
-            </dict>
-            <key>Suigetsu_Skill05_18.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{904,235},{106,62}}</string>
-                <key>offset</key>
-                <string>{8,-3}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{16,6},{106,62}}</string>
-                <key>sourceSize</key>
-                <string>{122,68}</string>
-            </dict>
-            <key>Suigetsu_Skill05_19.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{791,259},{103,58}}</string>
-                <key>offset</key>
-                <string>{0,-5}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,10},{103,58}}</string>
-                <key>sourceSize</key>
-                <string>{103,68}</string>
-            </dict>
-            <key>Suigetsu_Skill05_20.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{220,468},{66,58}}</string>
-                <key>offset</key>
-                <string>{0,-5}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,10},{66,58}}</string>
-                <key>sourceSize</key>
-                <string>{66,68}</string>
-            </dict>
-            <key>Suigetsu_Skill05_22.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{431,397},{84,67}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{84,67}}</string>
-                <key>sourceSize</key>
-                <string>{84,67}</string>
-            </dict>
-            <key>Suigetsu_Skill05_23.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{633,325},{99,55}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{99,55}}</string>
-                <key>sourceSize</key>
-                <string>{99,55}</string>
-            </dict>
-            <key>Suigetsu_Skill05_24.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{315,174},{121,107}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{121,107}}</string>
-                <key>sourceSize</key>
-                <string>{121,107}</string>
-            </dict>
-            <key>Suigetsu_Skill05_25.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{438,213},{96,116}}</string>
+                <string>{{296,652},{34,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{96,116}}</string>
+                <string>{{33,0},{34,90}}</string>
                 <key>sourceSize</key>
-                <string>{96,116}</string>
+                <string>{100,90}</string>
             </dict>
-            <key>Suigetsu_Skill05_26.png</key>
+            <key>Suigetsu_Skill10_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{943,2},{79,100}}</string>
-                <key>offset</key>
-                <string>{0,-1}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,2},{79,100}}</string>
-                <key>sourceSize</key>
-                <string>{79,102}</string>
-            </dict>
-            <key>Suigetsu_Skill05_27.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{265,390},{76,84}}</string>
+                <string>{{627,834},{58,79}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{76,84}}</string>
+                <string>{{0,0},{58,79}}</string>
                 <key>sourceSize</key>
-                <string>{76,84}</string>
+                <string>{58,79}</string>
             </dict>
-            <key>Suigetsu_Skill05_28.png</key>
+            <key>Suigetsu_Skill11_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{865,632},{62,74}}</string>
-                <key>offset</key>
-                <string>{0,-5}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,19},{62,74}}</string>
-                <key>sourceSize</key>
-                <string>{62,102}</string>
-            </dict>
-            <key>Suigetsu_Skill05_29.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{76,364},{53,72}}</string>
-                <key>offset</key>
-                <string>{0,-4}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,19},{53,72}}</string>
-                <key>sourceSize</key>
-                <string>{53,102}</string>
-            </dict>
-            <key>Suigetsu_Skill05_30.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,120},{133,122}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{133,122}}</string>
-                <key>sourceSize</key>
-                <string>{133,122}</string>
-            </dict>
-            <key>Suigetsu_Skill05_31.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{431,311},{84,99}}</string>
-                <key>offset</key>
-                <string>{0,2}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,3},{84,99}}</string>
-                <key>sourceSize</key>
-                <string>{84,109}</string>
-            </dict>
-            <key>Suigetsu_Skill05_32.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{532,376},{45,99}}</string>
-                <key>offset</key>
-                <string>{0,2}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,3},{45,99}}</string>
-                <key>sourceSize</key>
-                <string>{45,109}</string>
-            </dict>
-            <key>Suigetsu_Skill05_33.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{940,711},{54,73}}</string>
-                <key>offset</key>
-                <string>{0,3}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,3},{54,73}}</string>
-                <key>sourceSize</key>
-                <string>{54,85}</string>
-            </dict>
-            <key>Suigetsu_Skill05_34.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{943,104},{75,79}}</string>
-                <key>offset</key>
-                <string>{0,4}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{75,79}}</string>
-                <key>sourceSize</key>
-                <string>{75,87}</string>
-            </dict>
-            <key>Suigetsu_Skill05_35.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{794,188},{108,69}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,9},{108,69}}</string>
-                <key>sourceSize</key>
-                <string>{108,87}</string>
-            </dict>
-            <key>Suigetsu_Skill05_36.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{773,431},{91,65}}</string>
-                <key>offset</key>
-                <string>{3,-2}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{6,13},{91,65}}</string>
-                <key>sourceSize</key>
-                <string>{97,87}</string>
-            </dict>
-            <key>Suigetsu_Skill05_37.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{807,704},{56,65}}</string>
-                <key>offset</key>
-                <string>{0,-1}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,11},{56,65}}</string>
-                <key>sourceSize</key>
-                <string>{56,85}</string>
-            </dict>
-            <key>Suigetsu_Skill05_38.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{734,347},{37,67}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{37,67}}</string>
-                <key>sourceSize</key>
-                <string>{37,67}</string>
-            </dict>
-            <key>Suigetsu_Skill05_50.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{865,567},{63,75}}</string>
+                <string>{{398,844},{50,85}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{63,75}}</string>
+                <string>{{0,0},{50,85}}</string>
                 <key>sourceSize</key>
-                <string>{63,75}</string>
+                <string>{50,85}</string>
             </dict>
-            <key>Suigetsu_Skill05_51.png</key>
+            <key>Suigetsu_Skill11_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,364},{63,72}}</string>
+                <string>{{617,418},{83,89}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{83,89}}</string>
+                <key>sourceSize</key>
+                <string>{83,89}</string>
+            </dict>
+            <key>Suigetsu_Skill11_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{214,234},{160,130}}</string>
+                <key>offset</key>
+                <string>{38,-1}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{63,72}}</string>
+                <string>{{78,2},{160,130}}</string>
                 <key>sourceSize</key>
-                <string>{63,72}</string>
+                <string>{240,132}</string>
             </dict>
-            <key>Suigetsu_Skill05_52.png</key>
+            <key>Suigetsu_Skill11_05.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{773,377},{92,52}}</string>
+                <string>{{204,488},{162,130}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{92,52}}</string>
-                <key>sourceSize</key>
-                <string>{92,52}</string>
-            </dict>
-            <key>Suigetsu_Skill05_53.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{873,358},{53,93}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
+                <string>{39,-1}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{53,93}}</string>
+                <string>{{78,2},{162,130}}</string>
                 <key>sourceSize</key>
-                <string>{53,93}</string>
+                <string>{240,132}</string>
             </dict>
-            <key>Suigetsu_Skill05_54.png</key>
+            <key>Suigetsu_Skill11_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{170,343},{93,53}}</string>
+                <string>{{2,896},{140,124}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{28,-4}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{93,53}}</string>
+                <string>{{78,8},{140,124}}</string>
                 <key>sourceSize</key>
-                <string>{93,53}</string>
-            </dict>
-            <key>Suigetsu_Skill05_55.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{795,2},{146,116}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{146,116}}</string>
-                <key>sourceSize</key>
-                <string>{146,116}</string>
-            </dict>
-            <key>Suigetsu_Skill05_56.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,244},{126,118}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{126,118}}</string>
-                <key>sourceSize</key>
-                <string>{126,118}</string>
-            </dict>
-            <key>Suigetsu_Skill05_57.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{317,98},{128,74}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{128,74}}</string>
-                <key>sourceSize</key>
-                <string>{128,74}</string>
-            </dict>
-            <key>Suigetsu_Skill05_58.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{488,2},{155,94}}</string>
-                <key>offset</key>
-                <string>{-1,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{155,94}}</string>
-                <key>sourceSize</key>
-                <string>{157,94}</string>
-            </dict>
-            <key>Suigetsu_Skill05_59.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{172,2},{157,94}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{157,94}}</string>
-                <key>sourceSize</key>
-                <string>{157,94}</string>
-            </dict>
-            <key>Suigetsu_Skill05_60.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{331,2},{155,94}}</string>
-                <key>offset</key>
-                <string>{-1,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{155,94}}</string>
-                <key>sourceSize</key>
-                <string>{157,94}</string>
+                <string>{240,132}</string>
             </dict>
             <key>Suigetsu_Walk_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{351,575},{60,55}}</string>
+                <string>{{784,2},{77,79}}</string>
                 <key>offset</key>
-                <string>{0,-1}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,2},{60,55}}</string>
+                <string>{{0,0},{77,79}}</string>
                 <key>sourceSize</key>
-                <string>{60,57}</string>
+                <string>{77,79}</string>
             </dict>
             <key>Suigetsu_Walk_02.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{417,571},{60,57}}</string>
+                <string>{{590,591},{72,83}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{60,57}}</string>
+                <string>{{0,0},{72,83}}</string>
                 <key>sourceSize</key>
-                <string>{60,57}</string>
+                <string>{72,83}</string>
             </dict>
             <key>Suigetsu_Walk_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{808,638},{64,55}}</string>
-                <key>offset</key>
-                <string>{0,-1}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,2},{64,55}}</string>
-                <key>sourceSize</key>
-                <string>{64,57}</string>
-            </dict>
-            <key>Suigetsu_Walk_04.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{288,468},{61,55}}</string>
-                <key>offset</key>
-                <string>{0,-1}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,2},{61,55}}</string>
-                <key>sourceSize</key>
-                <string>{61,57}</string>
-            </dict>
-            <key>Suigetsu_Walk_05.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{211,528},{63,57}}</string>
+                <string>{{664,591},{72,79}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{63,57}}</string>
+                <string>{{0,0},{72,79}}</string>
                 <key>sourceSize</key>
-                <string>{63,57}</string>
+                <string>{72,79}</string>
+            </dict>
+            <key>Suigetsu_Walk_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{741,90},{77,79}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{77,79}}</string>
+                <key>sourceSize</key>
+                <string>{77,79}</string>
+            </dict>
+            <key>Suigetsu_Walk_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{524,688},{72,83}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{72,83}}</string>
+                <key>sourceSize</key>
+                <string>{72,83}</string>
             </dict>
             <key>Suigetsu_Walk_06.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{140,565},{63,55}}</string>
+                <string>{{655,759},{72,79}}</string>
                 <key>offset</key>
-                <string>{0,-1}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,2},{63,55}}</string>
+                <string>{{0,0},{72,79}}</string>
                 <key>sourceSize</key>
-                <string>{63,57}</string>
+                <string>{72,79}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -1509,7 +1301,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:85d78342362508ef7cfd95a48fb9cc6f$</string>
+            <string>$TexturePacker:SmartUpdate:abb93848d4a9794a681b8cb5be6c9571$</string>
             <key>textureFileName</key>
             <string>Suigetsu.png</string>
         </dict>

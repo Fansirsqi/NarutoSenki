@@ -1,279 +1,823 @@
 <?xml version="1.0" encoding="utf-8"?>
- <animation>
-   
+<animation>
+
     <action value="Idle">
-	 <date>
-	    <dateName type="attackType">Kimimaro</dateName>
-        <dateName type="attackValue">5500</dateName>
-        <dateName type="attackRangeX">70</dateName>
-        <dateName type="attackRangeY">80</dateName>
-        <coldName type="coldDown">224</coldName>
-      </date>
-      <frame>
-        <frameName>Kimimaro_Idle_01.png</frameName>
-        <frameName>Kimimaro_Idle_02.png</frameName>
-        <frameName>Kimimaro_Idle_03.png</frameName>
-        <frameName>Kimimaro_Idle_04.png</frameName>
-         <frameName>Kimimaro_Idle_05.png</frameName>
-      </frame>
-    </action>
-   
-    <action value="Walk">
-      <frame>
-        <frameName>Kimimaro_Walk_01.png</frameName>
-        <frameName>Kimimaro_Walk_02.png</frameName>
-        <frameName>Kimimaro_Walk_03.png</frameName>
-        <frameName>Kimimaro_Walk_04.png</frameName>
-        <frameName>Kimimaro_Walk_05.png</frameName>
-        <frameName>Kimimaro_Walk_06.png</frameName>
-      </frame>
-    </action>
-   
-    <action value="Hurt">
-      <frame>
-        <eventName type="setMove">32</eventName>
-        <frameName>Kimimaro_Hurt_01.png</frameName>
-        <frameName>Kimimaro_Hurt_02.png</frameName>
-        <eventName type="setSound">Audio/Kimimaro/Kimimaro_hurt.mp3</eventName>
-      </frame>
-    </action>
-   
-   <action value="AirHurt">
-     <frame>
-         <frameName>Kimimaro_AirHurt_01.png</frameName>
-     </frame>
-   </action>
-   
-   <action value="KnockDown">
-      <frame>
-          <frameName>Kimimaro_KnockDown_01.png</frameName>
-           <eventName type="setDelay">10</eventName>
-          <frameName>Kimimaro_KnockDown_02.png</frameName>
-           <eventName type="setDelay">60</eventName>
-          <frameName>Kimimaro_KnockDown_03.png</frameName>
-          <frameName>Kimimaro_KnockDown_04.png</frameName>
-      </frame>
-    </action>
-   
-    <action value="Float">
-      <frame>
-          <frameName>Kimimaro_Float_01.png</frameName>
-          <eventName type="setDelay">10</eventName>
-          <frameName>Kimimaro_Float_02.png</frameName>
-          <eventName type="setDelay">10</eventName>
-          <frameName>Kimimaro_Float_03.png</frameName>
-      </frame>
-    </action>
-   
-    <action value="Dead">
-      <frame>
-          <frameName>Kimimaro_KnockDown_01.png</frameName>
-          <frameName>Kimimaro_KnockDown_02.png</frameName>
-          <eventName type="setSound">Audio/Kimimaro/Kimimaro_dead.mp3</eventName>
-      </frame>
-    </action>
-   
-    <action value="nAttack">
-      <date>
-	    <dateName type="attackType">nAttack</dateName>
-        <dateName type="attackValue">760</dateName>
-        <dateName type="attackRangeX">0</dateName>
-        <dateName type="attackRangeY">16</dateName>
-        <coldName type="coldDown">0</coldName>
-      </date>
-      <frame>
-        <frameName>Kimimaro_NAttack_02.png</frameName>
-        <eventName type="setMove">8</eventName>
-        <frameName>Kimimaro_NAttack_03.png</frameName>
-        <eventName type="setSound">Audio/Effect/kong.mp3</eventName>
-        <eventName type="setAttackBox">n_hit</eventName>
-        <frameName>Kimimaro_NAttack_01.png</frameName>
-        <frameName>Kimimaro_NAttack_04.png</frameName>
-        <frameName>Kimimaro_NAttack_05.png</frameName>
-        <eventName type="setSound">Audio/Kimimaro/Kimimaro_combo.mp3</eventName>
-        <eventName type="setMove">16</eventName>
-        <frameName>Kimimaro_NAttack_06.png</frameName>
-        <eventName type="setSound">Audio/Effect/kong.mp3</eventName>
-        <eventName type="setAttackBox">bl_hit</eventName>
-        <eventName type="setDelay">10</eventName>
-        <eventName type="setAttackBox">bl_hit</eventName>
-        <eventName type="setDelay">10</eventName>
-      </frame>
+        <date>
+            <dateName type="attackType">Kimimaro</dateName>
+            <dateName type="attackValue">5500</dateName>
+            <dateName type="attackRangeX">55</dateName>
+            <dateName type="attackRangeY">70</dateName>
+            <coldName type="coldDown">224</coldName>
+        </date>
+        <frame>
+            <frameName>Kimimaro_Idle_01.png</frameName>
+            <frameName>Kimimaro_Idle_02.png</frameName>
+            <frameName>Kimimaro_Idle_03.png</frameName>
+            <frameName>Kimimaro_Idle_04.png</frameName>
+        </frame>
     </action>
 
-   <action value="skill01">
-     <date>
-	   <dateName type="attackType">cAttack</dateName>
-       <dateName type="attackValue">1460</dateName>
-       <dateName type="attackRangeX">64</dateName>
-       <dateName type="attackRangeY">32</dateName>
-       <coldName type="coldDown">10</coldName>
-     </date>
-     <frame>
-      <frameName>Kimimaro_Skill01_01.png</frameName>
-      <eventName type="setSound">Audio/Kimimaro/Kimimaro_skill1.mp3</eventName>
-      <frameName>Kimimaro_Skill01_02.png</frameName>
-      <frameName>Kimimaro_Skill01_03.png</frameName>
-      <frameName>Kimimaro_Skill01_04.png</frameName>
-      <frameName>Kimimaro_Skill01_05.png</frameName>
-      <frameName>Kimimaro_Skill01_06.png</frameName>
-      <eventName type="setBullet">BoneBullet</eventName>
-      <eventName type="setDelay">40</eventName>
-      <eventName type="setTransform">40</eventName>
-     </frame>
-   </action>
+    <action value="Walk">
+        <frame>
+            <frameName>Kimimaro_Walk_01.png</frameName>
+            <frameName>Kimimaro_Walk_02.png</frameName>
+            <frameName>Kimimaro_Walk_03.png</frameName>
+            <frameName>Kimimaro_Walk_04.png</frameName>
+            <frameName>Kimimaro_Walk_05.png</frameName>
+            <frameName>Kimimaro_Walk_06.png</frameName>
+        </frame>
+    </action>
+
+    <action value="Hurt">
+        <frame>
+            <eventName type="setMove">32</eventName>
+            <frameName>Kimimaro_Hurt_01.png</frameName>
+            <frameName>Kimimaro_Hurt_02.png</frameName>
+            <frameName>Kimimaro_Hurt_03.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/Suigetsu_hurt.mp3</eventName>
+        </frame>
+    </action>
+
+    <action value="AirHurt">
+        <frame>
+            <frameName>Kimimaro_AirHurt_01.png</frameName>
+        </frame>
+    </action>
+
+    <action value="KnockDown">
+        <frame>
+            <frameName>Kimimaro_KnockDown_01.png</frameName>
+            <eventName type="setDelay">10</eventName>
+            <frameName>Kimimaro_KnockDown_02.png</frameName>
+            <eventName type="setDelay">60</eventName>
+            <frameName>Kimimaro_KnockDown_03.png</frameName>
+            <frameName>Kimimaro_KnockDown_04.png</frameName>
+            <frameName>Kimimaro_KnockDown_05.png</frameName>
+            <frameName>Kimimaro_KnockDown_06.png</frameName>
+        </frame>
+    </action>
+
+    <action value="Float">
+        <frame>
+            <frameName>Kimimaro_Float_01.png</frameName>
+            <eventName type="setDelay">10</eventName>
+            <frameName>Kimimaro_Float_02.png</frameName>
+            <eventName type="setDelay">10</eventName>
+            <frameName>Kimimaro_Float_03.png</frameName>
+        </frame>
+    </action>
+
+    <action value="Dead">
+        <frame>
+            <frameName>Kimimaro_KnockDown_01.png</frameName>
+            <frameName>Kimimaro_KnockDown_02.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/Suigetsu_dead.mp3</eventName>
+        </frame>
+    </action>
+
+    <action value="nAttack">
+        <date>
+            <dateName type="attackType">nAttack</dateName>
+            <dateName type="attackValue">100</dateName>
+            <dateName type="attackRangeX">0</dateName>
+            <dateName type="attackRangeY">16</dateName>
+            <coldName type="coldDown">0</coldName>
+        </date>
+        <frame>
+
+            <frameName>NAttack_01.png</frameName>
+            <frameName>NAttack_02.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/skill53.mp3</eventName>
+            <frameName>NAttack_03.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/Attack1.mp3</eventName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <frameName>NAttack_04.png</frameName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <frameName>NAttack_05.png</frameName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <frameName>NAttack_06.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>NAttack_07.png</frameName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <frameName>NAttack_08.png</frameName>
+            <frameName>NAttack_09.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/skill53.mp3</eventName>
+            <frameName>NAttack_10.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/Attack2.mp3</eventName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <frameName>NAttack_11.png</frameName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <frameName>NAttack_12.png</frameName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <frameName>NAttack_13.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>NAttack_14.png</frameName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <frameName>NAttack_15.png</frameName>
+            <frameName>NAttack_16.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/skill53.mp3</eventName>
+            <frameName>NAttack_17.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/Attack3.mp3</eventName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <frameName>NAttack_18.png</frameName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <frameName>NAttack_19.png</frameName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <frameName>NAttack_20.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>NAttack_21.png</frameName>
+            <eventName type="setAttackBox">n_hit</eventName>
+            <frameName>NAttack_22.png</frameName>
+        </frame>
+    </action>
+
+    <action value="skill01">
+        <date>
+            <dateName type="attackType">cAttack</dateName>
+            <dateName type="attackValue">200</dateName>
+            <dateName type="attackRangeX">32</dateName>
+            <dateName type="attackRangeY">32</dateName>
+            <coldName type="coldDown">10</coldName>
+        </date>
+        <frame>
+            <frameName>Tusukan_01.png</frameName>
+            <frameName>Tusukan_02.png</frameName>
+            <frameName>Tusukan_03.png</frameName>
+            <frameName>Tusukan_04.png</frameName>
+            <frameName>Tusukan_05.png</frameName>
+            <frameName>Tusukan_06.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/skill53.mp3</eventName>
+            <frameName>Tusukan_07.png</frameName>
+            <frameName>Tusukan_08.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/RayQamaitazhiSlash.mp3</eventName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>Tusukan_09.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <eventName type="setSound">Audio/Kimimaro/muncul1.mp3</eventName>
+            <frameName>Tusukan_10.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <eventName type="setSound">Audio/Kimimaro/muncul2.mp3</eventName>
+            <frameName>Tusukan_11.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>Tusukan_12.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>Tusukan_13.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>Tusukan_14.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>Tusukan_15.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>Tusukan_16.png</frameName>
+            <eventName type="setCommand">setInvincible</eventName>
+            <frameName>Dash_01.png</frameName>
+            <frameName>Dash_02.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul1.mp3</eventName>
+            <frameName>Dash_03.png</frameName>
+            <frameName>Dash_04.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul2.mp3</eventName>
+            <frameName>Dash_05.png</frameName>
+            <frameName>Dash_06.png</frameName>
+            <eventName type="setChargeB">750</eventName>
+            <frameName>Dash_07.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul2.mp3</eventName>
+            <frameName>Dash_08.png</frameName>
+            <frameName>Dash_09.png</frameName>
+            <frameName>Dash_10.png</frameName>
+            <frameName>Dash_11.png</frameName>
+            <eventName type="setCommand">reInvincible</eventName>
+            <eventName type="setFlipped">10</eventName>
+            <frameName>Tusukan_01.png</frameName>
+            <frameName>Tusukan_02.png</frameName>
+            <frameName>Tusukan_03.png</frameName>
+            <frameName>Tusukan_04.png</frameName>
+            <frameName>Tusukan_05.png</frameName>
+            <frameName>Tusukan_06.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/skill53.mp3</eventName>
+            <frameName>Tusukan_07.png</frameName>
+            <frameName>Tusukan_08.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/RayQamaitazhiSlash.mp3</eventName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>Tusukan_09.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>Tusukan_10.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul1.mp3</eventName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>Tusukan_11.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <eventName type="setSound">Audio/Kimimaro/muncul2.mp3</eventName>
+            <frameName>Tusukan_12.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>Tusukan_13.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>Tusukan_14.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>Tusukan_15.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>Tusukan_16.png</frameName>
+             <eventName type="setTransform">40</eventName>
+        </frame>
+    </action>
 
     <action value="skill02">
         <date>
-          <dateName type="attackType">Bullet</dateName>
-          <dateName type="attackValue">0</dateName>
-          <dateName type="attackRangeX">0</dateName>
-          <dateName type="attackRangeY">10</dateName>
-          <coldName type="coldDown">15</coldName>
+            <dateName type="attackType">cAttack</dateName>
+            <dateName type="attackValue">220</dateName>
+            <dateName type="attackRangeX">30</dateName>
+            <dateName type="attackRangeY">80</dateName>
+            <coldName type="coldDown">20</coldName>
         </date>
         <frame>
-          <frameName>Kimimaro_Skill02_01.png</frameName>
-          <eventName type="setSound">Audio/Kimimaro/Kimimaro_skill2.mp3</eventName>
-          <eventName type="setDelay">10</eventName>
-          <frameName>Kimimaro_Skill02_02.png</frameName>
-          <eventName type="setBullet">Bone</eventName>
-          <eventName type="setDelay">10</eventName>
-          <eventName type="setTransform">40</eventName>
+            <frameName>Punch_01.png</frameName>
+            <frameName>Punch_02.png</frameName>
+            <frameName>Punch_03.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/skill53.mp3</eventName>
+            <frameName>Punch_04.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/Attack5.mp3</eventName>
+            <eventName type="setAttackBox">c_hit</eventName>
+            <frameName>Punch_05.png</frameName>
+            <eventName type="setAttackBox">f_hit</eventName>
+            <frameName>Punch_06.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Punch_07.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Punch_08.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Punch_09.png</frameName>
+            <frameName>Punch_10.png</frameName>
+            <frameName>Punch_11.png</frameName>
+            <frameName>Punch_12.png</frameName>
+            <frameName>suiton_01.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/skill5.mp3</eventName>
+            <frameName>suiton_02.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>suiton_03.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul2.mp3</eventName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>suiton_04.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>suiton_05.png</frameName>
+            <eventName type="setAttackBox">f_hit</eventName>
+            <frameName>suiton_06.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>suiton_07.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>suiton_08.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>suiton_09.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>suiton_10.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>suiton_11.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>suiton_12.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+             <eventName type="setTransform">40</eventName>
         </frame>
     </action>
 
     <action value="skill03">
         <date>
-			<dateName type="attackType">aAttack</dateName>
-            <dateName type="attackValue">3560</dateName>
-            <dateName type="attackRangeX">0</dateName>
-            <dateName type="attackRangeY">32</dateName>
-            <coldName type="coldDown">25</coldName>
+            <dateName type="attackType">cAttack</dateName>
+            <dateName type="attackValue">250</dateName>
+            <dateName type="attackRangeX">12</dateName>
+            <dateName type="attackRangeY">75</dateName>
+            <coldName type="coldDown">30</coldName>
         </date>
         <frame>
-        <eventName type="setSound">Audio/Kimimaro/Kimimaro_skill3.mp3</eventName>
-        <frameName>Kimimaro_Skill03_01.png</frameName>
-        <eventName type="setAttackBox">c_hit</eventName>
-        <eventName type="setSound">Audio/Effect/blade_damage2.mp3</eventName>
-        <eventName type="setMove">32</eventName>
-        <frameName>Kimimaro_Skill03_02.png</frameName>
-        <frameName>Kimimaro_Skill03_03.png</frameName>
-        <eventName type="setAttackBox">l_hit</eventName>
-        <eventName type="setSound">Audio/Effect/blade_damage2.mp3</eventName>
-        <frameName>Kimimaro_Skill03_04.png</frameName>
-        <eventName type="setMove">16</eventName>
-        <frameName>Kimimaro_Skill03_05.png</frameName>
-        <eventName type="setAttackBox">c_hit</eventName>
-        <eventName type="setSound">Audio/Effect/blade_damage2.mp3</eventName>
-        <frameName>Kimimaro_Skill03_06.png</frameName>
-        <frameName>Kimimaro_Skill03_07.png</frameName>
-        <eventName type="setAttackBox">l_hit</eventName>
-        <eventName type="setSound">Audio/Effect/blade_damage2.mp3</eventName>
-        <eventName type="setMove">16</eventName>
-        <frameName>Kimimaro_Skill03_08.png</frameName>
-        <frameName>Kimimaro_Skill03_09.png</frameName>
-        <eventName type="setAttackBox">c_hit</eventName>
-        <eventName type="setSound">Audio/Effect/blade_damage2.mp3</eventName>
-        <frameName>Kimimaro_Skill03_10.png</frameName>
-        <eventName type="setMove">16</eventName>
-        <frameName>Kimimaro_Skill03_11.png</frameName>
-        <eventName type="setAttackBox">l_hit</eventName>
-        <eventName type="setSound">Audio/Effect/blade_damage2.mp3</eventName>
-        <frameName>Kimimaro_Skill03_12.png</frameName>
-        <frameName>Kimimaro_Skill03_13.png</frameName>
-        <eventName type="setTransform">40</eventName>
+            <eventName type="setSound">Audio/Kimimaro/skill2.mp3</eventName>
+            <frameName>Suiryu_01.png</frameName>
+            <frameName>Suiryu_02.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/susanoo.mp3</eventName>
+            <frameName>Suiryu_03.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryu_04.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryu_05.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryu_06.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryu_07.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryu_08.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryu_09.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryu_10.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryu_11.png</frameName>
+            <eventName type="setAttackBox">b_hit</eventName>
+            <frameName>Suiryu_12.png</frameName>
+            <frameName>Suiryu_01.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/skill3.mp3</eventName>
+            <frameName>Water_Ball_01.png</frameName>
+            <frameName>Water_Ball_02.png</frameName>
+            <frameName>Water_Ball_03.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <eventName type="setSound">Audio/Kimimaro/muncul1.mp3</eventName>
+            <frameName>Water_Ball_04.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <eventName type="setSound">Audio/Kimimaro/muncul2.mp3</eventName>
+            <frameName>Water_Ball_05.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Water_Ball_06.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Water_Ball_07.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Water_Ball_08.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Water_Ball_09.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Water_Ball_10.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Water_Ball_11.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Water_Ball_12.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Water_Ball_13.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Water_Ball_14.png</frameName>
+            <eventName type="setAttackBox">f_hit</eventName>
+            <eventName type="setSound">Audio/Kimimaro/Bom.mp3</eventName>
+            <frameName>Water_Ball_15.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Water_Ball_16.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Water_Ball_17.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Water_Ball_18.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Water_Ball_19.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Water_Ball_02.png</frameName>
+            <frameName>Water_Ball_01.png</frameName>
+             <eventName type="setTransform">40</eventName>
+
         </frame>
     </action>
 
-   <action value="skill04">
-     <date>
-       <dateName type="attackType">aAttack</dateName>
-       <dateName type="attackValue">7860</dateName>
-       <dateName type="attackRangeX">0</dateName>
-       <dateName type="attackRangeY">32</dateName>
-       <coldName type="coldDown">1</coldName>
-     </date>
-     <frame>
-        <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
-        <frameName>Kimimaro_Skill04_01.png</frameName>
-        <eventName type="setSound">Audio/Kimimaro/Kimimaro_skill4_1.mp3</eventName>
-        <frameName>Kimimaro_Skill04_001.png</frameName>
-        <frameName>Kimimaro_Skill04_002.png</frameName>
-        <frameName>Kimimaro_Skill04_02.png</frameName>
-        <frameName>Kimimaro_Skill04_03.png</frameName>
-        <frameName>Kimimaro_Skill04_04.png</frameName>
-        <frameName>Kimimaro_Skill04_05.png</frameName>
-        <frameName>Kimimaro_Skill04_06.png</frameName>
-        <eventName type="setSound">Audio/Kimimaro/Kimimaro_skill4_2.mp3</eventName>
-        <eventName type="setAttackBox">o_hit</eventName>
-        <eventName type="setChargeB">224</eventName>
-        <frameName>Kimimaro_Skill04_07.png</frameName>
-        <frameName>Kimimaro_Skill04_08.png</frameName>
-        <eventName type="setAttackBox">o_hit</eventName>
-        <eventName type="setChargeB">224</eventName>
-        <frameName>Kimimaro_Skill04_05.png</frameName>
-        <frameName>Kimimaro_Skill04_06.png</frameName>
-        <eventName type="setAttackBox">o_hit</eventName>
-        <eventName type="setChargeB">224</eventName>
-        <frameName>Kimimaro_Skill04_07.png</frameName>
-        <frameName>Kimimaro_Skill04_08.png</frameName>
-        <eventName type="setAttackBox">o_hit</eventName>
-        <eventName type="setChargeB">224</eventName>
-        <frameName>Kimimaro_Skill04_09.png</frameName>
-        <frameName>Kimimaro_Skill04_10.png</frameName>
-        <frameName>Kimimaro_Skill04_11.png</frameName>
-        <frameName>Kimimaro_Skill04_12.png</frameName>
-        <frameName>Kimimaro_Skill04_13.png</frameName>
-        <frameName>Kimimaro_Skill04_02.png</frameName>
-        <frameName>Kimimaro_Skill04_002.png</frameName>
-        <frameName>Kimimaro_Skill04_001.png</frameName>
-        <frameName>Kimimaro_Skill04_01.png</frameName>
-        <eventName type="setTransform">40</eventName>
-     </frame>
-   </action>
-       <action value="skill05">
+    <action value="skill04">
         <date>
-            <dateName type="attackType">aAttack</dateName>
-            <dateName type="attackValue">72200</dateName>
-            <dateName type="attackRangeX">0</dateName>
-            <dateName type="attackRangeY">48</dateName>
+            <dateName type="attackType">cAttack</dateName>
+            <dateName type="attackValue">200</dateName>
+            <dateName type="attackRangeX">12</dateName>
+            <dateName type="attackRangeY">50</dateName>
             <coldName type="coldDown">1</coldName>
         </date>
         <frame>
-          <eventName type="setSound">Audio/Effect/ougis.mp3</eventName>
-          <frameName>Kimimaro_Skill05_001.png</frameName>
-          <eventName type="setCommand">setInvincible</eventName>
-          <eventName type="setOugis">10</eventName>
-          <frameName>Kimimaro_Skill05_002.png</frameName>
-          <frameName>Kimimaro_Skill05_01.png</frameName>
-          <frameName>Kimimaro_Skill05_02.png</frameName>
-          <frameName>Kimimaro_Skill05_03.png</frameName>
-          <eventName type="setSound">Audio/Kimimaro/Kimimaro_skill5.mp3</eventName>
-          <frameName>Kimimaro_Skill05_04.png</frameName>
-          <frameName>Kimimaro_Skill05_05.png</frameName>
-          <frameName>Kimimaro_Skill05_06.png</frameName>
-          <eventName type="setAttackBox">c_hit</eventName>
-          <frameName>Kimimaro_Skill05_07.png</frameName>
-          <eventName type="setAttackBox">c_hit</eventName>
-          <frameName>Kimimaro_Skill05_08.png</frameName>
-          <eventName type="setAttackBox">c_hit</eventName>
-          <frameName>Kimimaro_Skill05_09.png</frameName>
-          <eventName type="setAttackBox">c_hit</eventName>
-          <frameName>Kimimaro_Skill05_04.png</frameName>
-          <frameName>Kimimaro_Skill05_03.png</frameName>
-          <frameName>Kimimaro_Skill05_02.png</frameName>
-          <frameName>Kimimaro_Skill05_01.png</frameName>
-          <frameName>Kimimaro_Skill05_10.png</frameName>
-          <frameName>Jugo_Skill05_15.png</frameName>
-          <frameName>Jugo_Skill05_16.png</frameName>
-          <frameName>Jugo_Skill05_17.png</frameName>
-            <eventName type="setSound">Audio/Jugo/Jugo_skill11.mp3</eventName>
-          <eventName type="setDelay">20</eventName>   
-          <frameName>Jugo_Skill05_14.png</frameName>
-          <eventName type="setTransform">40</eventName>
-          <eventName type="setCommand">reInvincible</eventName>
+            <eventName type="setCommand">setInvincible</eventName>
+            <frameName>Dash02_01.png</frameName>
+            <frameName>Dash02_02.png</frameName>
+            <frameName>Dash02_03.png</frameName>
+            <frameName>Dash02_04.png</frameName>
+            <frameName>Slash06_01.png</frameName>
+            <frameName>Slash06_02.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/skill53.mp3</eventName>
+            <frameName>Slash06_03.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul1.mp3</eventName>
+            <frameName>Slash06_04.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/RayQamaitazhiSlash.mp3</eventName>
+            <eventName type="setSound">Audio/Kimimaro/muncul3.mp3</eventName>
+            <eventName type="setAttackBox">f_hit</eventName>
+            <frameName>Slash06_05.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash06_06.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash06_07.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash06_08.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash06_09.png</frameName>
+            <eventName type="setAttackBox">f_hit</eventName>
+            <frameName>Slash06_10.png</frameName>
+            <frameName>Dash02_05.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul2.mp3</eventName>
+            <frameName>Dash02_06.png</frameName>
+            <frameName>Dash02_07.png</frameName>
+            <frameName>Dash02_08.png</frameName>
+            <frameName>Dash02_09.png</frameName>
+            <eventName type="setCommand">findTarget</eventName>
+            <eventName type="setCommand">setTransport</eventName>
+            <frameName>Dash02_10.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul2.mp3</eventName>
+            <frameName>Dash02_11.png</frameName>
+            <frameName>Dash02_12.png</frameName>
+            <frameName>Dash02_13.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul3.mp3</eventName>
+            <eventName type="setAttackBox">f_hit</eventName>
+            <frameName>Dash02_14.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Dash02_15.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Dash02_16.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Dash02_17.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Dash02_18.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Dash02_19.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Dash02_20.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Dash02_21.png</frameName>
+            <frameName>Dash02_23.png</frameName>
+            <frameName>Suiton_01.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/skill5.mp3</eventName>
+            <frameName>Suiton_02.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiton_03.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul1.mp3</eventName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiton_04.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiton_05.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul2.mp3</eventName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiton_06.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiton_07.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiton_08.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul2.mp3</eventName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiton_09.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiton_10.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiton_11.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiton_12.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiton_13.png</frameName>
+            <frameName>Dash_01.png</frameName>
+            <frameName>Dash_02.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul2.mp3</eventName>
+            <frameName>Dash_03.png</frameName>
+            <frameName>Dash_04.png</frameName>
+            <frameName>Dash_05.png</frameName>
+            <frameName>Dash_06.png</frameName>
+            <eventName type="setCommand">findTarget</eventName>
+            <eventName type="setCommand">setTransport</eventName>
+            <frameName>Dash_07.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul2.mp3</eventName>
+            <frameName>Dash_08.png</frameName>
+            <frameName>Dash_09.png</frameName>
+            <frameName>Dash_10.png</frameName>
+            <frameName>Dash_11.png</frameName>
+            <frameName>Suiton_01.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/skill53.mp3</eventName>
+            <frameName>Suiton_02.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiton_03.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul1.mp3</eventName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiton_04.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiton_05.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul2.mp3</eventName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiton_06.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiton_07.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiton_08.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul2.mp3</eventName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiton_09.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiton_10.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiton_11.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiton_12.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiton_13.png</frameName>
+            <frameName>Suiton_01.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/skill52.mp3</eventName>
+            <frameName>Suiton_02.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>Suiton_03.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul1.mp3</eventName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>Suiton_04.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>Suiton_05.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul2.mp3</eventName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>Suiton_06.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>Suiton_07.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>Suiton_08.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul2.mp3</eventName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>Suiton_09.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>Suiton_10.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>Suiton_11.png</frameName>
+            <eventName type="setAttackBox">f_hit</eventName>
+            <frameName>Suiton_12.png</frameName>
+            <eventName type="setAttackBox">l_hit</eventName>
+            <frameName>Suiton_13.png</frameName>
+            <eventName type="setCommand">reInvincible</eventName>
+             <eventName type="setTransform">40</eventName>
         </frame>
     </action>
-   
-   
+
+    <action value="skill05">
+
+        <date>
+            <dateName type="attackType">aAttack</dateName>
+            <dateName type="attackValue">90</dateName>
+            <dateName type="attackRangeX">24</dateName>
+            <dateName type="attackRangeY">88</dateName>
+            <coldName type="coldDown">1</coldName>
+        </date>
+        <frame>
+            <eventName type="setCommand">setInvincible</eventName>
+            <frameName>Slash01_01.png</frameName>
+            <frameName>Slash01_02.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/skill53.mp3</eventName>
+            <frameName>Slash01_03.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/RayQamaitazhiSlash.mp3</eventName>
+
+            <eventName type="setAttackBox">b_hit</eventName>
+            <frameName>Slash01_04.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash01_05.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash01_06.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash01_07.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash01_08.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash01_09.png</frameName>
+            <frameName>Slash03_01.png</frameName>
+            <frameName>Slash03_02.png</frameName>
+            <frameName>Slash03_03.png</frameName>
+            <frameName>Slash03_04.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/skill5.mp3</eventName>
+            <frameName>Slash03_05.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/RayQamaitazhiSlash.mp3</eventName>
+            <eventName type="setAttackBox">b_hit</eventName>
+            <frameName>Slash03_06.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash03_07.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash03_08.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash03_09.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash03_10.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash03_11.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash03_12.png</frameName>
+            <frameName>Slash04_01.png</frameName>
+            <frameName>Slash04_02.png</frameName>
+            <frameName>Slash04_03.png</frameName>
+            <frameName>Slash04_04.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/skill53.mp3</eventName>
+            <frameName>Slash04_05.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/RayQamaitazhiSlash.mp3</eventName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash04_06.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash04_07.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash04_08.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash04_09.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash04_10.png</frameName>
+            <frameName>Slash02_01.png</frameName>
+            <frameName>Slash02_02.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/skill5.mp3</eventName>
+            <frameName>Slash02_03.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/RayQamaitazhiSlash.mp3</eventName>
+            <eventName type="setAttackBox">f_hit</eventName>
+            <frameName>Slash02_04.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash02_05.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash02_06.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash02_07.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash02_08.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash02_09.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash02_10.png</frameName>
+            <frameName>Slash05_01.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/skill5.mp3</eventName>
+            <frameName>Slash05_02.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul1.mp3</eventName>
+            <frameName>Slash05_03.png</frameName>
+            <frameName>Slash05_04.png</frameName>
+            <eventName type="setAttackBox">f_hit</eventName>
+            <eventName type="setSound">Audio/Kimimaro/RayQamaitazhiSlash.mp3</eventName>
+            <eventName type="setSound">Audio/Kimimaro/muncul3.mp3</eventName>
+            <frameName>Slash05_05.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash05_06.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash05_07.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash05_08.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash05_09.png</frameName>
+            <frameName>Slash05_10.png</frameName>
+            <frameName>Dash02_01.png</frameName>
+            <frameName>Dash02_02.png</frameName>
+            <frameName>Dash02_03.png</frameName>
+            <frameName>Dash02_04.png</frameName>
+            <frameName>Slash06_01.png</frameName>
+            <frameName>Slash06_02.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/skill52.mp3</eventName>
+            <frameName>Slash06_03.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul1.mp3</eventName>
+            <frameName>Slash06_04.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/RayQamaitazhiSlash.mp3</eventName>
+            <eventName type="setSound">Audio/Kimimaro/muncul3.mp3</eventName>
+            <eventName type="setAttackBox">f_hit</eventName>
+            <frameName>Slash06_05.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash06_06.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash06_07.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash06_08.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Slash06_09.png</frameName>
+            <eventName type="setAttackBox">f_hit</eventName>
+            <frameName>Slash06_10.png</frameName>
+            <frameName>Dash02_05.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul2.mp3</eventName>
+            <frameName>Dash02_06.png</frameName>
+            <frameName>Dash02_07.png</frameName>
+            <frameName>Dash02_08.png</frameName>
+            <frameName>Dash02_09.png</frameName>
+            <eventName type="setCommand">findTarget</eventName>
+            <eventName type="setCommand">setTransport</eventName>
+            <frameName>Dash02_10.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul2.mp3</eventName>
+            <frameName>Dash02_11.png</frameName>
+            <frameName>Dash02_12.png</frameName>
+            <frameName>Dash02_13.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul3.mp3</eventName>
+            <eventName type="setAttackBox">f_hit</eventName>
+            <frameName>Dash02_14.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Dash02_15.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Dash02_16.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Dash02_17.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Dash02_18.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Dash02_19.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Dash02_20.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Dash02_21.png</frameName>
+            <frameName>Dash02_23.png</frameName>
+            <eventName type="setOugis">50</eventName>
+            <frameName>Suiryu_01.png</frameName>
+            <frameName>Suiryudan_01.png</frameName>
+            <frameName>Suiryudan_02.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_03.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_04.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <eventName type="setSound">Audio/Kimimaro/muncul2.mp3</eventName>
+            <frameName>Suiryudan_05.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_06.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_07.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul2.mp3</eventName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_08.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_09.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_10.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul2.mp3</eventName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_11.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_12.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_13.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_14.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <eventName type="setSound">Audio/Kimimaro/muncul2.mp3</eventName>
+            <frameName>Suiryudan_15.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_16.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_17.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_18.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul2.mp3</eventName>
+            <eventName type="setAttackBox">f_hit</eventName>
+            <frameName>Suiryudan_19.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_20.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_21.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_22.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/muncul2.mp3</eventName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_23.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_24.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_25.png</frameName>
+            <eventName type="setSound">Audio/Kimimaro/skill52.mp3</eventName>
+            <eventName type="setAttackBox">f_hit</eventName>
+            <eventName type="setSound">Audio/Kimimaro/muncul3.mp3</eventName>
+            <frameName>Suiryudan_26.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_27.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_28.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_29.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_30.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_31.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_32.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_33.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <frameName>Suiryudan_34.png</frameName>
+            <eventName type="setAttackBox">ac_hit</eventName>
+            <eventName type="setCommand">reInvincible</eventName>
+            <eventName type="setTransform">40</eventName>
+        </frame>
+
+    </action>
+
+    <action value="skill06">
+        <frame>
+        </frame>
+    </action>
+    <action value="skill07">
+        <frame>
+        </frame>
+    </action>
+    <action value="skill08">
+        <frame>
+        </frame>
+    </action>
+    <action value="skill09">
+        <frame>
+        </frame>
+    </action>
+    <action value="skill10">
+        <date>
+            <dateName type="attackType">idle</dateName>
+            <dateName type="attackValue">0</dateName>
+            <dateName type="attackRangeX">0</dateName>
+            <dateName type="attackRangeY">0</dateName>
+            <coldName type="coldDown">0</coldName>
+        </date>
+        <frame>
+
+        </frame>
+    </action>
+    <action value="skill11">
+        <date>
+            <dateName type="attackType">walk</dateName>
+            <dateName type="attackValue">0</dateName>
+            <dateName type="attackRangeX">0</dateName>
+            <dateName type="attackRangeY">0</dateName>
+            <coldName type="coldDown">0</coldName>
+        </date>
+        <frame>
+
+        </frame>
+    </action>
+    <action value="skill12">
+        <date>
+            <dateName type="attackType">aAttack</dateName>
+            <dateName type="attackValue">0</dateName>
+            <dateName type="attackRangeX">0</dateName>
+            <dateName type="attackRangeY">32</dateName>
+            <coldName type="coldDown">0</coldName>
+        </date>
+        <frame>
+
+        </frame>
+    </action>
+
 </animation>

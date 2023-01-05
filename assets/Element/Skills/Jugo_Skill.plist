@@ -4,147 +4,1397 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>BoneBullet_Move_01.png</key>
+            <key>Suiryudan_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{109,49},{13,13}}</string>
+                <string>{{0,0},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{600,0},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1200,0},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1800,0},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2400,0},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3000,0},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Punch_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3600,0},{351,160}}</string>
+                <key>offset</key>
+                <string>{17.5,-26}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{351,160}}</string>
+                <key>sourceSize</key>
+                <string>{351,160}</string>
+            </dict>
+            <key>Punch_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3600,160},{351,160}}</string>
+                <key>offset</key>
+                <string>{17.5,-26}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{351,160}}</string>
+                <key>sourceSize</key>
+                <string>{351,160}</string>
+            </dict>
+            <key>Suiryudan_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,280},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{600,280},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_09.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1200,280},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_10.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1800,280},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_11.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2400,280},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_12.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3000,280},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Punch_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3600,320},{351,160}}</string>
+                <key>offset</key>
+                <string>{17.5,-26}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{351,160}}</string>
+                <key>sourceSize</key>
+                <string>{351,160}</string>
+            </dict>
+            <key>Punch_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3600,480},{351,160}}</string>
+                <key>offset</key>
+                <string>{17.5,-26}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{351,160}}</string>
+                <key>sourceSize</key>
+                <string>{351,160}</string>
+            </dict>
+            <key>Water_Ball_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,640},{477,441}}</string>
+                <key>offset</key>
+                <string>{121.5,-168}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{477,441}}</string>
+                <key>sourceSize</key>
+                <string>{477,441}</string>
+            </dict>
+            <key>Water_Ball_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,1081},{477,441}}</string>
+                <key>offset</key>
+                <string>{121.5,-168}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{477,441}}</string>
+                <key>sourceSize</key>
+                <string>{477,441}</string>
+            </dict>
+            <key>Water_Ball_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,1522},{477,441}}</string>
+                <key>offset</key>
+                <string>{121.5,-168}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{477,441}}</string>
+                <key>sourceSize</key>
+                <string>{477,441}</string>
+            </dict>
+            <key>Water_Ball_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,1963},{477,441}}</string>
+                <key>offset</key>
+                <string>{121.5,-168}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{477,441}}</string>
+                <key>sourceSize</key>
+                <string>{477,441}</string>
+            </dict>
+            <key>Water_Ball_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,2404},{477,441}}</string>
+                <key>offset</key>
+                <string>{121.5,-168}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{477,441}}</string>
+                <key>sourceSize</key>
+                <string>{477,441}</string>
+            </dict>
+            <key>Water_Ball_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,2845},{477,441}}</string>
+                <key>offset</key>
+                <string>{121.5,-168}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{477,441}}</string>
+                <key>sourceSize</key>
+                <string>{477,441}</string>
+            </dict>
+            <key>Water_Ball_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,3286},{477,441}}</string>
+                <key>offset</key>
+                <string>{121.5,-168}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{477,441}}</string>
+                <key>sourceSize</key>
+                <string>{477,441}</string>
+            </dict>
+            <key>suiton_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{0,3727},{421,170}}</string>
+                <key>offset</key>
+                <string>{165.5,-38}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{421,170}}</string>
+                <key>sourceSize</key>
+                <string>{421,170}</string>
+            </dict>
+            <key>suiton_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{421,3727},{421,170}}</string>
+                <key>offset</key>
+                <string>{165.5,-38}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{421,170}}</string>
+                <key>sourceSize</key>
+                <string>{421,170}</string>
+            </dict>
+            <key>Suiryudan_13.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{842,560},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Punch_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{477,560},{351,160}}</string>
+                <key>offset</key>
+                <string>{17.5,-26}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{351,160}}</string>
+                <key>sourceSize</key>
+                <string>{351,160}</string>
+            </dict>
+            <key>Punch_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{477,720},{351,160}}</string>
+                <key>offset</key>
+                <string>{17.5,-26}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{351,160}}</string>
+                <key>sourceSize</key>
+                <string>{351,160}</string>
+            </dict>
+            <key>Suiryudan_14.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1442,560},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_15.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2042,560},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_16.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2642,560},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Punch_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3242,560},{351,160}}</string>
+                <key>offset</key>
+                <string>{17.5,-26}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{351,160}}</string>
+                <key>sourceSize</key>
+                <string>{351,160}</string>
+            </dict>
+            <key>Punch_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3593,640},{351,160}}</string>
+                <key>offset</key>
+                <string>{17.5,-26}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{351,160}}</string>
+                <key>sourceSize</key>
+                <string>{351,160}</string>
+            </dict>
+            <key>Punch_09.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3242,720},{351,160}}</string>
+                <key>offset</key>
+                <string>{17.5,-26}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{351,160}}</string>
+                <key>sourceSize</key>
+                <string>{351,160}</string>
+            </dict>
+            <key>Punch_10.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3593,840},{351,160}}</string>
+                <key>offset</key>
+                <string>{17.5,-26}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{351,160}}</string>
+                <key>sourceSize</key>
+                <string>{351,160}</string>
+            </dict>
+            <key>Suiryudan_17.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{842,840},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Punch_11.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{477,880},{351,160}}</string>
+                <key>offset</key>
+                <string>{17.5,-26}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{351,160}}</string>
+                <key>sourceSize</key>
+                <string>{351,160}</string>
+            </dict>
+            <key>Punch_12.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{477,1040},{351,160}}</string>
+                <key>offset</key>
+                <string>{17.5,-26}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{351,160}}</string>
+                <key>sourceSize</key>
+                <string>{351,160}</string>
+            </dict>
+            <key>Suiryudan_18.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1442,840},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_19.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2042,840},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_20.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2642,840},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_21.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3242,1000},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_22.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{842,1120},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_23.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1442,1120},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_24.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2042,1120},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_25.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2642,1120},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_26.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3242,1280},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Water_Ball_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{477,1560},{477,441}}</string>
+                <key>offset</key>
+                <string>{121.5,-168}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{477,441}}</string>
+                <key>sourceSize</key>
+                <string>{477,441}</string>
+            </dict>
+            <key>Water_Ball_09.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{477,2001},{477,441}}</string>
+                <key>offset</key>
+                <string>{121.5,-168}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{477,441}}</string>
+                <key>sourceSize</key>
+                <string>{477,441}</string>
+            </dict>
+            <key>Water_Ball_10.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{477,2442},{477,441}}</string>
+                <key>offset</key>
+                <string>{121.5,-168}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{477,441}}</string>
+                <key>sourceSize</key>
+                <string>{477,441}</string>
+            </dict>
+            <key>Water_Ball_11.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{477,2883},{477,441}}</string>
+                <key>offset</key>
+                <string>{121.5,-168}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{477,441}}</string>
+                <key>sourceSize</key>
+                <string>{477,441}</string>
+            </dict>
+            <key>Logo.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{477,3324},{580,403}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <false />
                 <key>sourceColorRect</key>
-                <string>{{0,0},{13,13}}</string>
+                <string>{{0,0},{580,403}}</string>
                 <key>sourceSize</key>
-                <string>{13,13}</string>
+                <string>{580,403}</string>
             </dict>
-            <key>BoneBullet_Move_02.png</key>
+            <key>suiton_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{109,34},{14,13}}</string>
+                <string>{{842,3727},{421,170}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
+                <string>{165.5,-38}</string>
                 <key>rotated</key>
-                <false/>
+                <false />
                 <key>sourceColorRect</key>
-                <string>{{0,0},{14,13}}</string>
+                <string>{{0,0},{421,170}}</string>
                 <key>sourceSize</key>
-                <string>{14,13}</string>
+                <string>{421,170}</string>
             </dict>
-            <key>BoneBullet_Move_03.png</key>
+            <key>Water_Ball_12.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{78,34},{16,29}}</string>
+                <string>{{1263,3324},{477,441}}</string>
+                <key>offset</key>
+                <string>{121.5,-168}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{477,441}}</string>
+                <key>sourceSize</key>
+                <string>{477,441}</string>
+            </dict>
+            <key>suiton_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1263,3765},{421,170}}</string>
+                <key>offset</key>
+                <string>{165.5,-38}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{421,170}}</string>
+                <key>sourceSize</key>
+                <string>{421,170}</string>
+            </dict>
+            <key>suiton_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1684,3765},{421,170}}</string>
+                <key>offset</key>
+                <string>{165.5,-38}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{421,170}}</string>
+                <key>sourceSize</key>
+                <string>{421,170}</string>
+            </dict>
+            <key>suiton_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2105,3765},{421,170}}</string>
+                <key>offset</key>
+                <string>{165.5,-38}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{421,170}}</string>
+                <key>sourceSize</key>
+                <string>{421,170}</string>
+            </dict>
+            <key>Suiryudan_27.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2526,1400},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_28.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2526,1680},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_29.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1740,1680},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_30.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{954,1400},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_31.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1554,1400},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_32.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{954,1680},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_33.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3126,1560},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_34.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3126,1840},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Suiryudan_35.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2526,1960},{600,280}}</string>
+                <key>offset</key>
+                <string>{76,-45}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{600,280}}</string>
+                <key>sourceSize</key>
+                <string>{600,280}</string>
+            </dict>
+            <key>Water_Ball_13.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1740,1960},{477,441}}</string>
+                <key>offset</key>
+                <string>{121.5,-168}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{477,441}}</string>
+                <key>sourceSize</key>
+                <string>{477,441}</string>
+            </dict>
+            <key>Water_Ball_14.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{954,1960},{477,441}}</string>
+                <key>offset</key>
+                <string>{121.5,-168}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{477,441}}</string>
+                <key>sourceSize</key>
+                <string>{477,441}</string>
+            </dict>
+            <key>Water_Ball_15.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1740,2401},{477,441}}</string>
+                <key>offset</key>
+                <string>{121.5,-168}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{477,441}}</string>
+                <key>sourceSize</key>
+                <string>{477,441}</string>
+            </dict>
+            <key>Water_Ball_16.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{954,2842},{477,441}}</string>
+                <key>offset</key>
+                <string>{121.5,-168}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{477,441}}</string>
+                <key>sourceSize</key>
+                <string>{477,441}</string>
+            </dict>
+            <key>Water_Ball_17.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{954,2401},{477,441}}</string>
+                <key>offset</key>
+                <string>{121.5,-168}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{477,441}}</string>
+                <key>sourceSize</key>
+                <string>{477,441}</string>
+            </dict>
+            <key>Water_Ball_18.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1431,2842},{477,441}}</string>
+                <key>offset</key>
+                <string>{121.5,-168}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{477,441}}</string>
+                <key>sourceSize</key>
+                <string>{477,441}</string>
+            </dict>
+            <key>Water_Ball_19.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1740,3283},{477,441}}</string>
+                <key>offset</key>
+                <string>{121.5,-168}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{477,441}}</string>
+                <key>sourceSize</key>
+                <string>{477,441}</string>
+            </dict>
+            <key>Slash02_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1908,2842},{458,342}}</string>
+                <key>offset</key>
+                <string>{-47,-112}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{458,342}}</string>
+                <key>sourceSize</key>
+                <string>{458,342}</string>
+            </dict>
+            <key>Slash02_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2217,3184},{458,342}}</string>
+                <key>offset</key>
+                <string>{-47,-112}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{458,342}}</string>
+                <key>sourceSize</key>
+                <string>{458,342}</string>
+            </dict>
+            <key>suiton_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2366,3526},{421,170}}</string>
+                <key>offset</key>
+                <string>{165.5,-38}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{421,170}}</string>
+                <key>sourceSize</key>
+                <string>{421,170}</string>
+            </dict>
+            <key>suiton_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2526,3696},{421,170}}</string>
+                <key>offset</key>
+                <string>{165.5,-38}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{421,170}}</string>
+                <key>sourceSize</key>
+                <string>{421,170}</string>
+            </dict>
+            <key>Slash02_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2217,2240},{458,342}}</string>
+                <key>offset</key>
+                <string>{-47,-112}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{458,342}}</string>
+                <key>sourceSize</key>
+                <string>{458,342}</string>
+            </dict>
+            <key>suiton_09.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2217,2582},{421,170}}</string>
+                <key>offset</key>
+                <string>{165.5,-38}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{421,170}}</string>
+                <key>sourceSize</key>
+                <string>{421,170}</string>
+            </dict>
+            <key>Slash02_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2366,2752},{458,342}}</string>
+                <key>offset</key>
+                <string>{-47,-112}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{458,342}}</string>
+                <key>sourceSize</key>
+                <string>{458,342}</string>
+            </dict>
+            <key>suiton_10.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2638,2582},{421,170}}</string>
+                <key>offset</key>
+                <string>{165.5,-38}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{421,170}}</string>
+                <key>sourceSize</key>
+                <string>{421,170}</string>
+            </dict>
+            <key>suiton_11.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3059,2582},{421,170}}</string>
+                <key>offset</key>
+                <string>{165.5,-38}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{421,170}}</string>
+                <key>sourceSize</key>
+                <string>{421,170}</string>
+            </dict>
+            <key>suiton_12.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3480,2582},{421,170}}</string>
+                <key>offset</key>
+                <string>{165.5,-38}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{421,170}}</string>
+                <key>sourceSize</key>
+                <string>{421,170}</string>
+            </dict>
+            <key>Slash02_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2675,2240},{458,342}}</string>
+                <key>offset</key>
+                <string>{-47,-112}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{458,342}}</string>
+                <key>sourceSize</key>
+                <string>{458,342}</string>
+            </dict>
+            <key>Slash02_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2675,3094},{458,342}}</string>
+                <key>offset</key>
+                <string>{-47,-112}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{458,342}}</string>
+                <key>sourceSize</key>
+                <string>{458,342}</string>
+            </dict>
+            <key>Slash02_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2824,2752},{458,342}}</string>
+                <key>offset</key>
+                <string>{-47,-112}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{458,342}}</string>
+                <key>sourceSize</key>
+                <string>{458,342}</string>
+            </dict>
+            <key>Slash02_08.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3133,2120},{458,342}}</string>
+                <key>offset</key>
+                <string>{-47,-112}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{458,342}}</string>
+                <key>sourceSize</key>
+                <string>{458,342}</string>
+            </dict>
+            <key>Slash02_09.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2947,3436},{458,342}}</string>
+                <key>offset</key>
+                <string>{-47,-112}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{458,342}}</string>
+                <key>sourceSize</key>
+                <string>{458,342}</string>
+            </dict>
+            <key>Slash02_10.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{3133,3094},{458,342}}</string>
+                <key>offset</key>
+                <string>{-47,-112}</string>
+                <key>rotated</key>
+                <false />
+                <key>sourceColorRect</key>
+                <string>{{0,0},{458,342}}</string>
+                <key>sourceSize</key>
+                <string>{458,342}</string>
+            </dict>
+            <key>Kubi_Move_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{4002,154},{60,29}}</string>
+                <key>offset</key>
+                <string>{0,-1}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,2},{60,29}}</string>
+                <key>sourceSize</key>
+                <string>{60,31}</string>
+            </dict>
+            <key>Kubi_Move_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{4217,32},{58,31}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{16,29}}</string>
+                <string>{{0,0},{58,31}}</string>
                 <key>sourceSize</key>
-                <string>{16,29}</string>
+                <string>{58,31}</string>
             </dict>
-            <key>BoneBullet_Move_04.png</key>
+            <key>Kubi_Move_03.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,88},{17,35}}</string>
+                <string>{{4002,216},{52,31}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{17,35}}</string>
+                <string>{{0,0},{52,31}}</string>
                 <key>sourceSize</key>
-                <string>{17,35}</string>
+                <string>{52,31}</string>
             </dict>
-            <key>BoneBullet_Move_05.png</key>
+            <key>Kubi_Move_04.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{58,34},{18,41}}</string>
+                <string>{{4091,150},{44,31}}</string>
                 <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{18,41}}</string>
-                <key>sourceSize</key>
-                <string>{18,41}</string>
-            </dict>
-            <key>BoneBullet_Move_06.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{38,34},{18,41}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{18,41}}</string>
-                <key>sourceSize</key>
-                <string>{18,41}</string>
-            </dict>
-            <key>Bone_Move_01.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,2},{60,30}}</string>
-                <key>offset</key>
-                <string>{0,11}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{60,30}}</string>
-                <key>sourceSize</key>
-                <string>{60,52}</string>
-            </dict>
-            <key>Bone_Move_02.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{64,2},{58,30}}</string>
-                <key>offset</key>
-                <string>{0,11}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{1,0},{58,30}}</string>
-                <key>sourceSize</key>
-                <string>{60,52}</string>
-            </dict>
-            <key>Bone_Move_03.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,34},{52,34}}</string>
-                <key>offset</key>
-                <string>{2,11}</string>
+                <string>{1,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
-                <string>{{6,0},{52,34}}</string>
+                <string>{{2,0},{44,31}}</string>
                 <key>sourceSize</key>
-                <string>{60,56}</string>
+                <string>{46,31}</string>
             </dict>
-            <key>Bone_Move_04.png</key>
+            <key>WaterBom_Move_01.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{21,88},{44,32}}</string>
+                <string>{{4056,214},{40,40}}</string>
                 <key>offset</key>
-                <string>{0,10}</string>
+                <string>{0,1}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{8,2},{44,32}}</string>
+                <string>{{0,10},{40,40}}</string>
                 <key>sourceSize</key>
-                <string>{60,56}</string>
+                <string>{40,62}</string>
+            </dict>
+            <key>WaterBom_Move_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{4147,2},{68,58}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,2},{68,58}}</string>
+                <key>sourceSize</key>
+                <string>{68,62}</string>
+            </dict>
+            <key>WaterBom_Move_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{4002,2},{71,58}}</string>
+                <key>offset</key>
+                <string>{0,-2}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,4},{71,58}}</string>
+                <key>sourceSize</key>
+                <string>{71,62}</string>
+            </dict>
+            <key>WaterBom_Move_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{4075,2},{70,58}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,2},{70,58}}</string>
+                <key>sourceSize</key>
+                <string>{70,62}</string>
+            </dict>
+            <key>WaterBom_Move_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{4002,92},{60,58}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,2},{60,58}}</string>
+                <key>sourceSize</key>
+                <string>{60,62}</string>
+            </dict>
+            <key>WaterBom_Move_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{4062,92},{56,54}}</string>
+                <key>offset</key>
+                <string>{0,1}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{1,3},{56,54}}</string>
+                <key>sourceSize</key>
+                <string>{58,62}</string>
+            </dict>
+            <key>WaterBom_Move_07.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{4033,154},{58,56}}</string>
+                <key>offset</key>
+                <string>{1,3}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{2,0},{58,56}}</string>
+                <key>sourceSize</key>
+                <string>{60,62}</string>
+            </dict>
+            <key>WaterBullet_Move_01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{4250,42},{7,4}}</string>
+                <key>offset</key>
+                <string>{0,3}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,11},{7,4}}</string>
+                <key>sourceSize</key>
+                <string>{7,32}</string>
+            </dict>
+            <key>WaterBullet_Move_02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{4250,32},{8,4}}</string>
+                <key>offset</key>
+                <string>{0,3}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,11},{8,4}}</string>
+                <key>sourceSize</key>
+                <string>{8,32}</string>
+            </dict>
+            <key>WaterBullet_Move_03.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{4015,62},{10,20}}</string>
+                <key>offset</key>
+                <string>{0,3}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,3},{10,20}}</string>
+                <key>sourceSize</key>
+                <string>{10,32}</string>
+            </dict>
+            <key>WaterBullet_Move_04.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{4002,62},{11,26}}</string>
+                <key>offset</key>
+                <string>{0,3}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{11,26}}</string>
+                <key>sourceSize</key>
+                <string>{11,32}</string>
+            </dict>
+            <key>WaterBullet_Move_05.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{4217,17},{13,32}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{13,32}}</string>
+                <key>sourceSize</key>
+                <string>{13,32}</string>
+            </dict>
+            <key>WaterBullet_Move_06.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{4217,2},{13,32}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{13,32}}</string>
+                <key>sourceSize</key>
+                <string>{13,32}</string>
             </dict>
         </dict>
         <key>metadata</key>
         <dict>
             <key>format</key>
             <integer>2</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false />
             <key>realTextureFileName</key>
             <string>Jugo_Skill.png</string>
             <key>size</key>
-            <string>{128,128}</string>
-            <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:7b6704257bdb79e743fc3e8e7f4e429c$</string>
+            <string>{4256,4000}</string>
             <key>textureFileName</key>
             <string>Jugo_Skill.png</string>
         </dict>

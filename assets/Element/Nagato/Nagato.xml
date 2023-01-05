@@ -58,10 +58,11 @@
             <eventName type="setMove">32</eventName>
             <frameName>Nagato_Hurt_01.png</frameName>
             <eventName type="setCommand">setCounter</eventName>
-
+            <eventName type="setCommand">setCounter</eventName>
+            <eventName type="setCommand">setCounter</eventName>
+            <eventName type="setCommand">setCounter</eventName>
             <eventName type="setCommand">setCounter</eventName>
             <frameName>Nagato_Hurt_02.png</frameName>
-
         </frame>
     </action>
 
@@ -79,6 +80,7 @@
         <frame>
             <frameName>Nagato_KnockDown_01.png</frameName>
             <eventName type="setDelay">10</eventName>
+            <eventName type="setMon">AnimalPathDiyuDog</eventName>
             <frameName>Nagato_KnockDown_02.png</frameName>
             <eventName type="setDelay">160</eventName>
             <frameName>Nagato_KnockDown_03.png</frameName>
@@ -92,7 +94,6 @@
     <action value="Float">
         <frame>
             <frameName>Nagato_Float_01.png</frameName>
-            <eventName type="setMon">AnimalPathDiyuDog</eventName>
             <eventName type="setDelay">10</eventName>
             <frameName>Nagato_Float_02.png</frameName>
             <eventName type="setDelay">10</eventName>
@@ -375,6 +376,10 @@
             <frameName>Nagato_Skill03_02.png</frameName>
             <eventName type="setCommand">setCounter</eventName>
             <eventName type="setCommand">setCounter</eventName>
+            <eventName type="setCommand">setCounter</eventName>
+            <eventName type="setCommand">setCounter</eventName>
+            <eventName type="setCommand">setCounter</eventName>
+            <eventName type="setCommand">setCounter</eventName>
             <eventName type="setCommand">addHP</eventName>
             <frameName>Nagato_Skill03_03.png</frameName>
 
@@ -391,7 +396,7 @@
             <dateName type="attackValue">1880</dateName>
             <dateName type="attackRangeX">300</dateName>
             <dateName type="attackRangeY">32</dateName>
-            <coldName type="coldDown">15</coldName>
+            <coldName type="coldDown">25</coldName>
         </date>
         <frame>
             <eventName type="setCommand">setInvincible</eventName>
@@ -436,7 +441,7 @@
             <dateName type="attackValue">0</dateName>
             <dateName type="attackRangeX">0</dateName>
             <dateName type="attackRangeY">0</dateName>
-            <coldName type="coldDown">12</coldName>
+            <coldName type="coldDown">25</coldName>
         </date>
         <frame>
             <frameName>Nagato_Skill01_01.png</frameName>
@@ -447,6 +452,10 @@
             <eventName type="setMon">Yominuma</eventName>
             <frameName>Nagato_Skill01_05.png</frameName>
             <frameName>Nagato_Skill01_06.png</frameName>
+            <eventName type="setCommand">setCounter</eventName>
+            <eventName type="setCommand">setCounter</eventName>
+            <eventName type="setCommand">setCounter</eventName>
+            <eventName type="setCommand">setCounter</eventName>
             <eventName type="setCommand">setCounter</eventName>
             <eventName type="setCommand">setCounter</eventName>
             <eventName type="setCommand">addHP</eventName>

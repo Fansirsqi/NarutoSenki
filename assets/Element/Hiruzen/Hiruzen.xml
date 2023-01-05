@@ -93,11 +93,10 @@
     <action value="skill01">
         <date>
             <dateName type="attackType">cAttack</dateName>
-            <dateName type="attackValue">700</dateName>
+            <dateName type="attackValue">200</dateName>
             <dateName type="attackRangeX">32</dateName>
             <dateName type="attackRangeY">32</dateName>
             <coldName type="coldDown">10</coldName>
-            <dateName type="combatPoint">500</dateName>
         </date>
         <frame>
             <frameName>Hiru_Skill01_001.png</frameName>
@@ -169,7 +168,6 @@
             <dateName type="attackRangeX">32</dateName>
             <dateName type="attackRangeY">40</dateName>
             <coldName type="coldDown">15</coldName>
-            <dateName type="combatPoint">100</dateName>
         </date>
         <frame>
             <eventName type="setCommand">setInvincible</eventName>
@@ -213,7 +211,6 @@
             <dateName type="attackRangeX">32</dateName>
             <dateName type="attackRangeY">40</dateName>
             <coldName type="coldDown">25</coldName>
-            <dateName type="combatPoint">1000</dateName>
         </date>
         <frame>
             <eventName type="setCommand">setInvincible</eventName>
