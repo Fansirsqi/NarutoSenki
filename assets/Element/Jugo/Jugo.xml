@@ -142,7 +142,7 @@
             <eventName type="setChargeB">140</eventName>
             <frameName>Jugo_Skill01_04.png</frameName>
             <eventName type="setAttackBox">b_hit</eventName>
-            <eventName type="setTransform">40</eventName>
+            <!-- <eventName type="setTransform">40</eventName> -->
         </frame>
     </action>
     <action value="skill02">
@@ -198,7 +198,7 @@
             <frameName>Jugo_Skill02_09.png</frameName>
             <frameName>Jugo_Skill02_10.png</frameName>
             <eventName type="setCommand">reInvincible</eventName>
-            <eventName type="setTransform">40</eventName>
+            <!-- <eventName type="setTransform">40</eventName> -->
         </frame>
     </action>
     <action value="skill03">
@@ -229,7 +229,7 @@
             <eventName type="setFont">dokong.png</eventName>
             <eventName type="setBullet">WaterBom</eventName>
             <eventName type="setDelay">0</eventName>
-            <eventName type="setTransform">40</eventName>
+            <!-- <eventName type="setTransform">40</eventName> -->
         </frame>
     </action>
     <action value="skill04">
@@ -463,7 +463,7 @@
             <frameName>Jugo_Skill05_59.png</frameName>
             <eventName type="setCommand">setCounter</eventName>
             <frameName>Jugo_Skill05_60.png</frameName>
-            <eventName type="setTransform">40</eventName>
+            <!-- <eventName type="setTransform">40</eventName> -->
         </frame>
     </action>
     <action value="skill06">

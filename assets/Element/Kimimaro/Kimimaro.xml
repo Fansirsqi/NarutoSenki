@@ -214,7 +214,7 @@
             <frameName>Tusukan_15.png</frameName>
             <eventName type="setAttackBox">l_hit</eventName>
             <frameName>Tusukan_16.png</frameName>
-             <eventName type="setTransform">40</eventName>
+             <!-- <eventName type="setTransform">40</eventName> -->
         </frame>
     </action>
 
@@ -350,8 +350,7 @@
             <eventName type="setAttackBox">ac_hit</eventName>
             <frameName>Water_Ball_02.png</frameName>
             <frameName>Water_Ball_01.png</frameName>
-             <eventName type="setTransform">40</eventName>
-
+             <!-- <eventName type="setTransform">40</eventName> -->
         </frame>
     </action>
 
@@ -520,7 +519,7 @@
             <eventName type="setAttackBox">l_hit</eventName>
             <frameName>Suiton_13.png</frameName>
             <eventName type="setCommand">reInvincible</eventName>
-             <eventName type="setTransform">40</eventName>
+             <!-- <eventName type="setTransform">40</eventName> -->
         </frame>
     </action>
 
@@ -762,7 +761,7 @@
             <frameName>Suiryudan_34.png</frameName>
             <eventName type="setAttackBox">ac_hit</eventName>
             <eventName type="setCommand">reInvincible</eventName>
-            <eventName type="setTransform">40</eventName>
+            <!-- <eventName type="setTransform">40</eventName> -->
         </frame>
 
     </action>
